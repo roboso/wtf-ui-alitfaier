@@ -1,0 +1,22 @@
+
+Prat3HighCPUPerCharDB = {
+	["time"] = 1418412655,
+	["scrollback"] = {
+		["ChatFrame1"] = {
+			{
+				"|cff979797[20:30:55]|r|c00000000|r |Hchannel:channel:1|h[1] |h Cambio di canale: |Hchannel:1|h[1. Generale - Gilneas]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				69, -- [5]
+			}, -- [1]
+			{
+				"|cff979797[20:30:55]|r|c00000000|r |Hchannel:channel:3|h[3] |h Cambio di canale: |Hchannel:3|h[3. DifesaLocale - Gilneas]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				71, -- [5]
+			}, -- [2]
+		},
+	},
+}

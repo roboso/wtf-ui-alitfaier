@@ -1,0 +1,33 @@
+
+MBFDB = {
+	["profileKeys"] = {
+		["Alitfaier - Hakkar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["columns_or_rows"] = 1,
+			["MBF_FrameLocation"] = {
+				nil, -- [1]
+				"RIGHT", -- [2]
+				-452.6491724357572, -- [3]
+				326.8374634324882, -- [4]
+			},
+			["GrowUp"] = true,
+			["customChildren"] = {
+				"MinimapButtonFrameDragButton", -- [1]
+				"MiniMapMailFrameDisabled", -- [2]
+				"Arh_ArchaeologyDigSites_Minimap", -- [3]
+				"LibDBIcon10_LoggerHead", -- [4]
+				"LibFuBarPlugin-3.0_MinimapButtonFrame_B2F_FrameMinimapButton", -- [5]
+				"LibDBIcon10_MBF", -- [6]
+				"MiniMapMailFrame", -- [7]
+				"GameTimeFrame", -- [8]
+				"MiniMapWorldMapButton", -- [9]
+				"MiniMapTracking", -- [10]
+				"MinimapZoomIn", -- [11]
+				"MinimapZoomOut", -- [12]
+			},
+			["disabledMail"] = false,
+		},
+	},
+}

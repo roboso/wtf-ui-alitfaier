@@ -1,0 +1,13 @@
+
+kgPanelsDB = {
+	["profileKeys"] = {
+		["Alitfaier - Hakkar"] = "Default",
+	},
+	["global"] = {
+		["version"] = 2,
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

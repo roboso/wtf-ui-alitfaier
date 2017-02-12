@@ -1,0 +1,11 @@
+
+Cartographer_QuestObjectivesDB = {
+	["factions"] = {
+		["Alliance"] = {
+			["quest_db_version"] = 1,
+			["notes"] = {
+				["version"] = 3,
+			},
+		},
+	},
+}

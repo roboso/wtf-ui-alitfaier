@@ -1,0 +1,12 @@
+
+Omen3DB = {
+	["profileKeys"] = {
+		["Alitfaier - Hakkar"] = "Alitfaier - Hakkar",
+	},
+	["profiles"] = {
+		["Alitfaier - Hakkar"] = {
+			["PositionY"] = 458.9999702721839,
+			["PositionX"] = 399.5000016763806,
+		},
+	},
+}

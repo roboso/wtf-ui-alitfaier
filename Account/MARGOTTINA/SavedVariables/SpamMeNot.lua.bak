@@ -1,0 +1,10 @@
+
+SpamMeNotDB = {
+	["profileKeys"] = {
+		["Alitfaier - Hakkar"] = "profile",
+	},
+	["profiles"] = {
+		["profile"] = {
+		},
+	},
+}

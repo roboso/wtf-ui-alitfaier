@@ -1,0 +1,224 @@
+
+ChocolateBarDB = {
+	["profileKeys"] = {
+		["Àzzurrà - Nemesis"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["objSettings"] = {
+				["ArkInventory_Tracking_Item"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 1,
+				},
+				["Guild"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 24,
+				},
+				["Calendar"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 25,
+				},
+				["ArkInventory_Tracking_Currency"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 23,
+				},
+				["Armory"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 20,
+				},
+				["Currency"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 21,
+				},
+				["Volume"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 22,
+				},
+				["BeanCounter"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+					["index"] = 1,
+				},
+				["WeakAuras"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 27,
+				},
+				["ArkInventory_Pets"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 31,
+				},
+				["Swatter"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+					["index"] = 10,
+				},
+				["ArkInventory_Money"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 28,
+				},
+				["GatherMate2"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+					["index"] = 11,
+				},
+				["Equipment"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 33,
+				},
+				["Broker_Control"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 34,
+				},
+				["Nameplates"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 32,
+				},
+				["Tracking"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 29,
+				},
+				["Latency"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 30,
+				},
+				["Skada"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 19,
+				},
+				["Dualspec"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 26,
+				},
+				["MoreChocolate"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+					["index"] = 8,
+				},
+				["ArkInventory_Mounts"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 18,
+				},
+				["WIM"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 8,
+				},
+				["VuhDo"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+					["index"] = 9,
+				},
+				["SocialState"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 6,
+				},
+				["Informant"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+					["index"] = 7,
+				},
+				["Prat"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+					["index"] = 3,
+				},
+				["Speed"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 7,
+				},
+				["Friends"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 5,
+				},
+				["XP"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 2,
+				},
+				["DBM-LDB"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+					["index"] = 2,
+				},
+				["Stuff"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 3,
+				},
+				["Decursive"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+					["index"] = 4,
+				},
+				["AskMrRobot"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+					["index"] = 5,
+				},
+				["Clock"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 4,
+				},
+				["Memory"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 9,
+				},
+				["FPS"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 13,
+				},
+				["GPS"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 10,
+				},
+				["Gold"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 15,
+				},
+				["Bags"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 16,
+				},
+				["Gatherer"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+					["index"] = 6,
+				},
+				["Durability"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 14,
+				},
+				["ArkInventory_Bags"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 11,
+				},
+				["Broker_Auditor"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 12,
+				},
+				["Broker_GroupHelper"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 17,
+				},
+				["Mail"] = {
+					["barName"] = "ChocolateBar1",
+					["index"] = 35,
+				},
+				["Dominos"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+					["index"] = 12,
+				},
+			},
+		},
+	},
+}

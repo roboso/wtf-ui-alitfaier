@@ -1,0 +1,104 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["time"] = 1469365101,
+	["scrollback"] = {
+		["ChatFrame1"] = {
+			{
+				"|cff979797[14:57:40]|r|c00000000|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Janbertone:148:GUILD|h|cffd88b6599|r:|cffffffffJanbertone|r|h|cffd8d8d8]|r: il colore di guerra o il pgmento?", -- [1]
+				0.250980406999588, -- [2]
+				1, -- [3]
+				0.250980406999588, -- [4]
+				5, -- [5]
+			}, -- [1]
+			{
+				"|cff979797[14:57:42]|r|c00000000|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Draemorto:149:GUILD|h|cffd84e4e100|r:|cffc41e3aDraemorto|r|h|cffd8d8d8]|r: asp che te lo linko", -- [1]
+				0.250980406999588, -- [2]
+				1, -- [3]
+				0.250980406999588, -- [4]
+				5, -- [5]
+			}, -- [2]
+			{
+				"|cff979797[14:57:45]|r|c00000000|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Draemorto-Pozzodell'Eternità:150:GUILD|h|cffd84e4e100|r:|cffc41e3aDraemorto|r|h|cffd8d8d8]|r: nessuno dei due", -- [1]
+				0.250980406999588, -- [2]
+				1, -- [3]
+				0.250980406999588, -- [4]
+				5, -- [5]
+			}, -- [3]
+			{
+				"|cff979797[14:57:54]|r|c00000000|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Janbertone-Pozzodell'Eternità:151:GUILD|h|cffd88b6599|r:|cffffffffJanbertone|r|h|cffd8d8d8]|r:  |cffffffff|Hitem:113111::::::::99:256::::::|h[Inchiostro del Vincolaguerra]|h|r", -- [1]
+				0.250980406999588, -- [2]
+				1, -- [3]
+				0.250980406999588, -- [4]
+				5, -- [5]
+			}, -- [4]
+			{
+				"|cff979797[14:58:04]|r|c00000000|r |Hchannel:channel:1|h[1] |h Cambio di canale: |Hchannel:1|h[1. Generale - Guarnigione]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [5]
+			{
+				"|cff979797[14:58:04]|r|c00000000|r |Hchannel:channel:3|h[3] |h Cambio di canale: |Hchannel:3|h[3. DifesaLocale - Guarnigione]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				69, -- [5]
+			}, -- [6]
+			{
+				"|cff979797[14:58:04]|r|c00000000|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Draemorto-Pozzodell'Eternità:154:GUILD|h|cffd84e4e100|r:|cffc41e3aDraemorto|r|h|cffd8d8d8]|r: si 4 di questo", -- [1]
+				0.250980406999588, -- [2]
+				1, -- [3]
+				0.250980406999588, -- [4]
+				5, -- [5]
+			}, -- [7]
+			{
+				"|cff979797[14:58:19]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Arshan-Pozzodell'Eternità:155:CHANNEL:2|h|cfff48cbaArshan|r|h|cffd8d8d8]|r: chissà quanti saranno questi \"alcuni giorni\"", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+			}, -- [8]
+			{
+				"|cff979797[14:58:21]|r|c00000000|r |Hchannel:channel:1|h[1] |h Uscita dal canale: |Hchannel:1|h[1. Generale - Guarnigione]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [9]
+			{
+				"|cff979797[14:58:21]|r|c00000000|r |Hchannel:channel:2|h[2] |h Uscita dal canale: |Hchannel:2|h[2. Commercio - Città]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+			}, -- [10]
+		},
+	},
+}

@@ -1,0 +1,4 @@
+VER 3 010000000000003E "ZGVMacro2" "0"
+/target Maestro Shang Xi
+/run ZGV:MRM()
+END

@@ -1,0 +1,21 @@
+
+QuestHelper2_Collection_SavedData = {
+	[0] = {
+		["6.2.0"] = {
+			["achievements"] = {
+			},
+			["quest_order"] = {
+				[88428422] = "",
+			},
+			["realms"] = {
+				"Nemesis", -- [1]
+			},
+			["quests"] = {
+			},
+			["buildings"] = {
+			},
+		},
+	},
+}
+QuestHelper2_Collection_LicenseAccepted = "GPL3"
+QuestHelper2_Collection_UID = "eab7749d06f03c62"

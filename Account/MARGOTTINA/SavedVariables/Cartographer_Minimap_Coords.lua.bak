@@ -1,0 +1,2 @@
+
+Cartographer_MiniMapCoordsDB = nil

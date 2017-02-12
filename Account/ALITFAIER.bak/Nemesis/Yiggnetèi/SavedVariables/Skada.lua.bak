@@ -1,0 +1,316 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 19,
+		["interrupts"] = 0,
+		["damage"] = 72,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "MAGE",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["damage"] = 72,
+				["damagespells"] = {
+					["Attacco"] = {
+						["min"] = 8,
+						["hit"] = 3,
+						["totalhits"] = 3,
+						["id"] = 6603,
+						["max"] = 10,
+						["damage"] = 27,
+					},
+					["Palla di Fuocogelo"] = {
+						["min"] = 22,
+						["max"] = 23,
+						["hit"] = 2,
+						["totalhits"] = 3,
+						["id"] = 44614,
+						["MISS"] = 1,
+						["damage"] = 45,
+					},
+				},
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "0x0500000006E57A69",
+				["healing"] = 0,
+				["ccbreaks"] = 0,
+				["damagetakenspells"] = {
+				},
+				["maxhp"] = 103,
+				["deathlog"] = {
+				},
+				["name"] = "Yiggnetèi",
+				["power"] = {
+				},
+				["auras"] = {
+					["Palla di Fuocogelo"] = {
+						["name"] = "Palla di Fuocogelo",
+						["active"] = 0,
+						["id"] = 44614,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 8,
+					},
+				},
+				["damagetaken"] = 0,
+				["time"] = 13,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["damagetaken"] = 0,
+		["shielding"] = 0,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["starttime"] = 1411572393,
+		["mobtaken"] = 72,
+		["name"] = "Totale",
+		["mobs"] = {
+			["Jujumangabu-Ravencrest"] = {
+				["players"] = {
+				},
+				["hdone"] = 4,
+				["htakenspell"] = {
+					["Rapida Mano della Giustizia"] = {
+						["min"] = 4,
+						["crits"] = 0,
+						["max"] = 4,
+						["healing"] = 4,
+						["overhealing"] = 1,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 4,
+				["hdonespell"] = {
+					["Rapida Mano della Giustizia"] = {
+						["min"] = 4,
+						["crits"] = 0,
+						["max"] = 4,
+						["healing"] = 4,
+						["overhealing"] = 1,
+						["hits"] = 1,
+					},
+				},
+			},
+			["Kratholm-Ravencrest"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Rapida Mano della Giustizia"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 18,
+						["hits"] = 2,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Rapida Mano della Giustizia"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 18,
+						["hits"] = 2,
+					},
+				},
+			},
+			["Gnomo Contaminato Frenetico"] = {
+				["players"] = {
+					["Yiggnetèi"] = {
+						["taken"] = 72,
+						["done"] = 0,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 72,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["overhealing"] = 0,
+		["mobhdone"] = 4,
+		["last_action"] = 1411572393,
+		["mobdone"] = 0,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 19,
+			["interrupts"] = 0,
+			["damage"] = 72,
+			["players"] = {
+				{
+					["last"] = 1411572410,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Gnomo Contaminato Frenetico"] = 72,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 72,
+					["damagespells"] = {
+						["Attacco"] = {
+							["min"] = 8,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 6603,
+							["max"] = 10,
+							["damage"] = 27,
+						},
+						["Palla di Fuocogelo"] = {
+							["min"] = 22,
+							["max"] = 23,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["id"] = 44614,
+							["MISS"] = 1,
+							["damage"] = 45,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006E57A69",
+					["healing"] = 0,
+					["damagetakenspells"] = {
+					},
+					["ccbreaks"] = 0,
+					["maxhp"] = 103,
+					["name"] = "Yiggnetèi",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 8,
+						},
+					},
+					["damagetaken"] = 0,
+					["first"] = 1411572397,
+					["time"] = 13,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["endtime"] = 1411572412,
+			["healing"] = 0,
+			["mobs"] = {
+				["Jujumangabu-Ravencrest"] = {
+					["players"] = {
+					},
+					["hdone"] = 4,
+					["htakenspell"] = {
+						["Rapida Mano della Giustizia"] = {
+							["min"] = 4,
+							["crits"] = 0,
+							["max"] = 4,
+							["healing"] = 4,
+							["overhealing"] = 1,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 4,
+					["hdonespell"] = {
+						["Rapida Mano della Giustizia"] = {
+							["min"] = 4,
+							["crits"] = 0,
+							["max"] = 4,
+							["healing"] = 4,
+							["overhealing"] = 1,
+							["hits"] = 1,
+						},
+					},
+				},
+				["Kratholm-Ravencrest"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Rapida Mano della Giustizia"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 18,
+							["hits"] = 2,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Rapida Mano della Giustizia"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 18,
+							["hits"] = 2,
+						},
+					},
+				},
+				["Gnomo Contaminato Frenetico"] = {
+					["players"] = {
+						["Yiggnetèi"] = {
+							["taken"] = 72,
+							["done"] = 0,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 72,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1411572393,
+			["mobtaken"] = 72,
+			["name"] = "Gnomo Contaminato Frenetico",
+			["mobname"] = "Gnomo Contaminato Frenetico",
+			["overhealing"] = 0,
+			["mobhdone"] = 4,
+			["last_action"] = 1411572393,
+			["mobdone"] = 0,
+		}, -- [1]
+	},
+}

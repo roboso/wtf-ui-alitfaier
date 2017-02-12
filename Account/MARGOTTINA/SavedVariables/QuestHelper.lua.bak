@@ -1,0 +1,854 @@
+
+QuestHelper_Version = "0.85"
+QuestHelper_SaveVersion = 10
+QuestHelper_Locale = "enUS"
+QuestHelper_Quests = {
+	["0.85 on 3.0.8"] = {
+		{
+			[77] = {
+				["Just Following Orders"] = {
+					["hash"] = 3367509209,
+					["id"] = 12540,
+				},
+			},
+			[72] = {
+				["Strengthen the Ancients"] = {
+					["hash"] = 863250082,
+					["id"] = 12092,
+				},
+			},
+			[74] = {
+				["The Obsidian Dragonshrine"] = {
+					["hash"] = 3949999546,
+					["id"] = 12447,
+				},
+				["That Which Creates Can Also Destroy"] = {
+					["hash"] = 1696152048,
+					["id"] = 12459,
+				},
+			},
+			[76] = {
+				["Funky Fungi"] = {
+					["hash"] = 3819778037,
+					["id"] = 13204,
+				},
+			},
+			[80] = {
+				["Leave Our Mark"] = {
+					["hash"] = 2100704244,
+					["id"] = 12995,
+				},
+				["Raise the Barricades"] = {
+					["hash"] = 2665621553,
+					["id"] = 13332,
+				},
+				["No Mercy!"] = {
+					["hash"] = 3676775213,
+					["id"] = 13233,
+				},
+				["The Keeper's Favor"] = {
+					["hash"] = 463943721,
+					["id"] = 13073,
+				},
+				["Neutralizing the Plague"] = {
+					["hash"] = 2247707032,
+					["id"] = 13297,
+				},
+				["Cannot Reproduce"] = {
+					["hash"] = 3749526521,
+					["id"] = 13320,
+				},
+				["Timear Foresees Ymirjar Berserkers in your Future!"] = {
+					["hash"] = 423827398,
+					["id"] = 13241,
+				},
+				["No Mercy for the Merciless"] = {
+					["hash"] = 1713379524,
+					["id"] = 13179,
+				},
+				["Vile Like Fire!"] = {
+					["hash"] = 3850848676,
+					["id"] = 13071,
+				},
+				["Veranus"] = {
+					["hash"] = 2856397286,
+					["id"] = 13050,
+				},
+				["The Aberrations Must Die"] = {
+					["hash"] = 3153217114,
+					["id"] = 13425,
+				},
+				["No Rest For The Wicked"] = {
+					["hash"] = 3582009459,
+					["id"] = 13346,
+				},
+				["Infused Mushroom Meatloaf"] = {
+					["hash"] = 3759882718,
+					["id"] = 13100,
+				},
+				["Shoot 'Em Up"] = {
+					["hash"] = 3712168045,
+					["id"] = 13069,
+				},
+			},
+			[79] = {
+				["Maintaining Discipline"] = {
+					["hash"] = 1637756324,
+					["id"] = 13422,
+				},
+			},
+		}, -- [1]
+	},
+}
+QuestHelper_Objectives = {
+	["0.85 on 3.0.8"] = {
+		["monster"] = {
+			["Galendror Whitewing"] = {
+			},
+			["Sarendryana"] = {
+			},
+			["Gryth Thurden"] = {
+			},
+			["Serinar"] = {
+			},
+			["Bibilfaz Featherwhistle"] = {
+			},
+			["Savage Cave Beast"] = {
+			},
+			["Gretta the Arbiter"] = {
+			},
+			["Blue Sample Collected"] = {
+				["quest"] = true,
+			},
+			["Dyslix Silvergrub"] = {
+			},
+			["Bilko Driftspark"] = {
+			},
+			["Weakened Reanimated Frost Wyrm"] = {
+				["quest"] = true,
+			},
+			["Skizzle Slickslide"] = {
+			},
+			["Nutral"] = {
+			},
+			["Kara Thricestar"] = {
+			},
+			["Felicia Maline"] = {
+			},
+			["Faldorf Bitterchill"] = {
+			},
+			["Vesprystus"] = {
+			},
+			["Ymirjar Berserker"] = {
+				["quest"] = true,
+			},
+			["Vrykul buildings set ablaze"] = {
+				["quest"] = true,
+			},
+			["Alexandra Constantine"] = {
+			},
+			["Cloud Skydancer"] = {
+			},
+			["Rip Pedalslam"] = {
+			},
+			["Vana Grey"] = {
+			},
+			["Mishellena"] = {
+			},
+			["Green Sample Collected"] = {
+				["quest"] = true,
+			},
+			["Grimwing"] = {
+			},
+			["The Spirit of Gnomeregan"] = {
+			},
+			["Baritanas Skyriver"] = {
+			},
+			["Gurric"] = {
+			},
+			["Kilix the Unraveler"] = {
+			},
+			["Plague Cauldron Neutralized"] = {
+				["quest"] = true,
+			},
+			["Marvin Wobblesprocket"] = {
+			},
+			["Thassarian"] = {
+			},
+			["Ariena Stormfeather"] = {
+			},
+			["The Leaper"] = {
+			},
+			["Tomas Riverwell"] = {
+			},
+			["Furgu"] = {
+			},
+			["Runetog Wildhammer"] = {
+			},
+			["Bera Stonehammer"] = {
+			},
+			["Suralais Farwind"] = {
+			},
+			["Lord Itharius"] = {
+			},
+			["Rodney Wells"] = {
+			},
+			["Halvdan"] = {
+			},
+			["Keeper Remulos"] = {
+			},
+			["Baron Sliver"] = {
+			},
+			["Furnan Skysoar"] = {
+			},
+			["Silva Fil'naveth"] = {
+			},
+			["Greer Orehammer"] = {
+			},
+			["James Ormsby"] = {
+			},
+			["Teloren"] = {
+			},
+			["Maaka"] = {
+			},
+			["Weakened Turgid the Vile"] = {
+				["quest"] = true,
+			},
+			["Maethrya"] = {
+			},
+			["Archmage Timear"] = {
+			},
+			["Bragok"] = {
+			},
+			["Halu"] = {
+			},
+			["Dreadwind"] = {
+			},
+			["Kip Trawlskip"] = {
+			},
+			["Thorim"] = {
+			},
+			["Ebon Blade Banner planted near vrykul corpse"] = {
+				["quest"] = true,
+			},
+			["Kiz Coilspanner"] = {
+			},
+			["Rafae"] = {
+			},
+			["Lanie Reed"] = {
+			},
+			["Morlia Doomwing"] = {
+			},
+			["Caylais Moonfeather"] = {
+			},
+			["Flightmaster Krill Bitterhue"] = {
+			},
+			["Gyll"] = {
+			},
+			["Penumbrius"] = {
+			},
+			["Stephanos"] = {
+			},
+			["Breck Rockbrow"] = {
+			},
+			["Derek Rammel"] = {
+			},
+			["Cedrik Prose"] = {
+			},
+			["Kuma"] = {
+			},
+			["Lothalor Ancient strengthened"] = {
+				["quest"] = true,
+			},
+			["Arzo Safeflight"] = {
+			},
+			["Fhyn Leafshadow"] = {
+			},
+			["Locate Injured Rainspeaker Oracle"] = {
+				["quest"] = true,
+			},
+			["Gorrim"] = {
+			},
+			["Alieshor"] = {
+			},
+			["Horde Players"] = {
+				["quest"] = true,
+			},
+			["Shavalius the Fancy"] = {
+			},
+			["Injured Rainspeaker Oracle"] = {
+			},
+			["Commander Zanneth"] = {
+			},
+			["Amerun Leafshade"] = {
+			},
+			["Nizzle"] = {
+			},
+			["Fyldren Moonfeather"] = {
+			},
+			["Laando"] = {
+			},
+			["Sindrayl"] = {
+			},
+			["Warmage Adami"] = {
+			},
+			["Jarrodenus"] = {
+			},
+			["Darla Harris"] = {
+			},
+			["Surristrasz"] = {
+			},
+			["Ohura"] = {
+			},
+			["Khaelyn Steelwing"] = {
+			},
+			["Samuel Clearbook"] = {
+			},
+			["Maddix"] = {
+			},
+			["Baneflight"] = {
+			},
+			["Brubeck Stormfoot"] = {
+			},
+			["Thorgrum Borrelson"] = {
+			},
+			["Chief Engineer Boltwrench"] = {
+			},
+			["Gryfe"] = {
+			},
+			["Dark Sample Collected"] = {
+				["quest"] = true,
+			},
+			["Alumeth the Ascended Defeated"] = {
+				["quest"] = true,
+			},
+			["Thyssiana"] = {
+			},
+			["Harpax"] = {
+			},
+			["Weakened Overseer Deathgaze"] = {
+				["quest"] = true,
+			},
+			["Exhausted Vrykul Disciplined"] = {
+				["quest"] = true,
+			},
+			["Borgus Stoutarm"] = {
+			},
+			["Baldruc"] = {
+			},
+			["Munci"] = {
+			},
+			["Krexcil"] = {
+			},
+			["Orton Bennet"] = {
+			},
+			["Dungar Longdrink"] = {
+			},
+			["Barricades constructed"] = {
+				["quest"] = true,
+			},
+			["Aludane Whitecloud"] = {
+			},
+			["Daelyshia"] = {
+			},
+			["Aedan Moran"] = {
+			},
+			["Amish Wildhammer"] = {
+			},
+			["Thor"] = {
+			},
+			["Danica Saint"] = {
+			},
+			["Guthrum Thunderfist"] = {
+			},
+			["Palena Silvercloud"] = {
+			},
+			["Cid Flounderfix"] = {
+			},
+			["Jotunheim Proto-Drakes & their riders shot down"] = {
+				["quest"] = true,
+			},
+			["Nethestrasz"] = {
+			},
+			["Grennik"] = {
+			},
+			["Pricilla Winterwind"] = {
+			},
+			["Shellei Brondir"] = {
+			},
+		},
+		["player"] = {
+			["11"] = {
+				["quest"] = true,
+			},
+		},
+		["item"] = {
+			["Disciplining Rod"] = {
+				["id"] = 42837,
+			},
+			["Partitioned Flask"] = {
+				["id"] = 44251,
+			},
+			["Augmented Arcane Prison"] = {
+				["id"] = 35671,
+			},
+			["Salted Venison"] = {
+				["id"] = 33454,
+			},
+			["Crystallized Fire"] = {
+				["id"] = 37702,
+			},
+			["Dream Shard"] = {
+				["id"] = 34052,
+			},
+			["Acid-Drenched Fangs"] = {
+				["id"] = 44759,
+			},
+			["Crystallized Life"] = {
+				["id"] = 37704,
+			},
+			["Khorium Ore"] = {
+				["id"] = 23426,
+			},
+			["Eternal Shadow"] = {
+				["id"] = 35627,
+			},
+			["Infinite Dust"] = {
+				["id"] = 34054,
+			},
+			["Potion of Speed"] = {
+				["id"] = 40211,
+			},
+			["Grotesque Fungus"] = {
+				["quest"] = true,
+			},
+			["Cobalt Bar"] = {
+				["id"] = 36916,
+			},
+			["Fillet of Icefin"] = {
+				["id"] = 33451,
+			},
+			["Iceweb Spider Silk"] = {
+				["id"] = 42253,
+			},
+			["Scroll of Agility VII"] = {
+				["id"] = 43463,
+			},
+			["Mote of Earth"] = {
+				["id"] = 22573,
+			},
+			["Runic Healing Potion"] = {
+				["id"] = 33447,
+			},
+			["Saronite Bar"] = {
+				["id"] = 36913,
+			},
+			["Simple Wood"] = {
+				["id"] = 4470,
+			},
+			["Titanium Bar"] = {
+				["id"] = 41163,
+			},
+			["Scroll of Protection VII"] = {
+				["id"] = 43467,
+			},
+			["Bright Baubles"] = {
+				["id"] = 6532,
+			},
+			["Crystallized Shadow"] = {
+				["id"] = 37703,
+			},
+			["Crystallized Water"] = {
+				["id"] = 37705,
+			},
+			["Titanium Ore"] = {
+				["id"] = 36910,
+			},
+			["Infused Mushroom Meatloaf"] = {
+				["quest"] = true,
+			},
+			["Small Proto-Dragon Egg"] = {
+				["id"] = 42784,
+				["quest"] = true,
+			},
+			["Mighty Rage Potion"] = {
+				["id"] = 13442,
+			},
+			["Seeds of Nature's Wrath"] = {
+				["id"] = 37887,
+			},
+			["Succulent Clam Meat"] = {
+				["id"] = 36782,
+			},
+			["Eternium Ore"] = {
+				["id"] = 23427,
+			},
+			["Frozen Bracers"] = {
+				["id"] = 33382,
+			},
+			["Orb of the Sin'dorei"] = {
+				["id"] = 35275,
+			},
+			["Baked Manta Ray"] = {
+				["id"] = 42942,
+			},
+			["Icy Spinneret"] = {
+				["id"] = 44758,
+			},
+			["Greater Cosmic Essence"] = {
+				["id"] = 34055,
+			},
+			["Grilled Sculpin"] = {
+				["id"] = 34762,
+			},
+			["Mammoth Cutters"] = {
+				["id"] = 41164,
+			},
+			["Seth's Graphite Fishing Pole"] = {
+				["id"] = 25978,
+			},
+			["Heavy Frostweave Bandage"] = {
+				["id"] = 34722,
+			},
+			["Frost-Worn Plate Bracers"] = {
+				["id"] = 33414,
+			},
+			["Frostweave Cloth"] = {
+				["id"] = 33470,
+			},
+			["Coin of Ancestry"] = {
+				["id"] = 21100,
+			},
+			["Musselback Sculpin"] = {
+				["id"] = 41806,
+			},
+			["Indestructible Potion"] = {
+				["id"] = 40093,
+			},
+			["Eternal Earth"] = {
+				["id"] = 35624,
+			},
+			["Northern Spices"] = {
+				["id"] = 43007,
+			},
+			["Eternal Air"] = {
+				["id"] = 35623,
+			},
+			["Crystallized Air"] = {
+				["id"] = 37700,
+			},
+			["Darnarian's Scroll of Teleportation"] = {
+				["id"] = 35230,
+			},
+			["Scroll of Intellect VII"] = {
+				["id"] = 37091,
+			},
+			["Winterfin Clam"] = {
+				["id"] = 34597,
+			},
+			["Eternal Water"] = {
+				["id"] = 35622,
+			},
+			["Crystallized Earth"] = {
+				["id"] = 37701,
+			},
+		},
+		["object"] = {
+			["Plagued Proto-Drake Egg"] = {
+				["quest"] = true,
+			},
+		},
+	},
+}
+QuestHelper_FlightInstructors = {
+	["0.85 on 3.0.8"] = {
+	},
+}
+QuestHelper_FlightRoutes = {
+	["0.85 on 3.0.8"] = {
+	},
+}
+QuestHelper_Pref = {
+	["track_minimized"] = true,
+}
+QuestHelper_UID = "kEZnV3zG16CEkw6nw946r4Gn2S2RPg6Q"
+QuestHelper_SaveDate = 1233094972
+QuestHelper_SeenRealms = {
+	["Hakkar"] = true,
+}
+QuestHelper_Errors = {
+	["crashes"] = {
+	},
+}
+QuestHelper_Collector = {
+	["0.85 on 3.0.8/enUS/1"] = {
+		["monster"] = {
+			[26281] = {
+				"\000[és\000", -- [1]
+				["reaction_2"] = 1,
+				["name_Moonrest Stalker"] = 1,
+			},
+			[26477] = {
+				"\000[és\000ÿ", -- [1]
+				["reaction_5"] = 1,
+				["name_Dead Mage Hunter"] = 1,
+			},
+			[32572] = {
+				"\000[és\000ÿ", -- [1]
+				["reaction_2"] = 1,
+				["name_Dragonblight Mage Hunter"] = 1,
+			},
+		},
+		["flight_times"] = {
+		},
+		["fishing"] = {
+		},
+		["flight_master"] = {
+		},
+		["worldloot"] = {
+		},
+		["object"] = {
+		},
+		["realms"] = {
+			["Hakkar"] = 1,
+		},
+		["item"] = {
+		},
+		["traveled"] = {
+			["working"] = {
+				"MY", -- [1]
+				["prefix"] = "\000[és\000\000",
+			},
+		},
+		["quest"] = {
+			[13233] = {
+				["groupcount"] = 0,
+				["daily"] = true,
+				["name"] = "No Mercy!",
+				["criteria_1_text"] = "Players slain: 11/15",
+				["level"] = 80,
+				["criteria_1_type"] = "player",
+				["tag"] = "PvP",
+			},
+			[13241] = {
+				["groupcount"] = 0,
+				["daily"] = true,
+				["items_choice"] = {
+					[44713] = 1,
+					[43950] = 1,
+					[44711] = 1,
+					[44710] = 1,
+				},
+				["criteria_1_text"] = "Ymirjar Berserker slain: 0/7",
+				["criteria_1_type"] = "monster",
+				["level"] = 80,
+				["name"] = "Timear Foresees Ymirjar Berserkers in your Future!",
+				["tag"] = "Dungeon",
+			},
+			[13071] = {
+				["groupcount"] = 0,
+				["daily"] = true,
+				["name"] = "Vile Like Fire!",
+				["criteria_1_text"] = "Vrykul buildings set ablaze: 0/8",
+				["level"] = 80,
+				["criteria_1_type"] = "monster",
+			},
+			[12459] = {
+				["groupcount"] = 0,
+				["criteria_2_text"] = "Weakened Turgid the Vile slain: 0/1",
+				["items_choice"] = {
+					[38088] = 1,
+					[37983] = 1,
+					[37940] = 1,
+					[38027] = 1,
+				},
+				["criteria_1_text"] = "Weakened Reanimated Frost Wyrm slain: 0/1",
+				["criteria_3_text"] = "Weakened Overseer Deathgaze slain: 0/1",
+				["daily"] = false,
+				["name"] = "That Which Creates Can Also Destroy",
+				["criteria_3_type"] = "monster",
+				["criteria_1_type"] = "monster",
+				["level"] = 74,
+				["criteria_2_type"] = "monster",
+			},
+			[13320] = {
+				["groupcount"] = 0,
+				["criteria_2_text"] = "Green Sample Collected: 0/1",
+				["criteria_1_text"] = "Blue Sample Collected: 0/1",
+				["criteria_3_text"] = "Dark Sample Collected: 0/1",
+				["daily"] = false,
+				["name"] = "Cannot Reproduce",
+				["criteria_3_type"] = "monster",
+				["level"] = 80,
+				["criteria_1_type"] = "monster",
+				["criteria_2_type"] = "monster",
+			},
+			[13204] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "Funky Fungi",
+				["criteria_1_text"] = "Grotesque Fungus: 0/6",
+				["level"] = 76,
+				["criteria_1_type"] = "item",
+				["tag"] = "Dungeon",
+			},
+			[12995] = {
+				["groupcount"] = 0,
+				["daily"] = true,
+				["name"] = "Leave Our Mark",
+				["criteria_1_text"] = "Ebon Blade Banner planted near vrykul corpse: 0/15",
+				["level"] = 80,
+				["criteria_1_type"] = "monster",
+			},
+			[13073] = {
+				["groupcount"] = 0,
+				["level"] = 80,
+				["name"] = "The Keeper's Favor",
+				["daily"] = false,
+			},
+			[13422] = {
+				["groupcount"] = 0,
+				["items_reward"] = {
+					[44751] = 1,
+				},
+				["name"] = "Maintaining Discipline",
+				["criteria_1_text"] = "Exhausted Vrykul Disciplined: 0/6",
+				["daily"] = true,
+				["level"] = 79,
+				["criteria_1_type"] = "monster",
+			},
+			[12447] = {
+				["groupcount"] = 0,
+				["level"] = 74,
+				["name"] = "The Obsidian Dragonshrine",
+				["daily"] = false,
+			},
+			[13179] = {
+				["groupcount"] = 0,
+				["items_reward"] = {
+					[43228] = 3,
+				},
+				["name"] = "No Mercy for the Merciless",
+				["criteria_1_text"] = "Horde Players slain: 5/20",
+				["daily"] = true,
+				["level"] = 80,
+				["criteria_1_type"] = "monster",
+				["tag"] = "PvP",
+			},
+			[13050] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "Veranus",
+				["criteria_1_text"] = "Small Proto-Dragon Egg: 5/5",
+				["level"] = 80,
+				["criteria_1_type"] = "item",
+			},
+			[13425] = {
+				["groupcount"] = 0,
+				["items_reward"] = {
+					[44751] = 1,
+				},
+				["name"] = "The Aberrations Must Die",
+				["criteria_1_text"] = "Plagued Proto-Drake Egg: 0/30",
+				["daily"] = true,
+				["level"] = 80,
+				["criteria_1_type"] = "object",
+			},
+			[13332] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "Raise the Barricades",
+				["criteria_1_text"] = "Barricades constructed: 0/8",
+				["level"] = 80,
+				["criteria_1_type"] = "monster",
+			},
+			[12540] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["name"] = "Just Following Orders",
+				["criteria_1_text"] = "Locate Injured Rainspeaker Oracle: 0/1",
+				["level"] = 77,
+				["criteria_1_type"] = "monster",
+			},
+			[13069] = {
+				["groupcount"] = 0,
+				["daily"] = true,
+				["name"] = "Shoot 'Em Up",
+				["criteria_1_text"] = "Jotunheim Proto-Drakes & their riders shot down: 0/15",
+				["level"] = 80,
+				["criteria_1_type"] = "monster",
+			},
+			[13346] = {
+				["groupcount"] = 5,
+				["daily"] = false,
+				["items_choice"] = {
+					[44395] = 1,
+					[44394] = 1,
+					[44393] = 1,
+				},
+				["criteria_1_text"] = "Alumeth the Ascended Defeated: 0/1",
+				["criteria_1_type"] = "monster",
+				["level"] = 80,
+				["name"] = "No Rest For The Wicked",
+				["tag"] = "Group",
+			},
+			[13100] = {
+				["groupcount"] = 0,
+				["items_reward"] = {
+					[43016] = 1,
+					[44113] = 1,
+				},
+				["name"] = "Infused Mushroom Meatloaf",
+				["criteria_1_text"] = "Infused Mushroom Meatloaf: 0/1",
+				["daily"] = true,
+				["level"] = -1,
+				["criteria_1_type"] = "item",
+			},
+			[13297] = {
+				["groupcount"] = 5,
+				["daily"] = true,
+				["name"] = "Neutralizing the Plague",
+				["criteria_1_text"] = "Plague Cauldron Neutralized: 0/1",
+				["level"] = 80,
+				["criteria_1_type"] = "monster",
+				["tag"] = "Group",
+			},
+			[10218] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["items_choice"] = {
+					[29328] = 1,
+				},
+				["criteria_1_text"] = "Escort Cryo-Engineer Sha'heen",
+				["criteria_1_type"] = "event",
+				["level"] = 66,
+				["name"] = "Someone Else's Hard Work Pays Off",
+				["tag"] = "Dungeon",
+			},
+			[12092] = {
+				["groupcount"] = 0,
+				["daily"] = false,
+				["items_choice"] = {
+					[37966] = 1,
+					[38008] = 1,
+				},
+				["criteria_1_text"] = "Lothalor Ancient strengthened: 0/3",
+				["criteria_1_type"] = "monster",
+				["level"] = 72,
+				["name"] = "Strengthen the Ancients",
+			},
+		},
+		["zone"] = {
+			["Dragonblight@@Dragonblight@@Moonrest Gardens"] = {
+				["mapname"] = "Dragonblight",
+				["border"] = {
+					"\000[és\000\000", -- [1]
+				},
+				["update"] = {
+					"\000[és\000", -- [1]
+				},
+			},
+		},
+	},
+}
+QuestHelper_Collector_Version = 4

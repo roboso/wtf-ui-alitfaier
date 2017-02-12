@@ -1,0 +1,52 @@
+
+MogItDB = {
+	["profileKeys"] = {
+		["Àzzurrà - Nemesis"] = "Default",
+	},
+	["global"] = {
+		["version"] = "3.1.6",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["point"] = "LEFT",
+			["x"] = 58.83756637573242,
+			["gridWidth"] = 1490.529907226563,
+			["gridHeight"] = 972.1708374023438,
+			["y"] = 1.641002058982849,
+			["previewProps"] = {
+				{
+					["y"] = -8.252091407775879,
+					["h"] = 1020.624145507813,
+					["point"] = "RIGHT",
+					["w"] = 1457.461303710938,
+					["x"] = 0,
+				}, -- [1]
+			},
+		},
+	},
+}
+MogItWishlist = {
+	["profileKeys"] = {
+		["Àzzurrà - Nemesis"] = "Àzzurrà - Nemesis",
+	},
+	["profiles"] = {
+		["Àzzurrà - Nemesis"] = {
+			["sets"] = {
+				{
+					["items"] = {
+						["ChestSlot"] = 96066,
+						["WristSlot"] = 103757,
+						["LegsSlot"] = 99422,
+						["ShoulderSlot"] = 99166,
+						["WaistSlot"] = 90059,
+						["HandsSlot"] = 76749,
+						["HeadSlot"] = 90062,
+					},
+					["name"] = "prova1",
+					["alternateItems"] = {
+					},
+				}, -- [1]
+			},
+		},
+	},
+}

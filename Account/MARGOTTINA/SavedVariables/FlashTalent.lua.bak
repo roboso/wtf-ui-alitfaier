@@ -1,0 +1,14 @@
+
+FlashTalentDB = {
+	["global"] = {
+		["Position"] = {
+			["y"] = -65.6408767700195,
+			["x"] = 8.84623527526856,
+			["Point"] = "LEFT",
+			["RelativePoint"] = "LEFT",
+		},
+	},
+	["profileKeys"] = {
+		["Alitfaier - Nemesis"] = "Alitfaier - Nemesis",
+	},
+}

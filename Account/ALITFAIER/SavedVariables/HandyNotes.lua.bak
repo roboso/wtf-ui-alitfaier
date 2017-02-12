@@ -1,0 +1,19 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = "Àzzurrà - Pozzo dell'Eternità",
+	},
+	["profiles"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = "Àzzurrà - Pozzo dell'Eternità",
+	},
+	["profiles"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = {
+		},
+	},
+}

@@ -1,0 +1,186 @@
+
+ZygorGuidesViewerSettings = {
+	["char"] = {
+		["Thun - Nemesis"] = {
+			["taxis_were_update"] = true,
+			["step"] = 24,
+			["stephistory"] = {
+				1, -- [1]
+				3, -- [2]
+				23, -- [3]
+			},
+			["maint_fetchquestdata"] = true,
+			["guidename"] = "PROFESSIONS\\Tailoring\\Tailoring 1-500 Leveling Guide",
+			["guides_history_ZGV4clear"] = true,
+			["debuglog"] = {
+				"12:57:53> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [1]
+				"12:57:53> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [2]
+				"12:57:53> [itemscore] AutoEquip: PLAYER_EQUIPMENT_CHANGED (ItemScore.lua:275:Debug)", -- [3]
+				"12:57:53> [itemscore] AutoEquip: Finding current equipped. (ItemScore.lua:275:Debug)", -- [4]
+				"12:57:53> [itemscore] AutoEquip: In slot |cffaaffaaHeadSlot|cffff88dd, |cff0070dd|Hitem:44408:0:0:0:0:0:0:1129756800:80:0:0|h[Copricapo del Capitano Vendicativo]|h|cffff88dd got scored at |cffff00002295 (ItemScore.lua:275:Debug)", -- [5]
+				"12:57:53> [itemscore] AutoEquip: In slot |cffaaffaaNeckSlot|cffff88dd, |cff0070dd|Hitem:36988:0:0:0:0:0:0:1232843776:80:0:0|h[Amuleto a Spirale Caotico]|h|cffff88dd got scored at |cffff00001575 (ItemScore.lua:275:Debug)", -- [6]
+				"12:57:53> [itemscore] AutoEquip: In slot |cffaaffaaShoulderSlot|cffff88dd, |cffa335ee|Hitem:49854:0:0:0:0:0:0:1580978432:80:0:0|h[Coprispalle delle Piume Cenciose]|h|cffff88dd got scored at |cffff00003389 (ItemScore.lua:275:Debug)", -- [7]
+				"12:57:53> [itemscore] AutoEquip: In slot |cffaaffaaBackSlot|cffff88dd, |cff0070dd|Hitem:37797:0:0:0:0:0:0:864136832:80:0:0|h[Mantello della Mente Agile]|h|cffff88dd got scored at |cffff00001046 (ItemScore.lua:275:Debug)", -- [8]
+				"12:57:53> [itemscore] AutoEquip: In slot |cffaaffaaChestSlot|cffff88dd, |cff1eff00|Hitem:57283:0:0:0:0:0:0:124783232:80:0:0|h[Vesti dello Spaccarocce]|h|cffff88dd got scored at |cffff00004866 (ItemScore.lua:275:Debug)", -- [9]
+				"12:57:53> [itemscore] AutoEquip: In slot |cffaaffaaWristSlot|cffff88dd, |cff0070dd|Hitem:41555:0:0:0:0:0:0:1413039744:80:0:0|h[Bracciali Leggeri di Tessuto del Crepuscolo Nero]|h|cffff88dd got scored at |cffff00001499 (ItemScore.lua:275:Debug)", -- [10]
+				"12:57:53> [itemscore] AutoEquip: In slot |cffaaffaaHandsSlot|cffff88dd, |cff0070dd|Hitem:44396:0:0:0:0:0:0:1274521472:80:0:0|h[Guanti del Guardiano del Tempo]|h|cffff88dd got scored at |cffff00002023 (ItemScore.lua:275:Debug)", -- [11]
+				"12:57:53> [itemscore] AutoEquip: In slot |cffaaffaaWaistSlot|cffff88dd, |cff1eff00|Hitem:57296:0:0:0:0:0:0:1036640640:80:0:0|h[Cinturone dell'Infiltrazione Abolita]|h|cffff88dd got scored at |cffff00004590 (ItemScore.lua:275:Debug)", -- [12]
+				"12:57:53> [itemscore] AutoEquip: In slot |cffaaffaaLegsSlot|cffff88dd, |cff0070dd|Hitem:41553:0:0:0:0:0:0:658009472:80:0:0|h[Gambiere di Tessuto del Crepuscolo Nero]|h|cffff88dd got scored at |cffff00002533 (ItemScore.lua:275:Debug)", -- [13]
+				"12:57:53> [itemscore] AutoEquip: In slot |cffaaffaaFeetSlot|cffff88dd, |cff0070dd|Hitem:41985:0:0:0:0:0:0:180501504:80:0:0|h[Stivali Setosi di Scheggiafredda]|h|cffff88dd got scored at |cffff00002131 (ItemScore.lua:275:Debug)", -- [14]
+				"12:57:53> [itemscore] AutoEquip: In slot |cffaaffaaFinger0Slot|cffff88dd, |cff0070dd|Hitem:37058:0:0:0:0:0:0:669940608:80:0:0|h[Anello con Sigillo di Ranulf]|h|cffff88dd got scored at |cffff00001499 (ItemScore.lua:275:Debug)", -- [15]
+				"12:57:53> [itemscore] AutoEquip: In slot |cffaaffaaFinger1Slot|cffff88dd, |cffa335ee|Hitem:49800:0:0:0:0:0:0:1867172352:80:0:0|h[Anello con Sigillo Adirato]|h|cffff88dd got scored at |cffff00002595 (ItemScore.lua:275:Debug)", -- [16]
+				"12:57:53> [itemscore] AutoEquip: In slot |cffaaffaaTrinket0Slot|cffff88dd, |cff1eff00|Hitem:43829:0:0:0:0:0:0:1762308096:80:0:0|h[Medaglione del Crociato]|h|cffff88dd got scored at |cffff0000174 (ItemScore.lua:275:Debug)", -- [17]
+				"12:57:53> [itemscore] AutoEquip: In slot |cffaaffaaTrinket1Slot|cffff88dd, |cff0070dd|Hitem:44015:0:0:0:0:0:0:661238016:80:0:0|h[Spirito Lucente del Cannoniere]|h|cffff88dd got scored at |cffff00001070 (ItemScore.lua:275:Debug)", -- [18]
+				"12:57:53> [itemscore] AutoEquip: In slot |cffaaffaaMainHandSlot|cffff88dd, |cff1eff00|Hitem:55436:0:0:0:0:0:-37:49152137:80:0:0|h[Lama Incantata di Sishir del Veggente]|h|cffff88dd got scored at |cffff000020065 (ItemScore.lua:275:Debug)", -- [19]
+				"12:57:53> [itemscore] AutoEquip: In slot |cffaaffaaSecondaryHandSlot|cffff88dd, |cff0070dd|Hitem:37086:0:0:0:0:0:0:192873728:80:0:0|h[Tomo di Salramm]|h|cffff88dd got scored at |cffff00001803 (ItemScore.lua:275:Debug)", -- [20]
+				"12:57:53> [itemscore] AutoEquip: BAG_UPDATE_DELAYED (ItemScore.lua:275:Debug)", -- [21]
+				"12:57:53> [itemscore] AutoEquip: Queue is empty (ItemScore.lua:275:Debug)", -- [22]
+				"12:57:54> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [23]
+				"12:57:55> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [24]
+				"12:57:56> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [25]
+				"12:57:57> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [26]
+				"12:57:58> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [27]
+				"12:57:59> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [28]
+				"12:58:00> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [29]
+				"12:58:01> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [30]
+				"12:58:02> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [31]
+				"12:58:03> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [32]
+				"12:58:04> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [33]
+				"12:58:05> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [34]
+				"12:58:06> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [35]
+				"12:58:07> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [36]
+				"12:58:08> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [37]
+				"12:58:09> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [38]
+				"12:58:10> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [39]
+				"12:58:11> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [40]
+				"12:58:12> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [41]
+				"12:58:13> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [42]
+				"12:58:14> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [43]
+				"12:58:15> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [44]
+				"12:58:16> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [45]
+				"12:58:17> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [46]
+				"12:58:18> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [47]
+				"12:58:19> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [48]
+				"12:58:20> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [49]
+				"12:58:21> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [50]
+				"12:58:22> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [51]
+				"12:58:23> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [52]
+				"12:58:24> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [53]
+				"12:58:25> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [54]
+				"12:58:26> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [55]
+				"12:58:27> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [56]
+				"12:58:28> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [57]
+				"12:58:29> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [58]
+				"12:58:30> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [59]
+				"12:58:31> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [60]
+				"12:58:32> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [61]
+				"12:58:33> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [62]
+				"12:58:34> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [63]
+				"12:58:35> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [64]
+				"12:58:36> [LibRover] [LibRover] FindLastPath from Roccavento/0 62.3,73.8 to Roccavento/0 61.1,70.6 (LibRover-1.0.lua:2458:Debug)", -- [65]
+				"12:58:36> [LibRover] - Found hearth node [363] \"Dalaran 51,40\" = Dalaran /1 51.0,40.0 [inn] (LibRover-1.0.lua:2458:Debug)", -- [66]
+				"12:58:36> [LibRover] 0. |cff88ff88START|cffff88dd -- |cff88ccddRoccavento 62,73|cffff88dd  (dist 0, time 0.0, total 0.0)|cffff88dd |cff8888dd{walk_start__fly_end}|cffff88dd (LibRover-1.0.lua:2458:Debug)", -- [67]
+				"12:58:36> [LibRover] 1. |cff88ff88Go to Roccavento 61,70|cffff88dd -- |cff88ccddRoccavento 61,70|cffff88dd  (dist 0, time 4.4, total 4.4)|cffff88dd |cff8888dd{fly_end}|cffff88dd (LibRover-1.0.lua:2458:Debug)", -- [68]
+				"12:58:36> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [69]
+				"12:58:37> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [70]
+				"12:58:38> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [71]
+				"12:58:39> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [72]
+				"12:58:40> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [73]
+				"12:58:41> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [74]
+				"12:58:42> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [75]
+				"12:58:43> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [76]
+				"12:58:44> [LibRover] [LibRover] FindLastPath from Roccavento/0 62.3,73.2 to Roccavento/0 61.1,70.6 (LibRover-1.0.lua:2458:Debug)", -- [77]
+				"12:58:44> [LibRover] - Found hearth node [363] \"Dalaran 51,40\" = Dalaran /1 51.0,40.0 [inn] (LibRover-1.0.lua:2458:Debug)", -- [78]
+				"12:58:44> [LibRover] 0. |cff88ff88START|cffff88dd -- |cff88ccddRoccavento 62,73|cffff88dd  (dist 0, time 0.0, total 0.0)|cffff88dd |cff8888dd{walk_start__fly_end}|cffff88dd (LibRover-1.0.lua:2458:Debug)", -- [79]
+				"12:58:44> [LibRover] 1. |cff88ff88Go to Roccavento 61,70|cffff88dd -- |cff88ccddRoccavento 61,70|cffff88dd  (dist 0, time 3.8, total 3.8)|cffff88dd |cff8888dd{fly_end}|cffff88dd (LibRover-1.0.lua:2458:Debug)", -- [80]
+				"12:58:44> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [81]
+				"12:58:45> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [82]
+				"12:58:46> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [83]
+				"12:58:47> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [84]
+				"12:58:48> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [85]
+				"12:58:49> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [86]
+				"12:58:50> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [87]
+				"12:58:51> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [88]
+				"12:58:52> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [89]
+				"12:58:53> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [90]
+				"12:58:54> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [91]
+				"12:58:55> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [92]
+				"12:58:56> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [93]
+				"12:58:57> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [94]
+				"12:58:58> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [95]
+				"12:58:59> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [96]
+				"12:59:00> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [97]
+				"12:59:01> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [98]
+				"12:59:02> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [99]
+				"12:59:02> [display] Goal 3 shows macro 39 (ZygorGuidesViewer.lua:2387:UpdateFrameCurrent)", -- [100]
+			},
+			["guides_history"] = {
+				["PROFESSIONS"] = {
+					"PROFESSIONS\\Tailoring\\Tailoring 1-500 Leveling Guide", -- [1]
+					24, -- [2]
+				},
+			},
+			["RecipesKnown"] = {
+				[12044] = true,
+				[3839] = true,
+				[12045] = true,
+				[2406] = true,
+				[12046] = true,
+				[3840] = true,
+				[2399] = true,
+				[8776] = true,
+				[2392] = true,
+				[3755] = true,
+				[2385] = true,
+				[3842] = true,
+				[3850] = true,
+				[3866] = true,
+				[2386] = true,
+				[2394] = true,
+				[3914] = true,
+				[6690] = true,
+				[7623] = true,
+				[3757] = true,
+				[6521] = true,
+				[2387] = true,
+				[2395] = true,
+				[3915] = true,
+				[63742] = true,
+				[8467] = true,
+				[8465] = true,
+				[7624] = true,
+				[3855] = true,
+				[2402] = true,
+				[2396] = true,
+				[2964] = true,
+				[3843] = true,
+				[3852] = true,
+				[3848] = true,
+				[2393] = true,
+				[2963] = true,
+				[2401] = true,
+				[2397] = true,
+				[3841] = true,
+				[3845] = true,
+			},
+			["maint_fetchitemdata"] = true,
+		},
+	},
+	["profileKeys"] = {
+		["Thun - Nemesis"] = "Thun - Nemesis",
+	},
+	["profiles"] = {
+		["Thun - Nemesis"] = {
+			["tmp__was_sheened"] = true,
+			["visible"] = false,
+			["magickey_bind"] = "",
+			["ranconfig"] = true,
+			["skipauxsteps"] = true,
+			["badupgrade"] = {
+				{
+					[55436] = "|cff1eff00|Hitem:55436:0:0:0:0:0:-37:49152137:80:0:0|h[Lama Incantata di Sishir del Veggente]|h|r",
+				}, -- [1]
+			},
+		},
+	},
+}

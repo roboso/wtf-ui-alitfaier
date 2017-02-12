@@ -1,0 +1,10 @@
+
+BreakablesDB = {
+	["profileKeys"] = {
+		["Alitfaier - Hakkar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

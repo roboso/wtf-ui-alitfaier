@@ -1,0 +1,46 @@
+
+TradeSkillMaster_AccountingDB = {
+	["global"] = {
+		["itemStrings"] = {
+			["Pantaloni Inanellati Stretti"] = "item:4005:0:0:0:0:0:0",
+			["Tartufo Nero"] = "item:4608:0:0:0:0:0:0",
+			["Pozione Superiore di Mana"] = "item:6149:0:0:0:0:0:0",
+			["Succo di Melone"] = "item:1205:0:0:0:0:0:0",
+			["Lombrichi"] = "item:6530:0:0:0:0:0:0",
+			["Pozione Pregevole di Cura"] = "item:3928:0:0:0:0:0:0",
+			["Frammento d'Osso"] = "item:22526:0:0:0:0:0:0",
+			["Provola Stagionata"] = "item:3927:0:0:0:0:0:0",
+			["Tessuto di Telamagica"] = "item:4338:0:0:0:0:0:0",
+			["Nettare Dolce"] = "item:1708:0:0:0:0:0:0",
+			["Pozione Inferiore di Mana"] = "item:3385:0:0:0:0:0:0",
+			["Pozione di Cura"] = "item:929:0:0:0:0:0:0",
+			["Succo di Baccaluna"] = "item:1645:0:0:0:0:0:0",
+			["Icore di Non Morto"] = "item:7972:0:0:0:0:0:0",
+			["Sbocciapace"] = "item:2447:0:0:0:0:0:0",
+			["Cappello di Cuoio Spesso"] = "item:8750:0:0:0:0:0:0",
+			["Pozione Superiore di Cura"] = "item:1710:0:0:0:0:0:0",
+			["Mela Annurca"] = "item:4539:0:0:0:0:0:0",
+			["Tessuto di Seta"] = "item:4306:0:0:0:0:0:0",
+			["Calzari Gotici della Balena"] = "item:10089:0:0:0:0:0:-81",
+			["Cintura all'Uncinetto"] = "item:3936:0:0:0:0:0:0",
+			["Gambiere del Capitano del Falco"] = "item:7487:0:0:0:0:0:-11",
+			["Cinturone a Piastre Adorno del Potere"] = "item:9968:0:0:0:0:0:-20",
+		},
+	},
+	["profileKeys"] = {
+		["Enchàntrix - Pozzo dell'Eternità"] = "Default",
+	},
+	["factionrealm"] = {
+		["Alliance - Pozzo dell'Eternità"] = {
+			["csvExpired"] = "itemString,itemName,stackSize,quantity,player,time",
+			["csvBuys"] = "itemString,itemName,stackSize,quantity,price,seller,player,time,source",
+			["csvIncome"] = "type,amount,source,player,time",
+			["csvExpense"] = "type,amount,destination,player,time",
+			["goldLog"] = {
+				["Enchàntrix"] = "startMinute,endMinute,copper\n23292446,23292458,0",
+			},
+			["csvSales"] = "itemString,itemName,stackSize,quantity,price,buyer,player,time,source",
+			["csvCancelled"] = "itemString,itemName,stackSize,quantity,player,time",
+		},
+	},
+}

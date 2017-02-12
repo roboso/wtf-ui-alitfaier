@@ -1,0 +1,15 @@
+Version: 1
+Frame: TMW_CursorAnchor
+FrameLevel: 100
+Anchor: BOTTOM
+X: 255
+Y: 0
+W: 24
+H: 24
+Frame: TellMeWhen_Group1
+FrameLevel: 10
+Anchor: BOTTOMLEFT
+X: 134
+Y: -13
+W: 120
+H: 30

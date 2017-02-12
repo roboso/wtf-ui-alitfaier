@@ -1,0 +1,35 @@
+
+PowerAurasGlobalDB = {
+	["Settings"] = {
+		["Backup"] = {
+		},
+		["Tutorials"] = {
+		},
+		["ActionsPerFrame"] = 1024,
+		["OnUpdateThrottle"] = 0,
+		["ProvidersPerFrame"] = 1024,
+		["LastVersion"] = {
+			1, -- [1]
+			0, -- [2]
+			0, -- [3]
+			"A", -- [4]
+		},
+		["Triggers"] = {
+		},
+	},
+	["Profiles"] = {
+		["Alitfaier - Pozzo dell'Eternità"] = {
+			["Layouts"] = {
+				{
+					["Parameters"] = {
+					},
+					["Type"] = "Fixed",
+				}, -- [1]
+			},
+			["Version"] = "5.0.0.P",
+			["Auras"] = {
+			},
+		},
+	},
+}
+PowaGlobalSet = nil

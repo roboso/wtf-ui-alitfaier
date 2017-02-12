@@ -1,0 +1,190 @@
+
+BKSettings = {
+	["catbarson"] = true,
+	["barheight"] = 15,
+	["warningfont"] = 35,
+	["barcolor"] = {
+		["Faerie Fire"] = {
+			1, -- [1]
+			1, -- [2]
+			0, -- [3]
+		},
+		["Rake"] = {
+			1, -- [1]
+			0, -- [2]
+			0, -- [3]
+		},
+		["Rip"] = {
+			1, -- [1]
+			0, -- [2]
+			0, -- [3]
+		},
+		["Tiger's Fury"] = {
+			1, -- [1]
+			1, -- [2]
+			0, -- [3]
+		},
+		["Stampede"] = {
+			0, -- [1]
+			1, -- [2]
+			0, -- [3]
+		},
+		["Savage Roar"] = {
+			0, -- [1]
+			1, -- [2]
+			1, -- [3]
+		},
+		["Predator's Swiftness"] = {
+			0, -- [1]
+			1, -- [2]
+			0, -- [3]
+		},
+		["font"] = {
+			1, -- [1]
+			1, -- [2]
+			0, -- [3]
+		},
+		["Combo"] = {
+			1, -- [1]
+			1, -- [2]
+			0, -- [3]
+		},
+		["Mangle"] = {
+			1, -- [1]
+			0, -- [2]
+			0, -- [3]
+		},
+		["Clearcasting"] = {
+			0, -- [1]
+			1, -- [2]
+			0, -- [3]
+		},
+		["Energy"] = {
+			0, -- [1]
+			1, -- [2]
+			1, -- [3]
+		},
+		["Berserk"] = {
+			1, -- [1]
+			0, -- [2]
+			0, -- [3]
+		},
+	},
+	["warnorder"] = {
+		["Faerie Fire"] = 7,
+		["Rake"] = 3,
+		["Clearcasting"] = 5,
+		["Tiger's Fury"] = 8,
+		["Stampede"] = 9,
+		["Savage Roar"] = 2,
+		["Predator's Swiftness"] = 10,
+		["Mangle"] = 1,
+		["Rip"] = 4,
+		["Berserk"] = 6,
+	},
+	["warningloc"] = {
+		500, -- [1]
+		500, -- [2]
+	},
+	["catwarningson"] = true,
+	["barorder"] = {
+		["BKBar8"] = "Clearcasting",
+		["BKBar6"] = "Faerie Fire",
+		["BKBar3"] = "Rake",
+		["BKBar12"] = "Combo",
+		["BKBar9"] = "Stampede",
+		["BKBar11"] = "Energy",
+		["BKBar5"] = "Tiger's Fury",
+		["BKBar4"] = "Rip",
+		["BKBar10"] = "Predator's Swiftness",
+		["BKBar1"] = "Mangle",
+		["BKBar7"] = "Berserk",
+		["BKBar2"] = "Savage Roar",
+	},
+	["barzero"] = true,
+	["bargrowth"] = "up",
+	["barlock"] = false,
+	["barscale"] = true,
+	["barcombat"] = true,
+	["barwidth"] = 100,
+	["warningsize"] = 50,
+	["baron"] = {
+		["Faerie Fire"] = true,
+		["Rake"] = true,
+		["Rip"] = true,
+		["Tiger's Fury"] = true,
+		["Stampede"] = true,
+		["Savage Roar"] = true,
+		["Predator's Swiftness"] = true,
+		["Combo"] = true,
+		["Mangle"] = true,
+		["Clearcasting"] = true,
+		["Energy"] = true,
+		["Berserk"] = true,
+	},
+	["barbackalpha"] = 0.5,
+	["oncolor"] = {
+		0, -- [1]
+		1, -- [2]
+		0, -- [3]
+	},
+	["barfont"] = 10,
+	["version"] = 20103,
+	["warninglayout"] = {
+		["size"] = 3,
+		["direction"] = "c",
+	},
+	["barloc"] = {
+		500, -- [1]
+		500, -- [2]
+	},
+	["bartime"] = {
+		["Faerie Fire"] = 30,
+		["Combo"] = 30,
+		["Lacerate"] = 30,
+		["Stampede"] = 30,
+		["Savage Roar"] = 30,
+		["Feral Charge"] = 30,
+		["Predator's Swiftness"] = 30,
+		["Curse of Weakness"] = 30,
+		["Mangle"] = 30,
+		["Demoralizing Roar"] = 30,
+		["Shred"] = 30,
+		["Clearcasting"] = 30,
+		["Demoralizing Shout"] = 30,
+		["Berserk"] = 30,
+		["Barkskin"] = 30,
+		["Tiger's Fury"] = 30,
+		["Vindication"] = 30,
+		["Rake"] = 30,
+		["Energy"] = 30,
+		["Rip"] = 30,
+	},
+	["warntime"] = {
+		["Faerie Fire"] = 5,
+		["Combo"] = 5,
+		["Lacerate"] = 5,
+		["Stampede"] = 5,
+		["Savage Roar"] = 5,
+		["Feral Charge"] = 5,
+		["Predator's Swiftness"] = 5,
+		["Curse of Weakness"] = 5,
+		["Mangle"] = 5,
+		["Demoralizing Roar"] = 5,
+		["Shred"] = 5,
+		["Clearcasting"] = 5,
+		["Demoralizing Shout"] = 5,
+		["Berserk"] = 5,
+		["Barkskin"] = 5,
+		["Tiger's Fury"] = 5,
+		["Vindication"] = 5,
+		["Rake"] = 5,
+		["Energy"] = 5,
+		["Rip"] = 5,
+	},
+	["offcolor"] = {
+		1, -- [1]
+		0, -- [2]
+		0, -- [3]
+	},
+}

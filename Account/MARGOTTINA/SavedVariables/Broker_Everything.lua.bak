@@ -1,0 +1,98 @@
+
+Broker_EverythingGlobalDB = {
+}
+be_twink_db = {
+	["Pozzo dell'Eternità - Pingola"] = {
+		["female"] = true,
+		["classLocale"] = "Paladina",
+		["factionL"] = "Alleanza",
+		["classId"] = 2,
+		["race"] = "Dwarf",
+		["name"] = "Pingola",
+		["faction"] = "Alliance",
+		["raceLocale"] = "Nana",
+		["class"] = "PALADIN",
+	},
+}
+be_professions_db = {
+	["Pozzo dell'Eternità"] = {
+		["Pingola"] = {
+			["cooldowns"] = {
+			},
+			["cooldown_locks"] = {
+			},
+			["hasCooldowns"] = false,
+		},
+	},
+}
+be_gold_db = {
+	["Alliance"] = {
+		["Pozzo dell'Eternità"] = {
+			["Pingola"] = {
+				2297642275, -- [1]
+				"PALADIN", -- [2]
+			},
+		},
+	},
+}
+be_calendar_db = nil
+be_xp_db = {
+	["Pozzo dell'Eternità"] = {
+		["Pingola"] = {
+			["xpBonusSum"] = 0,
+			["xpNeed"] = 390,
+			["class"] = "PALADIN",
+			["xpBonus"] = {
+				{
+					["name"] = "Head",
+					["percent"] = false,
+				}, -- [1]
+				[11] = {
+					["name"] = "Ring1",
+					["percent"] = false,
+				},
+				[7] = {
+					["name"] = "Legs",
+					["percent"] = false,
+				},
+				[15] = {
+					["name"] = "Back",
+					["percent"] = false,
+				},
+				[3] = {
+					["name"] = "Shoulder",
+					["percent"] = false,
+				},
+				[12] = {
+					["name"] = "Ring2",
+					["percent"] = false,
+				},
+				[5] = {
+					["name"] = "Chest",
+					["percent"] = false,
+				},
+			},
+			["xpMax"] = 900,
+			["xpPercent"] = "56%",
+			["faction"] = "Alliance",
+			["xpRestStr"] = ">100%+",
+			["level"] = 2,
+			["xpRest"] = 1350,
+			["xp"] = 510,
+		},
+	},
+}
+be_mail_db = {
+	["Pozzo dell'Eternità/Pingola"] = {
+		["class"] = "PALADIN",
+		["count"] = 0,
+		["mails"] = {
+		},
+	},
+}
+be_garrison_db = {
+}
+goldDB = nil
+calendarDB = nil
+xpDB = nil
+mailDB = nil

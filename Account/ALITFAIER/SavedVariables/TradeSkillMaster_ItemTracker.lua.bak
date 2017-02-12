@@ -1,0 +1,37 @@
+
+TradeSkillMaster_ItemTrackerDB = {
+	["profileKeys"] = {
+		["Chex - Nemesis"] = "Default",
+	},
+	["factionrealm"] = {
+		["Alliance - Nemesis"] = {
+			["characters"] = {
+				["Chex"] = {
+					["lastUpdate"] = {
+						["guild"] = 0,
+						["auctions"] = 0,
+						["mail"] = 0,
+						["bags"] = 0,
+						["reagentbank"] = 0,
+						["bank"] = 0,
+					},
+					["bags"] = {
+					},
+					["mailInbox"] = {
+					},
+					["account"] = "Nemesis195573054",
+					["mail"] = {
+					},
+					["reagentbank"] = {
+					},
+					["auctions"] = {
+					},
+					["bank"] = {
+					},
+				},
+			},
+			["guilds"] = {
+			},
+		},
+	},
+}

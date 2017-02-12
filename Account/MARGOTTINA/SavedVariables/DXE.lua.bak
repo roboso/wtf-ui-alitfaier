@@ -1,0 +1,73 @@
+
+DXEDB = {
+	["namespaces"] = {
+		["RDB"] = {
+		},
+		["RaidIcons"] = {
+		},
+		["Distributor"] = {
+		},
+		["Alerts"] = {
+		},
+		["Arrows"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Alitfaier - Hakkar"] = "Alitfaier - Hakkar",
+	},
+	["profiles"] = {
+		["Alitfaier - Hakkar"] = {
+			["Dimensions"] = {
+				["DXEWindowProximity"] = {
+					["height"] = 93.03817601384596,
+					["width"] = 102.3419918645172,
+				},
+			},
+			["Scales"] = {
+				["DXEWindowProximityFrame"] = 0.9303817749023438,
+			},
+			["Positions"] = {
+				["DXEPane"] = {
+					["point"] = "BOTTOMRIGHT",
+					["relativePoint"] = "BOTTOMRIGHT",
+					["yOfs"] = 6.097494900192586,
+					["xOfs"] = -461.0773515071966,
+				},
+				["DXEArrowsAnchor1"] = {
+					["yOfs"] = -88.90596734057959,
+					["xOfs"] = -17.50447659450149,
+				},
+				["DXEArrowsAnchor3"] = {
+					["point"] = "LEFT",
+					["relativePoint"] = "LEFT",
+					["yOfs"] = -122.6322516546464,
+					["xOfs"] = 343.6879260482277,
+				},
+				["DXEArrowsAnchor2"] = {
+					["point"] = "LEFT",
+					["relativePoint"] = "LEFT",
+					["yOfs"] = -226.1111917700608,
+					["xOfs"] = 456.3716091469574,
+				},
+				["DXEAlertsWarningStackAnchor"] = {
+					["yOfs"] = 142.1709652263881,
+					["xOfs"] = -28.44458790567567,
+				},
+				["DXEWindowProximity"] = {
+					["point"] = "LEFT",
+					["relativePoint"] = "LEFT",
+					["yOfs"] = -195.6302047561821,
+					["xOfs"] = 339.9402090365394,
+				},
+				["DXEDistributorStackAnchor"] = {
+					["yOfs"] = 281.4016424289752,
+					["xOfs"] = -35.00881094354489,
+				},
+				["DXEAlertsCenterStackAnchor"] = {
+					["yOfs"] = 44.20506515560046,
+					["xOfs"] = -20.78633754259072,
+				},
+			},
+		},
+	},
+}

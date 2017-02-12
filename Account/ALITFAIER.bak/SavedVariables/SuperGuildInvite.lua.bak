@@ -1,0 +1,110 @@
+
+SGI_DATA = {
+	["resetFix"] = true,
+	["lock"] = {
+		["SGI_MASS"] = 6,
+	},
+	["guildList"] = {
+		["Nemesis"] = {
+			["TNT"] = {
+				"Ketrix", -- [1]
+			},
+			["Nothing Personal"] = {
+				"Ketzya", -- [1]
+			},
+			["Resolution"] = {
+				"Shamrokk", -- [1]
+			},
+			["Ðeus lo vult"] = {
+				"Shakar", -- [1]
+			},
+			["Flame Wings"] = {
+				"Marsili", -- [1]
+			},
+			["Celestial Angels"] = {
+				"Valakk", -- [1]
+			},
+			["BRAVEHEARTS"] = {
+				"Bryna", -- [1]
+			},
+			["DEMON HELL"] = {
+				"Whitehunter", -- [1]
+			},
+			["Children of Dobro"] = {
+				"Minimana", -- [1]
+			},
+			["Exordium"] = {
+				"Erucarcas", -- [1]
+			},
+			["Anàthema"] = {
+				"Ilàrià", -- [1]
+			},
+			["Thirty Seconds to Wipe"] = {
+				"Pigro", -- [1]
+			},
+			["IndependenT"] = {
+				"Micpriest", -- [1]
+			},
+			["Nova Invicta"] = {
+				"Jocelyn", -- [1]
+			},
+			["LAMERS"] = {
+				"Rakanos", -- [1]
+			},
+			["Blaze of Glory"] = {
+				"Mayflower", -- [1]
+			},
+			["Emerald Dream"] = {
+				"Pandàrus", -- [1]
+			},
+			["INGLORIUS BASTARD"] = {
+				"Nantuket", -- [1]
+			},
+			["IMMORTAL THRONE"] = {
+				"Pontefice", -- [1]
+			},
+			["Soul Eater"] = {
+				"Knivor", -- [1]
+			},
+		},
+	},
+	["showChanges"] = "7.0",
+	["Ilàrià - Nemesis"] = {
+		["settings"] = {
+			["whispers"] = {
+			},
+			["inviteMode"] = 1,
+			["highLimit"] = 90,
+			["checkBox"] = {
+			},
+			["classStart"] = 90,
+			["lowLimit"] = 1,
+			["raceStart"] = 90,
+			["interval"] = 5,
+			["frames"] = {
+				["SuperScanFrame"] = {
+					["yOfs"] = 0,
+					["xOfs"] = 0,
+					["point"] = "CENTER",
+					["relativePoint"] = "CENTER",
+				},
+				["SGI_ChangeLog"] = {
+					["yOfs"] = 0,
+					["xOfs"] = 0,
+					["point"] = "CENTER",
+					["relativePoint"] = "CENTER",
+				},
+				["SGI_MiniMapButton"] = {
+					["yOfs"] = -31,
+					["xOfs"] = -71,
+					["point"] = "CENTER",
+					["relativePoint"] = "CENTER",
+				},
+			},
+			["dropDown"] = {
+			},
+			["filters"] = {
+			},
+		},
+	},
+}

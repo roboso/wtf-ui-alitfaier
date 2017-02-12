@@ -1,0 +1,42 @@
+
+EveryQuestDB = nil
+EQ2DB = {
+	["profileKeys"] = {
+		["Ptètgàètg - Crushridge"] = "global",
+		["Frugolo - Hakkar"] = "global",
+		["Mnnbvm - Dragonmaw"] = "global",
+		["Fklklkllktyj - Crushridge"] = "global",
+		["Flgflpolvf - Crushridge"] = "global",
+		["Irilens - Runetotem"] = "global",
+		["Ipoipopolpòp - Agamaggan"] = "global",
+		["Tispaccolano - Hakkar"] = "global",
+		["Ylhiktgjbjit - Boulderfist"] = "global",
+		["Braveherat - Hakkar"] = "global",
+		["Daemorn - Nagrand"] = "global",
+		["Òllòàòòà - Hakkar"] = "global",
+		["Ggjyvfjju - Crushridge"] = "global",
+		["Alitfaier - Hakkar"] = "global",
+		["Alitfaier - Nagrand"] = "global",
+		["Rkrkkh - Deathwing"] = "global",
+		["Jnnhnh - Hakkar"] = "global",
+		["Lorenzino - Hakkar"] = "global",
+		["Pingola - Hakkar"] = "global",
+		["Llèò - Balnazzar"] = "global",
+		["Shèreen - Hakkar"] = "global",
+		["Jàòù - Hakkar"] = "global",
+		["Ubnmm - Hakkar"] = "global",
+		["Mmbnnbfb - Hakkar"] = "global",
+		["Àmpghorooroo - Burning Steppes"] = "global",
+		["Randstad - Hakkar"] = "global",
+		["Fiuyii - Executus"] = "global",
+		["Jjokuhg - Hakkar"] = "global",
+		["Lg - Chromaggus"] = "global",
+		["Kjòh - Crushridge"] = "global",
+		["Postit - Crushridge"] = "global",
+	},
+	["profiles"] = {
+		["global"] = {
+			["querytime"] = 1298333127,
+		},
+	},
+}

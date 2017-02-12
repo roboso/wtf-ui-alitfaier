@@ -1,0 +1,87 @@
+
+BestInSlotDB = {
+	["char"] = {
+		["Alitfaier - Pozzo dell'Eternità"] = {
+			["options"] = {
+				["overviewfilter"] = {
+					[72] = true,
+				},
+			},
+			["tutorials"] = {
+				["Custom Items"] = {
+					true, -- [1]
+					true, -- [2]
+				},
+				["BiS manager"] = {
+					true, -- [1]
+					true, -- [2]
+					true, -- [3]
+					[5] = true,
+				},
+				["Request BiS"] = {
+					true, -- [1]
+					true, -- [2]
+				},
+			},
+			["selected"] = {
+				"Legion", -- [1]
+				70011, -- [2]
+				"NH", -- [3]
+				[5] = 3,
+				[6] = 72,
+			},
+			["windowpos"] = {
+				["relativeTo"] = "UIParent",
+				["point"] = "TOPLEFT",
+				["relativePoint"] = "TOPLEFT",
+				["xOffset"] = 200,
+				["yOffset"] = -250.000015258789,
+			},
+			[70011] = {
+				[3] = {
+					[72] = {
+						138357, -- [1]
+						140898, -- [2]
+						138363, -- [3]
+						nil, -- [4]
+						138351, -- [5]
+						140892, -- [6]
+						138360, -- [7]
+						140891, -- [8]
+						140893, -- [9]
+						138354, -- [10]
+						140897, -- [11]
+						140896, -- [12]
+						140806, -- [13]
+						140808, -- [14]
+						137053, -- [15]
+						nil, -- [16]
+						nil, -- [17]
+						nil, -- [18]
+						nil, -- [19]
+						nil, -- [20]
+						nil, -- [21]
+						nil, -- [22]
+						nil, -- [23]
+						nil, -- [24]
+						nil, -- [25]
+						nil, -- [26]
+						nil, -- [27]
+						nil, -- [28]
+						nil, -- [29]
+						140835, -- [30]
+						140841, -- [31]
+						140817, -- [32]
+					},
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Alitfaier - Pozzo dell'Eternità"] = "Alitfaier - Pozzo dell'Eternità",
+	},
+	["profiles"] = {
+		["Alitfaier - Pozzo dell'Eternità"] = {
+		},
+	},
+}

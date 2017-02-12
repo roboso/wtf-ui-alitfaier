@@ -1,0 +1,10 @@
+
+Cartographer_VendorsDB = {
+	["factions"] = {
+		["Alliance"] = {
+			["notes"] = {
+				["version"] = 3,
+			},
+		},
+	},
+}

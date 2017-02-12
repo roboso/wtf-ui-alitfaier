@@ -1,0 +1,3 @@
+
+QuestHelper2_Settings = {
+}

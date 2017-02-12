@@ -1,0 +1,10 @@
+
+TradeSkillMaster_AuctionDBDB = {
+	["profileKeys"] = {
+		["Enchàntrix - Pozzo dell'Eternità"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

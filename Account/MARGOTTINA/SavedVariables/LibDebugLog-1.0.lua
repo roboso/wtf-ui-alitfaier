@@ -1,0 +1,3 @@
+
+LibDebugLog10PersitenceDB = {
+}

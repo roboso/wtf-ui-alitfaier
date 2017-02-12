@@ -1,0 +1,76 @@
+
+TradeSkillMaster_CoolDownsDB = {
+	["profileKeys"] = {
+		["Pingola - Nemesis"] = "Default",
+	},
+	["factionrealm"] = {
+		["Alliance - Nemesis"] = {
+			["CoolDowns"] = {
+				[75145] = {
+					["Name"] = "Stoffaonirica",
+					["spellID"] = 75145,
+				},
+				[131690] = {
+					["Name"] = "Preziosi da Ricerca",
+					["spellID"] = 131690,
+				},
+				[75141] = {
+					["Name"] = "Stoffaonirica",
+					["spellID"] = 75141,
+				},
+				[131593] = {
+					["Name"] = "Preziosi da Ricerca",
+					["spellID"] = 131593,
+				},
+				[131686] = {
+					["Name"] = "Preziosi da Ricerca",
+					["spellID"] = 131686,
+				},
+				[143255] = {
+					["Name"] = "Lingotto di Trillio Bilanciato",
+					["spellID"] = 143255,
+				},
+				[125557] = {
+					["Name"] = "Bozzolo di Baco da Seta",
+					["spellID"] = 125557,
+				},
+				[131691] = {
+					["Name"] = "Preziosi da Ricerca",
+					["spellID"] = 131691,
+				},
+				[131695] = {
+					["Name"] = "Preziosi da Ricerca",
+					["spellID"] = 131695,
+				},
+				[140050] = {
+					["Name"] = "Cuore della Serpe",
+					["spellID"] = 140050,
+				},
+				[75142] = {
+					["Name"] = "Stoffaonirica",
+					["spellID"] = 75142,
+				},
+				[73478] = {
+					["Name"] = "Prisma Infuocato",
+					["spellID"] = 73478,
+				},
+				[75144] = {
+					["Name"] = "Stoffaonirica",
+					["spellID"] = 75144,
+				},
+				[131688] = {
+					["Name"] = "Preziosi da Ricerca",
+					["spellID"] = 131688,
+				},
+				[75146] = {
+					["Name"] = "Stoffaonirica",
+					["spellID"] = 75146,
+				},
+				[143011] = {
+					["Name"] = "Tessuto Celestiale",
+					["spellID"] = 143011,
+				},
+			},
+		},
+	},
+}

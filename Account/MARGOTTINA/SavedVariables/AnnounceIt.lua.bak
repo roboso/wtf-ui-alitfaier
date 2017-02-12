@@ -1,0 +1,38 @@
+
+aiDB = {
+	["global"] = {
+		["version"] = "3.2.7",
+	},
+	["profileKeys"] = {
+		["Alitfaier - Pozzo dell'Eternità"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["lastmessage"] = {
+				["message"] = "server mumble",
+				["type"] = "regular",
+				["chan"] = "GUILD",
+			},
+			["messages"] = {
+				["server mumble"] = {
+					["text"] = {
+						"############################", -- [1]
+						"nome del server: tenebra", -- [2]
+						"indirizzo: 5.196.43.136     porta: 50643", -- [3]
+						"password: troppapizza", -- [4]
+						"############################", -- [5]
+					},
+					["custom"] = {
+						"", -- [1]
+						"", -- [2]
+						"", -- [3]
+						"", -- [4]
+					},
+					["chan"] = {
+						["GUILD"] = true,
+					},
+				},
+			},
+		},
+	},
+}

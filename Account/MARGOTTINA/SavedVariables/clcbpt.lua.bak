@@ -1,0 +1,10 @@
+
+CLC_BPT = {
+	["profileKeys"] = {
+		["Braveherat - Hakkar"] = "Braveherat - Hakkar",
+	},
+	["char"] = {
+		["Braveherat - Hakkar"] = {
+		},
+	},
+}

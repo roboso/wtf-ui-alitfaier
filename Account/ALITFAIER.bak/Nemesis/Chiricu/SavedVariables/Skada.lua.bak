@@ -1,0 +1,762 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 41,
+		["interrupts"] = 0,
+		["damage"] = 446,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "MAGE",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["ccbreaks"] = 0,
+				["damage"] = 446,
+				["damagespells"] = {
+					["Attacco"] = {
+						["min"] = 1,
+						["hit"] = 1,
+						["totalhits"] = 1,
+						["id"] = 6603,
+						["max"] = 1,
+						["damage"] = 1,
+					},
+					["Palla di Fuocogelo"] = {
+						["min"] = 13,
+						["critical"] = 2,
+						["hit"] = 25,
+						["totalhits"] = 27,
+						["id"] = 44614,
+						["max"] = 35,
+						["damage"] = 445,
+					},
+				},
+				["maxhp"] = 154,
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "Player-1316-0769FB16",
+				["healing"] = 0,
+				["deathlog"] = {
+					{
+						["ts"] = 1433186559.01,
+						["amount"] = -2,
+						["hp"] = 154,
+						["spellid"] = 88163,
+						["srcname"] = "Worgen Sfrenato",
+					}, -- [1]
+					{
+						["ts"] = 1433186566.341,
+						["amount"] = -2,
+						["hp"] = 152,
+						["spellid"] = 88163,
+						["srcname"] = "Worgen Sfrenato",
+					}, -- [2]
+					{
+						["ts"] = 1433186568.266,
+						["amount"] = -2,
+						["hp"] = 150,
+						["spellid"] = 88163,
+						["srcname"] = "Worgen Sfrenato",
+					}, -- [3]
+					{
+						["ts"] = 1433186570.323,
+						["amount"] = -1,
+						["hp"] = 148,
+						["spellid"] = 88163,
+						["srcname"] = "Worgen Sfrenato",
+					}, -- [4]
+					{
+						["ts"] = 1433186572.319,
+						["amount"] = -2,
+						["hp"] = 147,
+						["spellid"] = 88163,
+						["srcname"] = "Worgen Sfrenato",
+					}, -- [5]
+					{
+						["ts"] = 1433186592.323,
+						["amount"] = -2,
+						["hp"] = 154,
+						["spellid"] = 88163,
+						["srcname"] = "Worgen Sfrenato",
+					}, -- [6]
+					{
+						["ts"] = 1433186610.948,
+						["amount"] = -1,
+						["hp"] = 168,
+						["spellid"] = 88163,
+						["srcname"] = "Worgen Sfrenato",
+					}, -- [7]
+					{
+						["ts"] = 1433186621.982,
+						["amount"] = -2,
+						["hp"] = 168,
+						["spellid"] = 88163,
+						["srcname"] = "Worgen Sfrenato",
+					}, -- [8]
+					{
+						["ts"] = 1433186623.8,
+						["amount"] = -2,
+						["hp"] = 166,
+						["spellid"] = 88163,
+						["srcname"] = "Worgen Sfrenato",
+					}, -- [9]
+					{
+						["ts"] = 1433186710.598,
+						["amount"] = -2,
+						["hp"] = 166,
+						["spellid"] = 88163,
+						["srcname"] = "Worgen Sfrenato",
+					}, -- [10]
+					{
+						["ts"] = 1433186712.595,
+						["amount"] = -2,
+						["hp"] = 164,
+						["spellid"] = 88163,
+						["srcname"] = "Worgen Sfrenato",
+					}, -- [11]
+					{
+						["ts"] = 1433186714.6,
+						["amount"] = -2,
+						["hp"] = 162,
+						["spellid"] = 88163,
+						["srcname"] = "Worgen Sfrenato",
+					}, -- [12]
+					{
+						["ts"] = 1433186716.637,
+						["amount"] = -2,
+						["hp"] = 160,
+						["spellid"] = 88163,
+						["srcname"] = "Worgen Sfrenato",
+					}, -- [13]
+					["pos"] = 14,
+				},
+				["damagetakenspells"] = {
+					["Attacco"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["min"] = 1,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Attacco",
+						["blocked"] = 0,
+						["totalhits"] = 13,
+						["resisted"] = 0,
+						["max"] = 2,
+						["damage"] = 24,
+					},
+				},
+				["power"] = {
+				},
+				["auras"] = {
+					["Palla di Fuocogelo"] = {
+						["name"] = "Palla di Fuocogelo",
+						["active"] = 0,
+						["id"] = 44614,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 32,
+					},
+				},
+				["name"] = "Chiricu",
+				["damagetaken"] = 24,
+				["role"] = "NONE",
+				["time"] = 37,
+				["multistrikes"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["Worgen Sfrenato"] = {
+				["players"] = {
+					["Chiricu"] = {
+						["taken"] = 446,
+						["done"] = 24,
+						["role"] = "NONE",
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 446,
+				["done"] = 24,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["mobtaken"] = 446,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["starttime"] = 1433186520,
+		["damagetaken"] = 24,
+		["shielding"] = 0,
+		["name"] = "Totale",
+		["overhealing"] = 0,
+		["mobdone"] = 24,
+		["mobhdone"] = 0,
+		["last_action"] = 1433186520,
+		["multistrikes"] = 0,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 11,
+			["interrupts"] = 0,
+			["endtime"] = 1433186719,
+			["damage"] = 60,
+			["players"] = {
+				{
+					["last"] = 1433186718,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Worgen Sfrenato"] = 60,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 60,
+					["damagespells"] = {
+						["Attacco"] = {
+							["min"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 6603,
+							["max"] = 1,
+							["damage"] = 1,
+						},
+						["Palla di Fuocogelo"] = {
+							["min"] = 14,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["id"] = 44614,
+							["max"] = 16,
+							["damage"] = 59,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-0769FB16",
+					["healing"] = 0,
+					["maxhp"] = 168,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 2,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 4,
+							["resisted"] = 0,
+							["max"] = 2,
+							["damage"] = 8,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 6,
+						},
+					},
+					["name"] = "Chiricu",
+					["damagetaken"] = 8,
+					["first"] = 1433186708,
+					["role"] = "NONE",
+					["time"] = 10,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Worgen Sfrenato"] = {
+					["players"] = {
+						["Chiricu"] = {
+							["taken"] = 60,
+							["done"] = 8,
+							["role"] = "NONE",
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 60,
+					["done"] = 8,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 60,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1433186708,
+			["damagetaken"] = 8,
+			["shielding"] = 0,
+			["name"] = "Worgen Sfrenato (5)",
+			["mobname"] = "Worgen Sfrenato",
+			["mobdone"] = 8,
+			["mobhdone"] = 0,
+			["last_action"] = 1433186708,
+			["multistrikes"] = 0,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 6,
+			["interrupts"] = 0,
+			["endtime"] = 1433186625,
+			["damage"] = 61,
+			["players"] = {
+				{
+					["last"] = 1433186624,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Worgen Sfrenato"] = 61,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 61,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["min"] = 14,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["id"] = 44614,
+							["max"] = 16,
+							["damage"] = 61,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-0769FB16",
+					["healing"] = 0,
+					["maxhp"] = 168,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 2,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 2,
+							["damage"] = 4,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 4,
+						},
+					},
+					["name"] = "Chiricu",
+					["damagetaken"] = 4,
+					["first"] = 1433186619,
+					["role"] = "NONE",
+					["time"] = 5,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Worgen Sfrenato"] = {
+					["players"] = {
+						["Chiricu"] = {
+							["taken"] = 61,
+							["done"] = 4,
+							["role"] = "NONE",
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 61,
+					["done"] = 4,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 61,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1433186619,
+			["damagetaken"] = 4,
+			["shielding"] = 0,
+			["name"] = "Worgen Sfrenato (4)",
+			["mobname"] = "Worgen Sfrenato",
+			["mobdone"] = 4,
+			["mobhdone"] = 0,
+			["last_action"] = 1433186619,
+			["multistrikes"] = 0,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 10,
+			["interrupts"] = 0,
+			["endtime"] = 1433186574,
+			["damage"] = 64,
+			["players"] = {
+				{
+					["last"] = 1433186573,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Worgen Sfrenato"] = 64,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 64,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["min"] = 15,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["id"] = 44614,
+							["max"] = 17,
+							["damage"] = 64,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-0769FB16",
+					["healing"] = 0,
+					["maxhp"] = 154,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 1,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 4,
+							["resisted"] = 0,
+							["max"] = 2,
+							["damage"] = 7,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 6,
+						},
+					},
+					["name"] = "Chiricu",
+					["damagetaken"] = 7,
+					["first"] = 1433186566,
+					["role"] = "NONE",
+					["time"] = 7,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Worgen Sfrenato"] = {
+					["players"] = {
+						["Chiricu"] = {
+							["taken"] = 64,
+							["done"] = 7,
+							["role"] = "NONE",
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 64,
+					["done"] = 7,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 64,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1433186564,
+			["damagetaken"] = 7,
+			["shielding"] = 0,
+			["name"] = "Worgen Sfrenato (3)",
+			["mobname"] = "Worgen Sfrenato",
+			["mobdone"] = 7,
+			["mobhdone"] = 0,
+			["last_action"] = 1433186564,
+			["multistrikes"] = 0,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 8,
+			["interrupts"] = 0,
+			["endtime"] = 1433186562,
+			["damage"] = 44,
+			["players"] = {
+				{
+					["last"] = 1433186560,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Worgen Sfrenato"] = 44,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 44,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["min"] = 14,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 44614,
+							["max"] = 16,
+							["damage"] = 44,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-0769FB16",
+					["healing"] = 0,
+					["maxhp"] = 154,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 2,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 2,
+							["damage"] = 2,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["name"] = "Chiricu",
+					["damagetaken"] = 2,
+					["first"] = 1433186557,
+					["role"] = "NONE",
+					["time"] = 3,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Worgen Sfrenato"] = {
+					["players"] = {
+						["Chiricu"] = {
+							["taken"] = 44,
+							["done"] = 2,
+							["role"] = "NONE",
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 44,
+					["done"] = 2,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 44,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1433186554,
+			["damagetaken"] = 2,
+			["shielding"] = 0,
+			["name"] = "Worgen Sfrenato (2)",
+			["mobname"] = "Worgen Sfrenato",
+			["mobdone"] = 2,
+			["mobhdone"] = 0,
+			["last_action"] = 1433186554,
+			["multistrikes"] = 0,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 6,
+			["interrupts"] = 0,
+			["endtime"] = 1433186526,
+			["damage"] = 44,
+			["players"] = {
+				{
+					["last"] = 1433186524,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Worgen Sfrenato"] = 44,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 44,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["min"] = 14,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 44614,
+							["max"] = 15,
+							["damage"] = 44,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-0769FB16",
+					["healing"] = 0,
+					["maxhp"] = 154,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["name"] = "Chiricu",
+					["damagetaken"] = 0,
+					["first"] = 1433186521,
+					["role"] = "NONE",
+					["time"] = 3,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Worgen Sfrenato"] = {
+					["players"] = {
+						["Chiricu"] = {
+							["taken"] = 44,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 44,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 44,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1433186520,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Worgen Sfrenato",
+			["mobname"] = "Worgen Sfrenato",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1433186520,
+			["multistrikes"] = 0,
+		}, -- [5]
+	},
+}

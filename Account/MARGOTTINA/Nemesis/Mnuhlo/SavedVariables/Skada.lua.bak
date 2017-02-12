@@ -1,0 +1,1038 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 67,
+		["interrupts"] = 0,
+		["damage"] = 1259,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "HUNTER",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["damage"] = 1259,
+				["damagespells"] = {
+					["Tartaruga: Attacco"] = {
+						["min"] = 8,
+						["critical"] = 7,
+						["hit"] = 27,
+						["totalhits"] = 34,
+						["id"] = 6603,
+						["max"] = 21,
+						["damage"] = 364,
+					},
+					["Tartaruga: Morso"] = {
+						["min"] = 8,
+						["critical"] = 2,
+						["hit"] = 18,
+						["totalhits"] = 20,
+						["id"] = 17253,
+						["max"] = 31,
+						["damage"] = 282,
+					},
+					["Tiro Automatico"] = {
+						["min"] = 14,
+						["critical"] = 5,
+						["hit"] = 21,
+						["totalhits"] = 26,
+						["id"] = 75,
+						["max"] = 31,
+						["damage"] = 469,
+					},
+					["Tiro Arcano"] = {
+						["min"] = 17,
+						["hit"] = 8,
+						["totalhits"] = 8,
+						["id"] = 3044,
+						["max"] = 19,
+						["damage"] = 144,
+					},
+				},
+				["ccbreaks"] = 0,
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "Player-1316-063CF761",
+				["healing"] = 0,
+				["maxhp"] = 195,
+				["damagetakenspells"] = {
+					["Attacco"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["min"] = 1,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Attacco",
+						["blocked"] = 0,
+						["totalhits"] = 17,
+						["resisted"] = 0,
+						["max"] = 2,
+						["damage"] = 18,
+					},
+					["Prendilo!"] = {
+						["crushing"] = 0,
+						["id"] = 109081,
+						["min"] = 10,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Prendilo!",
+						["blocked"] = 0,
+						["totalhits"] = 2,
+						["resisted"] = 0,
+						["max"] = 10,
+						["damage"] = 20,
+					},
+				},
+				["deathlog"] = {
+					{
+						["ts"] = 1416426726.698,
+						["amount"] = -1,
+						["hp"] = 223,
+						["spellid"] = 88163,
+						["srcname"] = "Piantagrane della Foglia d'Ambra",
+					}, -- [1]
+					{
+						["ts"] = 1416426735.13,
+						["amount"] = -1,
+						["hp"] = 224,
+						["spellid"] = 88163,
+						["srcname"] = "Piantagrane della Foglia d'Ambra",
+					}, -- [2]
+					{
+						["ts"] = 1416426735.13,
+						["amount"] = -1,
+						["hp"] = 224,
+						["spellid"] = 88163,
+						["srcname"] = "Piantagrane della Foglia d'Ambra",
+					}, -- [3]
+					{
+						["ts"] = 1416426737.134,
+						["amount"] = -1,
+						["hp"] = 222,
+						["spellid"] = 88163,
+						["srcname"] = "Piantagrane della Foglia d'Ambra",
+					}, -- [4]
+					{
+						["ts"] = 1416426668.263,
+						["amount"] = -1,
+						["hp"] = 222,
+						["spellid"] = 88163,
+						["srcname"] = "Piantagrane della Foglia d'Ambra",
+					}, -- [5]
+					{
+						["ts"] = 1416426676.986,
+						["amount"] = -2,
+						["hp"] = 221,
+						["spellid"] = 88163,
+						["srcname"] = "Piantagrane della Foglia d'Ambra",
+					}, -- [6]
+					{
+						["ts"] = 1416426678.98,
+						["amount"] = -1,
+						["hp"] = 219,
+						["spellid"] = 88163,
+						["srcname"] = "Piantagrane della Foglia d'Ambra",
+					}, -- [7]
+					{
+						["ts"] = 1416426680.995,
+						["amount"] = -1,
+						["hp"] = 218,
+						["spellid"] = 88163,
+						["srcname"] = "Piantagrane della Foglia d'Ambra",
+					}, -- [8]
+					{
+						["ts"] = 1416426687.027,
+						["amount"] = -1,
+						["hp"] = 224,
+						["spellid"] = 88163,
+						["srcname"] = "Piantagrane della Foglia d'Ambra",
+					}, -- [9]
+					{
+						["ts"] = 1416426687.534,
+						["amount"] = -1,
+						["hp"] = 223,
+						["spellid"] = 88163,
+						["srcname"] = "Piantagrane della Foglia d'Ambra",
+					}, -- [10]
+					{
+						["ts"] = 1416426689.525,
+						["amount"] = -1,
+						["hp"] = 222,
+						["spellid"] = 88163,
+						["srcname"] = "Piantagrane della Foglia d'Ambra",
+					}, -- [11]
+					{
+						["ts"] = 1416426700.285,
+						["amount"] = -1,
+						["hp"] = 224,
+						["spellid"] = 88163,
+						["srcname"] = "Piantagrane della Foglia d'Ambra",
+					}, -- [12]
+					{
+						["ts"] = 1416426703.091,
+						["amount"] = -1,
+						["hp"] = 223,
+						["spellid"] = 88163,
+						["srcname"] = "Piantagrane della Foglia d'Ambra",
+					}, -- [13]
+					{
+						["ts"] = 1416426712.935,
+						["amount"] = -1,
+						["hp"] = 222,
+						["spellid"] = 88163,
+						["srcname"] = "Piantagrane della Foglia d'Ambra",
+					}, -- [14]
+					{
+						["ts"] = 1416426724.711,
+						["amount"] = -1,
+						["hp"] = 224,
+						["spellid"] = 88163,
+						["srcname"] = "Piantagrane della Foglia d'Ambra",
+					}, -- [15]
+					["pos"] = 5,
+				},
+				["power"] = {
+				},
+				["name"] = "Mnuhlo",
+				["auras"] = {
+					["Tartaruga: Ringhio"] = {
+						["name"] = "Tartaruga: Ringhio",
+						["active"] = 0,
+						["id"] = 2649,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 14,
+					},
+					["Tartaruga: Carica"] = {
+						["name"] = "Tartaruga: Carica",
+						["active"] = 0,
+						["id"] = 61685,
+						["auratype"] = "BUFF",
+						["uptime"] = 2,
+					},
+				},
+				["damagetaken"] = 38,
+				["time"] = 72,
+				["multistrikes"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["Canaglia della Foglia d'Ambra"] = {
+				["players"] = {
+					["Mnuhlo"] = {
+						["taken"] = 681,
+						["done"] = 20,
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 681,
+				["done"] = 20,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Piantagrane della Foglia d'Ambra"] = {
+				["players"] = {
+					["Mnuhlo"] = {
+						["taken"] = 578,
+						["done"] = 18,
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 578,
+				["done"] = 18,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["mobtaken"] = 1259,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["starttime"] = 1416426460,
+		["damagetaken"] = 38,
+		["shielding"] = 0,
+		["name"] = "Totale",
+		["overhealing"] = 0,
+		["mobdone"] = 38,
+		["mobhdone"] = 0,
+		["last_action"] = 1416426460,
+		["multistrikes"] = 0,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 8,
+			["interrupts"] = 0,
+			["endtime"] = 1416426739,
+			["damage"] = 65,
+			["players"] = {
+				{
+					["last"] = 1416426738,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Piantagrane della Foglia d'Ambra"] = 65,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 65,
+					["damagespells"] = {
+						["Tartaruga: Attacco"] = {
+							["min"] = 8,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 6603,
+							["max"] = 9,
+							["damage"] = 26,
+						},
+						["Tiro Automatico"] = {
+							["min"] = 30,
+							["critical"] = 1,
+							["totalhits"] = 1,
+							["id"] = 75,
+							["max"] = 30,
+							["damage"] = 30,
+						},
+						["Tartaruga: Morso"] = {
+							["min"] = 9,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 17253,
+							["max"] = 9,
+							["damage"] = 9,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-063CF761",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 1,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 3,
+							["resisted"] = 0,
+							["max"] = 1,
+							["damage"] = 3,
+						},
+					},
+					["maxhp"] = 224,
+					["power"] = {
+					},
+					["name"] = "Mnuhlo",
+					["auras"] = {
+						["Tartaruga: Ringhio"] = {
+							["name"] = "Tartaruga: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 0,
+						},
+					},
+					["damagetaken"] = 3,
+					["first"] = 1416426733,
+					["time"] = 5,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Piantagrane della Foglia d'Ambra"] = {
+					["players"] = {
+						["Mnuhlo"] = {
+							["taken"] = 65,
+							["done"] = 3,
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 65,
+					["done"] = 3,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 65,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1416426731,
+			["damagetaken"] = 3,
+			["shielding"] = 0,
+			["name"] = "Piantagrane della Foglia d'Ambra (6)",
+			["mobname"] = "Piantagrane della Foglia d'Ambra",
+			["mobdone"] = 3,
+			["mobhdone"] = 0,
+			["last_action"] = 1416426731,
+			["multistrikes"] = 0,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 9,
+			["interrupts"] = 0,
+			["endtime"] = 1416426728,
+			["damage"] = 122,
+			["players"] = {
+				{
+					["last"] = 1416426728,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Piantagrane della Foglia d'Ambra"] = 122,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 122,
+					["damagespells"] = {
+						["Tartaruga: Attacco"] = {
+							["min"] = 8,
+							["critical"] = 2,
+							["hit"] = 2,
+							["totalhits"] = 4,
+							["id"] = 6603,
+							["max"] = 17,
+							["damage"] = 51,
+						},
+						["Tiro Automatico"] = {
+							["min"] = 15,
+							["critical"] = 1,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["id"] = 75,
+							["max"] = 31,
+							["damage"] = 62,
+						},
+						["Tartaruga: Morso"] = {
+							["min"] = 9,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 17253,
+							["max"] = 9,
+							["damage"] = 9,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-063CF761",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 1,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 1,
+							["damage"] = 2,
+						},
+					},
+					["maxhp"] = 224,
+					["power"] = {
+					},
+					["name"] = "Mnuhlo",
+					["auras"] = {
+						["Tartaruga: Ringhio"] = {
+							["name"] = "Tartaruga: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 0,
+						},
+					},
+					["damagetaken"] = 2,
+					["first"] = 1416426720,
+					["time"] = 8,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Piantagrane della Foglia d'Ambra"] = {
+					["players"] = {
+						["Mnuhlo"] = {
+							["taken"] = 122,
+							["done"] = 2,
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 122,
+					["done"] = 2,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 122,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1416426719,
+			["damagetaken"] = 2,
+			["shielding"] = 0,
+			["name"] = "Piantagrane della Foglia d'Ambra (5)",
+			["mobname"] = "Piantagrane della Foglia d'Ambra",
+			["mobdone"] = 2,
+			["mobhdone"] = 0,
+			["last_action"] = 1416426719,
+			["multistrikes"] = 0,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["endtime"] = 1416426714,
+			["damage"] = 61,
+			["players"] = {
+				{
+					["last"] = 1416426713,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Piantagrane della Foglia d'Ambra"] = 61,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 61,
+					["damagespells"] = {
+						["Tartaruga: Attacco"] = {
+							["min"] = 9,
+							["critical"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["id"] = 6603,
+							["max"] = 21,
+							["damage"] = 30,
+						},
+						["Tiro Automatico"] = {
+							["min"] = 15,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 75,
+							["max"] = 15,
+							["damage"] = 15,
+						},
+						["Tartaruga: Morso"] = {
+							["min"] = 16,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 17253,
+							["max"] = 16,
+							["damage"] = 16,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-063CF761",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 1,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 1,
+							["damage"] = 1,
+						},
+					},
+					["maxhp"] = 224,
+					["power"] = {
+					},
+					["name"] = "Mnuhlo",
+					["auras"] = {
+						["Tartaruga: Ringhio"] = {
+							["name"] = "Tartaruga: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 2,
+						},
+						["Tartaruga: Carica"] = {
+							["name"] = "Tartaruga: Carica",
+							["active"] = 0,
+							["id"] = 61685,
+							["auratype"] = "BUFF",
+							["uptime"] = 1,
+						},
+					},
+					["damagetaken"] = 1,
+					["first"] = 1416426710,
+					["time"] = 3,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Piantagrane della Foglia d'Ambra"] = {
+					["players"] = {
+						["Mnuhlo"] = {
+							["taken"] = 61,
+							["done"] = 1,
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 61,
+					["done"] = 1,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 61,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1416426707,
+			["damagetaken"] = 1,
+			["shielding"] = 0,
+			["name"] = "Piantagrane della Foglia d'Ambra (4)",
+			["mobname"] = "Piantagrane della Foglia d'Ambra",
+			["mobdone"] = 1,
+			["mobhdone"] = 0,
+			["last_action"] = 1416426707,
+			["multistrikes"] = 0,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 12,
+			["interrupts"] = 0,
+			["endtime"] = 1416426707,
+			["damage"] = 58,
+			["players"] = {
+				{
+					["last"] = 1416426706,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Piantagrane della Foglia d'Ambra"] = 58,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 58,
+					["damagespells"] = {
+						["Tartaruga: Attacco"] = {
+							["min"] = 8,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 6603,
+							["max"] = 8,
+							["damage"] = 16,
+						},
+						["Tiro Automatico"] = {
+							["min"] = 16,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 75,
+							["max"] = 16,
+							["damage"] = 16,
+						},
+						["Tartaruga: Morso"] = {
+							["min"] = 10,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 17253,
+							["max"] = 16,
+							["damage"] = 26,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-063CF761",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 1,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 1,
+							["damage"] = 2,
+						},
+					},
+					["maxhp"] = 224,
+					["power"] = {
+					},
+					["name"] = "Mnuhlo",
+					["auras"] = {
+						["Tartaruga: Ringhio"] = {
+							["name"] = "Tartaruga: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 0,
+						},
+					},
+					["damagetaken"] = 2,
+					["first"] = 1416426700,
+					["time"] = 6,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Piantagrane della Foglia d'Ambra"] = {
+					["players"] = {
+						["Mnuhlo"] = {
+							["taken"] = 58,
+							["done"] = 2,
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 58,
+					["done"] = 2,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 58,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1416426695,
+			["damagetaken"] = 2,
+			["shielding"] = 0,
+			["name"] = "Piantagrane della Foglia d'Ambra (3)",
+			["mobname"] = "Piantagrane della Foglia d'Ambra",
+			["mobdone"] = 2,
+			["mobhdone"] = 0,
+			["last_action"] = 1416426695,
+			["multistrikes"] = 0,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["endtime"] = 1416426691,
+			["damage"] = 59,
+			["players"] = {
+				{
+					["last"] = 1416426690,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Piantagrane della Foglia d'Ambra"] = 59,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 59,
+					["damagespells"] = {
+						["Tartaruga: Attacco"] = {
+							["min"] = 9,
+							["critical"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["id"] = 6603,
+							["max"] = 17,
+							["damage"] = 26,
+						},
+						["Tiro Automatico"] = {
+							["min"] = 16,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 75,
+							["max"] = 16,
+							["damage"] = 16,
+						},
+						["Tartaruga: Morso"] = {
+							["min"] = 17,
+							["critical"] = 1,
+							["totalhits"] = 1,
+							["id"] = 17253,
+							["max"] = 17,
+							["damage"] = 17,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-063CF761",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 1,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 3,
+							["resisted"] = 0,
+							["max"] = 1,
+							["damage"] = 3,
+						},
+					},
+					["maxhp"] = 224,
+					["power"] = {
+					},
+					["name"] = "Mnuhlo",
+					["auras"] = {
+					},
+					["damagetaken"] = 3,
+					["first"] = 1416426687,
+					["time"] = 3,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Piantagrane della Foglia d'Ambra"] = {
+					["players"] = {
+						["Mnuhlo"] = {
+							["taken"] = 59,
+							["done"] = 3,
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 59,
+					["done"] = 3,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 59,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1416426684,
+			["damagetaken"] = 3,
+			["shielding"] = 0,
+			["name"] = "Piantagrane della Foglia d'Ambra (2)",
+			["mobname"] = "Piantagrane della Foglia d'Ambra",
+			["mobdone"] = 3,
+			["mobhdone"] = 0,
+			["last_action"] = 1416426684,
+			["multistrikes"] = 0,
+		}, -- [5]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 24,
+			["interrupts"] = 0,
+			["endtime"] = 1416426684,
+			["damage"] = 164,
+			["players"] = {
+				{
+					["last"] = 1416426683,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Piantagrane della Foglia d'Ambra"] = 164,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 164,
+					["damagespells"] = {
+						["Tartaruga: Attacco"] = {
+							["min"] = 8,
+							["hit"] = 7,
+							["totalhits"] = 7,
+							["id"] = 6603,
+							["max"] = 9,
+							["damage"] = 60,
+						},
+						["Tiro Automatico"] = {
+							["min"] = 16,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 75,
+							["max"] = 16,
+							["damage"] = 32,
+						},
+						["Tartaruga: Morso"] = {
+							["min"] = 8,
+							["critical"] = 1,
+							["hit"] = 3,
+							["totalhits"] = 4,
+							["id"] = 17253,
+							["max"] = 31,
+							["damage"] = 72,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-063CF761",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 1,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 6,
+							["resisted"] = 0,
+							["max"] = 2,
+							["damage"] = 7,
+						},
+					},
+					["maxhp"] = 224,
+					["power"] = {
+					},
+					["name"] = "Mnuhlo",
+					["auras"] = {
+						["Tartaruga: Ringhio"] = {
+							["name"] = "Tartaruga: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["damagetaken"] = 7,
+					["first"] = 1416426666,
+					["time"] = 17,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Piantagrane della Foglia d'Ambra"] = {
+					["players"] = {
+						["Mnuhlo"] = {
+							["taken"] = 164,
+							["done"] = 7,
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 164,
+					["done"] = 7,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 164,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1416426660,
+			["damagetaken"] = 7,
+			["shielding"] = 0,
+			["name"] = "Piantagrane della Foglia d'Ambra",
+			["mobname"] = "Piantagrane della Foglia d'Ambra",
+			["mobdone"] = 7,
+			["mobhdone"] = 0,
+			["last_action"] = 1416426660,
+			["multistrikes"] = 0,
+		}, -- [6]
+	},
+}

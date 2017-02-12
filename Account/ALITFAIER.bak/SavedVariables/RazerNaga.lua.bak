@@ -1,0 +1,11 @@
+
+RazerNagaDB = {
+	["profileKeys"] = {
+		["Àzzurrà - Nemesis"] = "Druida",
+	},
+	["profiles"] = {
+		["Druida"] = {
+		},
+	},
+}
+RazerNagaVersion = "2.7.2"

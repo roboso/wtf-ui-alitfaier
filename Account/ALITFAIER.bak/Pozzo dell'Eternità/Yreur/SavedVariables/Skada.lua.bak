@@ -1,0 +1,2610 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 520,
+		["interrupts"] = 0,
+		["damage"] = 2893,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "MAGE",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["damage"] = 2893,
+				["damagespells"] = {
+					["Attacco"] = {
+						["DODGE"] = 7,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 2,
+						["totalhits"] = 31,
+						["MISS"] = 0,
+						["damage"] = 271,
+						["DEFLECT"] = 0,
+						["id"] = 6603,
+						["max"] = 22,
+						["min"] = 9,
+						["PARRY"] = 1,
+						["critical"] = 1,
+						["hit"] = 20,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Esplosione Gelida"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 10,
+						["MISS"] = 0,
+						["damage"] = 130,
+						["DEFLECT"] = 0,
+						["id"] = 122,
+						["max"] = 13,
+						["min"] = 13,
+						["PARRY"] = 0,
+						["critical"] = 0,
+						["hit"] = 10,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Palla di Fuocogelo"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 127,
+						["MISS"] = 11,
+						["damage"] = 2492,
+						["DEFLECT"] = 0,
+						["id"] = 44614,
+						["max"] = 45,
+						["min"] = 15,
+						["PARRY"] = 0,
+						["critical"] = 9,
+						["hit"] = 107,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+				},
+				["deaths"] = {
+					{
+						["log"] = {
+							{
+								["ts"] = 1383065333.903,
+								["amount"] = -7,
+								["hp"] = 22,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Sfrenato",
+							}, -- [1]
+							{
+								["ts"] = 1383065335.966,
+								["amount"] = -7,
+								["hp"] = 15,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Sfrenato",
+							}, -- [2]
+							{
+								["ts"] = 1383065337.948,
+								["amount"] = -6,
+								["hp"] = 8,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Sfrenato",
+							}, -- [3]
+							{
+								["ts"] = 1383065338.151,
+								["amount"] = -5,
+								["hp"] = 8,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Sfrenato",
+							}, -- [4]
+							{
+								["ts"] = 1383065338.342,
+								["amount"] = -5,
+								["hp"] = 8,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Sfrenato",
+							}, -- [5]
+							{
+								["ts"] = 1383065338.709,
+								["amount"] = 0,
+								["spellname"] = "Yreur muore",
+								["hp"] = 0,
+								["spellid"] = 5384,
+							}, -- [6]
+							{
+								["ts"] = 1383065315.452,
+								["amount"] = -7,
+								["hp"] = 79,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Sfrenato",
+							}, -- [7]
+							{
+								["ts"] = 1383065317.402,
+								["amount"] = -6,
+								["hp"] = 72,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Sfrenato",
+							}, -- [8]
+							{
+								["ts"] = 1383065319.451,
+								["amount"] = -6,
+								["hp"] = 66,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Sfrenato",
+							}, -- [9]
+							{
+								["ts"] = 1383065321.969,
+								["amount"] = -7,
+								["hp"] = 60,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Sfrenato",
+							}, -- [10]
+							{
+								["ts"] = 1383065323.993,
+								["amount"] = -7,
+								["hp"] = 53,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Sfrenato",
+							}, -- [11]
+							{
+								["ts"] = 1383065325.88,
+								["amount"] = -6,
+								["hp"] = 46,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Sfrenato",
+							}, -- [12]
+							{
+								["ts"] = 1383065327.948,
+								["amount"] = -6,
+								["hp"] = 40,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Sfrenato",
+							}, -- [13]
+							{
+								["ts"] = 1383065330.018,
+								["amount"] = -6,
+								["hp"] = 34,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Sfrenato",
+							}, -- [14]
+							{
+								["ts"] = 1383065331.947,
+								["amount"] = -6,
+								["hp"] = 28,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Sfrenato",
+							}, -- [15]
+						},
+						["ts"] = 1383065338.709,
+					}, -- [1]
+					{
+						["log"] = {
+							{
+								["ts"] = 1383064409.77,
+								["amount"] = -9,
+								["hp"] = 36,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [1]
+							{
+								["ts"] = 1383064411.277,
+								["amount"] = -6,
+								["hp"] = 27,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [2]
+							{
+								["ts"] = 1383064412.847,
+								["amount"] = -8,
+								["hp"] = 21,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [3]
+							{
+								["ts"] = 1383064414.723,
+								["amount"] = -6,
+								["hp"] = 13,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [4]
+							{
+								["ts"] = 1383064414.835,
+								["amount"] = -8,
+								["hp"] = 13,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [5]
+							{
+								["ts"] = 1383064415.393,
+								["amount"] = 0,
+								["spellname"] = "Yreur muore",
+								["hp"] = 0,
+								["spellid"] = 5384,
+							}, -- [6]
+							{
+								["ts"] = 1383064400.197,
+								["amount"] = -6,
+								["hp"] = 111,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [7]
+							{
+								["ts"] = 1383064401.771,
+								["amount"] = -8,
+								["hp"] = 96,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [8]
+							{
+								["ts"] = 1383064402.285,
+								["amount"] = -7,
+								["hp"] = 96,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [9]
+							{
+								["ts"] = 1383064403.729,
+								["amount"] = -8,
+								["hp"] = 81,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [10]
+							{
+								["ts"] = 1383064404.211,
+								["amount"] = -6,
+								["hp"] = 81,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [11]
+							{
+								["ts"] = 1383064405.886,
+								["amount"] = -8,
+								["hp"] = 67,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [12]
+							{
+								["ts"] = 1383064406.178,
+								["amount"] = -7,
+								["hp"] = 67,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [13]
+							{
+								["ts"] = 1383064407.882,
+								["amount"] = -9,
+								["hp"] = 52,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [14]
+							{
+								["ts"] = 1383064409.244,
+								["amount"] = -7,
+								["hp"] = 43,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [15]
+						},
+						["ts"] = 1383064415.393,
+					}, -- [2]
+					{
+						["log"] = {
+							{
+								["ts"] = 1383064079.985,
+								["amount"] = -9,
+								["hp"] = 103,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [1]
+							{
+								["ts"] = 1383064082.056,
+								["amount"] = -9,
+								["hp"] = 94,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [2]
+							{
+								["ts"] = 1383064083.944,
+								["amount"] = -9,
+								["hp"] = 85,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [3]
+							{
+								["ts"] = 1383064086.003,
+								["amount"] = -9,
+								["hp"] = 76,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [4]
+							{
+								["ts"] = 1383064087.985,
+								["amount"] = -9,
+								["hp"] = 67,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [5]
+							{
+								["ts"] = 1383064089.969,
+								["amount"] = -9,
+								["hp"] = 58,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [6]
+							{
+								["ts"] = 1383064091.97,
+								["amount"] = -9,
+								["hp"] = 49,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [7]
+							{
+								["ts"] = 1383064093.912,
+								["amount"] = -8,
+								["hp"] = 40,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [8]
+							{
+								["ts"] = 1383064096.017,
+								["amount"] = -8,
+								["hp"] = 32,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [9]
+							{
+								["ts"] = 1383064097.989,
+								["amount"] = -8,
+								["hp"] = 24,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [10]
+							{
+								["ts"] = 1383064100.001,
+								["amount"] = -9,
+								["hp"] = 16,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [11]
+							{
+								["ts"] = 1383064101.551,
+								["amount"] = -10,
+								["hp"] = 7,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [12]
+							{
+								["ts"] = 1383064102.164,
+								["amount"] = 0,
+								["spellname"] = "Yreur muore",
+								["spellid"] = 5384,
+								["hp"] = 0,
+							}, -- [13]
+						},
+						["ts"] = 1383064102.164,
+					}, -- [3]
+					{
+						["log"] = {
+							{
+								["ts"] = 1383063964.201,
+								["amount"] = -9,
+								["hp"] = 53,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [1]
+							{
+								["ts"] = 1383063966.223,
+								["amount"] = -9,
+								["hp"] = 44,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [2]
+							{
+								["ts"] = 1383063968.25,
+								["amount"] = -7,
+								["hp"] = 35,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [3]
+							{
+								["ts"] = 1383063970.233,
+								["amount"] = -8,
+								["hp"] = 28,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [4]
+							{
+								["ts"] = 1383063972.207,
+								["amount"] = -9,
+								["hp"] = 20,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [5]
+							{
+								["ts"] = 1383063974.218,
+								["amount"] = -8,
+								["hp"] = 11,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [6]
+							{
+								["ts"] = 1383063976.158,
+								["amount"] = -9,
+								["hp"] = 3,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [7]
+							{
+								["ts"] = 1383063976.621,
+								["amount"] = 0,
+								["spellname"] = "Yreur muore",
+								["hp"] = 0,
+								["spellid"] = 5384,
+							}, -- [8]
+							{
+								["ts"] = 1383063934.403,
+								["amount"] = -6,
+								["hp"] = 52,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [9]
+							{
+								["ts"] = 1383063950.613,
+								["amount"] = -8,
+								["hp"] = 103,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [10]
+							{
+								["ts"] = 1383063952.723,
+								["amount"] = -9,
+								["hp"] = 95,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [11]
+							{
+								["ts"] = 1383063954.655,
+								["amount"] = -8,
+								["hp"] = 86,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [12]
+							{
+								["ts"] = 1383063956.701,
+								["amount"] = -8,
+								["hp"] = 78,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [13]
+							{
+								["ts"] = 1383063960.245,
+								["amount"] = -8,
+								["hp"] = 70,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [14]
+							{
+								["ts"] = 1383063962.217,
+								["amount"] = -9,
+								["hp"] = 62,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [15]
+						},
+						["ts"] = 1383063976.621,
+					}, -- [4]
+					{
+						["log"] = {
+							{
+								["ts"] = 1383063885.866,
+								["amount"] = -7,
+								["hp"] = 103,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [1]
+							{
+								["ts"] = 1383063886.388,
+								["amount"] = -9,
+								["hp"] = 96,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [2]
+							{
+								["ts"] = 1383063887.844,
+								["amount"] = -6,
+								["hp"] = 87,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [3]
+							{
+								["ts"] = 1383063888.377,
+								["amount"] = -10,
+								["hp"] = 81,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [4]
+							{
+								["ts"] = 1383063889.845,
+								["amount"] = -7,
+								["hp"] = 71,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [5]
+							{
+								["ts"] = 1383063890.385,
+								["amount"] = -9,
+								["hp"] = 64,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [6]
+							{
+								["ts"] = 1383063891.847,
+								["amount"] = -7,
+								["hp"] = 55,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [7]
+							{
+								["ts"] = 1383063892.412,
+								["amount"] = -8,
+								["hp"] = 48,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [8]
+							{
+								["ts"] = 1383063893.856,
+								["amount"] = -6,
+								["hp"] = 40,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [9]
+							{
+								["ts"] = 1383063894.374,
+								["amount"] = -9,
+								["hp"] = 34,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [10]
+							{
+								["ts"] = 1383063895.855,
+								["amount"] = -7,
+								["hp"] = 25,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [11]
+							{
+								["ts"] = 1383063896.338,
+								["amount"] = -8,
+								["hp"] = 18,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [12]
+							{
+								["ts"] = 1383063897.87,
+								["amount"] = -7,
+								["hp"] = 10,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [13]
+							{
+								["ts"] = 1383063898.328,
+								["amount"] = -9,
+								["hp"] = 3,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [14]
+							{
+								["ts"] = 1383063899.184,
+								["amount"] = 0,
+								["spellname"] = "Yreur muore",
+								["spellid"] = 5384,
+								["hp"] = 0,
+							}, -- [15]
+						},
+						["ts"] = 1383063899.184,
+					}, -- [5]
+				},
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "0x050000000550BFDB",
+				["healing"] = 0,
+				["ccbreaks"] = 0,
+				["damagetakenspells"] = {
+					["Attacco"] = {
+						["min"] = 4,
+						["name"] = "Attacco",
+						["id"] = 6603,
+						["max"] = 11,
+						["totalhits"] = 218,
+						["damage"] = 1530,
+					},
+				},
+				["maxhp"] = 103,
+				["deathlog"] = {
+				},
+				["name"] = "Yreur",
+				["power"] = {
+				},
+				["auras"] = {
+					["Esplosione Gelida"] = {
+						["name"] = "Esplosione Gelida",
+						["active"] = 0,
+						["id"] = 122,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 38,
+					},
+					["Palla di Fuocogelo"] = {
+						["name"] = "Palla di Fuocogelo",
+						["active"] = 0,
+						["id"] = 44614,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 329,
+					},
+				},
+				["damagetaken"] = 1530,
+				["time"] = 435,
+			}, -- [1]
+		},
+		["deaths"] = 5,
+		["damagetaken"] = 1530,
+		["shielding"] = 0,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["starttime"] = 1383063869,
+		["mobtaken"] = 2893,
+		["name"] = "Totale",
+		["mobs"] = {
+			["Ratto"] = {
+				["players"] = {
+					["Yreur"] = {
+						["taken"] = 55,
+						["done"] = 0,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 55,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Ser Darius Crowley"] = {
+				["players"] = {
+				},
+				["hdone"] = 1009,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 33883,
+						["hits"] = 151,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 8,
+						["healing"] = 1009,
+						["overhealing"] = 3819467,
+						["hits"] = 474,
+					},
+				},
+			},
+			["Tobias Foscomanto"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 2593,
+						["hits"] = 151,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Worgen Sfrenato"] = {
+				["players"] = {
+					["Yreur"] = {
+						["taken"] = 596,
+						["done"] = 360,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 596,
+				["done"] = 360,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Worgen Zannacremisi"] = {
+				["players"] = {
+					["Yreur"] = {
+						["taken"] = 2242,
+						["done"] = 1170,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 2242,
+				["done"] = 1170,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Guardia Reale di Gilneas"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 8,
+						["healing"] = 1009,
+						["overhealing"] = 3782991,
+						["hits"] = 172,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 1009,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["overhealing"] = 0,
+		["mobhdone"] = 1009,
+		["last_action"] = 1383063869,
+		["mobdone"] = 1530,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 80,
+			["interrupts"] = 0,
+			["damage"] = 216,
+			["players"] = {
+				{
+					["last"] = 1383065323,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Worgen Sfrenato"] = 216,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 216,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 2,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 8,
+							["MISS"] = 0,
+							["damage"] = 65,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 12,
+							["min"] = 10,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 6,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Esplosione Gelida"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 7,
+							["MISS"] = 0,
+							["damage"] = 91,
+							["DEFLECT"] = 0,
+							["id"] = 122,
+							["max"] = 13,
+							["min"] = 13,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 7,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 2,
+							["MISS"] = 0,
+							["damage"] = 60,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 31,
+							["min"] = 29,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 2,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["deaths"] = {
+						{
+							["log"] = {
+								{
+									["ts"] = 1383065338.342,
+									["amount"] = -5,
+									["hp"] = 8,
+									["spellid"] = 88163,
+									["srcname"] = "Worgen Sfrenato",
+								}, -- [1]
+								{
+									["ts"] = 1383065338.709,
+									["amount"] = 0,
+									["spellname"] = "Yreur muore",
+									["hp"] = 0,
+									["spellid"] = 5384,
+								}, -- [2]
+								{
+									["ts"] = 1383065315.452,
+									["amount"] = -7,
+									["hp"] = 79,
+									["spellid"] = 88163,
+									["srcname"] = "Worgen Sfrenato",
+								}, -- [3]
+								{
+									["ts"] = 1383065317.402,
+									["amount"] = -6,
+									["hp"] = 72,
+									["spellid"] = 88163,
+									["srcname"] = "Worgen Sfrenato",
+								}, -- [4]
+								{
+									["ts"] = 1383065319.451,
+									["amount"] = -6,
+									["hp"] = 66,
+									["spellid"] = 88163,
+									["srcname"] = "Worgen Sfrenato",
+								}, -- [5]
+								{
+									["ts"] = 1383065321.969,
+									["amount"] = -7,
+									["hp"] = 60,
+									["spellid"] = 88163,
+									["srcname"] = "Worgen Sfrenato",
+								}, -- [6]
+								{
+									["ts"] = 1383065323.993,
+									["amount"] = -7,
+									["hp"] = 53,
+									["spellid"] = 88163,
+									["srcname"] = "Worgen Sfrenato",
+								}, -- [7]
+								{
+									["ts"] = 1383065325.88,
+									["amount"] = -6,
+									["hp"] = 46,
+									["spellid"] = 88163,
+									["srcname"] = "Worgen Sfrenato",
+								}, -- [8]
+								{
+									["ts"] = 1383065327.948,
+									["amount"] = -6,
+									["hp"] = 40,
+									["spellid"] = 88163,
+									["srcname"] = "Worgen Sfrenato",
+								}, -- [9]
+								{
+									["ts"] = 1383065330.018,
+									["amount"] = -6,
+									["hp"] = 34,
+									["spellid"] = 88163,
+									["srcname"] = "Worgen Sfrenato",
+								}, -- [10]
+								{
+									["ts"] = 1383065331.947,
+									["amount"] = -6,
+									["hp"] = 28,
+									["spellid"] = 88163,
+									["srcname"] = "Worgen Sfrenato",
+								}, -- [11]
+								{
+									["ts"] = 1383065333.903,
+									["amount"] = -7,
+									["hp"] = 22,
+									["spellid"] = 88163,
+									["srcname"] = "Worgen Sfrenato",
+								}, -- [12]
+								{
+									["ts"] = 1383065335.966,
+									["amount"] = -7,
+									["hp"] = 15,
+									["spellid"] = 88163,
+									["srcname"] = "Worgen Sfrenato",
+								}, -- [13]
+								{
+									["ts"] = 1383065337.948,
+									["amount"] = -6,
+									["hp"] = 8,
+									["spellid"] = 88163,
+									["srcname"] = "Worgen Sfrenato",
+								}, -- [14]
+								{
+									["ts"] = 1383065338.151,
+									["amount"] = -5,
+									["hp"] = 8,
+									["spellid"] = 88163,
+									["srcname"] = "Worgen Sfrenato",
+								}, -- [15]
+							},
+							["ts"] = 1383065338.709,
+						}, -- [1]
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x050000000550BFDB",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 4,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 7,
+							["totalhits"] = 31,
+							["damage"] = 179,
+						},
+					},
+					["maxhp"] = 171,
+					["name"] = "Yreur",
+					["power"] = {
+					},
+					["auras"] = {
+						["Esplosione Gelida"] = {
+							["name"] = "Esplosione Gelida",
+							["active"] = 0,
+							["id"] = 122,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 24,
+						},
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 2,
+						},
+					},
+					["damagetaken"] = 179,
+					["first"] = 1383065243,
+					["time"] = 80,
+				}, -- [1]
+			},
+			["deaths"] = 1,
+			["damagetaken"] = 179,
+			["shielding"] = 0,
+			["endtime"] = 1383065323,
+			["healing"] = 0,
+			["mobs"] = {
+				["Worgen Sfrenato"] = {
+					["players"] = {
+						["Yreur"] = {
+							["taken"] = 216,
+							["done"] = 179,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 216,
+					["done"] = 179,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1383065243,
+			["mobtaken"] = 216,
+			["name"] = "Worgen Sfrenato",
+			["mobname"] = "Worgen Sfrenato",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1383065243,
+			["mobdone"] = 179,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 31,
+			["interrupts"] = 0,
+			["damage"] = 37,
+			["players"] = {
+				{
+					["last"] = 1383065230,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Worgen Sfrenato"] = 37,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 37,
+					["damagespells"] = {
+						["Esplosione Gelida"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 2,
+							["MISS"] = 0,
+							["damage"] = 26,
+							["DEFLECT"] = 0,
+							["id"] = 122,
+							["max"] = 13,
+							["min"] = 13,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 2,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 11,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 11,
+							["min"] = 11,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x050000000550BFDB",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 4,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 5,
+							["totalhits"] = 15,
+							["damage"] = 70,
+						},
+					},
+					["maxhp"] = 171,
+					["name"] = "Yreur",
+					["power"] = {
+					},
+					["auras"] = {
+						["Esplosione Gelida"] = {
+							["name"] = "Esplosione Gelida",
+							["active"] = 0,
+							["id"] = 122,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 8,
+						},
+					},
+					["damagetaken"] = 70,
+					["first"] = 1383065206,
+					["time"] = 24,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 70,
+			["shielding"] = 0,
+			["endtime"] = 1383065237,
+			["healing"] = 0,
+			["mobs"] = {
+				["Worgen Sfrenato"] = {
+					["players"] = {
+						["Yreur"] = {
+							["taken"] = 37,
+							["done"] = 70,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 37,
+					["done"] = 70,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1383065206,
+			["mobtaken"] = 37,
+			["name"] = "Worgen Sfrenato",
+			["mobname"] = "Worgen Sfrenato",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1383065206,
+			["mobdone"] = 70,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 13,
+			["interrupts"] = 0,
+			["damage"] = 101,
+			["players"] = {
+				{
+					["last"] = 1383065148,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Worgen Sfrenato"] = 101,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 101,
+					["damagespells"] = {
+						["Esplosione Gelida"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 13,
+							["DEFLECT"] = 0,
+							["id"] = 122,
+							["max"] = 13,
+							["min"] = 13,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 3,
+							["MISS"] = 0,
+							["damage"] = 88,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 30,
+							["min"] = 28,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 3,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x050000000550BFDB",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 4,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 5,
+							["totalhits"] = 2,
+							["damage"] = 9,
+						},
+					},
+					["maxhp"] = 171,
+					["name"] = "Yreur",
+					["power"] = {
+					},
+					["auras"] = {
+						["Esplosione Gelida"] = {
+							["name"] = "Esplosione Gelida",
+							["active"] = 0,
+							["id"] = 122,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 6,
+						},
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 5,
+						},
+					},
+					["damagetaken"] = 9,
+					["first"] = 1383065137,
+					["time"] = 11,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 9,
+			["shielding"] = 0,
+			["endtime"] = 1383065150,
+			["healing"] = 0,
+			["mobs"] = {
+				["Worgen Sfrenato"] = {
+					["players"] = {
+						["Yreur"] = {
+							["taken"] = 101,
+							["done"] = 9,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 101,
+					["done"] = 9,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1383065137,
+			["mobtaken"] = 101,
+			["name"] = "Worgen Sfrenato",
+			["mobname"] = "Worgen Sfrenato",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1383065137,
+			["mobdone"] = 9,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 21,
+			["interrupts"] = 0,
+			["damage"] = 127,
+			["players"] = {
+				{
+					["last"] = 1383065053,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Worgen Sfrenato"] = 127,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 127,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 1,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 2,
+							["MISS"] = 0,
+							["damage"] = 12,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 12,
+							["min"] = 12,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 5,
+							["MISS"] = 0,
+							["damage"] = 115,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 24,
+							["min"] = 22,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 5,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x050000000550BFDB",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 5,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 7,
+							["totalhits"] = 10,
+							["damage"] = 64,
+						},
+					},
+					["maxhp"] = 134,
+					["name"] = "Yreur",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 12,
+						},
+					},
+					["damagetaken"] = 64,
+					["first"] = 1383065035,
+					["time"] = 18,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 64,
+			["shielding"] = 0,
+			["endtime"] = 1383065055,
+			["healing"] = 0,
+			["mobs"] = {
+				["Worgen Sfrenato"] = {
+					["players"] = {
+						["Yreur"] = {
+							["taken"] = 127,
+							["done"] = 64,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 127,
+					["done"] = 64,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1383065034,
+			["mobtaken"] = 127,
+			["name"] = "Worgen Sfrenato",
+			["mobname"] = "Worgen Sfrenato",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1383065034,
+			["mobdone"] = 64,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 14,
+			["interrupts"] = 0,
+			["damage"] = 115,
+			["players"] = {
+				{
+					["last"] = 1383065027,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Worgen Sfrenato"] = 115,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 115,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 2,
+							["MISS"] = 0,
+							["damage"] = 24,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 12,
+							["min"] = 12,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 2,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 4,
+							["MISS"] = 0,
+							["damage"] = 91,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 24,
+							["min"] = 22,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 4,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x050000000550BFDB",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 6,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 7,
+							["totalhits"] = 6,
+							["damage"] = 38,
+						},
+					},
+					["maxhp"] = 134,
+					["name"] = "Yreur",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 6,
+						},
+					},
+					["damagetaken"] = 38,
+					["first"] = 1383065015,
+					["time"] = 12,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 38,
+			["shielding"] = 0,
+			["endtime"] = 1383065028,
+			["healing"] = 0,
+			["mobs"] = {
+				["Worgen Sfrenato"] = {
+					["players"] = {
+						["Yreur"] = {
+							["taken"] = 115,
+							["done"] = 38,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 115,
+					["done"] = 38,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1383065014,
+			["mobtaken"] = 115,
+			["name"] = "Worgen Sfrenato",
+			["mobname"] = "Worgen Sfrenato",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1383065014,
+			["mobdone"] = 38,
+		}, -- [5]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 18,
+			["interrupts"] = 0,
+			["damage"] = 141,
+			["players"] = {
+				{
+					["last"] = 1383064898,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Worgen Zannacremisi"] = 141,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 141,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 10,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 10,
+							["min"] = 10,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 6,
+							["MISS"] = 0,
+							["damage"] = 131,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 23,
+							["min"] = 21,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 6,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x050000000550BFDB",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 8,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 11,
+							["totalhits"] = 9,
+							["damage"] = 79,
+						},
+					},
+					["maxhp"] = 134,
+					["name"] = "Yreur",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 11,
+						},
+					},
+					["damagetaken"] = 79,
+					["first"] = 1383064882,
+					["time"] = 16,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 79,
+			["shielding"] = 0,
+			["endtime"] = 1383064899,
+			["healing"] = 0,
+			["mobs"] = {
+				["Guardia Reale di Gilneas"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 198000,
+							["hits"] = 9,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Worgen Zannacremisi"] = {
+					["players"] = {
+						["Yreur"] = {
+							["taken"] = 141,
+							["done"] = 79,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 141,
+					["done"] = 79,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Ser Darius Crowley"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 2018,
+							["hits"] = 9,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 200173,
+							["hits"] = 27,
+						},
+					},
+				},
+				["Tobias Foscomanto"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 155,
+							["hits"] = 9,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1383064881,
+			["mobtaken"] = 141,
+			["name"] = "Worgen Zannacremisi",
+			["mobname"] = "Worgen Zannacremisi",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1383064881,
+			["mobdone"] = 79,
+		}, -- [6]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 10,
+			["interrupts"] = 0,
+			["damage"] = 126,
+			["players"] = {
+				{
+					["last"] = 1383064869,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Worgen Zannacremisi"] = 126,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 126,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 13,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 13,
+							["min"] = 13,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 4,
+							["MISS"] = 0,
+							["damage"] = 113,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 45,
+							["min"] = 22,
+							["PARRY"] = 0,
+							["critical"] = 1,
+							["hit"] = 3,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x050000000550BFDB",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 6,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 6,
+							["totalhits"] = 2,
+							["damage"] = 12,
+						},
+					},
+					["maxhp"] = 134,
+					["name"] = "Yreur",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 8,
+						},
+					},
+					["damagetaken"] = 12,
+					["first"] = 1383064861,
+					["time"] = 8,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 12,
+			["shielding"] = 0,
+			["endtime"] = 1383064871,
+			["healing"] = 0,
+			["mobs"] = {
+				["Guardia Reale di Gilneas"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 110000,
+							["hits"] = 5,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Tobias Foscomanto"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 85,
+							["hits"] = 5,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Ser Darius Crowley"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 1123,
+							["hits"] = 5,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 111208,
+							["hits"] = 15,
+						},
+					},
+				},
+				["Worgen Zannacremisi"] = {
+					["players"] = {
+						["Yreur"] = {
+							["taken"] = 126,
+							["done"] = 12,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 126,
+					["done"] = 12,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1383064861,
+			["mobtaken"] = 126,
+			["name"] = "Worgen Zannacremisi",
+			["mobname"] = "Worgen Zannacremisi",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1383064861,
+			["mobdone"] = 12,
+		}, -- [7]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 10,
+			["interrupts"] = 0,
+			["damage"] = 115,
+			["players"] = {
+				{
+					["last"] = 1383064826,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Worgen Zannacremisi"] = 115,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 115,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 5,
+							["MISS"] = 0,
+							["damage"] = 115,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 24,
+							["min"] = 21,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 5,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x050000000550BFDB",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 6,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 7,
+							["totalhits"] = 3,
+							["damage"] = 19,
+						},
+					},
+					["maxhp"] = 134,
+					["name"] = "Yreur",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 8,
+						},
+					},
+					["damagetaken"] = 19,
+					["first"] = 1383064818,
+					["time"] = 8,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 19,
+			["shielding"] = 0,
+			["endtime"] = 1383064828,
+			["healing"] = 0,
+			["mobs"] = {
+				["Guardia Reale di Gilneas"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 4,
+							["crits"] = 0,
+							["max"] = 8,
+							["healing"] = 32,
+							["overhealing"] = 109968,
+							["hits"] = 5,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 32,
+					["hdonespell"] = {
+					},
+				},
+				["Tobias Foscomanto"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 86,
+							["hits"] = 5,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Ser Darius Crowley"] = {
+					["players"] = {
+					},
+					["hdone"] = 32,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 1122,
+							["hits"] = 5,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 8,
+							["healing"] = 32,
+							["overhealing"] = 111176,
+							["hits"] = 15,
+						},
+					},
+				},
+				["Worgen Zannacremisi"] = {
+					["players"] = {
+						["Yreur"] = {
+							["taken"] = 115,
+							["done"] = 19,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 115,
+					["done"] = 19,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1383064818,
+			["mobtaken"] = 115,
+			["name"] = "Worgen Zannacremisi",
+			["mobname"] = "Worgen Zannacremisi",
+			["overhealing"] = 0,
+			["mobhdone"] = 32,
+			["last_action"] = 1383064818,
+			["mobdone"] = 19,
+		}, -- [8]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 23,
+			["interrupts"] = 0,
+			["damage"] = 168,
+			["players"] = {
+				{
+					["last"] = 1383064806,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Worgen Zannacremisi"] = 168,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 168,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 12,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 12,
+							["min"] = 12,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 8,
+							["MISS"] = 2,
+							["damage"] = 156,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 45,
+							["min"] = 21,
+							["PARRY"] = 0,
+							["critical"] = 1,
+							["hit"] = 5,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x050000000550BFDB",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 7,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 9,
+							["totalhits"] = 11,
+							["damage"] = 90,
+						},
+					},
+					["maxhp"] = 134,
+					["name"] = "Yreur",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 13,
+						},
+					},
+					["damagetaken"] = 90,
+					["first"] = 1383064786,
+					["time"] = 20,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 90,
+			["shielding"] = 0,
+			["endtime"] = 1383064808,
+			["healing"] = 0,
+			["mobs"] = {
+				["Guardia Reale di Gilneas"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 6,
+							["crits"] = 0,
+							["max"] = 8,
+							["healing"] = 78,
+							["overhealing"] = 241922,
+							["hits"] = 11,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 78,
+					["hdonespell"] = {
+					},
+				},
+				["Worgen Zannacremisi"] = {
+					["players"] = {
+						["Yreur"] = {
+							["taken"] = 168,
+							["done"] = 90,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 168,
+					["done"] = 90,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Ser Darius Crowley"] = {
+					["players"] = {
+					},
+					["hdone"] = 78,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 2690,
+							["hits"] = 12,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 8,
+							["healing"] = 78,
+							["overhealing"] = 244817,
+							["hits"] = 35,
+						},
+					},
+				},
+				["Tobias Foscomanto"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 205,
+							["hits"] = 12,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1383064785,
+			["mobtaken"] = 168,
+			["name"] = "Worgen Zannacremisi",
+			["mobname"] = "Worgen Zannacremisi",
+			["overhealing"] = 0,
+			["mobhdone"] = 78,
+			["last_action"] = 1383064785,
+			["mobdone"] = 90,
+		}, -- [9]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 18,
+			["interrupts"] = 0,
+			["damage"] = 111,
+			["players"] = {
+				{
+					["last"] = 1383064774,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Worgen Zannacremisi"] = 111,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 111,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 22,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 22,
+							["min"] = 22,
+							["PARRY"] = 0,
+							["critical"] = 1,
+							["hit"] = 0,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 4,
+							["MISS"] = 0,
+							["damage"] = 89,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 23,
+							["min"] = 21,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 4,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x050000000550BFDB",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 7,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 7,
+							["totalhits"] = 4,
+							["damage"] = 28,
+						},
+					},
+					["maxhp"] = 134,
+					["name"] = "Yreur",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 12,
+						},
+					},
+					["damagetaken"] = 28,
+					["first"] = 1383064758,
+					["time"] = 16,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 28,
+			["shielding"] = 0,
+			["endtime"] = 1383064775,
+			["healing"] = 0,
+			["mobs"] = {
+				["Guardia Reale di Gilneas"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 6,
+							["crits"] = 0,
+							["max"] = 7,
+							["healing"] = 61,
+							["overhealing"] = 197939,
+							["hits"] = 9,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 61,
+					["hdonespell"] = {
+					},
+				},
+				["Worgen Zannacremisi"] = {
+					["players"] = {
+						["Yreur"] = {
+							["taken"] = 111,
+							["done"] = 28,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 111,
+					["done"] = 28,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Ser Darius Crowley"] = {
+					["players"] = {
+					},
+					["hdone"] = 61,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 674,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 7,
+							["healing"] = 61,
+							["overhealing"] = 198647,
+							["hits"] = 14,
+						},
+					},
+				},
+				["Tobias Foscomanto"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 34,
+							["hits"] = 2,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1383064757,
+			["mobtaken"] = 111,
+			["name"] = "Worgen Zannacremisi",
+			["mobname"] = "Worgen Zannacremisi",
+			["overhealing"] = 0,
+			["mobhdone"] = 61,
+			["last_action"] = 1383064757,
+			["mobdone"] = 28,
+		}, -- [10]
+	},
+}

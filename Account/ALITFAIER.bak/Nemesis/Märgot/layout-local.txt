@@ -1,0 +1,15 @@
+Version: 1
+Frame: DBMMinimapButton
+FrameLevel: 3
+Anchor: TOPRIGHT
+X: -136
+Y: -135
+W: 32
+H: 32
+Frame: WIM3_msgFrame1
+FrameLevel: 2
+Anchor: CENTER
+X: -273
+Y: -138
+W: 333
+H: 220

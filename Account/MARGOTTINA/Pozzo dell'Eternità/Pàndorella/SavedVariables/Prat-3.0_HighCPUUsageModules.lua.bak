@@ -1,0 +1,141 @@
+
+Prat3HighCPUPerCharDB = {
+	["time"] = 1402645491,
+	["scrollback"] = {
+		["ChatFrame1"] = {
+			{
+				"|cff979797[09:36:22]|r|c00000000|r |Hchannel:channel:2|h[2] |h Connessione al canale: |Hchannel:2|h[2. Generale - Passo Velato]|h", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				70, -- [5]
+			}, -- [1]
+			{
+				"|cff979797[09:36:22]|r|c00000000|r |Hchannel:channel:4|h[4] |h Connessione al canale: |Hchannel:4|h[4. DifesaLocale - Passo Velato]|h", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				72, -- [5]
+			}, -- [2]
+			{
+				"|cff979797[09:38:28]|r|c00000000|r |Hchannel:channel:2|h[2] |h Cambio di canale: |Hchannel:2|h[2. Generale - Santuario delle Sette Stelle]|h", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				70, -- [5]
+			}, -- [3]
+			{
+				"|cff979797[09:38:28]|r|c00000000|r |Hchannel:channel:3|h[3] |h Connessione al canale: |Hchannel:3|h[3. Commercio - Città]|h", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				71, -- [5]
+			}, -- [4]
+			{
+				"|cff979797[09:38:28]|r|c00000000|r |Hchannel:channel:4|h[4] |h Cambio di canale: |Hchannel:4|h[4. DifesaLocale - Santuario delle Sette Stelle]|h", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				72, -- [5]
+			}, -- [5]
+			{
+				"|cff979797[09:38:28]|r|c00000000|r |Hchannel:channel:5|h[5] |h Connessione al canale: |Hchannel:5|h[5. CercaGruppo]|h", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				73, -- [5]
+			}, -- [6]
+			{
+				"|cff979797[09:38:35]|r|c00000000|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Ganjelf:210:CHANNEL:3|h|cffc41e3aGanjelf|r|h|cffd8d8d8]|r: WTB  |cffffd000|Henchant:84428|h[Engineering: Gnomish X-Ray Scope]|h|r", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				71, -- [5]
+			}, -- [7]
+			{
+				"|cff979797[09:38:38]|r|c00000000|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Futza:217:CHANNEL:3|h|cff00ff96Futza|r|h|cffd8d8d8]|r: lf boost cap", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				71, -- [5]
+			}, -- [8]
+			{
+				"|cff979797[09:39:05]|r|c00000000|r Ciquito si è disconnesso.", -- [1]
+				1.000000059138984, -- [2]
+				1.000000059138984, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [9]
+			{
+				"|cff979797[09:39:32]|r|c00000000|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Hellpoison:291:CHANNEL:3|h|cff9382c9Hellpoison|r|h|cffd8d8d8]|r: LFM 1 tank 2 healersx Galakrass  550+", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				71, -- [5]
+			}, -- [10]
+			{
+				"|cff979797[09:40:19]|r|c00000000|r |Hchannel:channel:2|h[2] |h Cambio di canale: |Hchannel:2|h[2. Generale - Roccavento]|h", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				70, -- [5]
+			}, -- [11]
+			{
+				"|cff979797[09:40:19]|r|c00000000|r |Hchannel:channel:4|h[4] |h Cambio di canale: |Hchannel:4|h[4. DifesaLocale - Roccavento]|h", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				72, -- [5]
+			}, -- [12]
+			{
+				"|cff979797[09:40:29]|r|c00000000|r |Hchannel:channel:5|h[5] |h|cffd8d8d8[|r|Hplayer:Alk:391:CHANNEL:5|h|cfffff468Alk|r|h|cffd8d8d8]|r: qualcuno per cap arena?", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				73, -- [5]
+			}, -- [13]
+			{
+				"|cff979797[09:41:04]|r|c00000000|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Arthear:442:CHANNEL:3|h|cffc41e3aArthear|r|h|cffd8d8d8]|r: qualcuno vende  |cffffffff|Hitem:36916:0:0:0:0:0:0:415041664:77:0:0|h[Cobalt Bar]|h|r??", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				71, -- [5]
+			}, -- [14]
+			{
+				"|cff979797[09:41:12]|r|c00000000|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Klancy:461:CHANNEL:3|h|cfffff468Klancy|r|h|cffd8d8d8]|r: cerco LW e Alchemy", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				71, -- [5]
+			}, -- [15]
+			{
+				"|cff979797[09:41:13]|r|c00000000|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Cristianlann:463:CHANNEL:3|h|cffaad372Cristianlann|r|h|cffd8d8d8]|r: chi riesce a prirmeli  |cff1eff00|Hitem:88567:0:0:0:0:0:0:1657095936:90:0:0|h[Scrigno di Ectoferro]|h|r", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				71, -- [5]
+			}, -- [16]
+			{
+				"|cff979797[09:41:46]|r|c00000000|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Ganjelf:515:CHANNEL:3|h|cffc41e3aGanjelf|r|h|cffd8d8d8]|r: LF |cffffd000|Henchant:84428|h[Engineering: Gnomish X-Ray Scope]|h|r ho i materiali", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				71, -- [5]
+			}, -- [17]
+			{
+				"|cff979797[09:44:14]|r|c00000000|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Sølikøn:805:CHANNEL:3|h|cff0070ddSølikøn|r|h|cffd8d8d8]|r: Compro Item Maglia 561 Per Shamy Elemental", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				71, -- [5]
+			}, -- [18]
+			{
+				"|cff979797[09:44:51]|r|c00000000|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Hellpoison:886:CHANNEL:3|h|cff9382c9Hellpoison|r|h|cffd8d8d8]|r: mo561?", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				71, -- [5]
+			}, -- [19]
+		},
+	},
+}

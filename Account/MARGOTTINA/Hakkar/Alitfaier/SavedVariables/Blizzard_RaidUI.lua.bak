@@ -1,0 +1,23 @@
+
+RAID_PULLOUT_POSITIONS = {
+}
+RAID_SINGLE_POSITIONS = {
+	{
+		["y"] = 811.7645753829631,
+		["x"] = 142.554952920832,
+		["point"] = "TOP",
+		["relativePoint"] = "BOTTOMLEFT",
+		["settings"] = {
+		},
+		["name"] = "Sasus",
+	}, -- [1]
+	{
+		["y"] = 696.1763830543238,
+		["x"] = 192.7389200892617,
+		["point"] = "TOP",
+		["relativePoint"] = "BOTTOMLEFT",
+		["settings"] = {
+		},
+		["name"] = "Khamu",
+	}, -- [2]
+}

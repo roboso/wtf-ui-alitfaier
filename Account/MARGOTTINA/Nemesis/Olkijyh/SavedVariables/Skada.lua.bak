@@ -1,0 +1,811 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 141,
+		["interrupts"] = 0,
+		["damage"] = 794,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "WARLOCK",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["damage"] = 794,
+				["damagespells"] = {
+					["Tiro"] = {
+						["min"] = 1,
+						["critical"] = 1,
+						["hit"] = 23,
+						["totalhits"] = 24,
+						["id"] = 5019,
+						["max"] = 3,
+						["damage"] = 40,
+					},
+					["Dardo d'Ombra"] = {
+						["min"] = 32,
+						["critical"] = 1,
+						["hit"] = 21,
+						["totalhits"] = 22,
+						["id"] = 686,
+						["max"] = 65,
+						["damage"] = 754,
+					},
+				},
+				["ccbreaks"] = 0,
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "Player-1316-060FBB31",
+				["healing"] = 0,
+				["maxhp"] = 234,
+				["damagetakenspells"] = {
+					["Attacco"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["min"] = 5,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Attacco",
+						["blocked"] = 0,
+						["totalhits"] = 31,
+						["resisted"] = 0,
+						["max"] = 7,
+						["damage"] = 192,
+					},
+				},
+				["deathlog"] = {
+					{
+						["ts"] = 1417295445.145,
+						["amount"] = -6,
+						["hp"] = 221,
+						["spellid"] = 88163,
+						["srcname"] = "Reietto Invasore",
+					}, -- [1]
+					{
+						["ts"] = 1417295386.158,
+						["amount"] = -6,
+						["hp"] = 226,
+						["spellid"] = 88163,
+						["srcname"] = "Reietta Invasore",
+					}, -- [2]
+					{
+						["ts"] = 1417295387.165,
+						["amount"] = -6,
+						["hp"] = 220,
+						["spellid"] = 88163,
+						["srcname"] = "Reietto Invasore",
+					}, -- [3]
+					{
+						["ts"] = 1417295388.179,
+						["amount"] = -7,
+						["hp"] = 214,
+						["spellid"] = 88163,
+						["srcname"] = "Reietta Invasore",
+					}, -- [4]
+					{
+						["ts"] = 1417295389.168,
+						["amount"] = -7,
+						["hp"] = 207,
+						["spellid"] = 88163,
+						["srcname"] = "Reietto Invasore",
+					}, -- [5]
+					{
+						["ts"] = 1417295390.196,
+						["amount"] = -6,
+						["hp"] = 200,
+						["spellid"] = 88163,
+						["srcname"] = "Reietta Invasore",
+					}, -- [6]
+					{
+						["ts"] = 1417295391.141,
+						["amount"] = -6,
+						["hp"] = 194,
+						["spellid"] = 88163,
+						["srcname"] = "Reietto Invasore",
+					}, -- [7]
+					{
+						["ts"] = 1417295392.172,
+						["amount"] = -5,
+						["hp"] = 188,
+						["spellid"] = 88163,
+						["srcname"] = "Reietta Invasore",
+					}, -- [8]
+					{
+						["ts"] = 1417295395.211,
+						["amount"] = -6,
+						["hp"] = 183,
+						["spellid"] = 88163,
+						["srcname"] = "Reietto Invasore",
+					}, -- [9]
+					{
+						["ts"] = 1417295397.081,
+						["amount"] = -5,
+						["hp"] = 177,
+						["spellid"] = 88163,
+						["srcname"] = "Reietto Invasore",
+					}, -- [10]
+					{
+						["ts"] = 1417295430.999,
+						["amount"] = -5,
+						["hp"] = 252,
+						["spellid"] = 88163,
+						["srcname"] = "Reietto Invasore",
+					}, -- [11]
+					{
+						["ts"] = 1417295437.119,
+						["amount"] = -7,
+						["hp"] = 247,
+						["spellid"] = 88163,
+						["srcname"] = "Reietto Invasore",
+					}, -- [12]
+					{
+						["ts"] = 1417295439.121,
+						["amount"] = -5,
+						["hp"] = 240,
+						["spellid"] = 88163,
+						["srcname"] = "Reietto Invasore",
+					}, -- [13]
+					{
+						["ts"] = 1417295441.159,
+						["amount"] = -7,
+						["hp"] = 235,
+						["spellid"] = 88163,
+						["srcname"] = "Reietto Invasore",
+					}, -- [14]
+					{
+						["ts"] = 1417295443.131,
+						["amount"] = -7,
+						["hp"] = 228,
+						["spellid"] = 88163,
+						["srcname"] = "Reietto Invasore",
+					}, -- [15]
+					["pos"] = 2,
+				},
+				["power"] = {
+					[15] = {
+						["amount"] = 525,
+						["spells"] = {
+							[686] = 525,
+						},
+					},
+				},
+				["name"] = "Olkijyh",
+				["auras"] = {
+				},
+				["damagetaken"] = 192,
+				["time"] = 129,
+				["multistrikes"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["Reietto Invasore"] = {
+				["players"] = {
+					["Olkijyh"] = {
+						["taken"] = 493,
+						["done"] = 136,
+						["class"] = "WARLOCK",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 493,
+				["done"] = 136,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Reietta Invasore"] = {
+				["players"] = {
+					["Olkijyh"] = {
+						["taken"] = 301,
+						["done"] = 56,
+						["class"] = "WARLOCK",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 301,
+				["done"] = 56,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["mobtaken"] = 794,
+		["healing"] = 0,
+		["power"] = {
+			[15] = 525,
+		},
+		["starttime"] = 1417295261,
+		["damagetaken"] = 192,
+		["shielding"] = 0,
+		["name"] = "Totale",
+		["overhealing"] = 0,
+		["mobdone"] = 192,
+		["mobhdone"] = 0,
+		["last_action"] = 1417295261,
+		["multistrikes"] = 0,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 18,
+			["interrupts"] = 0,
+			["endtime"] = 1417295447,
+			["damage"] = 77,
+			["players"] = {
+				{
+					["last"] = 1417295446,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Reietto Invasore"] = 77,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 77,
+					["damagespells"] = {
+						["Dardo d'Ombra"] = {
+							["min"] = 33,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 686,
+							["max"] = 33,
+							["damage"] = 66,
+						},
+						["Tiro"] = {
+							["min"] = 1,
+							["hit"] = 6,
+							["totalhits"] = 6,
+							["id"] = 5019,
+							["max"] = 2,
+							["damage"] = 11,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-060FBB31",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 5,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 6,
+							["resisted"] = 0,
+							["max"] = 7,
+							["damage"] = 37,
+						},
+					},
+					["maxhp"] = 252,
+					["power"] = {
+						[15] = {
+							["amount"] = 50,
+							["spells"] = {
+								[686] = 50,
+							},
+						},
+					},
+					["name"] = "Olkijyh",
+					["auras"] = {
+					},
+					["damagetaken"] = 37,
+					["first"] = 1417295429,
+					["time"] = 17,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Reietto Invasore"] = {
+					["players"] = {
+						["Olkijyh"] = {
+							["taken"] = 77,
+							["done"] = 37,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 77,
+					["done"] = 37,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 77,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+				[15] = 50,
+			},
+			["starttime"] = 1417295429,
+			["damagetaken"] = 37,
+			["shielding"] = 0,
+			["name"] = "Reietto Invasore (4)",
+			["mobname"] = "Reietto Invasore",
+			["mobdone"] = 37,
+			["mobhdone"] = 0,
+			["last_action"] = 1417295429,
+			["multistrikes"] = 0,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 74,
+			["interrupts"] = 0,
+			["endtime"] = 1417295400,
+			["damage"] = 472,
+			["players"] = {
+				{
+					["last"] = 1417295399,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Reietta Invasore"] = 205,
+						["Reietto Invasore"] = 267,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 472,
+					["damagespells"] = {
+						["Dardo d'Ombra"] = {
+							["min"] = 32,
+							["critical"] = 1,
+							["hit"] = 12,
+							["totalhits"] = 13,
+							["id"] = 686,
+							["max"] = 65,
+							["damage"] = 463,
+						},
+						["Tiro"] = {
+							["min"] = 1,
+							["hit"] = 6,
+							["totalhits"] = 6,
+							["id"] = 5019,
+							["max"] = 2,
+							["damage"] = 9,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-060FBB31",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 5,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 18,
+							["resisted"] = 0,
+							["max"] = 7,
+							["damage"] = 112,
+						},
+					},
+					["maxhp"] = 234,
+					["power"] = {
+						[15] = {
+							["amount"] = 325,
+							["spells"] = {
+								[686] = 325,
+							},
+						},
+					},
+					["name"] = "Olkijyh",
+					["auras"] = {
+					},
+					["damagetaken"] = 112,
+					["first"] = 1417295327,
+					["time"] = 72,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Reietta Invasore"] = {
+					["players"] = {
+						["Olkijyh"] = {
+							["taken"] = 205,
+							["done"] = 56,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 205,
+					["done"] = 56,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Reietto Invasore"] = {
+					["players"] = {
+						["Olkijyh"] = {
+							["taken"] = 267,
+							["done"] = 56,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 267,
+					["done"] = 56,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 472,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+				[15] = 325,
+			},
+			["starttime"] = 1417295326,
+			["damagetaken"] = 112,
+			["shielding"] = 0,
+			["name"] = "Reietto Invasore (3)",
+			["mobname"] = "Reietto Invasore",
+			["mobdone"] = 112,
+			["mobhdone"] = 0,
+			["last_action"] = 1417295326,
+			["multistrikes"] = 0,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 33,
+			["interrupts"] = 0,
+			["endtime"] = 1417295321,
+			["damage"] = 83,
+			["players"] = {
+				{
+					["last"] = 1417295320,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Reietto Invasore"] = 83,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 83,
+					["damagespells"] = {
+						["Dardo d'Ombra"] = {
+							["min"] = 32,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 686,
+							["max"] = 33,
+							["damage"] = 65,
+						},
+						["Tiro"] = {
+							["min"] = 1,
+							["critical"] = 1,
+							["hit"] = 10,
+							["totalhits"] = 11,
+							["id"] = 5019,
+							["max"] = 3,
+							["damage"] = 18,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-060FBB31",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 5,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 7,
+							["resisted"] = 0,
+							["max"] = 7,
+							["damage"] = 43,
+						},
+					},
+					["maxhp"] = 234,
+					["power"] = {
+						[15] = {
+							["amount"] = 50,
+							["spells"] = {
+								[686] = 50,
+							},
+						},
+					},
+					["name"] = "Olkijyh",
+					["auras"] = {
+					},
+					["damagetaken"] = 43,
+					["first"] = 1417295290,
+					["time"] = 30,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Reietto Invasore"] = {
+					["players"] = {
+						["Olkijyh"] = {
+							["taken"] = 83,
+							["done"] = 43,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 83,
+					["done"] = 43,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 83,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+				[15] = 50,
+			},
+			["starttime"] = 1417295288,
+			["damagetaken"] = 43,
+			["shielding"] = 0,
+			["name"] = "Reietto Invasore (2)",
+			["mobname"] = "Reietto Invasore",
+			["mobdone"] = 43,
+			["mobhdone"] = 0,
+			["last_action"] = 1417295288,
+			["multistrikes"] = 0,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 9,
+			["interrupts"] = 0,
+			["endtime"] = 1417295287,
+			["damage"] = 66,
+			["players"] = {
+				{
+					["last"] = 1417295286,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Reietto Invasore"] = 66,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 66,
+					["damagespells"] = {
+						["Dardo d'Ombra"] = {
+							["min"] = 32,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 686,
+							["max"] = 32,
+							["damage"] = 64,
+						},
+						["Tiro"] = {
+							["min"] = 2,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 5019,
+							["max"] = 2,
+							["damage"] = 2,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-060FBB31",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 234,
+					["power"] = {
+						[15] = {
+							["amount"] = 50,
+							["spells"] = {
+								[686] = 50,
+							},
+						},
+					},
+					["name"] = "Olkijyh",
+					["auras"] = {
+					},
+					["damagetaken"] = 0,
+					["first"] = 1417295280,
+					["time"] = 6,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Reietto Invasore"] = {
+					["players"] = {
+						["Olkijyh"] = {
+							["taken"] = 66,
+							["done"] = 0,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 66,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 66,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+				[15] = 50,
+			},
+			["starttime"] = 1417295278,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Reietto Invasore",
+			["mobname"] = "Reietto Invasore",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1417295278,
+			["multistrikes"] = 0,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["endtime"] = 1417295268,
+			["damage"] = 96,
+			["players"] = {
+				{
+					["last"] = 1417295267,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Reietta Invasore"] = 96,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 96,
+					["damagespells"] = {
+						["Dardo d'Ombra"] = {
+							["min"] = 32,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 686,
+							["max"] = 32,
+							["damage"] = 96,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-060FBB31",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 234,
+					["power"] = {
+						[15] = {
+							["amount"] = 50,
+							["spells"] = {
+								[686] = 50,
+							},
+						},
+					},
+					["name"] = "Olkijyh",
+					["auras"] = {
+					},
+					["damagetaken"] = 0,
+					["first"] = 1417295263,
+					["time"] = 4,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Reietta Invasore"] = {
+					["players"] = {
+						["Olkijyh"] = {
+							["taken"] = 96,
+							["done"] = 0,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 96,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 96,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+				[15] = 50,
+			},
+			["starttime"] = 1417295261,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Reietta Invasore",
+			["mobname"] = "Reietta Invasore",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1417295261,
+			["multistrikes"] = 0,
+		}, -- [5]
+	},
+}

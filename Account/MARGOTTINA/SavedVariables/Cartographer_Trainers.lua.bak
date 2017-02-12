@@ -1,0 +1,10 @@
+
+Cartographer_TrainersDB = {
+	["factions"] = {
+		["Alliance"] = {
+			["notes"] = {
+				["version"] = 3,
+			},
+		},
+	},
+}

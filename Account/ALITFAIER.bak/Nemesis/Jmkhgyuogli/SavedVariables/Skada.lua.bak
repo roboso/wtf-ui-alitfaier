@@ -1,0 +1,1082 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 215,
+		["interrupts"] = 0,
+		["damage"] = 1702,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "SHAMAN",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["damage"] = 1702,
+				["damagespells"] = {
+					["Dardo Fulminante"] = {
+						["min"] = 16,
+						["EVADE"] = 6,
+						["critical"] = 2,
+						["hit"] = 87,
+						["totalhits"] = 95,
+						["id"] = 403,
+						["max"] = 36,
+						["damage"] = 1607,
+					},
+					["Attacco"] = {
+						["min"] = 10,
+						["EVADE"] = 3,
+						["critical"] = 1,
+						["hit"] = 7,
+						["totalhits"] = 11,
+						["id"] = 6603,
+						["max"] = 22,
+						["damage"] = 95,
+					},
+				},
+				["ccbreaks"] = 0,
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "Player-1316-071961D2",
+				["healing"] = 0,
+				["maxhp"] = 154,
+				["damagetakenspells"] = {
+					["Attacco"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["min"] = 1,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Attacco",
+						["blocked"] = 0,
+						["totalhits"] = 10,
+						["resisted"] = 0,
+						["max"] = 1,
+						["damage"] = 10,
+					},
+				},
+				["deathlog"] = {
+					{
+						["ts"] = 1418234445.197,
+						["amount"] = -1,
+						["hp"] = 154,
+						["spellid"] = 88163,
+						["srcname"] = "Verme Scavatore",
+					}, -- [1]
+					{
+						["ts"] = 1418234447.147,
+						["amount"] = -1,
+						["hp"] = 153,
+						["spellid"] = 88163,
+						["srcname"] = "Verme Scavatore",
+					}, -- [2]
+					{
+						["ts"] = 1418234476.127,
+						["amount"] = -1,
+						["hp"] = 154,
+						["spellid"] = 88163,
+						["srcname"] = "Verme Scavatore",
+					}, -- [3]
+					{
+						["ts"] = 1418234523.464,
+						["amount"] = -1,
+						["hp"] = 154,
+						["spellid"] = 88163,
+						["srcname"] = "Verme Scavatore",
+					}, -- [4]
+					{
+						["ts"] = 1418234561.387,
+						["amount"] = -1,
+						["hp"] = 154,
+						["spellid"] = 88163,
+						["srcname"] = "Verme Scavatore",
+					}, -- [5]
+					{
+						["ts"] = 1418234563.355,
+						["amount"] = -1,
+						["hp"] = 153,
+						["spellid"] = 88163,
+						["srcname"] = "Verme Scavatore",
+					}, -- [6]
+					{
+						["ts"] = 1418234565.271,
+						["amount"] = -1,
+						["hp"] = 152,
+						["spellid"] = 88163,
+						["srcname"] = "Verme Scavatore",
+					}, -- [7]
+					{
+						["ts"] = 1418234567.363,
+						["amount"] = -1,
+						["hp"] = 151,
+						["spellid"] = 88163,
+						["srcname"] = "Verme Scavatore",
+					}, -- [8]
+					{
+						["ts"] = 1418234569.369,
+						["amount"] = -1,
+						["hp"] = 150,
+						["spellid"] = 88163,
+						["srcname"] = "Verme Scavatore",
+					}, -- [9]
+					{
+						["ts"] = 1418234573.382,
+						["amount"] = -1,
+						["hp"] = 149,
+						["spellid"] = 88163,
+						["srcname"] = "Verme Scavatore",
+					}, -- [10]
+					["pos"] = 11,
+				},
+				["power"] = {
+				},
+				["name"] = "Jmkhgyuogli",
+				["auras"] = {
+				},
+				["damagetaken"] = 10,
+				["time"] = 183,
+				["multistrikes"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["Caccianoci Rabbioso 5000"] = {
+				["players"] = {
+					["Jmkhgyuogli"] = {
+						["taken"] = 11,
+						["done"] = 0,
+						["class"] = "SHAMAN",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 11,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Verme Scavatore"] = {
+				["players"] = {
+					["Jmkhgyuogli"] = {
+						["taken"] = 334,
+						["done"] = 10,
+						["class"] = "SHAMAN",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 334,
+				["done"] = 10,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Manichino d'Allenamento"] = {
+				["players"] = {
+					["Jmkhgyuogli"] = {
+						["taken"] = 1340,
+						["done"] = 0,
+						["class"] = "SHAMAN",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1340,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Ratto Nero"] = {
+				["players"] = {
+					["Jmkhgyuogli"] = {
+						["taken"] = 17,
+						["done"] = 0,
+						["class"] = "SHAMAN",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 17,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["mobtaken"] = 1702,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["starttime"] = 1418234444,
+		["damagetaken"] = 10,
+		["shielding"] = 0,
+		["name"] = "Totale",
+		["overhealing"] = 0,
+		["mobdone"] = 10,
+		["mobhdone"] = 0,
+		["last_action"] = 1418234444,
+		["multistrikes"] = 0,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 15,
+			["interrupts"] = 0,
+			["endtime"] = 1418235116,
+			["damage"] = 112,
+			["players"] = {
+				{
+					["last"] = 1418235115,
+					["healingabsorbed"] = 0,
+					["class"] = "SHAMAN",
+					["damaged"] = {
+						["Caccianoci Rabbioso 5000"] = 11,
+						["Manichino d'Allenamento"] = 101,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 112,
+					["damagespells"] = {
+						["Dardo Fulminante"] = {
+							["min"] = 18,
+							["critical"] = 1,
+							["hit"] = 3,
+							["totalhits"] = 4,
+							["id"] = 403,
+							["max"] = 36,
+							["damage"] = 90,
+						},
+						["Attacco"] = {
+							["min"] = 11,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 6603,
+							["max"] = 11,
+							["damage"] = 22,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-071961D2",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 168,
+					["power"] = {
+					},
+					["name"] = "Jmkhgyuogli",
+					["auras"] = {
+					},
+					["damagetaken"] = 0,
+					["first"] = 1418235102,
+					["time"] = 13,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Caccianoci Rabbioso 5000"] = {
+					["players"] = {
+						["Jmkhgyuogli"] = {
+							["taken"] = 11,
+							["done"] = 0,
+							["class"] = "SHAMAN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 11,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Manichino d'Allenamento"] = {
+					["players"] = {
+						["Jmkhgyuogli"] = {
+							["taken"] = 101,
+							["done"] = 0,
+							["class"] = "SHAMAN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 101,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 112,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1418235101,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Manichino d'Allenamento (8)",
+			["mobname"] = "Manichino d'Allenamento",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1418235101,
+			["multistrikes"] = 0,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 16,
+			["interrupts"] = 0,
+			["endtime"] = 1418235023,
+			["damage"] = 125,
+			["players"] = {
+				{
+					["last"] = 1418235017,
+					["healingabsorbed"] = 0,
+					["class"] = "SHAMAN",
+					["damaged"] = {
+						["Manichino d'Allenamento"] = 125,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 125,
+					["damagespells"] = {
+						["Dardo Fulminante"] = {
+							["min"] = 17,
+							["hit"] = 7,
+							["totalhits"] = 7,
+							["id"] = 403,
+							["max"] = 18,
+							["damage"] = 125,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-071961D2",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 168,
+					["power"] = {
+					},
+					["name"] = "Jmkhgyuogli",
+					["auras"] = {
+					},
+					["damagetaken"] = 0,
+					["first"] = 1418235007,
+					["time"] = 10,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Manichino d'Allenamento"] = {
+					["players"] = {
+						["Jmkhgyuogli"] = {
+							["taken"] = 125,
+							["done"] = 0,
+							["class"] = "SHAMAN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 125,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 125,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1418235007,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Manichino d'Allenamento (7)",
+			["mobname"] = "Manichino d'Allenamento",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1418235007,
+			["multistrikes"] = 0,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 66,
+			["interrupts"] = 0,
+			["endtime"] = 1418234975,
+			["damage"] = 502,
+			["players"] = {
+				{
+					["last"] = 1418234969,
+					["healingabsorbed"] = 0,
+					["class"] = "SHAMAN",
+					["damaged"] = {
+						["Manichino d'Allenamento"] = 502,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 502,
+					["damagespells"] = {
+						["Dardo Fulminante"] = {
+							["min"] = 17,
+							["hit"] = 28,
+							["totalhits"] = 28,
+							["id"] = 403,
+							["max"] = 18,
+							["damage"] = 502,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-071961D2",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 168,
+					["power"] = {
+					},
+					["name"] = "Jmkhgyuogli",
+					["auras"] = {
+					},
+					["damagetaken"] = 0,
+					["first"] = 1418234909,
+					["time"] = 60,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Manichino d'Allenamento"] = {
+					["players"] = {
+						["Jmkhgyuogli"] = {
+							["taken"] = 502,
+							["done"] = 0,
+							["class"] = "SHAMAN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 502,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 502,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1418234909,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Manichino d'Allenamento (6)",
+			["mobname"] = "Manichino d'Allenamento",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1418234909,
+			["multistrikes"] = 0,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 16,
+			["interrupts"] = 0,
+			["endtime"] = 1418234908,
+			["damage"] = 126,
+			["players"] = {
+				{
+					["last"] = 1418234902,
+					["healingabsorbed"] = 0,
+					["class"] = "SHAMAN",
+					["damaged"] = {
+						["Manichino d'Allenamento"] = 126,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 126,
+					["damagespells"] = {
+						["Dardo Fulminante"] = {
+							["min"] = 18,
+							["hit"] = 7,
+							["totalhits"] = 7,
+							["id"] = 403,
+							["max"] = 18,
+							["damage"] = 126,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-071961D2",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 168,
+					["power"] = {
+					},
+					["name"] = "Jmkhgyuogli",
+					["auras"] = {
+					},
+					["damagetaken"] = 0,
+					["first"] = 1418234892,
+					["time"] = 10,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Manichino d'Allenamento"] = {
+					["players"] = {
+						["Jmkhgyuogli"] = {
+							["taken"] = 126,
+							["done"] = 0,
+							["class"] = "SHAMAN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 126,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 126,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1418234892,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Manichino d'Allenamento (5)",
+			["mobname"] = "Manichino d'Allenamento",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1418234892,
+			["multistrikes"] = 0,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 9,
+			["interrupts"] = 0,
+			["endtime"] = 1418234823,
+			["damage"] = 72,
+			["players"] = {
+				{
+					["last"] = 1418234818,
+					["healingabsorbed"] = 0,
+					["class"] = "SHAMAN",
+					["damaged"] = {
+						["Manichino d'Allenamento"] = 72,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 72,
+					["damagespells"] = {
+						["Dardo Fulminante"] = {
+							["min"] = 18,
+							["critical"] = 1,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["id"] = 403,
+							["max"] = 36,
+							["damage"] = 72,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-071961D2",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 168,
+					["power"] = {
+					},
+					["name"] = "Jmkhgyuogli",
+					["auras"] = {
+					},
+					["damagetaken"] = 0,
+					["first"] = 1418234814,
+					["time"] = 4,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Manichino d'Allenamento"] = {
+					["players"] = {
+						["Jmkhgyuogli"] = {
+							["taken"] = 72,
+							["done"] = 0,
+							["class"] = "SHAMAN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 72,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 72,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1418234814,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Manichino d'Allenamento (4)",
+			["mobname"] = "Manichino d'Allenamento",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1418234814,
+			["multistrikes"] = 0,
+		}, -- [5]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 9,
+			["interrupts"] = 0,
+			["endtime"] = 1418234800,
+			["damage"] = 54,
+			["players"] = {
+				{
+					["last"] = 1418234795,
+					["healingabsorbed"] = 0,
+					["class"] = "SHAMAN",
+					["damaged"] = {
+						["Manichino d'Allenamento"] = 54,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 54,
+					["damagespells"] = {
+						["Dardo Fulminante"] = {
+							["min"] = 18,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 403,
+							["max"] = 18,
+							["damage"] = 54,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-071961D2",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 168,
+					["power"] = {
+					},
+					["name"] = "Jmkhgyuogli",
+					["auras"] = {
+					},
+					["damagetaken"] = 0,
+					["first"] = 1418234791,
+					["time"] = 4,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Manichino d'Allenamento"] = {
+					["players"] = {
+						["Jmkhgyuogli"] = {
+							["taken"] = 54,
+							["done"] = 0,
+							["class"] = "SHAMAN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 54,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 54,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1418234791,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Manichino d'Allenamento (3)",
+			["mobname"] = "Manichino d'Allenamento",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1418234791,
+			["multistrikes"] = 0,
+		}, -- [6]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 15,
+			["interrupts"] = 0,
+			["endtime"] = 1418234790,
+			["damage"] = 124,
+			["players"] = {
+				{
+					["last"] = 1418234785,
+					["healingabsorbed"] = 0,
+					["class"] = "SHAMAN",
+					["damaged"] = {
+						["Manichino d'Allenamento"] = 124,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 124,
+					["damagespells"] = {
+						["Dardo Fulminante"] = {
+							["min"] = 17,
+							["hit"] = 7,
+							["totalhits"] = 7,
+							["id"] = 403,
+							["max"] = 18,
+							["damage"] = 124,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-071961D2",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 168,
+					["power"] = {
+					},
+					["name"] = "Jmkhgyuogli",
+					["auras"] = {
+					},
+					["damagetaken"] = 0,
+					["first"] = 1418234775,
+					["time"] = 10,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Manichino d'Allenamento"] = {
+					["players"] = {
+						["Jmkhgyuogli"] = {
+							["taken"] = 124,
+							["done"] = 0,
+							["class"] = "SHAMAN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 124,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 124,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1418234775,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Manichino d'Allenamento (2)",
+			["mobname"] = "Manichino d'Allenamento",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1418234775,
+			["multistrikes"] = 0,
+		}, -- [7]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 35,
+			["interrupts"] = 0,
+			["endtime"] = 1418234774,
+			["damage"] = 236,
+			["players"] = {
+				{
+					["last"] = 1418234767,
+					["healingabsorbed"] = 0,
+					["class"] = "SHAMAN",
+					["damaged"] = {
+						["Manichino d'Allenamento"] = 236,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 236,
+					["damagespells"] = {
+						["Attacco"] = {
+							["min"] = 22,
+							["critical"] = 1,
+							["totalhits"] = 1,
+							["id"] = 6603,
+							["max"] = 22,
+							["damage"] = 22,
+						},
+						["Dardo Fulminante"] = {
+							["min"] = 17,
+							["hit"] = 12,
+							["totalhits"] = 12,
+							["id"] = 403,
+							["max"] = 18,
+							["damage"] = 214,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-071961D2",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 168,
+					["power"] = {
+					},
+					["name"] = "Jmkhgyuogli",
+					["auras"] = {
+					},
+					["damagetaken"] = 0,
+					["first"] = 1418234740,
+					["time"] = 27,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Manichino d'Allenamento"] = {
+					["players"] = {
+						["Jmkhgyuogli"] = {
+							["taken"] = 236,
+							["done"] = 0,
+							["class"] = "SHAMAN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 236,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 236,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1418234739,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Manichino d'Allenamento",
+			["mobname"] = "Manichino d'Allenamento",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1418234739,
+			["multistrikes"] = 0,
+		}, -- [8]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 34,
+			["interrupts"] = 0,
+			["endtime"] = 1418234576,
+			["damage"] = 84,
+			["players"] = {
+				{
+					["last"] = 1418234574,
+					["healingabsorbed"] = 0,
+					["class"] = "SHAMAN",
+					["damaged"] = {
+						["Verme Scavatore"] = 84,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 84,
+					["damagespells"] = {
+						["Dardo Fulminante"] = {
+							["min"] = 16,
+							["EVADE"] = 6,
+							["hit"] = 2,
+							["totalhits"] = 8,
+							["id"] = 403,
+							["max"] = 17,
+							["damage"] = 33,
+						},
+						["Attacco"] = {
+							["min"] = 10,
+							["EVADE"] = 3,
+							["hit"] = 5,
+							["totalhits"] = 8,
+							["id"] = 6603,
+							["max"] = 11,
+							["damage"] = 51,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-071961D2",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 1,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 6,
+							["resisted"] = 0,
+							["max"] = 1,
+							["damage"] = 6,
+						},
+					},
+					["maxhp"] = 154,
+					["power"] = {
+					},
+					["name"] = "Jmkhgyuogli",
+					["auras"] = {
+					},
+					["damagetaken"] = 6,
+					["first"] = 1418234543,
+					["time"] = 31,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Verme Scavatore"] = {
+					["players"] = {
+						["Jmkhgyuogli"] = {
+							["taken"] = 84,
+							["done"] = 6,
+							["class"] = "SHAMAN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 84,
+					["done"] = 6,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 84,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1418234542,
+			["damagetaken"] = 6,
+			["shielding"] = 0,
+			["name"] = "Verme Scavatore",
+			["mobname"] = "Verme Scavatore",
+			["mobdone"] = 6,
+			["mobhdone"] = 0,
+			["last_action"] = 1418234542,
+			["multistrikes"] = 0,
+		}, -- [9]
+	},
+}

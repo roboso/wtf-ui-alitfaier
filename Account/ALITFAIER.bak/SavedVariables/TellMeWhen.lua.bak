@@ -1,0 +1,174 @@
+
+TellMeWhenDB = {
+	["profileKeys"] = {
+		["Àzzurrà - Nemesis"] = "Àzzurrà - Nemesis 2",
+	},
+	["global"] = {
+		["TextLayouts"] = {
+			["icon1"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+			["TMW:textlayout:1K_ozO8LtsCE"] = {
+				{
+					["SkinAs"] = "HotKey",
+					["Anchors"] = {
+						{
+							["y"] = -2,
+							["x"] = -2,
+							["point"] = "TOPLEFT",
+							["relativePoint"] = "TOPLEFT",
+						}, -- [1]
+						{
+							["y"] = -2,
+							["x"] = -2,
+							["point"] = "TOPRIGHT",
+							["relativePoint"] = "TOPRIGHT",
+						}, -- [2]
+						["n"] = 2,
+					},
+					["StringName"] = "Binding/Label",
+				}, -- [1]
+				{
+					["SkinAs"] = "Count",
+					["Anchors"] = {
+						{
+							["y"] = 2,
+							["x"] = -2,
+							["point"] = "BOTTOMRIGHT",
+							["relativePoint"] = "BOTTOMRIGHT",
+						}, -- [1]
+					},
+					["StringName"] = "Stacks",
+					["DefaultText"] = "[Stacks:Hide(0)]",
+				}, -- [2]
+				["GUID"] = "TMW:textlayout:1K_ozO8LtsCE",
+				["n"] = 2,
+				["Name"] = "Icon Layout 3",
+			},
+			["bar2"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+			["TMW:textlayout:1K_oz06SqWWD"] = {
+				{
+					["SkinAs"] = "HotKey",
+					["Anchors"] = {
+						{
+							["y"] = -2,
+							["x"] = -2,
+							["point"] = "TOPLEFT",
+							["relativePoint"] = "TOPLEFT",
+						}, -- [1]
+						{
+							["y"] = -2,
+							["x"] = -2,
+							["point"] = "TOPRIGHT",
+							["relativePoint"] = "TOPRIGHT",
+						}, -- [2]
+						["n"] = 2,
+					},
+					["StringName"] = "Binding/Label",
+				}, -- [1]
+				{
+					["SkinAs"] = "Count",
+					["Anchors"] = {
+						{
+							["y"] = 2,
+							["x"] = -2,
+							["point"] = "BOTTOMRIGHT",
+							["relativePoint"] = "BOTTOMRIGHT",
+						}, -- [1]
+					},
+					["StringName"] = "Stacks",
+					["DefaultText"] = "[Stacks:Hide(0)]",
+				}, -- [2]
+				["GUID"] = "TMW:textlayout:1K_oz06SqWWD",
+				["n"] = 2,
+				["Name"] = "Icon Layout 2",
+			},
+		},
+		["HelpSettings"] = {
+			["CNDT_ANDOR_FIRSTSEE"] = true,
+			["CNDT_PARENTHESES_FIRSTSEE"] = true,
+			["SCROLLBAR_DROPDOWN"] = true,
+			["ICON_EXPORT_DOCOPY"] = true,
+			["ICON_POCKETWATCH_FIRSTSEE"] = true,
+			["SUG_FIRSTHELP"] = true,
+			["SIMPLEGSTAB"] = true,
+		},
+		["AllowCombatConfig"] = true,
+	},
+	["Version"] = 72506,
+	["profiles"] = {
+		["Àzzurrà - Nemesis"] = {
+			["Version"] = 72506,
+			["Groups"] = {
+				{
+					["GUID"] = "TMW:group:1K_oRa31cOOW",
+					["Point"] = {
+						["y"] = -29.7620483405989,
+						["point"] = "TOP",
+						["relativePoint"] = "TOP",
+						["x"] = 39.2279813855599,
+					},
+					["Scale"] = 3.88091516494751,
+					["OnlyInCombat"] = true,
+					["Enabled"] = false,
+					["Icons"] = {
+						{
+							["Type"] = "conditionicon",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										"", -- [1]
+									},
+								},
+							},
+							["CustomTex"] = "Fungo Selvaggio",
+							["Enabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "TOTEM1",
+									["PrtsBefore"] = 1,
+								}, -- [1]
+								{
+									["Type"] = "TOTEM2",
+									["AndOr"] = "OR",
+								}, -- [2]
+								{
+									["Type"] = "TOTEM3",
+									["PrtsAfter"] = 1,
+									["AndOr"] = "OR",
+								}, -- [3]
+								{
+									["Type"] = "COMBAT",
+									["Level"] = 1,
+								}, -- [4]
+								["n"] = 4,
+							},
+						}, -- [1]
+					},
+				}, -- [1]
+			},
+		},
+		["Àzzurrà - Nemesis 2"] = {
+			["Groups"] = {
+				{
+					["GUID"] = "TMW:group:1K_ozHMcg6yB",
+					["Point"] = {
+						["y"] = -39.1538696289063,
+						["point"] = "TOP",
+						["relativePoint"] = "TOP",
+						["x"] = 107.760925292969,
+					},
+				}, -- [1]
+			},
+			["Version"] = 72506,
+		},
+	},
+}

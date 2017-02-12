@@ -1,0 +1,533 @@
+
+Broker_H3DungeonCooldownsDB = {
+	["profileKeys"] = {
+		["Alitfaier - Hakkar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["ToonHasCD"] = {
+				["vanilla"] = {
+					["Alitfaier - Hakkar"] = true,
+				},
+				["bc"] = {
+					["Alitfaier - Hakkar"] = true,
+				},
+				["Alitfaier - Hakkar"] = true,
+				["cataclysm"] = {
+					["Alitfaier - Hakkar"] = true,
+				},
+				["wotlk"] = {
+					["Alitfaier - Hakkar"] = true,
+				},
+			},
+			["AccountCDs"] = {
+				["Hakkar"] = {
+					["Alitfaier"] = {
+						["cataclysm"] = {
+							{
+								"The Culling of Stratholme", -- [1]
+								41647348, -- [2]
+								29435, -- [3]
+								2, -- [4]
+								true, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								8, -- [11]
+							}, -- [1]
+						},
+						["wotlk"] = {
+							{
+								"Ahn'kahet: The Old Kingdom", -- [1]
+								41562769, -- [2]
+								0, -- [3]
+								2, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								15, -- [11]
+							}, -- [1]
+							{
+								"Drak'Tharon Keep", -- [1]
+								40522640, -- [2]
+								0, -- [3]
+								2, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								19, -- [11]
+							}, -- [2]
+							{
+								"Gundrak", -- [1]
+								41651372, -- [2]
+								29435, -- [3]
+								2, -- [4]
+								true, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								9, -- [11]
+							}, -- [3]
+							{
+								"Halls of Lightning", -- [1]
+								40992814, -- [2]
+								0, -- [3]
+								2, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								16, -- [11]
+							}, -- [4]
+							{
+								"Halls of Reflection", -- [1]
+								41525207, -- [2]
+								0, -- [3]
+								2, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								31, -- [11]
+							}, -- [5]
+							{
+								"Halls of Stone", -- [1]
+								41566996, -- [2]
+								0, -- [3]
+								2, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								26, -- [11]
+							}, -- [6]
+							{
+								"Icecrown Citadel", -- [1]
+								41147831, -- [2]
+								29435, -- [3]
+								1, -- [4]
+								true, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								true, -- [8]
+								10, -- [9]
+								"10 Player", -- [10]
+								3, -- [11]
+							}, -- [7]
+							{
+								"Icecrown Citadel", -- [1]
+								40872696, -- [2]
+								0, -- [3]
+								2, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								true, -- [8]
+								25, -- [9]
+								"25 Player", -- [10]
+								10, -- [11]
+							}, -- [8]
+							{
+								"Naxxramas", -- [1]
+								41076253, -- [2]
+								0, -- [3]
+								1, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								true, -- [8]
+								10, -- [9]
+								"10 Player", -- [10]
+								14, -- [11]
+							}, -- [9]
+							{
+								"Pit of Saron", -- [1]
+								41317695, -- [2]
+								0, -- [3]
+								2, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								30, -- [11]
+							}, -- [10]
+							{
+								"The Forge of Souls", -- [1]
+								41527039, -- [2]
+								0, -- [3]
+								2, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								29, -- [11]
+							}, -- [11]
+							{
+								"The Nexus", -- [1]
+								41565371, -- [2]
+								0, -- [3]
+								2, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								18, -- [11]
+							}, -- [12]
+							{
+								"The Oculus", -- [1]
+								41474225, -- [2]
+								0, -- [3]
+								2, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								22, -- [11]
+							}, -- [13]
+							{
+								"The Ruby Sanctum", -- [1]
+								39155047, -- [2]
+								0, -- [3]
+								1, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								true, -- [8]
+								10, -- [9]
+								"10 Player", -- [10]
+								21, -- [11]
+							}, -- [14]
+							{
+								"Trial of the Champion", -- [1]
+								41382453, -- [2]
+								0, -- [3]
+								2, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								34, -- [11]
+							}, -- [15]
+							{
+								"Trial of the Crusader", -- [1]
+								41309358, -- [2]
+								29435, -- [3]
+								1, -- [4]
+								true, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								true, -- [8]
+								10, -- [9]
+								"10 Player", -- [10]
+								4, -- [11]
+							}, -- [16]
+							{
+								"Ulduar", -- [1]
+								39259476, -- [2]
+								0, -- [3]
+								1, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								true, -- [8]
+								10, -- [9]
+								"10 Player", -- [10]
+								12, -- [11]
+							}, -- [17]
+							{
+								"Utgarde Keep", -- [1]
+								41336855, -- [2]
+								0, -- [3]
+								2, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								24, -- [11]
+							}, -- [18]
+							{
+								"Utgarde Pinnacle", -- [1]
+								41257484, -- [2]
+								0, -- [3]
+								2, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								20, -- [11]
+							}, -- [19]
+							{
+								"Violet Hold", -- [1]
+								41505184, -- [2]
+								0, -- [3]
+								2, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								27, -- [11]
+							}, -- [20]
+						},
+						["vanilla"] = {
+							{
+								"Auchindoun: Mana-Tombs", -- [1]
+								41592108, -- [2]
+								29435, -- [3]
+								2, -- [4]
+								true, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								6, -- [11]
+							}, -- [1]
+							{
+								"Hellfire Citadel: Ramparts", -- [1]
+								41116494, -- [2]
+								0, -- [3]
+								2, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								13, -- [11]
+							}, -- [2]
+							{
+								"Molten Core", -- [1]
+								40919172, -- [2]
+								0, -- [3]
+								1, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								true, -- [8]
+								40, -- [9]
+								"40 Player", -- [10]
+								17, -- [11]
+							}, -- [3]
+							{
+								"Zul'Gurub", -- [1]
+								40752897, -- [2]
+								0, -- [3]
+								1, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								true, -- [8]
+								20, -- [9]
+								"20 Player", -- [10]
+								25, -- [11]
+							}, -- [4]
+						},
+						["bc"] = {
+							{
+								"Auchindoun: Auchenai Crypts", -- [1]
+								40969571, -- [2]
+								0, -- [3]
+								2, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								33, -- [11]
+							}, -- [1]
+							{
+								"Auchindoun: Sethekk Halls", -- [1]
+								40970186, -- [2]
+								0, -- [3]
+								2, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								28, -- [11]
+							}, -- [2]
+							{
+								"Auchindoun: Shadow Labyrinth", -- [1]
+								40817292, -- [2]
+								0, -- [3]
+								2, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								32, -- [11]
+							}, -- [3]
+							{
+								"Hellfire Citadel: The Blood Furnace", -- [1]
+								41117939, -- [2]
+								0, -- [3]
+								2, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								35, -- [11]
+							}, -- [4]
+							{
+								"Hellfire Citadel: The Shattered Halls", -- [1]
+								41043604, -- [2]
+								0, -- [3]
+								2, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								23, -- [11]
+							}, -- [5]
+							{
+								"Karazhan", -- [1]
+								41162789, -- [2]
+								29435, -- [3]
+								1, -- [4]
+								true, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								true, -- [8]
+								10, -- [9]
+								"10 Player", -- [10]
+								1, -- [11]
+							}, -- [6]
+							{
+								"Magister's Terrace", -- [1]
+								40739258, -- [2]
+								0, -- [3]
+								2, -- [4]
+								false, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								11, -- [11]
+							}, -- [7]
+							{
+								"Tempest Keep: The Arcatraz", -- [1]
+								41636599, -- [2]
+								29435, -- [3]
+								2, -- [4]
+								true, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								7, -- [11]
+							}, -- [8]
+							{
+								"Tempest Keep: The Botanica", -- [1]
+								41615164, -- [2]
+								29435, -- [3]
+								2, -- [4]
+								true, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								2, -- [11]
+							}, -- [9]
+							{
+								"Tempest Keep: The Mechanar", -- [1]
+								41610857, -- [2]
+								29435, -- [3]
+								2, -- [4]
+								true, -- [5]
+								false, -- [6]
+								1280875744, -- [7]
+								false, -- [8]
+								5, -- [9]
+								"5 Player (Heroic)", -- [10]
+								5, -- [11]
+							}, -- [10]
+						},
+					},
+				},
+			},
+			["CharacterClasses"] = {
+				["Hakkar"] = {
+					["Alitfaier"] = "WARRIOR",
+				},
+			},
+			["CharacterTbl"] = {
+				["Hakkar"] = {
+					"Alitfaier", -- [1]
+				},
+			},
+			["REVISION"] = "017",
+			["SMFonts"] = {
+				["Morpheus"] = "Fonts\\MORPHEUS.TTF",
+				["Arial Narrow"] = "Fonts\\ARIALN.TTF",
+				["Skurri"] = "Fonts\\SKURRI.TTF",
+				["Friz Quadrata TT"] = "Fonts\\FRIZQT__.TTF",
+			},
+			["SMTextures"] = {
+				["LiteStep"] = "Interface\\AddOns\\Quartz\\textures\\LiteStep",
+				["Flat"] = "Interface\\Addons\\Recount\\Textures\\statusbar\\Flat",
+				["Blizzard"] = "Interface\\TargetingFrame\\UI-StatusBar",
+				["Armory"] = "Interface\\Addons\\Recount\\Textures\\statusbar\\Armory",
+				["Healbot"] = "Interface\\AddOns\\Quartz\\textures\\Healbot",
+				["Runes"] = "Interface\\AddOns\\Quartz\\textures\\Runes",
+				["Xeon"] = "Interface\\AddOns\\Quartz\\textures\\Xeon",
+				["Frost"] = "Interface\\AddOns\\Quartz\\textures\\Frost",
+				["Minimalist"] = "Interface\\Addons\\Recount\\Textures\\statusbar\\Minimalist",
+				["Otravi"] = "Interface\\Addons\\Recount\\Textures\\statusbar\\Otravi",
+				["Aluminium"] = "Interface\\Addons\\Recount\\Textures\\statusbar\\Aluminium",
+				["Empty"] = "Interface\\Addons\\Recount\\Textures\\statusbar\\Empty",
+				["BantoBar"] = "Interface\\Addons\\Recount\\Textures\\statusbar\\BantoBar",
+				["Rocks"] = "Interface\\AddOns\\Quartz\\textures\\Rocks",
+			},
+			["RealmTbl"] = {
+				"Hakkar", -- [1]
+			},
+			["tooltipHeight"] = 490,
+			["headerSize"] = 18,
+			["showLFDIcon"] = true,
+		},
+	},
+}

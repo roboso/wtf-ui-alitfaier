@@ -1,0 +1,2609 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 1002,
+		["interrupts"] = 0,
+		["damage"] = 5265,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "WARLOCK",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["damage"] = 5265,
+				["damagespells"] = {
+					["Attacco"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 1,
+						["totalhits"] = 12,
+						["MISS"] = 0,
+						["damage"] = 144,
+						["DEFLECT"] = 0,
+						["id"] = 6603,
+						["max"] = 21,
+						["min"] = 10,
+						["PARRY"] = 0,
+						["critical"] = 1,
+						["hit"] = 10,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Dardo d'Ombra"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 54,
+						["MISS"] = 0,
+						["damage"] = 2198,
+						["DEFLECT"] = 0,
+						["id"] = 686,
+						["max"] = 85,
+						["min"] = 22,
+						["PARRY"] = 0,
+						["critical"] = 1,
+						["hit"] = 53,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Azlop: Dardo di Fuoco"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 134,
+						["MISS"] = 8,
+						["damage"] = 2618,
+						["DEFLECT"] = 0,
+						["id"] = 3110,
+						["max"] = 51,
+						["min"] = 10,
+						["PARRY"] = 0,
+						["critical"] = 5,
+						["hit"] = 121,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Mastino di Gilneas: Attacco"] = {
+						["DODGE"] = 1,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 1,
+						["totalhits"] = 33,
+						["MISS"] = 0,
+						["damage"] = 195,
+						["DEFLECT"] = 0,
+						["id"] = 6603,
+						["max"] = 7,
+						["min"] = 4,
+						["PARRY"] = 1,
+						["critical"] = 0,
+						["hit"] = 30,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Corruzione"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 25,
+						["MISS"] = 3,
+						["damage"] = 110,
+						["DEFLECT"] = 0,
+						["id"] = 146739,
+						["max"] = 6,
+						["min"] = 4,
+						["PARRY"] = 0,
+						["critical"] = 0,
+						["hit"] = 22,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+				},
+				["deaths"] = {
+					{
+						["log"] = {
+							{
+								["ts"] = 1407244733.641,
+								["amount"] = -11,
+								["hp"] = 96,
+								["spellid"] = 88163,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [1]
+							{
+								["ts"] = 1407244735.651,
+								["amount"] = -11,
+								["hp"] = 85,
+								["spellid"] = 88163,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [2]
+							{
+								["ts"] = 1407244737.656,
+								["amount"] = -9,
+								["hp"] = 74,
+								["spellid"] = 88163,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [3]
+							{
+								["ts"] = 1407244739.675,
+								["amount"] = -11,
+								["hp"] = 65,
+								["spellid"] = 88163,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [4]
+							{
+								["ts"] = 1407244741.62,
+								["amount"] = -11,
+								["hp"] = 54,
+								["spellid"] = 88163,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [5]
+							{
+								["ts"] = 1407245222.705,
+								["amount"] = -8,
+								["hp"] = 43,
+								["spellid"] = 88163,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [6]
+							{
+								["ts"] = 1407245224.712,
+								["amount"] = -8,
+								["hp"] = 35,
+								["spellid"] = 88163,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [7]
+							{
+								["ts"] = 1407245226.712,
+								["amount"] = -7,
+								["hp"] = 27,
+								["spellid"] = 88163,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [8]
+							{
+								["ts"] = 1407245228.71,
+								["amount"] = -7,
+								["hp"] = 20,
+								["spellid"] = 88163,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [9]
+							{
+								["ts"] = 1407245230.716,
+								["amount"] = -8,
+								["hp"] = 13,
+								["spellid"] = 88163,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [10]
+							{
+								["ts"] = 1407245232.708,
+								["amount"] = -8,
+								["hp"] = 5,
+								["spellid"] = 88163,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [11]
+							{
+								["ts"] = 1407245233.149,
+								["amount"] = 0,
+								["spellname"] = "Dbvbfef muore",
+								["spellid"] = 5384,
+								["hp"] = 0,
+							}, -- [12]
+						},
+						["ts"] = 1407245233.149,
+					}, -- [1]
+					{
+						["log"] = {
+							{
+								["ts"] = 1407244672.188,
+								["amount"] = -11,
+								["hp"] = 79,
+								["spellid"] = 88163,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [1]
+							{
+								["ts"] = 1407244672.601,
+								["amount"] = -8,
+								["hp"] = 79,
+								["spellid"] = 88163,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [2]
+							{
+								["ts"] = 1407244673.798,
+								["amount"] = -12,
+								["hp"] = 60,
+								["spellid"] = 88163,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [3]
+							{
+								["ts"] = 1407244674.647,
+								["amount"] = -8,
+								["hp"] = 48,
+								["spellid"] = 88163,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [4]
+							{
+								["ts"] = 1407244675.315,
+								["amount"] = -12,
+								["hp"] = 48,
+								["spellid"] = 88163,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [5]
+							{
+								["ts"] = 1407244676.617,
+								["amount"] = -8,
+								["hp"] = 28,
+								["spellid"] = 88163,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [6]
+							{
+								["ts"] = 1407244676.887,
+								["amount"] = -12,
+								["hp"] = 28,
+								["spellid"] = 88163,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [7]
+							{
+								["ts"] = 1407244678.417,
+								["amount"] = -13,
+								["hp"] = 8,
+								["spellid"] = 88163,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [8]
+							{
+								["ts"] = 1407244679.013,
+								["spellid"] = 5384,
+								["amount"] = 0,
+								["spellname"] = "Dbvbfef muore",
+								["hp"] = 0,
+							}, -- [9]
+							{
+								["ts"] = 1407244668.58,
+								["amount"] = -1,
+								["hp"] = 106,
+								["spellid"] = 80514,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [10]
+							{
+								["ts"] = 1407244669.007,
+								["amount"] = -2,
+								["hp"] = 91,
+								["spellid"] = 80514,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [11]
+							{
+								["ts"] = 1407244669.317,
+								["amount"] = -2,
+								["hp"] = 89,
+								["spellid"] = 80514,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [12]
+							{
+								["ts"] = 1407244669.317,
+								["amount"] = -1,
+								["hp"] = 88,
+								["spellid"] = 80514,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [13]
+							{
+								["ts"] = 1407244669.779,
+								["amount"] = -1,
+								["hp"] = 87,
+								["spellid"] = 80514,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [14]
+							{
+								["ts"] = 1407244670.582,
+								["amount"] = -8,
+								["hp"] = 87,
+								["spellid"] = 88163,
+								["srcname"] = "Guardingo Zannacremisi",
+							}, -- [15]
+						},
+						["ts"] = 1407244679.013,
+					}, -- [2]
+				},
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "0x0500000006AAFA8E",
+				["healing"] = 0,
+				["ccbreaks"] = 0,
+				["damagetakenspells"] = {
+					["Attacco"] = {
+						["min"] = 2,
+						["name"] = "Attacco",
+						["id"] = 6603,
+						["max"] = 13,
+						["totalhits"] = 198,
+						["damage"] = 1218,
+					},
+					["Frenesia Imperitura"] = {
+						["min"] = 1,
+						["name"] = "Frenesia Imperitura",
+						["id"] = 80514,
+						["max"] = 2,
+						["totalhits"] = 28,
+						["damage"] = 36,
+					},
+				},
+				["maxhp"] = 113,
+				["deathlog"] = {
+				},
+				["name"] = "Dbvbfef",
+				["power"] = {
+				},
+				["auras"] = {
+					["Corruzione"] = {
+						["name"] = "Corruzione",
+						["active"] = 0,
+						["id"] = 146739,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 42,
+					},
+					["Disorientamento d'Evocazione"] = {
+						["name"] = "Disorientamento d'Evocazione",
+						["active"] = 0,
+						["id"] = 32752,
+						["auratype"] = "BUFF",
+						["uptime"] = 6,
+					},
+				},
+				["damagetaken"] = 1254,
+				["time"] = 954,
+			}, -- [1]
+		},
+		["deaths"] = 2,
+		["damagetaken"] = 1254,
+		["shielding"] = 0,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["starttime"] = 1407243191,
+		["mobtaken"] = 5265,
+		["name"] = "Totale",
+		["mobs"] = {
+			["Tobias Foscomanto"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 11,
+						["healing"] = 114,
+						["overhealing"] = 2659,
+						["hits"] = 161,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 114,
+				["hdonespell"] = {
+				},
+			},
+			["Guardingo Zannacremisi"] = {
+				["players"] = {
+					["Dbvbfef"] = {
+						["taken"] = 1124,
+						["done"] = 507,
+						["class"] = "WARLOCK",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1124,
+				["done"] = 507,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Worgen Alfa"] = {
+				["players"] = {
+					["Dbvbfef"] = {
+						["taken"] = 440,
+						["done"] = 184,
+						["class"] = "WARLOCK",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 440,
+				["done"] = 184,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Ser Darius Crowley"] = {
+				["players"] = {
+				},
+				["hdone"] = 1827,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 26,
+						["healing"] = 652,
+						["overhealing"] = 35035,
+						["hits"] = 159,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 652,
+				["hdonespell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 26,
+						["healing"] = 1827,
+						["overhealing"] = 3820633,
+						["hits"] = 492,
+					},
+				},
+			},
+			["Giovane Worgen"] = {
+				["players"] = {
+					["Dbvbfef"] = {
+						["taken"] = 1248,
+						["done"] = 221,
+						["class"] = "WARLOCK",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1248,
+				["done"] = 221,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Worgen Sfrenato"] = {
+				["players"] = {
+					["Dbvbfef"] = {
+						["taken"] = 727,
+						["done"] = 53,
+						["class"] = "WARLOCK",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 727,
+				["done"] = 53,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Pollo Spaventato"] = {
+				["players"] = {
+					["Dbvbfef"] = {
+						["taken"] = 32,
+						["done"] = 0,
+						["class"] = "WARLOCK",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 32,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Guardia Reale di Gilneas"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 8,
+						["healing"] = 1061,
+						["overhealing"] = 3782939,
+						["hits"] = 172,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 1061,
+				["hdonespell"] = {
+				},
+			},
+			["Worgen Zannacremisi"] = {
+				["players"] = {
+					["Dbvbfef"] = {
+						["taken"] = 1694,
+						["done"] = 289,
+						["class"] = "WARLOCK",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1694,
+				["done"] = 289,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["overhealing"] = 0,
+		["mobhdone"] = 1827,
+		["last_action"] = 1407243191,
+		["mobdone"] = 1254,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 502,
+			["interrupts"] = 0,
+			["damage"] = 220,
+			["players"] = {
+				{
+					["last"] = 1407245227,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Guardingo Zannacremisi"] = 220,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 220,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 1,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 11,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 11,
+							["min"] = 11,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 0,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Dardo d'Ombra"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 4,
+							["MISS"] = 0,
+							["damage"] = 209,
+							["DEFLECT"] = 0,
+							["id"] = 686,
+							["max"] = 53,
+							["min"] = 52,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 4,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["deaths"] = {
+						{
+							["log"] = {
+								{
+									["ts"] = 1407244733.641,
+									["amount"] = -11,
+									["hp"] = 96,
+									["spellid"] = 88163,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [1]
+								{
+									["ts"] = 1407244735.651,
+									["amount"] = -11,
+									["hp"] = 85,
+									["spellid"] = 88163,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [2]
+								{
+									["ts"] = 1407244737.656,
+									["amount"] = -9,
+									["hp"] = 74,
+									["spellid"] = 88163,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [3]
+								{
+									["ts"] = 1407244739.675,
+									["amount"] = -11,
+									["hp"] = 65,
+									["spellid"] = 88163,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [4]
+								{
+									["ts"] = 1407244741.62,
+									["amount"] = -11,
+									["hp"] = 54,
+									["spellid"] = 88163,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [5]
+								{
+									["ts"] = 1407245222.705,
+									["amount"] = -8,
+									["hp"] = 43,
+									["spellid"] = 88163,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [6]
+								{
+									["ts"] = 1407245224.712,
+									["amount"] = -8,
+									["hp"] = 35,
+									["spellid"] = 88163,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [7]
+								{
+									["ts"] = 1407245226.712,
+									["amount"] = -7,
+									["hp"] = 27,
+									["spellid"] = 88163,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [8]
+								{
+									["ts"] = 1407245228.71,
+									["amount"] = -7,
+									["hp"] = 20,
+									["spellid"] = 88163,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [9]
+								{
+									["ts"] = 1407245230.716,
+									["amount"] = -8,
+									["hp"] = 13,
+									["spellid"] = 88163,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [10]
+								{
+									["ts"] = 1407245232.708,
+									["amount"] = -8,
+									["hp"] = 5,
+									["spellid"] = 88163,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [11]
+								{
+									["ts"] = 1407245233.149,
+									["amount"] = 0,
+									["spellname"] = "Dbvbfef muore",
+									["spellid"] = 5384,
+									["hp"] = 0,
+								}, -- [12]
+							},
+							["ts"] = 1407245233.149,
+						}, -- [1]
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006AAFA8E",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 7,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 11,
+							["totalhits"] = 11,
+							["damage"] = 99,
+						},
+					},
+					["maxhp"] = 213,
+					["name"] = "Dbvbfef",
+					["power"] = {
+					},
+					["auras"] = {
+					},
+					["damagetaken"] = 99,
+					["first"] = 1407244727,
+					["time"] = 500,
+				}, -- [1]
+			},
+			["deaths"] = 1,
+			["damagetaken"] = 99,
+			["shielding"] = 0,
+			["endtime"] = 1407245227,
+			["healing"] = 0,
+			["mobs"] = {
+				["Guardingo Zannacremisi"] = {
+					["players"] = {
+						["Dbvbfef"] = {
+							["taken"] = 220,
+							["done"] = 99,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 220,
+					["done"] = 99,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1407244725,
+			["mobtaken"] = 220,
+			["name"] = "Guardingo Zannacremisi",
+			["mobname"] = "Guardingo Zannacremisi",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1407244725,
+			["mobdone"] = 99,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 40,
+			["interrupts"] = 0,
+			["damage"] = 200,
+			["players"] = {
+				{
+					["last"] = 1407244673,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Guardingo Zannacremisi"] = 200,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 200,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 3,
+							["MISS"] = 0,
+							["damage"] = 35,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 13,
+							["min"] = 11,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 3,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Azlop: Dardo di Fuoco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 7,
+							["MISS"] = 2,
+							["damage"] = 129,
+							["DEFLECT"] = 0,
+							["id"] = 3110,
+							["max"] = 26,
+							["min"] = 25,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 5,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Corruzione"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 6,
+							["MISS"] = 0,
+							["damage"] = 36,
+							["DEFLECT"] = 0,
+							["id"] = 146739,
+							["max"] = 6,
+							["min"] = 6,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 6,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["deaths"] = {
+						{
+							["log"] = {
+								{
+									["ts"] = 1407244679.013,
+									["amount"] = 0,
+									["spellname"] = "Dbvbfef muore",
+									["hp"] = 0,
+									["spellid"] = 5384,
+								}, -- [1]
+								{
+									["ts"] = 1407244668.58,
+									["amount"] = -1,
+									["hp"] = 106,
+									["spellid"] = 80514,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [2]
+								{
+									["ts"] = 1407244669.007,
+									["amount"] = -2,
+									["hp"] = 91,
+									["spellid"] = 80514,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [3]
+								{
+									["ts"] = 1407244669.317,
+									["amount"] = -2,
+									["hp"] = 89,
+									["spellid"] = 80514,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [4]
+								{
+									["ts"] = 1407244669.317,
+									["amount"] = -1,
+									["hp"] = 88,
+									["spellid"] = 80514,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [5]
+								{
+									["ts"] = 1407244669.779,
+									["amount"] = -1,
+									["hp"] = 87,
+									["spellid"] = 80514,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [6]
+								{
+									["ts"] = 1407244670.582,
+									["amount"] = -8,
+									["hp"] = 87,
+									["spellid"] = 88163,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [7]
+								{
+									["ts"] = 1407244672.188,
+									["amount"] = -11,
+									["hp"] = 79,
+									["spellid"] = 88163,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [8]
+								{
+									["ts"] = 1407244672.601,
+									["amount"] = -8,
+									["hp"] = 79,
+									["spellid"] = 88163,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [9]
+								{
+									["ts"] = 1407244673.798,
+									["amount"] = -12,
+									["hp"] = 60,
+									["spellid"] = 88163,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [10]
+								{
+									["ts"] = 1407244674.647,
+									["amount"] = -8,
+									["hp"] = 48,
+									["spellid"] = 88163,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [11]
+								{
+									["ts"] = 1407244675.315,
+									["amount"] = -12,
+									["hp"] = 48,
+									["spellid"] = 88163,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [12]
+								{
+									["ts"] = 1407244676.617,
+									["amount"] = -8,
+									["hp"] = 28,
+									["spellid"] = 88163,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [13]
+								{
+									["ts"] = 1407244676.887,
+									["amount"] = -12,
+									["hp"] = 28,
+									["spellid"] = 88163,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [14]
+								{
+									["ts"] = 1407244678.417,
+									["amount"] = -13,
+									["hp"] = 8,
+									["spellid"] = 88163,
+									["srcname"] = "Guardingo Zannacremisi",
+								}, -- [15]
+							},
+							["ts"] = 1407244679.013,
+						}, -- [1]
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006AAFA8E",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 8,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 13,
+							["totalhits"] = 19,
+							["damage"] = 193,
+						},
+						["Frenesia Imperitura"] = {
+							["min"] = 1,
+							["name"] = "Frenesia Imperitura",
+							["id"] = 80514,
+							["max"] = 2,
+							["totalhits"] = 11,
+							["damage"] = 14,
+						},
+					},
+					["maxhp"] = 213,
+					["name"] = "Dbvbfef",
+					["power"] = {
+					},
+					["auras"] = {
+						["Corruzione"] = {
+							["name"] = "Corruzione",
+							["active"] = 0,
+							["id"] = 146739,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 12,
+						},
+					},
+					["damagetaken"] = 207,
+					["first"] = 1407244635,
+					["time"] = 38,
+				}, -- [1]
+			},
+			["deaths"] = 1,
+			["damagetaken"] = 207,
+			["shielding"] = 0,
+			["endtime"] = 1407244673,
+			["healing"] = 0,
+			["mobs"] = {
+				["Guardingo Zannacremisi"] = {
+					["players"] = {
+						["Dbvbfef"] = {
+							["taken"] = 200,
+							["done"] = 207,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 200,
+					["done"] = 207,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1407244633,
+			["mobtaken"] = 200,
+			["name"] = "Guardingo Zannacremisi",
+			["mobname"] = "Guardingo Zannacremisi",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1407244633,
+			["mobdone"] = 207,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 59,
+			["interrupts"] = 0,
+			["damage"] = 480,
+			["players"] = {
+				{
+					["last"] = 1407244594,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Guardingo Zannacremisi"] = 480,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 480,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 2,
+							["MISS"] = 0,
+							["damage"] = 23,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 12,
+							["min"] = 11,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 2,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Dardo d'Ombra"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 6,
+							["MISS"] = 0,
+							["damage"] = 316,
+							["DEFLECT"] = 0,
+							["id"] = 686,
+							["max"] = 53,
+							["min"] = 52,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 6,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Mastino di Gilneas: Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 23,
+							["MISS"] = 0,
+							["damage"] = 141,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 7,
+							["min"] = 4,
+							["PARRY"] = 1,
+							["critical"] = 0,
+							["hit"] = 22,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006AAFA8E",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 7,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 10,
+							["totalhits"] = 17,
+							["damage"] = 138,
+						},
+						["Frenesia Imperitura"] = {
+							["min"] = 1,
+							["name"] = "Frenesia Imperitura",
+							["id"] = 80514,
+							["max"] = 2,
+							["totalhits"] = 17,
+							["damage"] = 22,
+						},
+					},
+					["maxhp"] = 213,
+					["name"] = "Dbvbfef",
+					["power"] = {
+					},
+					["auras"] = {
+					},
+					["damagetaken"] = 160,
+					["first"] = 1407244538,
+					["time"] = 56,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 160,
+			["shielding"] = 0,
+			["endtime"] = 1407244596,
+			["healing"] = 0,
+			["mobs"] = {
+				["Guardingo Zannacremisi"] = {
+					["players"] = {
+						["Dbvbfef"] = {
+							["taken"] = 480,
+							["done"] = 160,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 480,
+					["done"] = 160,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1407244537,
+			["mobtaken"] = 480,
+			["name"] = "Guardingo Zannacremisi",
+			["mobname"] = "Guardingo Zannacremisi",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1407244537,
+			["mobdone"] = 160,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 20,
+			["interrupts"] = 0,
+			["damage"] = 224,
+			["players"] = {
+				{
+					["last"] = 1407244530,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Guardingo Zannacremisi"] = 224,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 224,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 11,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 11,
+							["min"] = 11,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Dardo d'Ombra"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 3,
+							["MISS"] = 0,
+							["damage"] = 159,
+							["DEFLECT"] = 0,
+							["id"] = 686,
+							["max"] = 53,
+							["min"] = 53,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 3,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Mastino di Gilneas: Attacco"] = {
+							["DODGE"] = 1,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 1,
+							["totalhits"] = 10,
+							["MISS"] = 0,
+							["damage"] = 54,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 7,
+							["min"] = 5,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 8,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006AAFA8E",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 10,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 11,
+							["totalhits"] = 4,
+							["damage"] = 41,
+						},
+					},
+					["maxhp"] = 213,
+					["name"] = "Dbvbfef",
+					["power"] = {
+					},
+					["auras"] = {
+					},
+					["damagetaken"] = 41,
+					["first"] = 1407244511,
+					["time"] = 19,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 41,
+			["shielding"] = 0,
+			["endtime"] = 1407244531,
+			["healing"] = 0,
+			["mobs"] = {
+				["Guardingo Zannacremisi"] = {
+					["players"] = {
+						["Dbvbfef"] = {
+							["taken"] = 224,
+							["done"] = 41,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 224,
+					["done"] = 41,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1407244511,
+			["mobtaken"] = 224,
+			["name"] = "Guardingo Zannacremisi",
+			["mobname"] = "Guardingo Zannacremisi",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1407244511,
+			["mobdone"] = 41,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 199,
+			["interrupts"] = 0,
+			["damage"] = 1976,
+			["players"] = {
+				{
+					["last"] = 1407244427,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Giovane Worgen"] = 1144,
+						["Worgen Alfa"] = 440,
+						["Worgen Zannacremisi"] = 392,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 1976,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 10,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 10,
+							["min"] = 10,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Dardo d'Ombra"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 9,
+							["MISS"] = 0,
+							["damage"] = 386,
+							["DEFLECT"] = 0,
+							["id"] = 686,
+							["max"] = 43,
+							["min"] = 42,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 9,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Azlop: Dardo di Fuoco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 70,
+							["MISS"] = 3,
+							["damage"] = 1555,
+							["DEFLECT"] = 0,
+							["id"] = 3110,
+							["max"] = 51,
+							["min"] = 20,
+							["PARRY"] = 0,
+							["critical"] = 5,
+							["hit"] = 62,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Corruzione"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 6,
+							["MISS"] = 1,
+							["damage"] = 25,
+							["DEFLECT"] = 0,
+							["id"] = 146739,
+							["max"] = 5,
+							["min"] = 5,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 5,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006AAFA8E",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 2,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 12,
+							["totalhits"] = 120,
+							["damage"] = 565,
+						},
+					},
+					["maxhp"] = 181,
+					["name"] = "Dbvbfef",
+					["power"] = {
+					},
+					["auras"] = {
+						["Corruzione"] = {
+							["name"] = "Corruzione",
+							["active"] = 0,
+							["id"] = 146739,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 7,
+						},
+						["Disorientamento d'Evocazione"] = {
+							["name"] = "Disorientamento d'Evocazione",
+							["active"] = 0,
+							["id"] = 32752,
+							["auratype"] = "BUFF",
+							["uptime"] = 3,
+						},
+					},
+					["damagetaken"] = 565,
+					["first"] = 1407244232,
+					["time"] = 195,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 565,
+			["shielding"] = 0,
+			["endtime"] = 1407244429,
+			["healing"] = 0,
+			["mobs"] = {
+				["Ser Darius Crowley"] = {
+					["players"] = {
+					},
+					["hdone"] = 1366,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 26,
+							["healing"] = 652,
+							["overhealing"] = 21794,
+							["hits"] = 100,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 652,
+					["hdonespell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 26,
+							["healing"] = 1366,
+							["overhealing"] = 2200806,
+							["hits"] = 299,
+						},
+					},
+				},
+				["Tobias Foscomanto"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 11,
+							["healing"] = 114,
+							["overhealing"] = 1612,
+							["hits"] = 100,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 114,
+					["hdonespell"] = {
+					},
+				},
+				["Worgen Alfa"] = {
+					["players"] = {
+						["Dbvbfef"] = {
+							["taken"] = 440,
+							["done"] = 184,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 440,
+					["done"] = 184,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Giovane Worgen"] = {
+					["players"] = {
+						["Dbvbfef"] = {
+							["taken"] = 1144,
+							["done"] = 218,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 1144,
+					["done"] = 218,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Worgen Zannacremisi"] = {
+					["players"] = {
+						["Dbvbfef"] = {
+							["taken"] = 392,
+							["done"] = 163,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 392,
+					["done"] = 163,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Guardia Reale di Gilneas"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 8,
+							["healing"] = 600,
+							["overhealing"] = 2177400,
+							["hits"] = 99,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 600,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1407244230,
+			["mobtaken"] = 1976,
+			["name"] = "Worgen Zannacremisi",
+			["mobname"] = "Worgen Zannacremisi",
+			["overhealing"] = 0,
+			["mobhdone"] = 1366,
+			["last_action"] = 1407244230,
+			["mobdone"] = 565,
+		}, -- [5]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 6,
+			["interrupts"] = 0,
+			["damage"] = 129,
+			["players"] = {
+				{
+					["last"] = 1407244149,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Worgen Zannacremisi"] = 129,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 129,
+					["damagespells"] = {
+						["Dardo d'Ombra"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 3,
+							["MISS"] = 0,
+							["damage"] = 129,
+							["DEFLECT"] = 0,
+							["id"] = 686,
+							["max"] = 43,
+							["min"] = 43,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 3,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006AAFA8E",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 181,
+					["name"] = "Dbvbfef",
+					["power"] = {
+					},
+					["auras"] = {
+					},
+					["damagetaken"] = 0,
+					["first"] = 1407244145,
+					["time"] = 4,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["endtime"] = 1407244150,
+			["healing"] = 0,
+			["mobs"] = {
+				["Guardia Reale di Gilneas"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 7,
+							["crits"] = 0,
+							["max"] = 8,
+							["healing"] = 22,
+							["overhealing"] = 65978,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 22,
+					["hdonespell"] = {
+					},
+				},
+				["Worgen Zannacremisi"] = {
+					["players"] = {
+						["Dbvbfef"] = {
+							["taken"] = 129,
+							["done"] = 0,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 129,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Ser Darius Crowley"] = {
+					["players"] = {
+					},
+					["hdone"] = 22,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 672,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 8,
+							["healing"] = 22,
+							["overhealing"] = 66702,
+							["hits"] = 9,
+						},
+					},
+				},
+				["Tobias Foscomanto"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 52,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1407244144,
+			["mobtaken"] = 129,
+			["name"] = "Worgen Zannacremisi",
+			["mobname"] = "Worgen Zannacremisi",
+			["overhealing"] = 0,
+			["mobhdone"] = 22,
+			["last_action"] = 1407244144,
+			["mobdone"] = 0,
+		}, -- [6]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["damage"] = 171,
+			["players"] = {
+				{
+					["last"] = 1407244133,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Worgen Zannacremisi"] = 171,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 171,
+					["damagespells"] = {
+						["Dardo d'Ombra"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 3,
+							["MISS"] = 0,
+							["damage"] = 171,
+							["DEFLECT"] = 0,
+							["id"] = 686,
+							["max"] = 85,
+							["min"] = 43,
+							["PARRY"] = 0,
+							["critical"] = 1,
+							["hit"] = 2,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006AAFA8E",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 8,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 8,
+							["totalhits"] = 1,
+							["damage"] = 8,
+						},
+					},
+					["maxhp"] = 181,
+					["name"] = "Dbvbfef",
+					["power"] = {
+					},
+					["auras"] = {
+					},
+					["damagetaken"] = 8,
+					["first"] = 1407244129,
+					["time"] = 4,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 8,
+			["shielding"] = 0,
+			["endtime"] = 1407244135,
+			["healing"] = 0,
+			["mobs"] = {
+				["Guardia Reale di Gilneas"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 6,
+							["crits"] = 0,
+							["max"] = 7,
+							["healing"] = 20,
+							["overhealing"] = 65980,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 20,
+					["hdonespell"] = {
+					},
+				},
+				["Ser Darius Crowley"] = {
+					["players"] = {
+					},
+					["hdone"] = 20,
+					["htakenspell"] = {
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 6,
+							["crits"] = 0,
+							["max"] = 7,
+							["healing"] = 20,
+							["overhealing"] = 65980,
+							["hits"] = 3,
+						},
+					},
+				},
+				["Worgen Zannacremisi"] = {
+					["players"] = {
+						["Dbvbfef"] = {
+							["taken"] = 171,
+							["done"] = 8,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 171,
+					["done"] = 8,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1407244128,
+			["mobtaken"] = 171,
+			["name"] = "Worgen Zannacremisi",
+			["mobname"] = "Worgen Zannacremisi",
+			["overhealing"] = 0,
+			["mobhdone"] = 20,
+			["last_action"] = 1407244128,
+			["mobdone"] = 8,
+		}, -- [7]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 12,
+			["interrupts"] = 0,
+			["damage"] = 147,
+			["players"] = {
+				{
+					["last"] = 1407244107,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Worgen Zannacremisi"] = 147,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 147,
+					["damagespells"] = {
+						["Dardo d'Ombra"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 3,
+							["MISS"] = 0,
+							["damage"] = 129,
+							["DEFLECT"] = 0,
+							["id"] = 686,
+							["max"] = 43,
+							["min"] = 43,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 3,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Corruzione"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 5,
+							["MISS"] = 1,
+							["damage"] = 18,
+							["DEFLECT"] = 0,
+							["id"] = 146739,
+							["max"] = 5,
+							["min"] = 4,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 4,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006AAFA8E",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 7,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 8,
+							["totalhits"] = 4,
+							["damage"] = 31,
+						},
+					},
+					["maxhp"] = 181,
+					["name"] = "Dbvbfef",
+					["power"] = {
+					},
+					["auras"] = {
+						["Corruzione"] = {
+							["name"] = "Corruzione",
+							["active"] = 0,
+							["id"] = 146739,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 9,
+						},
+					},
+					["damagetaken"] = 31,
+					["first"] = 1407244098,
+					["time"] = 9,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 31,
+			["shielding"] = 0,
+			["endtime"] = 1407244109,
+			["healing"] = 0,
+			["mobs"] = {
+				["Worgen Zannacremisi"] = {
+					["players"] = {
+						["Dbvbfef"] = {
+							["taken"] = 147,
+							["done"] = 31,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 147,
+					["done"] = 31,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Tobias Foscomanto"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 102,
+							["hits"] = 6,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Ser Darius Crowley"] = {
+					["players"] = {
+					},
+					["hdone"] = 43,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 1346,
+							["hits"] = 6,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 8,
+							["healing"] = 43,
+							["overhealing"] = 133405,
+							["hits"] = 18,
+						},
+					},
+				},
+				["Guardia Reale di Gilneas"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 7,
+							["crits"] = 0,
+							["max"] = 8,
+							["healing"] = 43,
+							["overhealing"] = 131957,
+							["hits"] = 6,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 43,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1407244097,
+			["mobtaken"] = 147,
+			["name"] = "Worgen Zannacremisi",
+			["mobname"] = "Worgen Zannacremisi",
+			["overhealing"] = 0,
+			["mobhdone"] = 43,
+			["last_action"] = 1407244097,
+			["mobdone"] = 31,
+		}, -- [8]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 13,
+			["interrupts"] = 0,
+			["damage"] = 142,
+			["players"] = {
+				{
+					["last"] = 1407244088,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Worgen Zannacremisi"] = 142,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 142,
+					["damagespells"] = {
+						["Corruzione"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 4,
+							["MISS"] = 1,
+							["damage"] = 14,
+							["DEFLECT"] = 0,
+							["id"] = 172,
+							["max"] = 5,
+							["min"] = 4,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 3,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Dardo d'Ombra"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 3,
+							["MISS"] = 0,
+							["damage"] = 128,
+							["DEFLECT"] = 0,
+							["id"] = 686,
+							["max"] = 43,
+							["min"] = 42,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 3,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006AAFA8E",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 8,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 8,
+							["totalhits"] = 4,
+							["damage"] = 32,
+						},
+					},
+					["maxhp"] = 181,
+					["name"] = "Dbvbfef",
+					["power"] = {
+					},
+					["auras"] = {
+						["Corruzione"] = {
+							["name"] = "Corruzione",
+							["active"] = 0,
+							["id"] = 146739,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 6,
+						},
+					},
+					["damagetaken"] = 32,
+					["first"] = 1407244077,
+					["time"] = 11,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 32,
+			["shielding"] = 0,
+			["endtime"] = 1407244089,
+			["healing"] = 0,
+			["mobs"] = {
+				["Tobias Foscomanto"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 103,
+							["hits"] = 6,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Guardia Reale di Gilneas"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 6,
+							["crits"] = 0,
+							["max"] = 7,
+							["healing"] = 41,
+							["overhealing"] = 131959,
+							["hits"] = 6,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 41,
+					["hdonespell"] = {
+					},
+				},
+				["Ser Darius Crowley"] = {
+					["players"] = {
+					},
+					["hdone"] = 41,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 1345,
+							["hits"] = 6,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 7,
+							["healing"] = 41,
+							["overhealing"] = 133407,
+							["hits"] = 18,
+						},
+					},
+				},
+				["Worgen Zannacremisi"] = {
+					["players"] = {
+						["Dbvbfef"] = {
+							["taken"] = 142,
+							["done"] = 32,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 142,
+					["done"] = 32,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1407244076,
+			["mobtaken"] = 142,
+			["name"] = "Worgen Zannacremisi",
+			["mobname"] = "Worgen Zannacremisi",
+			["overhealing"] = 0,
+			["mobhdone"] = 41,
+			["last_action"] = 1407244076,
+			["mobdone"] = 32,
+		}, -- [9]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 29,
+			["interrupts"] = 0,
+			["damage"] = 215,
+			["players"] = {
+				{
+					["last"] = 1407244010,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Giovane Worgen"] = 104,
+						["Worgen Zannacremisi"] = 111,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 215,
+					["damagespells"] = {
+						["Azlop: Dardo di Fuoco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 11,
+							["MISS"] = 2,
+							["damage"] = 187,
+							["DEFLECT"] = 0,
+							["id"] = 3110,
+							["max"] = 21,
+							["min"] = 20,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 9,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 11,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 11,
+							["min"] = 11,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Corruzione"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 4,
+							["MISS"] = 0,
+							["damage"] = 17,
+							["DEFLECT"] = 0,
+							["id"] = 146739,
+							["max"] = 5,
+							["min"] = 4,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 4,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006AAFA8E",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 3,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 6,
+							["totalhits"] = 2,
+							["damage"] = 9,
+						},
+					},
+					["maxhp"] = 181,
+					["name"] = "Dbvbfef",
+					["power"] = {
+					},
+					["auras"] = {
+						["Corruzione"] = {
+							["name"] = "Corruzione",
+							["active"] = 0,
+							["id"] = 146739,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 8,
+						},
+					},
+					["damagetaken"] = 9,
+					["first"] = 1407243984,
+					["time"] = 26,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 9,
+			["shielding"] = 0,
+			["endtime"] = 1407244012,
+			["healing"] = 0,
+			["mobs"] = {
+				["Ser Darius Crowley"] = {
+					["players"] = {
+					},
+					["hdone"] = 99,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 2246,
+							["hits"] = 10,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 8,
+							["healing"] = 99,
+							["overhealing"] = 332318,
+							["hits"] = 35,
+						},
+					},
+				},
+				["Tobias Foscomanto"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 171,
+							["hits"] = 10,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Giovane Worgen"] = {
+					["players"] = {
+						["Dbvbfef"] = {
+							["taken"] = 104,
+							["done"] = 3,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 104,
+					["done"] = 3,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Worgen Zannacremisi"] = {
+					["players"] = {
+						["Dbvbfef"] = {
+							["taken"] = 111,
+							["done"] = 6,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 111,
+					["done"] = 6,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Guardia Reale di Gilneas"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 8,
+							["healing"] = 99,
+							["overhealing"] = 329901,
+							["hits"] = 15,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 99,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1407243983,
+			["mobtaken"] = 215,
+			["name"] = "Worgen Zannacremisi",
+			["mobname"] = "Worgen Zannacremisi",
+			["overhealing"] = 0,
+			["mobhdone"] = 99,
+			["last_action"] = 1407243983,
+			["mobdone"] = 9,
+		}, -- [10]
+	},
+}

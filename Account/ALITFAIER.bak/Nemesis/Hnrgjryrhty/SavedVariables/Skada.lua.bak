@@ -1,0 +1,1852 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 397,
+		["interrupts"] = 0,
+		["damage"] = 1816,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "MAGE",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["damage"] = 1816,
+				["damagespells"] = {
+					["Attacco"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 8,
+						["MISS"] = 0,
+						["damage"] = 60,
+						["DEFLECT"] = 0,
+						["id"] = 6603,
+						["max"] = 9,
+						["min"] = 5,
+						["PARRY"] = 0,
+						["critical"] = 0,
+						["hit"] = 8,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Palmo Stordente"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 1,
+						["MISS"] = 1,
+						["damage"] = 0,
+						["DEFLECT"] = 0,
+						["id"] = 107079,
+						["max"] = 0,
+						["PARRY"] = 0,
+						["critical"] = 0,
+						["hit"] = 0,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Palla di Fuocogelo"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 91,
+						["MISS"] = 10,
+						["damage"] = 1756,
+						["DEFLECT"] = 0,
+						["id"] = 44614,
+						["max"] = 40,
+						["min"] = 17,
+						["PARRY"] = 0,
+						["critical"] = 6,
+						["hit"] = 75,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+				},
+				["deaths"] = {
+					{
+						["log"] = {
+							{
+								["ts"] = 1410886308.927,
+								["amount"] = -3,
+								["hp"] = 26,
+								["spellid"] = 88163,
+								["srcname"] = "Allieva Tushui",
+							}, -- [1]
+							{
+								["ts"] = 1410886310.921,
+								["amount"] = -3,
+								["hp"] = 23,
+								["spellid"] = 88163,
+								["srcname"] = "Allieva Tushui",
+							}, -- [2]
+							{
+								["ts"] = 1410886312.939,
+								["amount"] = -3,
+								["hp"] = 20,
+								["spellid"] = 88163,
+								["srcname"] = "Allieva Tushui",
+							}, -- [3]
+							{
+								["ts"] = 1410886314.942,
+								["amount"] = -3,
+								["hp"] = 17,
+								["spellid"] = 88163,
+								["srcname"] = "Allieva Tushui",
+							}, -- [4]
+							{
+								["ts"] = 1410886316.95,
+								["amount"] = -2,
+								["hp"] = 14,
+								["spellid"] = 88163,
+								["srcname"] = "Allieva Tushui",
+							}, -- [5]
+							{
+								["ts"] = 1410886318.95,
+								["amount"] = -3,
+								["hp"] = 12,
+								["spellid"] = 88163,
+								["srcname"] = "Allieva Tushui",
+							}, -- [6]
+							{
+								["ts"] = 1410886320.984,
+								["amount"] = -3,
+								["hp"] = 9,
+								["spellid"] = 88163,
+								["srcname"] = "Allieva Tushui",
+							}, -- [7]
+							{
+								["ts"] = 1410886322.951,
+								["amount"] = -3,
+								["hp"] = 6,
+								["spellid"] = 88163,
+								["srcname"] = "Allieva Tushui",
+							}, -- [8]
+							{
+								["ts"] = 1410886324.962,
+								["amount"] = -3,
+								["hp"] = 3,
+								["spellid"] = 88163,
+								["srcname"] = "Allieva Tushui",
+							}, -- [9]
+							{
+								["ts"] = 1410886325.41,
+								["amount"] = 0,
+								["spellname"] = "Hnrgjryrhty muore",
+								["hp"] = 0,
+								["spellid"] = 5384,
+							}, -- [10]
+							{
+								["ts"] = 1410886296.849,
+								["amount"] = -3,
+								["hp"] = 40,
+								["spellid"] = 88163,
+								["srcname"] = "Allieva Tushui",
+							}, -- [11]
+							{
+								["ts"] = 1410886300.89,
+								["amount"] = -3,
+								["hp"] = 37,
+								["spellid"] = 88163,
+								["srcname"] = "Allieva Tushui",
+							}, -- [12]
+							{
+								["ts"] = 1410886302.889,
+								["amount"] = -3,
+								["hp"] = 34,
+								["spellid"] = 88163,
+								["srcname"] = "Allieva Tushui",
+							}, -- [13]
+							{
+								["ts"] = 1410886304.906,
+								["amount"] = -3,
+								["hp"] = 31,
+								["spellid"] = 88163,
+								["srcname"] = "Allieva Tushui",
+							}, -- [14]
+							{
+								["ts"] = 1410886306.913,
+								["amount"] = -2,
+								["hp"] = 28,
+								["spellid"] = 88163,
+								["srcname"] = "Allieva Tushui",
+							}, -- [15]
+						},
+						["ts"] = 1410886325.41,
+					}, -- [1]
+				},
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "0x0500000006E10888",
+				["healing"] = 0,
+				["ccbreaks"] = 0,
+				["damagetakenspells"] = {
+					["Attacco"] = {
+						["min"] = 2,
+						["name"] = "Attacco",
+						["id"] = 6603,
+						["max"] = 6,
+						["totalhits"] = 100,
+						["damage"] = 299,
+					},
+					["Diretto"] = {
+						["min"] = 4,
+						["name"] = "Diretto",
+						["id"] = 109079,
+						["max"] = 5,
+						["totalhits"] = 9,
+						["damage"] = 42,
+					},
+					["Calcio dell'Oscuramento"] = {
+						["min"] = 20,
+						["name"] = "Calcio dell'Oscuramento",
+						["id"] = 109080,
+						["max"] = 20,
+						["totalhits"] = 5,
+						["damage"] = 100,
+					},
+					["Colpo del Cucciolo di Elefante che fa il Bagno"] = {
+						["min"] = 5,
+						["name"] = "Colpo del Cucciolo di Elefante che fa il Bagno",
+						["id"] = 108937,
+						["max"] = 5,
+						["totalhits"] = 1,
+						["damage"] = 5,
+					},
+				},
+				["maxhp"] = 113,
+				["deathlog"] = {
+					{
+						["ts"] = 1410886818.345,
+						["amount"] = -5,
+						["hp"] = 77,
+						["spellid"] = 108937,
+						["srcname"] = "Jaomin Ro",
+					}, -- [1]
+					{
+						["ts"] = 1410886762.511,
+						["amount"] = -5,
+						["hp"] = 139,
+						["spellid"] = 88163,
+						["srcname"] = "Jaomin Ro",
+					}, -- [2]
+					{
+						["ts"] = 1410886764.493,
+						["amount"] = -4,
+						["hp"] = 134,
+						["spellid"] = 88163,
+						["srcname"] = "Jaomin Ro",
+					}, -- [3]
+					{
+						["ts"] = 1410886770.118,
+						["amount"] = -3,
+						["hp"] = 130,
+						["spellid"] = 88163,
+						["srcname"] = "Jaomin Ro",
+					}, -- [4]
+					{
+						["ts"] = 1410886772.102,
+						["amount"] = -4,
+						["hp"] = 127,
+						["spellid"] = 88163,
+						["srcname"] = "Jaomin Ro",
+					}, -- [5]
+					{
+						["ts"] = 1410886774.102,
+						["amount"] = -4,
+						["hp"] = 123,
+						["spellid"] = 88163,
+						["srcname"] = "Jaomin Ro",
+					}, -- [6]
+					{
+						["ts"] = 1410886776.108,
+						["amount"] = -5,
+						["hp"] = 119,
+						["spellid"] = 88163,
+						["srcname"] = "Jaomin Ro",
+					}, -- [7]
+					{
+						["ts"] = 1410886778.109,
+						["amount"] = -4,
+						["hp"] = 114,
+						["spellid"] = 88163,
+						["srcname"] = "Jaomin Ro",
+					}, -- [8]
+					{
+						["ts"] = 1410886791.405,
+						["amount"] = -3,
+						["hp"] = 110,
+						["spellid"] = 88163,
+						["srcname"] = "Jaomin Ro",
+					}, -- [9]
+					{
+						["ts"] = 1410886796.622,
+						["amount"] = -4,
+						["hp"] = 107,
+						["spellid"] = 88163,
+						["srcname"] = "Jaomin Ro",
+					}, -- [10]
+					{
+						["ts"] = 1410886798.656,
+						["amount"] = -5,
+						["hp"] = 103,
+						["spellid"] = 88163,
+						["srcname"] = "Jaomin Ro",
+					}, -- [11]
+					{
+						["ts"] = 1410886800.645,
+						["amount"] = -4,
+						["hp"] = 98,
+						["spellid"] = 88163,
+						["srcname"] = "Jaomin Ro",
+					}, -- [12]
+					{
+						["ts"] = 1410886802.649,
+						["amount"] = -4,
+						["hp"] = 94,
+						["spellid"] = 88163,
+						["srcname"] = "Jaomin Ro",
+					}, -- [13]
+					{
+						["ts"] = 1410886804.643,
+						["amount"] = -4,
+						["hp"] = 90,
+						["spellid"] = 88163,
+						["srcname"] = "Jaomin Ro",
+					}, -- [14]
+					{
+						["ts"] = 1410886815.481,
+						["amount"] = -4,
+						["hp"] = 86,
+						["spellid"] = 88163,
+						["srcname"] = "Jaomin Ro",
+					}, -- [15]
+					["pos"] = 2,
+				},
+				["name"] = "Hnrgjryrhty",
+				["power"] = {
+				},
+				["auras"] = {
+					["Palmo Stordente"] = {
+						["name"] = "Palmo Stordente",
+						["active"] = 0,
+						["id"] = 107079,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 13,
+					},
+					["Palla di Fuocogelo"] = {
+						["name"] = "Palla di Fuocogelo",
+						["active"] = 0,
+						["id"] = 44614,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 199,
+					},
+				},
+				["damagetaken"] = 446,
+				["time"] = 360,
+			}, -- [1]
+		},
+		["deaths"] = 1,
+		["damagetaken"] = 446,
+		["shielding"] = 0,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["starttime"] = 1410885960,
+		["mobtaken"] = 1816,
+		["name"] = "Totale",
+		["mobs"] = {
+			["Allieva Tushui"] = {
+				["players"] = {
+					["Hnrgjryrhty"] = {
+						["taken"] = 186,
+						["done"] = 182,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 186,
+				["done"] = 182,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Allieva Huojin"] = {
+				["players"] = {
+					["Hnrgjryrhty"] = {
+						["taken"] = 426,
+						["done"] = 103,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 426,
+				["done"] = 103,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Bersaglio d'Allenamento"] = {
+				["players"] = {
+					["Hnrgjryrhty"] = {
+						["taken"] = 449,
+						["done"] = 0,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 449,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Jaomin Ro"] = {
+				["players"] = {
+					["Hnrgjryrhty"] = {
+						["taken"] = 453,
+						["done"] = 67,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 453,
+				["done"] = 67,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Allievo Tushui"] = {
+				["players"] = {
+					["Hnrgjryrhty"] = {
+						["taken"] = 302,
+						["done"] = 94,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 302,
+				["done"] = 94,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["overhealing"] = 0,
+		["mobhdone"] = 0,
+		["last_action"] = 1410885960,
+		["mobdone"] = 446,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 62,
+			["interrupts"] = 0,
+			["damage"] = 453,
+			["players"] = {
+				{
+					["last"] = 1410886813,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Jaomin Ro"] = 453,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 453,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 4,
+							["MISS"] = 0,
+							["damage"] = 27,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 9,
+							["min"] = 5,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 4,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palmo Stordente"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 1,
+							["damage"] = 0,
+							["DEFLECT"] = 0,
+							["id"] = 107079,
+							["max"] = 0,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 0,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 19,
+							["MISS"] = 2,
+							["damage"] = 426,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 26,
+							["min"] = 24,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 17,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006E10888",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 3,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 5,
+							["totalhits"] = 15,
+							["damage"] = 62,
+						},
+						["Colpo del Cucciolo di Elefante che fa il Bagno"] = {
+							["min"] = 5,
+							["name"] = "Colpo del Cucciolo di Elefante che fa il Bagno",
+							["id"] = 108937,
+							["max"] = 5,
+							["totalhits"] = 1,
+							["damage"] = 5,
+						},
+					},
+					["maxhp"] = 144,
+					["name"] = "Hnrgjryrhty",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 54,
+						},
+					},
+					["damagetaken"] = 67,
+					["first"] = 1410886753,
+					["time"] = 60,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 67,
+			["shielding"] = 0,
+			["endtime"] = 1410886813,
+			["healing"] = 0,
+			["mobs"] = {
+				["Jaomin Ro"] = {
+					["players"] = {
+						["Hnrgjryrhty"] = {
+							["taken"] = 453,
+							["done"] = 67,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 453,
+					["done"] = 67,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1410886751,
+			["mobtaken"] = 453,
+			["name"] = "Jaomin Ro",
+			["mobname"] = "Jaomin Ro",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410886751,
+			["mobdone"] = 67,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 22,
+			["interrupts"] = 0,
+			["damage"] = 142,
+			["players"] = {
+				{
+					["last"] = 1410886644,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Allieva Huojin"] = 142,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 142,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 9,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 9,
+							["min"] = 9,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 6,
+							["MISS"] = 0,
+							["damage"] = 133,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 39,
+							["min"] = 18,
+							["PARRY"] = 0,
+							["critical"] = 1,
+							["hit"] = 5,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006E10888",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 3,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 3,
+							["totalhits"] = 4,
+							["damage"] = 12,
+						},
+						["Diretto"] = {
+							["min"] = 5,
+							["name"] = "Diretto",
+							["id"] = 109079,
+							["max"] = 5,
+							["totalhits"] = 1,
+							["damage"] = 5,
+						},
+					},
+					["maxhp"] = 113,
+					["name"] = "Hnrgjryrhty",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 15,
+						},
+					},
+					["damagetaken"] = 17,
+					["first"] = 1410886629,
+					["time"] = 15,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 17,
+			["shielding"] = 0,
+			["endtime"] = 1410886651,
+			["healing"] = 0,
+			["mobs"] = {
+				["Allieva Huojin"] = {
+					["players"] = {
+						["Hnrgjryrhty"] = {
+							["taken"] = 142,
+							["done"] = 17,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 142,
+					["done"] = 17,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1410886629,
+			["mobtaken"] = 142,
+			["name"] = "Allieva Huojin",
+			["mobname"] = "Allieva Huojin",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410886629,
+			["mobdone"] = 17,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 17,
+			["interrupts"] = 0,
+			["damage"] = 152,
+			["players"] = {
+				{
+					["last"] = 1410886622,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Allievo Tushui"] = 152,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 152,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 9,
+							["MISS"] = 1,
+							["damage"] = 152,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 20,
+							["min"] = 18,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 8,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006E10888",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 2,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 3,
+							["totalhits"] = 7,
+							["damage"] = 18,
+						},
+						["Calcio dell'Oscuramento"] = {
+							["min"] = 20,
+							["name"] = "Calcio dell'Oscuramento",
+							["id"] = 109080,
+							["max"] = 20,
+							["totalhits"] = 1,
+							["damage"] = 20,
+						},
+					},
+					["maxhp"] = 113,
+					["name"] = "Hnrgjryrhty",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 16,
+						},
+					},
+					["damagetaken"] = 38,
+					["first"] = 1410886606,
+					["time"] = 16,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 38,
+			["shielding"] = 0,
+			["endtime"] = 1410886623,
+			["healing"] = 0,
+			["mobs"] = {
+				["Allievo Tushui"] = {
+					["players"] = {
+						["Hnrgjryrhty"] = {
+							["taken"] = 152,
+							["done"] = 38,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 152,
+					["done"] = 38,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1410886606,
+			["mobtaken"] = 152,
+			["name"] = "Allievo Tushui",
+			["mobname"] = "Allievo Tushui",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410886606,
+			["mobdone"] = 38,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 30,
+			["interrupts"] = 0,
+			["damage"] = 133,
+			["players"] = {
+				{
+					["last"] = 1410886548,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Allieva Huojin"] = 133,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 133,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 8,
+							["MISS"] = 2,
+							["damage"] = 133,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 40,
+							["min"] = 18,
+							["PARRY"] = 0,
+							["critical"] = 1,
+							["hit"] = 5,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006E10888",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 2,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 3,
+							["totalhits"] = 11,
+							["damage"] = 30,
+						},
+						["Diretto"] = {
+							["min"] = 4,
+							["name"] = "Diretto",
+							["id"] = 109079,
+							["max"] = 5,
+							["totalhits"] = 5,
+							["damage"] = 22,
+						},
+					},
+					["maxhp"] = 113,
+					["name"] = "Hnrgjryrhty",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palmo Stordente"] = {
+							["name"] = "Palmo Stordente",
+							["active"] = 0,
+							["id"] = 107079,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 5,
+						},
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 2,
+						},
+					},
+					["damagetaken"] = 52,
+					["first"] = 1410886519,
+					["time"] = 29,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 52,
+			["shielding"] = 0,
+			["endtime"] = 1410886548,
+			["healing"] = 0,
+			["mobs"] = {
+				["Allieva Huojin"] = {
+					["players"] = {
+						["Hnrgjryrhty"] = {
+							["taken"] = 133,
+							["done"] = 52,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 133,
+					["done"] = 52,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1410886518,
+			["mobtaken"] = 133,
+			["name"] = "Allieva Huojin",
+			["mobname"] = "Allieva Huojin",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410886518,
+			["mobdone"] = 52,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 16,
+			["interrupts"] = 0,
+			["damage"] = 150,
+			["players"] = {
+				{
+					["last"] = 1410886484,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Allievo Tushui"] = 150,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 150,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 7,
+							["MISS"] = 0,
+							["damage"] = 150,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 37,
+							["min"] = 18,
+							["PARRY"] = 0,
+							["critical"] = 1,
+							["hit"] = 6,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006E10888",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 2,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 3,
+							["totalhits"] = 6,
+							["damage"] = 16,
+						},
+						["Calcio dell'Oscuramento"] = {
+							["min"] = 20,
+							["name"] = "Calcio dell'Oscuramento",
+							["id"] = 109080,
+							["max"] = 20,
+							["totalhits"] = 2,
+							["damage"] = 40,
+						},
+					},
+					["maxhp"] = 113,
+					["name"] = "Hnrgjryrhty",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 15,
+						},
+					},
+					["damagetaken"] = 56,
+					["first"] = 1410886468,
+					["time"] = 16,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 56,
+			["shielding"] = 0,
+			["endtime"] = 1410886484,
+			["healing"] = 0,
+			["mobs"] = {
+				["Allievo Tushui"] = {
+					["players"] = {
+						["Hnrgjryrhty"] = {
+							["taken"] = 150,
+							["done"] = 56,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 150,
+					["done"] = 56,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1410886468,
+			["mobtaken"] = 150,
+			["name"] = "Allievo Tushui",
+			["mobname"] = "Allievo Tushui",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410886468,
+			["mobdone"] = 56,
+		}, -- [5]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 23,
+			["interrupts"] = 0,
+			["damage"] = 151,
+			["players"] = {
+				{
+					["last"] = 1410886447,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Allieva Huojin"] = 151,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 151,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 8,
+							["MISS"] = 1,
+							["damage"] = 151,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 38,
+							["min"] = 18,
+							["PARRY"] = 0,
+							["critical"] = 1,
+							["hit"] = 6,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006E10888",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 2,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 3,
+							["totalhits"] = 7,
+							["damage"] = 19,
+						},
+						["Diretto"] = {
+							["min"] = 5,
+							["name"] = "Diretto",
+							["id"] = 109079,
+							["max"] = 5,
+							["totalhits"] = 3,
+							["damage"] = 15,
+						},
+					},
+					["maxhp"] = 113,
+					["name"] = "Hnrgjryrhty",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 14,
+						},
+					},
+					["damagetaken"] = 34,
+					["first"] = 1410886432,
+					["time"] = 15,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 34,
+			["shielding"] = 0,
+			["endtime"] = 1410886454,
+			["healing"] = 0,
+			["mobs"] = {
+				["Allieva Huojin"] = {
+					["players"] = {
+						["Hnrgjryrhty"] = {
+							["taken"] = 151,
+							["done"] = 34,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 151,
+					["done"] = 34,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1410886431,
+			["mobtaken"] = 151,
+			["name"] = "Allieva Huojin",
+			["mobname"] = "Allieva Huojin",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410886431,
+			["mobdone"] = 34,
+		}, -- [6]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 28,
+			["interrupts"] = 0,
+			["damage"] = 151,
+			["players"] = {
+				{
+					["last"] = 1410886415,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Allieva Tushui"] = 151,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 151,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 10,
+							["MISS"] = 2,
+							["damage"] = 151,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 20,
+							["min"] = 17,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 8,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006E10888",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 2,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 3,
+							["totalhits"] = 11,
+							["damage"] = 29,
+						},
+						["Calcio dell'Oscuramento"] = {
+							["min"] = 20,
+							["name"] = "Calcio dell'Oscuramento",
+							["id"] = 109080,
+							["max"] = 20,
+							["totalhits"] = 2,
+							["damage"] = 40,
+						},
+					},
+					["maxhp"] = 113,
+					["name"] = "Hnrgjryrhty",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palmo Stordente"] = {
+							["name"] = "Palmo Stordente",
+							["active"] = 0,
+							["id"] = 107079,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 4,
+						},
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 27,
+						},
+					},
+					["damagetaken"] = 69,
+					["first"] = 1410886387,
+					["time"] = 28,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 69,
+			["shielding"] = 0,
+			["endtime"] = 1410886415,
+			["healing"] = 0,
+			["mobs"] = {
+				["Allieva Tushui"] = {
+					["players"] = {
+						["Hnrgjryrhty"] = {
+							["taken"] = 151,
+							["done"] = 69,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 151,
+					["done"] = 69,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1410886387,
+			["mobtaken"] = 151,
+			["name"] = "Allieva Tushui",
+			["mobname"] = "Allieva Tushui",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410886387,
+			["mobdone"] = 69,
+		}, -- [7]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 86,
+			["interrupts"] = 0,
+			["damage"] = 35,
+			["players"] = {
+				{
+					["last"] = 1410886318,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Allieva Tushui"] = 35,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 35,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 2,
+							["MISS"] = 0,
+							["damage"] = 16,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 9,
+							["min"] = 7,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 2,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 19,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 19,
+							["min"] = 19,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["deaths"] = {
+						{
+							["log"] = {
+								{
+									["ts"] = 1410886308.927,
+									["amount"] = -3,
+									["hp"] = 26,
+									["spellid"] = 88163,
+									["srcname"] = "Allieva Tushui",
+								}, -- [1]
+								{
+									["ts"] = 1410886310.921,
+									["amount"] = -3,
+									["hp"] = 23,
+									["spellid"] = 88163,
+									["srcname"] = "Allieva Tushui",
+								}, -- [2]
+								{
+									["ts"] = 1410886312.939,
+									["amount"] = -3,
+									["hp"] = 20,
+									["spellid"] = 88163,
+									["srcname"] = "Allieva Tushui",
+								}, -- [3]
+								{
+									["ts"] = 1410886314.942,
+									["amount"] = -3,
+									["hp"] = 17,
+									["spellid"] = 88163,
+									["srcname"] = "Allieva Tushui",
+								}, -- [4]
+								{
+									["ts"] = 1410886316.95,
+									["amount"] = -2,
+									["hp"] = 14,
+									["spellid"] = 88163,
+									["srcname"] = "Allieva Tushui",
+								}, -- [5]
+								{
+									["ts"] = 1410886318.95,
+									["amount"] = -3,
+									["hp"] = 12,
+									["spellid"] = 88163,
+									["srcname"] = "Allieva Tushui",
+								}, -- [6]
+								{
+									["ts"] = 1410886320.984,
+									["amount"] = -3,
+									["hp"] = 9,
+									["spellid"] = 88163,
+									["srcname"] = "Allieva Tushui",
+								}, -- [7]
+								{
+									["ts"] = 1410886322.951,
+									["amount"] = -3,
+									["hp"] = 6,
+									["spellid"] = 88163,
+									["srcname"] = "Allieva Tushui",
+								}, -- [8]
+								{
+									["ts"] = 1410886324.962,
+									["amount"] = -3,
+									["hp"] = 3,
+									["spellid"] = 88163,
+									["srcname"] = "Allieva Tushui",
+								}, -- [9]
+								{
+									["ts"] = 1410886325.41,
+									["amount"] = 0,
+									["spellname"] = "Hnrgjryrhty muore",
+									["hp"] = 0,
+									["spellid"] = 5384,
+								}, -- [10]
+								{
+									["ts"] = 1410886296.849,
+									["amount"] = -3,
+									["hp"] = 40,
+									["spellid"] = 88163,
+									["srcname"] = "Allieva Tushui",
+								}, -- [11]
+								{
+									["ts"] = 1410886300.89,
+									["amount"] = -3,
+									["hp"] = 37,
+									["spellid"] = 88163,
+									["srcname"] = "Allieva Tushui",
+								}, -- [12]
+								{
+									["ts"] = 1410886302.889,
+									["amount"] = -3,
+									["hp"] = 34,
+									["spellid"] = 88163,
+									["srcname"] = "Allieva Tushui",
+								}, -- [13]
+								{
+									["ts"] = 1410886304.906,
+									["amount"] = -3,
+									["hp"] = 31,
+									["spellid"] = 88163,
+									["srcname"] = "Allieva Tushui",
+								}, -- [14]
+								{
+									["ts"] = 1410886306.913,
+									["amount"] = -2,
+									["hp"] = 28,
+									["spellid"] = 88163,
+									["srcname"] = "Allieva Tushui",
+								}, -- [15]
+							},
+							["ts"] = 1410886325.41,
+						}, -- [1]
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006E10888",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 2,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 6,
+							["totalhits"] = 39,
+							["damage"] = 113,
+						},
+					},
+					["maxhp"] = 113,
+					["name"] = "Hnrgjryrhty",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 8,
+						},
+					},
+					["damagetaken"] = 113,
+					["first"] = 1410886233,
+					["time"] = 85,
+				}, -- [1]
+			},
+			["deaths"] = 1,
+			["damagetaken"] = 113,
+			["shielding"] = 0,
+			["endtime"] = 1410886319,
+			["healing"] = 0,
+			["mobs"] = {
+				["Allieva Tushui"] = {
+					["players"] = {
+						["Hnrgjryrhty"] = {
+							["taken"] = 35,
+							["done"] = 113,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 35,
+					["done"] = 113,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1410886233,
+			["mobtaken"] = 35,
+			["name"] = "Allieva Tushui",
+			["mobname"] = "Allieva Tushui",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410886233,
+			["mobdone"] = 113,
+		}, -- [8]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 10,
+			["interrupts"] = 0,
+			["damage"] = 97,
+			["players"] = {
+				{
+					["last"] = 1410886093,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Bersaglio d'Allenamento"] = 97,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 97,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 5,
+							["MISS"] = 0,
+							["damage"] = 97,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 20,
+							["min"] = 19,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 5,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006E10888",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 113,
+					["name"] = "Hnrgjryrhty",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 8,
+						},
+					},
+					["damagetaken"] = 0,
+					["first"] = 1410886086,
+					["time"] = 7,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["endtime"] = 1410886095,
+			["healing"] = 0,
+			["mobs"] = {
+				["Bersaglio d'Allenamento"] = {
+					["players"] = {
+						["Hnrgjryrhty"] = {
+							["taken"] = 97,
+							["done"] = 0,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 97,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1410886085,
+			["mobtaken"] = 97,
+			["name"] = "Bersaglio d'Allenamento",
+			["mobname"] = "Bersaglio d'Allenamento",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410886085,
+			["mobdone"] = 0,
+		}, -- [9]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 12,
+			["interrupts"] = 0,
+			["damage"] = 94,
+			["players"] = {
+				{
+					["last"] = 1410886077,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Bersaglio d'Allenamento"] = 94,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 94,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 5,
+							["MISS"] = 0,
+							["damage"] = 94,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 20,
+							["min"] = 17,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 5,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006E10888",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 113,
+					["name"] = "Hnrgjryrhty",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 10,
+						},
+					},
+					["damagetaken"] = 0,
+					["first"] = 1410886067,
+					["time"] = 10,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["endtime"] = 1410886078,
+			["healing"] = 0,
+			["mobs"] = {
+				["Bersaglio d'Allenamento"] = {
+					["players"] = {
+						["Hnrgjryrhty"] = {
+							["taken"] = 94,
+							["done"] = 0,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 94,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1410886066,
+			["mobtaken"] = 94,
+			["name"] = "Bersaglio d'Allenamento",
+			["mobname"] = "Bersaglio d'Allenamento",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410886066,
+			["mobdone"] = 0,
+		}, -- [10]
+	},
+}

@@ -1,0 +1,13 @@
+
+NuttyRecruitDB = {
+	["profileKeys"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["lasttime"] = {
+				["Roccavento"] = 1469036532,
+			},
+		},
+	},
+}

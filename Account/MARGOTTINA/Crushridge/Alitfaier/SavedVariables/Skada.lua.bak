@@ -1,0 +1,100 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["dispells"] = 0,
+		["absorbs"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 0,
+		["interrupts"] = 0,
+		["damage"] = 16019,
+		["players"] = {
+			{
+				["class"] = "WARRIOR",
+				["damaged"] = {
+				},
+				["auras"] = {
+					["Flurry"] = {
+						["name"] = "Flurry",
+						["active"] = 1,
+						["id"] = 12968,
+						["auratype"] = "BUFF",
+						["uptime"] = 1,
+					},
+					["Raw Fury"] = {
+						["name"] = "Raw Fury",
+						["active"] = 1,
+						["id"] = 91832,
+						["auratype"] = "BUFF",
+						["uptime"] = 1,
+					},
+				},
+				["absorbs"] = {
+				},
+				["ccbreaks"] = 0,
+				["time"] = 1,
+				["interrupts"] = 0,
+				["power"] = {
+				},
+				["damage"] = 16019,
+				["damagespells"] = {
+					["Attack"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 1,
+						["MISS"] = 0,
+						["damage"] = 16019,
+						["DEFLECT"] = 0,
+						["id"] = 6603,
+						["max"] = 16019,
+						["min"] = 16019,
+						["PARRY"] = 0,
+						["critical"] = 1,
+						["hit"] = 0,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+				},
+				["deaths"] = {
+				},
+				["damagetaken"] = 0,
+				["deathlog"] = {
+				},
+				["totalabsorbs"] = 0,
+				["overhealing"] = 0,
+				["damagetakenspells"] = {
+				},
+				["healingspells"] = {
+				},
+				["healing"] = 0,
+				["name"] = "Alitfaier",
+				["healed"] = {
+				},
+				["dispells"] = 0,
+				["maxhp"] = 140571,
+				["id"] = "0x0180000003C60ED2",
+				["absorbspells"] = {
+				},
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+		},
+		["mobtaken"] = 0,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["name"] = "Total",
+		["overhealing"] = 0,
+		["starttime"] = 1322414536,
+		["damagetaken"] = 0,
+		["last_action"] = 1322414536,
+		["mobdone"] = 0,
+	},
+	["sets"] = {
+	},
+}

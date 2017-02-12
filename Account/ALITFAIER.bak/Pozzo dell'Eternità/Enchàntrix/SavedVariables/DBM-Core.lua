@@ -1,0 +1,165 @@
+
+DBM_SavedOptions = {
+	["SpecialWarningFontSize"] = 50,
+	["CountdownVoice2"] = "Kolt",
+	["SpecialWarningFlashAlph2"] = 0.3,
+	["ArrowPosX"] = 0,
+	["SpecialWarningFlashDura3"] = 1,
+	["MovieFilter"] = "Never",
+	["HPFramePoint"] = "CENTER",
+	["UseMasterVolume"] = true,
+	["StatusEnabled"] = true,
+	["InfoFrameX"] = 75,
+	["AutologBosses"] = false,
+	["RangeFrameX"] = 50,
+	["SpecialWarningFlashCol3"] = {
+		1, -- [1]
+		0, -- [2]
+		0, -- [3]
+	},
+	["WarningColors"] = {
+		{
+			["r"] = 0.41,
+			["g"] = 0.8,
+			["b"] = 0.94,
+		}, -- [1]
+		{
+			["r"] = 0.95,
+			["g"] = 0.95,
+			["b"] = 0,
+		}, -- [2]
+		{
+			["r"] = 1,
+			["g"] = 0.5,
+			["b"] = 0,
+		}, -- [3]
+		{
+			["r"] = 1,
+			["g"] = 0.1,
+			["b"] = 0.1,
+		}, -- [4]
+	},
+	["AlwaysShowSpeedKillTimer"] = true,
+	["RangeFrameY"] = -50,
+	["FilterSayAndYell"] = false,
+	["EnableModels"] = true,
+	["SpecialWarningFlashAlph3"] = 0.4,
+	["ArrowPoint"] = "TOP",
+	["ModelSoundValue"] = "Short",
+	["SpecialWarningSound2"] = "Sound\\Creature\\AlgalonTheObserver\\UR_Algalon_BHole01.ogg",
+	["InfoFramePoint"] = "CENTER",
+	["RangeFrameRadarPoint"] = "CENTER",
+	["SpecialWarningY"] = 75,
+	["SpecialWarningFlashCol2"] = {
+		1, -- [1]
+		0.5, -- [2]
+		0, -- [3]
+	},
+	["RangeFrameUpdates"] = "Average",
+	["SpecialWarningPoint"] = "CENTER",
+	["RaidWarningSound"] = "Sound\\Doodad\\BellTollNightElf.ogg",
+	["SpecialWarningX"] = 0,
+	["WhisperStats"] = false,
+	["RaidWarningPosition"] = {
+		["Y"] = -185,
+		["X"] = 0,
+		["Point"] = "TOP",
+	},
+	["DontPlayPTCountdown"] = false,
+	["ShowKillMessage"] = true,
+	["HealthFrameWidth"] = 200,
+	["WarningIconLeft"] = true,
+	["ShowAdvSWSound"] = true,
+	["HPFrameY"] = 50,
+	["HideWatchFrame"] = false,
+	["LastRevision"] = 10835,
+	["ShowMinimapButton"] = false,
+	["MoviesSeen"] = {
+	},
+	["DebugMode"] = false,
+	["SettingsMessageShown"] = true,
+	["SpecialWarningSound3"] = "Sound\\Creature\\KilJaeden\\KILJAEDEN02.ogg",
+	["ForumsMessageShown"] = 10835,
+	["RangeFrameLocked"] = false,
+	["ShowWarningsInChat"] = true,
+	["DontSetIcons"] = false,
+	["BigBrotherAnnounceToRaid"] = false,
+	["ShowSWarningsInChat"] = true,
+	["CountdownVoice"] = "Corsica",
+	["HealthFrameLocked"] = false,
+	["ChatFrame"] = "DEFAULT_CHAT_FRAME",
+	["AutoRespond"] = true,
+	["InfoFrameY"] = -75,
+	["ShowSpecialWarnings"] = true,
+	["WarningIconRight"] = true,
+	["HealthFrameGrowUp"] = false,
+	["DontShowPTCountdownText"] = false,
+	["HideBossEmoteFrame"] = true,
+	["ShowCountdownText"] = false,
+	["ShowBigBrotherOnCombatStart"] = false,
+	["DontShowPT"] = true,
+	["SpecialWarningFlashAlph1"] = 0.3,
+	["PTCountThreshold"] = 5,
+	["SpecialWarningFlashDura2"] = 0.4,
+	["DontShowInfoFrame"] = false,
+	["DontShowRangeFrame"] = false,
+	["DontSendBossWhispers"] = false,
+	["InfoFrameShowSelf"] = false,
+	["SpecialWarningFont"] = "Fonts\\FRIZQT__.TTF",
+	["RangeFrameRadarX"] = 100,
+	["HPFrameMaxEntries"] = 5,
+	["DontShowPTNoID"] = false,
+	["ShowFakedRaidWarnings"] = false,
+	["LatencyThreshold"] = 250,
+	["ShowLoadMessage"] = true,
+	["DontShowHealthFrame"] = false,
+	["LFDEnhance"] = true,
+	["DontShowBossAnnounces"] = false,
+	["SetPlayerRole"] = true,
+	["ArrowPosY"] = -150,
+	["RangeFramePoint"] = "CENTER",
+	["WarningIconChat"] = true,
+	["SpecialWarningFlashCol1"] = {
+		1, -- [1]
+		1, -- [2]
+		0, -- [3]
+	},
+	["AdvancedAutologBosses"] = false,
+	["DontShowCTCount"] = false,
+	["RangeFrameRadarY"] = -100,
+	["ShowPizzaMessage"] = true,
+	["RangeFrameSound2"] = "none",
+	["HideTooltips"] = false,
+	["SpecialWarningFontColor"] = {
+		0, -- [1]
+		0, -- [2]
+		1, -- [3]
+	},
+	["DontShowPTText"] = false,
+	["Enabled"] = true,
+	["BlockVersionUpdateNotice"] = false,
+	["SpecialWarningFlashDura1"] = 0.4,
+	["RangeFrameSound1"] = "none",
+	["RangeFrameFrames"] = "radar",
+	["ShowEngageMessage"] = true,
+	["ShowWipeMessage"] = true,
+	["LogOnlyRaidBosses"] = false,
+	["StripServerName"] = true,
+	["SpecialWarningSound"] = "Sound\\Spells\\PVPFlagTaken.ogg",
+	["AlwaysShowHealthFrame"] = false,
+	["HPFrameX"] = -50,
+	["ChallengeBest"] = "Realm",
+	["SpamBlockBossWhispers"] = false,
+	["ShowRecoveryMessage"] = true,
+	["ShowFlashFrame"] = true,
+}
+DBT_SavedOptions = {
+	["DBM"] = {
+		["HugeTimerPoint"] = "CENTER",
+		["TimerPoint"] = "TOPRIGHT",
+		["TimerX"] = -223.0000152587891,
+		["HugeTimerX"] = 0,
+		["HugeTimerY"] = -120,
+		["TimerY"] = -260,
+	},
+}

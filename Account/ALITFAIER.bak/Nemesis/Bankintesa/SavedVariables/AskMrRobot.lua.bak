@@ -1,0 +1,221 @@
+
+AmrBagItems = nil
+AmrBankItems = {
+	"|cffffffff|Hitem:2589:0:0:0:0:0:0:1420318592:2:0:0|h[Tessuto di Lino]|h|r", -- [1]
+	"|cffffffff|Hitem:2589:0:0:0:0:0:0:991908864:2:0:0|h[Tessuto di Lino]|h|r", -- [2]
+	"|cffffffff|Hitem:2589:0:0:0:0:0:0:1532145024:2:0:0|h[Tessuto di Lino]|h|r", -- [3]
+	"|cffffffff|Hitem:72120:0:0:0:0:0:0:2020307072:2:0:0|h[Cuoio Esotico]|h|r", -- [4]
+	"|cffffffff|Hitem:72120:0:0:0:0:0:0:137643648:2:0:0|h[Cuoio Esotico]|h|r", -- [5]
+	"|cffffffff|Hitem:72120:0:0:0:0:0:0:1258334848:2:0:0|h[Cuoio Esotico]|h|r", -- [6]
+	"|cffa335ee|Hitem:102263:0:0:0:0:0:0:1747722516:2:0:0|h[Corazza a Piastre Senza Tempo]|h|r", -- [7]
+	"|cff0070dd|Hitem:34052:0:0:0:0:0:0:687139136:2:0:0|h[Frammento Onirico]|h|r", -- [8]
+	"|cffa335ee|Hitem:102272:0:0:0:0:0:0:421717505:2:0:0|h[Guanti di Maglia Senza Tempo]|h|r", -- [9]
+	"|cffa335ee|Hitem:102266:0:0:0:0:0:0:1754475651:2:0:0|h[Elmo a Piastre Senza Tempo]|h|r", -- [10]
+	"|cffa335ee|Hitem:102274:0:0:0:0:0:0:41720065:2:0:0|h[Gambiere di Maglia Senza Tempo]|h|r", -- [11]
+	"|cffa335ee|Hitem:102266:0:0:0:0:0:0:184405377:2:0:0|h[Elmo a Piastre Senza Tempo]|h|r", -- [12]
+	"|cffa335ee|Hitem:102288:0:0:0:0:0:0:129788544:2:0:0|h[Gambiere di Stoffa Senza Tempo]|h|r", -- [13]
+	"|cffffffff|Hitem:6889:0:0:0:0:0:0:434702976:2:0:0|h[Piccolo Uovo]|h|r", -- [14]
+	"|cff1eff00|Hitem:11134:0:0:0:0:0:0:-1777399272:2:0:0|h[Essenza Mistica Inferiore]|h|r", -- [15]
+	"|cff0070dd|Hitem:22448:0:0:0:0:0:0:-1777239792:2:0:0|h[Frammento Prismatico Piccolo]|h|r", -- [16]
+	"|cff1eff00|Hitem:22446:0:0:0:0:0:0:-1777199705:2:0:0|h[Essenza Planare Superiore]|h|r", -- [17]
+	"|cffffffff|Hitem:22445:0:0:0:0:0:0:-1777265812:2:0:0|h[Polvere Arcana]|h|r", -- [18]
+	"|cff1eff00|Hitem:10938:0:0:0:0:0:0:-1707524765:2:0:0|h[Essenza Magica Inferiore]|h|r", -- [19]
+	"|cffffffff|Hitem:34054:0:0:0:0:0:0:1260345813:2:0:0|h[Polvere Infinita]|h|r", -- [20]
+	"|cffffffff|Hitem:11176:0:0:0:0:0:0:1152869760:2:0:0|h[Polvere Onirica]|h|r", -- [21]
+	"|cffffffff|Hitem:14047:0:0:0:0:0:0:803571968:2:0:0|h[Tessuto di Telarunica]|h|r", -- [22]
+	"|cffffffff|Hitem:4338:0:0:0:0:0:0:340626560:2:0:0|h[Tessuto di Telamagica]|h|r", -- [23]
+	"|cffffffff|Hitem:4338:0:0:0:0:0:0:242650112:2:0:0|h[Tessuto di Telamagica]|h|r", -- [24]
+	"|cffffffff|Hitem:4338:0:0:0:0:0:0:638904576:2:0:0|h[Tessuto di Telamagica]|h|r", -- [25]
+	"|cffffffff|Hitem:53010:0:0:0:0:0:0:1443794432:2:0:0|h[Tessuto di Telardente]|h|r", -- [26]
+	"|cffffffff|Hitem:53010:0:0:0:0:0:0:738522368:2:0:0|h[Tessuto di Telardente]|h|r", -- [27]
+	"|cffffffff|Hitem:21877:0:0:0:0:0:0:491782016:2:0:0|h[Tessuto di Telafatua]|h|r", -- [28]
+	"|cffffffff|Hitem:72988:0:0:0:0:0:0:1054860032:2:0:0|h[Tessuto di Telaria]|h|r", -- [29]
+	"|cffffffff|Hitem:82441:0:0:0:0:0:0:1614251520:2:0:0|h[Rotolo di Telaria]|h|r", -- [30]
+	"|cffffffff|Hitem:72988:0:0:0:0:0:0:775458432:2:0:0|h[Tessuto di Telaria]|h|r", -- [31]
+	"|cffffffff|Hitem:72988:0:0:0:0:0:0:1826769664:2:0:0|h[Tessuto di Telaria]|h|r", -- [32]
+	"|cffffffff|Hitem:72988:0:0:0:0:0:0:1823554176:2:0:0|h[Tessuto di Telaria]|h|r", -- [33]
+	"|cffffffff|Hitem:72988:0:0:0:0:0:0:630442112:2:0:0|h[Tessuto di Telaria]|h|r", -- [34]
+	"|cffffffff|Hitem:72988:0:0:0:0:0:0:1440968832:2:0:0|h[Tessuto di Telaria]|h|r", -- [35]
+	"|cffffffff|Hitem:72988:0:0:0:0:0:0:1731124096:2:0:0|h[Tessuto di Telaria]|h|r", -- [36]
+	"|cffffffff|Hitem:72988:0:0:0:0:0:0:118752384:2:0:0|h[Tessuto di Telaria]|h|r", -- [37]
+}
+AmrEquipedItems = nil
+AmrGold = nil
+AmrRealmName = "Nemesis"
+AmrCharacterName = "Bankintesa"
+AmrIconInfo = {
+}
+AmrCurrencies = {
+}
+AmrProfessions = nil
+AmrSpecializations = {
+}
+AmrRace = nil
+AmrLevel = nil
+AmrFaction = nil
+AmrActiveSpec = nil
+AmrOptions = {
+}
+AmrGlyphs = {
+}
+AmrTalents = {
+}
+AmrBankItemsAndCounts = {
+	{
+		["count"] = 20,
+		["link"] = "|cffffffff|Hitem:2589:0:0:0:0:0:0:1420318592:2:0:0|h[Tessuto di Lino]|h|r",
+	}, -- [1]
+	{
+		["count"] = 20,
+		["link"] = "|cffffffff|Hitem:2589:0:0:0:0:0:0:991908864:2:0:0|h[Tessuto di Lino]|h|r",
+	}, -- [2]
+	{
+		["count"] = 10,
+		["link"] = "|cffffffff|Hitem:2589:0:0:0:0:0:0:1532145024:2:0:0|h[Tessuto di Lino]|h|r",
+	}, -- [3]
+	{
+		["count"] = 4,
+		["link"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:2020307072:2:0:0|h[Cuoio Esotico]|h|r",
+	}, -- [4]
+	{
+		["count"] = 20,
+		["link"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:137643648:2:0:0|h[Cuoio Esotico]|h|r",
+	}, -- [5]
+	{
+		["count"] = 20,
+		["link"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:1258334848:2:0:0|h[Cuoio Esotico]|h|r",
+	}, -- [6]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:102263:0:0:0:0:0:0:1747722516:2:0:0|h[Corazza a Piastre Senza Tempo]|h|r",
+	}, -- [7]
+	{
+		["count"] = 20,
+		["link"] = "|cff0070dd|Hitem:34052:0:0:0:0:0:0:687139136:2:0:0|h[Frammento Onirico]|h|r",
+	}, -- [8]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:102272:0:0:0:0:0:0:421717505:2:0:0|h[Guanti di Maglia Senza Tempo]|h|r",
+	}, -- [9]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:102266:0:0:0:0:0:0:1754475651:2:0:0|h[Elmo a Piastre Senza Tempo]|h|r",
+	}, -- [10]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:102274:0:0:0:0:0:0:41720065:2:0:0|h[Gambiere di Maglia Senza Tempo]|h|r",
+	}, -- [11]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:102266:0:0:0:0:0:0:184405377:2:0:0|h[Elmo a Piastre Senza Tempo]|h|r",
+	}, -- [12]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:102288:0:0:0:0:0:0:129788544:2:0:0|h[Gambiere di Stoffa Senza Tempo]|h|r",
+	}, -- [13]
+	{
+		["count"] = 2,
+		["link"] = "|cffffffff|Hitem:6889:0:0:0:0:0:0:434702976:2:0:0|h[Piccolo Uovo]|h|r",
+	}, -- [14]
+	{
+		["count"] = 1,
+		["link"] = "|cff1eff00|Hitem:11134:0:0:0:0:0:0:-1777399272:2:0:0|h[Essenza Mistica Inferiore]|h|r",
+	}, -- [15]
+	{
+		["count"] = 3,
+		["link"] = "|cff0070dd|Hitem:22448:0:0:0:0:0:0:-1777239792:2:0:0|h[Frammento Prismatico Piccolo]|h|r",
+	}, -- [16]
+	{
+		["count"] = 7,
+		["link"] = "|cff1eff00|Hitem:22446:0:0:0:0:0:0:-1777199705:2:0:0|h[Essenza Planare Superiore]|h|r",
+	}, -- [17]
+	{
+		["count"] = 17,
+		["link"] = "|cffffffff|Hitem:22445:0:0:0:0:0:0:-1777265812:2:0:0|h[Polvere Arcana]|h|r",
+	}, -- [18]
+	{
+		["count"] = 2,
+		["link"] = "|cff1eff00|Hitem:10938:0:0:0:0:0:0:-1707524765:2:0:0|h[Essenza Magica Inferiore]|h|r",
+	}, -- [19]
+	{
+		["count"] = 16,
+		["link"] = "|cffffffff|Hitem:34054:0:0:0:0:0:0:1260345813:2:0:0|h[Polvere Infinita]|h|r",
+	}, -- [20]
+	{
+		["count"] = 10,
+		["link"] = "|cffffffff|Hitem:11176:0:0:0:0:0:0:1152869760:2:0:0|h[Polvere Onirica]|h|r",
+	}, -- [21]
+	{
+		["count"] = 20,
+		["link"] = "|cffffffff|Hitem:14047:0:0:0:0:0:0:803571968:2:0:0|h[Tessuto di Telarunica]|h|r",
+	}, -- [22]
+	{
+		["count"] = 20,
+		["link"] = "|cffffffff|Hitem:4338:0:0:0:0:0:0:340626560:2:0:0|h[Tessuto di Telamagica]|h|r",
+	}, -- [23]
+	{
+		["count"] = 20,
+		["link"] = "|cffffffff|Hitem:4338:0:0:0:0:0:0:242650112:2:0:0|h[Tessuto di Telamagica]|h|r",
+	}, -- [24]
+	{
+		["count"] = 10,
+		["link"] = "|cffffffff|Hitem:4338:0:0:0:0:0:0:638904576:2:0:0|h[Tessuto di Telamagica]|h|r",
+	}, -- [25]
+	{
+		["count"] = 20,
+		["link"] = "|cffffffff|Hitem:53010:0:0:0:0:0:0:1443794432:2:0:0|h[Tessuto di Telardente]|h|r",
+	}, -- [26]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:53010:0:0:0:0:0:0:738522368:2:0:0|h[Tessuto di Telardente]|h|r",
+	}, -- [27]
+	{
+		["count"] = 7,
+		["link"] = "|cffffffff|Hitem:21877:0:0:0:0:0:0:491782016:2:0:0|h[Tessuto di Telafatua]|h|r",
+	}, -- [28]
+	{
+		["count"] = 20,
+		["link"] = "|cffffffff|Hitem:72988:0:0:0:0:0:0:1054860032:2:0:0|h[Tessuto di Telaria]|h|r",
+	}, -- [29]
+	{
+		["count"] = 2,
+		["link"] = "|cffffffff|Hitem:82441:0:0:0:0:0:0:1614251520:2:0:0|h[Rotolo di Telaria]|h|r",
+	}, -- [30]
+	{
+		["count"] = 10,
+		["link"] = "|cffffffff|Hitem:72988:0:0:0:0:0:0:775458432:2:0:0|h[Tessuto di Telaria]|h|r",
+	}, -- [31]
+	{
+		["count"] = 20,
+		["link"] = "|cffffffff|Hitem:72988:0:0:0:0:0:0:1826769664:2:0:0|h[Tessuto di Telaria]|h|r",
+	}, -- [32]
+	{
+		["count"] = 20,
+		["link"] = "|cffffffff|Hitem:72988:0:0:0:0:0:0:1823554176:2:0:0|h[Tessuto di Telaria]|h|r",
+	}, -- [33]
+	{
+		["count"] = 20,
+		["link"] = "|cffffffff|Hitem:72988:0:0:0:0:0:0:630442112:2:0:0|h[Tessuto di Telaria]|h|r",
+	}, -- [34]
+	{
+		["count"] = 20,
+		["link"] = "|cffffffff|Hitem:72988:0:0:0:0:0:0:1440968832:2:0:0|h[Tessuto di Telaria]|h|r",
+	}, -- [35]
+	{
+		["count"] = 20,
+		["link"] = "|cffffffff|Hitem:72988:0:0:0:0:0:0:1731124096:2:0:0|h[Tessuto di Telaria]|h|r",
+	}, -- [36]
+	{
+		["count"] = 20,
+		["link"] = "|cffffffff|Hitem:72988:0:0:0:0:0:0:118752384:2:0:0|h[Tessuto di Telaria]|h|r",
+	}, -- [37]
+}
+AmrImportString = ""
+AmrImportDate = ""
+AmrSendSettings = {
+	["SendTo"] = "",
+	["SendGems"] = true,
+	["SendEnchants"] = true,
+	["SendEnchantMaterials"] = true,
+	["SendToType"] = "a friend",
+}

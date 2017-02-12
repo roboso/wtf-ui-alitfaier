@@ -1,0 +1,58 @@
+
+AmrDb = {
+	["Talents"] = {
+	},
+	["LastCharacterImportDate"] = "",
+	["SendSettings"] = {
+		["SendTo"] = "",
+		["SendGems"] = true,
+		["SendEnchants"] = true,
+		["SendEnchantMaterials"] = true,
+		["SendToType"] = "a friend",
+	},
+	["CharacterName"] = "Ilàrià",
+	["Race"] = "Draenei",
+	["ActiveSpec"] = 1,
+	["Level"] = 1,
+	["Equipped"] = {
+		{
+			[5] = "|cffffffff|Hitem:58240:0:0:0:0:0:0:0:1:0:0:0|h[Veste dell'Esploratore]|h|r",
+			[16] = "|cffffffff|Hitem:23347:0:0:0:0:0:0:0:1:0:0:0|h[Balestra Logorata]|h|r",
+			[7] = "|cffffffff|Hitem:23344:0:0:0:0:0:0:0:1:0:0:0|h[Pantaloni dell'Esploratore]|h|r",
+			[8] = "|cffffffff|Hitem:23348:0:0:0:0:0:0:0:1:0:0:0|h[Stivali dell'Esploratore]|h|r",
+		}, -- [1]
+	},
+	["Specs"] = {
+	},
+	["Options"] = {
+	},
+	["Region"] = "EU",
+	["Currencies"] = {
+	},
+	["Glyphs"] = {
+	},
+	["LogData"] = {
+		["_wipes"] = {
+		},
+		["_autoLog"] = {
+			[1228] = "disabled",
+			[1205] = "disabled",
+		},
+		["_lastDiff"] = 0,
+		["_lastZone"] = "Terre Esterne",
+	},
+	["BagItems"] = {
+	},
+	["BankItems"] = {
+	},
+	["LastCharacterImport"] = "",
+	["Reps"] = {
+	},
+	["Faction"] = "Alliance",
+	["IconInfo"] = {
+	},
+	["Professions"] = {
+	},
+	["RealmName"] = "Hakkar",
+	["Class"] = "HUNTER",
+}

@@ -1,0 +1,8 @@
+
+GuildApplicantTrackerDB = {
+	["frameShow"] = false,
+	["viewOffline"] = false,
+	["Minimap"] = {
+		["enabled"] = true,
+	},
+}

@@ -1,0 +1,10 @@
+Armory: enabled
+ArmoryGuildBank: enabled
+AskMrRobot: enabled
+RazerAnansi: disabled
+RazerNaga: disabled
+RazerNaga_Cast: disabled
+RazerNaga_Config: disabled
+RazerNaga_Encounter: disabled
+RazerNaga_XP: disabled
+MasterPlan: enabled

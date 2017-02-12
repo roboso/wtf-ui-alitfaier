@@ -1,0 +1,21 @@
+
+loothog_settings = {
+	["new_roll_text"] = "New roll starting now !",
+	["finalize"] = false,
+	["reject_announce"] = false,
+	["suppress_chat"] = false,
+	["enable"] = true,
+	["group_only"] = false,
+	["announce_new"] = false,
+	["timeout_enabled"] = false,
+	["triggered_clear"] = false,
+	["reject"] = true,
+	["countdown"] = 5,
+	["timeout"] = 60,
+	["ack_rolls"] = false,
+	["listtochat"] = false,
+	["close_on_announce"] = false,
+	["auto_show"] = true,
+}
+loothog_rollStats = {
+}

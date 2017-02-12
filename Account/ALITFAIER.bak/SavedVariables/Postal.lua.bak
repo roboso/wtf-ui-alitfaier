@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Àzzurrà|Nemesis|Alliance|90|DRUID", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Àzzurrà - Nemesis"] = "Àzzurrà - Nemesis",
+	},
+	["profiles"] = {
+		["Àzzurrà - Nemesis"] = {
+		},
+	},
+}

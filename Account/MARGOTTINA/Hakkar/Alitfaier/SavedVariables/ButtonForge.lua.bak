@@ -1,0 +1,78 @@
+
+ButtonForgeSave = {
+	["AdvancedMode"] = true,
+	["AddonName"] = "Button Forge",
+	["ConfigureMode"] = false,
+	["RightClickSelfCast"] = false,
+	["Bars"] = {
+		{
+			["ButtonsLocked"] = false,
+			["VDriver"] = "",
+			["Label"] = "",
+			["Order"] = 0,
+			["Rows"] = 1,
+			["Left"] = 229.7439044230883,
+			["Cols"] = 6,
+			["HVehicle"] = true,
+			["HSpec1"] = false,
+			["HBonusBar"] = true,
+			["KeyBindText"] = true,
+			["GridAlwaysOn"] = true,
+			["BonusBar"] = false,
+			["TooltipsOn"] = true,
+			["Buttons"] = {
+				{
+					["SpellId"] = 76666,
+					["SpellBook"] = "spell",
+					["Mode"] = "spell",
+					["SpellNameRank"] = "Blacksmithing()",
+					["SpellName"] = "Blacksmithing",
+				}, -- [1]
+				{
+					["SpellId"] = 2656,
+					["SpellBook"] = "spell",
+					["Mode"] = "spell",
+					["SpellNameRank"] = "Smelting()",
+					["SpellName"] = "Smelting",
+				}, -- [2]
+				{
+					["SpellId"] = 89722,
+					["SpellBook"] = "spell",
+					["Mode"] = "spell",
+					["SpellNameRank"] = "Archaeology()",
+					["SpellName"] = "Archaeology",
+				}, -- [3]
+				{
+					["SpellId"] = 88868,
+					["SpellBook"] = "spell",
+					["Mode"] = "spell",
+					["SpellNameRank"] = "Fishing()",
+					["SpellName"] = "Fishing",
+				}, -- [4]
+				{
+					["SpellId"] = 88053,
+					["SpellBook"] = "spell",
+					["Mode"] = "spell",
+					["SpellNameRank"] = "Cooking()",
+					["SpellName"] = "Cooking",
+				}, -- [5]
+				{
+					["SpellId"] = 818,
+					["SpellBook"] = "spell",
+					["Mode"] = "spell",
+					["SpellNameRank"] = "Basic Campfire()",
+					["SpellName"] = "Basic Campfire",
+				}, -- [6]
+			},
+			["Enabled"] = true,
+			["MacroText"] = true,
+			["HSpec2"] = false,
+			["Scale"] = 1,
+			["ButtonGap"] = 6,
+			["Top"] = 62.35944155253805,
+		}, -- [1]
+	},
+	["Version"] = 0.9,
+	["VersionMinor"] = 13,
+}
+BFSave = nil

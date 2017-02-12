@@ -1,0 +1,17 @@
+
+RaidBuffStatusDB = {
+	["profileKeys"] = {
+		["Alitfaier - Hakkar"] = "Alitfaier - Hakkar",
+	},
+	["profiles"] = {
+		["Alitfaier - Hakkar"] = {
+			["y"] = -143.38895399734,
+			["x"] = 1491.555796157061,
+			["TellWizard"] = false,
+		},
+	},
+}
+RaidBuffStatusDefaultProfile = {
+	false, -- [1]
+	"Modders: In your SavedVars, replace the first argument of this table with the profile you want loaded by default, like 'Default'.", -- [2]
+}

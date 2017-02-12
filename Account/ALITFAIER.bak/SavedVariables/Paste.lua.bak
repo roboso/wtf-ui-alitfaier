@@ -1,0 +1,15 @@
+
+PasteDB = {
+	["profileKeys"] = {
+		["Àzzurrà - Nemesis"] = "Àzzurrà - Nemesis",
+	},
+	["profiles"] = {
+		["Àzzurrà - Nemesis"] = {
+			["loaded"] = true,
+			["where"] = "Predefinito",
+			["whispertarget"] = "",
+			["pos"] = {
+			},
+		},
+	},
+}

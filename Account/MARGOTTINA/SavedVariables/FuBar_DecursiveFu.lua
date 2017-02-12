@@ -1,0 +1,9 @@
+
+DecursiveFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

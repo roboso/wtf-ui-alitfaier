@@ -1,0 +1,17 @@
+
+QuickAuctionsDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Braveherat - Hakkar"] = "Default",
+	},
+	["factionrealm"] = {
+		["Alliance - Hakkar"] = {
+			["player"] = {
+				["Braveherat"] = true,
+			},
+		},
+	},
+}

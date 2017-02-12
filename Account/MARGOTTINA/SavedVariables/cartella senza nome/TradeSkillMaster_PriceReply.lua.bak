@@ -1,0 +1,9 @@
+
+TradeSkillMaster_PriceReplyDB = {
+	["profileKeys"] = {
+		["Pingola - Nemesis"] = "Default",
+	},
+	["global"] = {
+		["TriggerLength"] = 3,
+	},
+}

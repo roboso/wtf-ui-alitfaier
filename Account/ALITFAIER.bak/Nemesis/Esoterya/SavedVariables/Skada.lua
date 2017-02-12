@@ -1,0 +1,242 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 7,
+		["interrupts"] = 0,
+		["damage"] = 961,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "WARLOCK",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["damage"] = 961,
+				["damagespells"] = {
+					["Pipuri: Dardo di Fuoco"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 13,
+						["MISS"] = 0,
+						["damage"] = 212,
+						["DEFLECT"] = 0,
+						["id"] = 3110,
+						["max"] = 29,
+						["min"] = 14,
+						["PARRY"] = 0,
+						["critical"] = 1,
+						["hit"] = 12,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Dardo d'Ombra"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 23,
+						["MISS"] = 1,
+						["damage"] = 749,
+						["DEFLECT"] = 0,
+						["id"] = 686,
+						["max"] = 63,
+						["min"] = 31,
+						["PARRY"] = 0,
+						["critical"] = 1,
+						["hit"] = 21,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+				},
+				["deaths"] = {
+				},
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "0x0500000005E38144",
+				["healing"] = 0,
+				["ccbreaks"] = 0,
+				["damagetakenspells"] = {
+				},
+				["maxhp"] = 113,
+				["deathlog"] = {
+				},
+				["name"] = "Esoterya",
+				["power"] = {
+				},
+				["auras"] = {
+				},
+				["damagetaken"] = 0,
+				["time"] = 20,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["damagetaken"] = 0,
+		["shielding"] = 0,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["starttime"] = 1394303936,
+		["mobtaken"] = 961,
+		["name"] = "Totale",
+		["mobs"] = {
+			["Gnomo Contaminato Frenetico"] = {
+				["players"] = {
+					["Esoterya"] = {
+						["taken"] = 961,
+						["done"] = 0,
+						["class"] = "WARLOCK",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 961,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["overhealing"] = 0,
+		["mobhdone"] = 0,
+		["last_action"] = 1394303936,
+		["mobdone"] = 0,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["damage"] = 78,
+			["players"] = {
+				{
+					["last"] = 1394304042,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Gnomo Contaminato Frenetico"] = 78,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 78,
+					["damagespells"] = {
+						["Pipuri: Dardo di Fuoco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 14,
+							["DEFLECT"] = 0,
+							["id"] = 3110,
+							["max"] = 14,
+							["min"] = 14,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Dardo d'Ombra"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 2,
+							["MISS"] = 0,
+							["damage"] = 64,
+							["DEFLECT"] = 0,
+							["id"] = 686,
+							["max"] = 32,
+							["min"] = 32,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 2,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000005E38144",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 113,
+					["name"] = "Esoterya",
+					["power"] = {
+					},
+					["auras"] = {
+					},
+					["damagetaken"] = 0,
+					["first"] = 1394304040,
+					["time"] = 2,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["endtime"] = 1394304044,
+			["healing"] = 0,
+			["mobs"] = {
+				["Gnomo Contaminato Frenetico"] = {
+					["players"] = {
+						["Esoterya"] = {
+							["taken"] = 78,
+							["done"] = 0,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 78,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1394304037,
+			["mobtaken"] = 78,
+			["name"] = "Gnomo Contaminato Frenetico",
+			["mobname"] = "Gnomo Contaminato Frenetico",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1394304037,
+			["mobdone"] = 0,
+		}, -- [1]
+	},
+}

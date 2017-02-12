@@ -1,0 +1,2 @@
+
+BloodyRare_Active = false

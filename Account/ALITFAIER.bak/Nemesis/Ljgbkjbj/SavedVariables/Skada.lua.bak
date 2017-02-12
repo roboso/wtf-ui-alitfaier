@@ -1,0 +1,1780 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 310,
+		["interrupts"] = 0,
+		["damage"] = 7007,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "HUNTER",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["ccbreaks"] = 0,
+				["damage"] = 7007,
+				["damagespells"] = {
+					["Attacco"] = {
+						["min"] = 8,
+						["hit"] = 3,
+						["totalhits"] = 3,
+						["id"] = 6603,
+						["max"] = 9,
+						["damage"] = 25,
+					},
+					["Tartaruga: Morso"] = {
+						["min"] = 6,
+						["PARRY"] = 1,
+						["critical"] = 11,
+						["hit"] = 71,
+						["totalhits"] = 83,
+						["id"] = 17253,
+						["max"] = 29,
+						["damage"] = 1116,
+					},
+					["Tiro Arcano"] = {
+						["min"] = 14,
+						["critical"] = 4,
+						["hit"] = 26,
+						["totalhits"] = 30,
+						["id"] = 3044,
+						["max"] = 117,
+						["damage"] = 1543,
+					},
+					["Tartaruga: Attacco"] = {
+						["min"] = 6,
+						["critical"] = 17,
+						["hit"] = 123,
+						["totalhits"] = 140,
+						["id"] = 6603,
+						["max"] = 18,
+						["damage"] = 1257,
+					},
+					["Tiro Automatico"] = {
+						["min"] = 12,
+						["critical"] = 9,
+						["hit"] = 62,
+						["totalhits"] = 71,
+						["id"] = 75,
+						["max"] = 169,
+						["damage"] = 2496,
+					},
+					["Tiro Stabilizzato"] = {
+						["min"] = 12,
+						["critical"] = 1,
+						["hit"] = 8,
+						["totalhits"] = 9,
+						["id"] = 56641,
+						["max"] = 138,
+						["damage"] = 570,
+					},
+				},
+				["maxhp"] = 168,
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "Player-1316-07512C04",
+				["healing"] = 0,
+				["deathlog"] = {
+					{
+						["ts"] = 1427737162.909,
+						["amount"] = -18,
+						["hp"] = 1290,
+						["spellid"] = 108957,
+						["srcname"] = "Maestro Li Fei",
+					}, -- [1]
+					{
+						["ts"] = 1427737163.438,
+						["amount"] = -18,
+						["hp"] = 1326,
+						["spellid"] = 108957,
+						["srcname"] = "Maestro Li Fei",
+					}, -- [2]
+					{
+						["ts"] = 1427737176.955,
+						["amount"] = -18,
+						["hp"] = 1326,
+						["srcname"] = "Maestro Li Fei",
+						["spellid"] = 108957,
+					}, -- [3]
+					{
+						["ts"] = 1427737181.336,
+						["amount"] = -12,
+						["hp"] = 1344,
+						["srcname"] = "Maestro Li Fei",
+						["spellid"] = 88163,
+					}, -- [4]
+					{
+						["ts"] = 1427737183.301,
+						["amount"] = -12,
+						["hp"] = 1344,
+						["srcname"] = "Maestro Li Fei",
+						["spellid"] = 88163,
+					}, -- [5]
+					{
+						["ts"] = 1427737185.273,
+						["amount"] = -11,
+						["hp"] = 1344,
+						["srcname"] = "Maestro Li Fei",
+						["spellid"] = 88163,
+					}, -- [6]
+					{
+						["ts"] = 1427737144.777,
+						["amount"] = -13,
+						["hp"] = 1344,
+						["srcname"] = "Maestro Li Fei",
+						["spellid"] = 88163,
+					}, -- [7]
+					{
+						["ts"] = 1427737146.868,
+						["amount"] = -15,
+						["hp"] = 1331,
+						["srcname"] = "Maestro Li Fei",
+						["spellid"] = 88163,
+					}, -- [8]
+					{
+						["ts"] = 1427737150.796,
+						["amount"] = -18,
+						["hp"] = 1326,
+						["srcname"] = "Maestro Li Fei",
+						["spellid"] = 108957,
+					}, -- [9]
+					{
+						["ts"] = 1427737151.27,
+						["amount"] = -18,
+						["hp"] = 1326,
+						["srcname"] = "Maestro Li Fei",
+						["spellid"] = 108957,
+					}, -- [10]
+					{
+						["ts"] = 1427737151.717,
+						["amount"] = -18,
+						["hp"] = 1308,
+						["srcname"] = "Maestro Li Fei",
+						["spellid"] = 108957,
+					}, -- [11]
+					{
+						["ts"] = 1427737152.344,
+						["amount"] = -18,
+						["hp"] = 1290,
+						["srcname"] = "Maestro Li Fei",
+						["spellid"] = 108957,
+					}, -- [12]
+					{
+						["ts"] = 1427737154.867,
+						["amount"] = -12,
+						["hp"] = 1344,
+						["srcname"] = "Maestro Li Fei",
+						["spellid"] = 88163,
+					}, -- [13]
+					{
+						["ts"] = 1427737161.906,
+						["amount"] = -18,
+						["hp"] = 1326,
+						["srcname"] = "Maestro Li Fei",
+						["spellid"] = 108957,
+					}, -- [14]
+					{
+						["ts"] = 1427737162.423,
+						["amount"] = -18,
+						["hp"] = 1308,
+						["spellid"] = 108957,
+						["srcname"] = "Maestro Li Fei",
+					}, -- [15]
+					["pos"] = 7,
+				},
+				["damagetakenspells"] = {
+					["Attacco"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["min"] = 1,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Attacco",
+						["blocked"] = 0,
+						["totalhits"] = 50,
+						["resisted"] = 0,
+						["max"] = 15,
+						["damage"] = 151,
+					},
+					["Impalamento"] = {
+						["crushing"] = 0,
+						["id"] = 114974,
+						["min"] = 1,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Impalamento",
+						["blocked"] = 0,
+						["totalhits"] = 2,
+						["resisted"] = 0,
+						["max"] = 1,
+						["damage"] = 2,
+					},
+					["Piedi della Furia"] = {
+						["crushing"] = 0,
+						["id"] = 108957,
+						["min"] = 18,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Piedi della Furia",
+						["blocked"] = 0,
+						["totalhits"] = 13,
+						["resisted"] = 0,
+						["max"] = 18,
+						["damage"] = 234,
+					},
+					["Dardo Fulminante"] = {
+						["crushing"] = 0,
+						["id"] = 73212,
+						["min"] = 6,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Dardo Fulminante",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 6,
+						["damage"] = 6,
+					},
+				},
+				["power"] = {
+					[2] = {
+						["amount"] = 126,
+						["spells"] = {
+							[77443] = 126,
+						},
+					},
+				},
+				["auras"] = {
+					["Tartaruga: Ringhio"] = {
+						["name"] = "Tartaruga: Ringhio",
+						["active"] = 0,
+						["id"] = 2649,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 103,
+					},
+					["Rianima Famiglio"] = {
+						["name"] = "Rianima Famiglio",
+						["active"] = 0,
+						["id"] = 982,
+						["auratype"] = "BUFF",
+						["uptime"] = 2,
+					},
+					["Tartaruga: Carica"] = {
+						["name"] = "Tartaruga: Carica",
+						["active"] = 0,
+						["id"] = 61685,
+						["auratype"] = "BUFF",
+						["uptime"] = 9,
+					},
+				},
+				["name"] = "Ljgbkjbj",
+				["damagetaken"] = 393,
+				["role"] = "NONE",
+				["time"] = 281,
+				["multistrikes"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["Volpe Corsac"] = {
+				["players"] = {
+					["Ljgbkjbj"] = {
+						["taken"] = 42,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 42,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Ladro di Birra di Fe-Feng"] = {
+				["players"] = {
+					["Ljgbkjbj"] = {
+						["taken"] = 353,
+						["done"] = 7,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 353,
+				["done"] = 7,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Allievo Huojin"] = {
+				["players"] = {
+					["Ljgbkjbj"] = {
+						["taken"] = 198,
+						["done"] = 3,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 198,
+				["done"] = 3,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Bersaglio d'Allenamento"] = {
+				["players"] = {
+					["Ljgbkjbj"] = {
+						["taken"] = 246,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 246,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Canaglia della Foglia d'Ambra"] = {
+				["players"] = {
+					["Ljgbkjbj"] = {
+						["taken"] = 524,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 524,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Maestro Li Fei"] = {
+				["players"] = {
+					["Ljgbkjbj"] = {
+						["taken"] = 3694,
+						["done"] = 320,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 3694,
+				["done"] = 320,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Allieva Huojin"] = {
+				["players"] = {
+					["Ljgbkjbj"] = {
+						["taken"] = 80,
+						["done"] = 2,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 80,
+				["done"] = 2,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Aria Vivente"] = {
+				["players"] = {
+					["Ljgbkjbj"] = {
+						["taken"] = 186,
+						["done"] = 6,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 186,
+				["done"] = 6,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Hozen di Fe-Feng"] = {
+				["players"] = {
+					["Ljgbkjbj"] = {
+						["taken"] = 778,
+						["done"] = 27,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 778,
+				["done"] = 27,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Allieva Tushui"] = {
+				["players"] = {
+					["Ljgbkjbj"] = {
+						["taken"] = 205,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 205,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Piantagrane della Foglia d'Ambra"] = {
+				["players"] = {
+					["Ljgbkjbj"] = {
+						["taken"] = 523,
+						["done"] = 28,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 523,
+				["done"] = 28,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Jaomin Ro"] = {
+				["players"] = {
+					["Ljgbkjbj"] = {
+						["taken"] = 178,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 178,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["mobtaken"] = 7007,
+		["healing"] = 0,
+		["power"] = {
+			[2] = 126,
+		},
+		["starttime"] = 1427735579,
+		["damagetaken"] = 393,
+		["shielding"] = 0,
+		["name"] = "Totale",
+		["overhealing"] = 0,
+		["mobdone"] = 393,
+		["mobhdone"] = 0,
+		["last_action"] = 1427735579,
+		["multistrikes"] = 0,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 61,
+			["interrupts"] = 0,
+			["endtime"] = 1427737192,
+			["damage"] = 3694,
+			["players"] = {
+				{
+					["last"] = 1427737190,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Maestro Li Fei"] = 3694,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 3694,
+					["damagespells"] = {
+						["Tartaruga: Morso"] = {
+							["min"] = 6,
+							["PARRY"] = 1,
+							["critical"] = 3,
+							["hit"] = 8,
+							["totalhits"] = 12,
+							["id"] = 17253,
+							["max"] = 16,
+							["damage"] = 131,
+						},
+						["Tiro Arcano"] = {
+							["min"] = 110,
+							["hit"] = 10,
+							["totalhits"] = 10,
+							["id"] = 3044,
+							["max"] = 117,
+							["damage"] = 1140,
+						},
+						["Tartaruga: Attacco"] = {
+							["min"] = 7,
+							["critical"] = 3,
+							["hit"] = 22,
+							["totalhits"] = 25,
+							["id"] = 6603,
+							["max"] = 15,
+							["damage"] = 212,
+						},
+						["Tiro Automatico"] = {
+							["min"] = 80,
+							["critical"] = 2,
+							["hit"] = 16,
+							["totalhits"] = 18,
+							["id"] = 75,
+							["max"] = 169,
+							["damage"] = 1666,
+						},
+						["Tiro Stabilizzato"] = {
+							["min"] = 66,
+							["critical"] = 1,
+							["hit"] = 6,
+							["totalhits"] = 7,
+							["id"] = 56641,
+							["max"] = 138,
+							["damage"] = 545,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-07512C04",
+					["healing"] = 0,
+					["maxhp"] = 224,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 11,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 7,
+							["resisted"] = 0,
+							["max"] = 15,
+							["damage"] = 86,
+						},
+						["Piedi della Furia"] = {
+							["crushing"] = 0,
+							["id"] = 108957,
+							["min"] = 18,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Piedi della Furia",
+							["blocked"] = 0,
+							["totalhits"] = 13,
+							["resisted"] = 0,
+							["max"] = 18,
+							["damage"] = 234,
+						},
+					},
+					["power"] = {
+						[2] = {
+							["amount"] = 98,
+							["spells"] = {
+								[77443] = 98,
+							},
+						},
+					},
+					["auras"] = {
+						["Tartaruga: Ringhio"] = {
+							["name"] = "Tartaruga: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 17,
+						},
+						["Rianima Famiglio"] = {
+							["name"] = "Rianima Famiglio",
+							["active"] = 0,
+							["id"] = 982,
+							["auratype"] = "BUFF",
+							["uptime"] = 2,
+						},
+						["Tartaruga: Carica"] = {
+							["name"] = "Tartaruga: Carica",
+							["active"] = 0,
+							["id"] = 61685,
+							["auratype"] = "BUFF",
+							["uptime"] = 2,
+						},
+					},
+					["name"] = "Ljgbkjbj",
+					["damagetaken"] = 320,
+					["first"] = 1427737131,
+					["role"] = "NONE",
+					["time"] = 59,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Maestro Li Fei"] = {
+					["players"] = {
+						["Ljgbkjbj"] = {
+							["taken"] = 3694,
+							["done"] = 320,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 3694,
+					["done"] = 320,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 3694,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+				[2] = 98,
+			},
+			["starttime"] = 1427737131,
+			["damagetaken"] = 320,
+			["shielding"] = 0,
+			["name"] = "Maestro Li Fei",
+			["mobname"] = "Maestro Li Fei",
+			["mobdone"] = 320,
+			["mobhdone"] = 0,
+			["last_action"] = 1427737131,
+			["multistrikes"] = 0,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 8,
+			["interrupts"] = 0,
+			["endtime"] = 1427736997,
+			["damage"] = 60,
+			["players"] = {
+				{
+					["last"] = 1427736996,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Hozen di Fe-Feng"] = 60,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 60,
+					["damagespells"] = {
+						["Tartaruga: Morso"] = {
+							["min"] = 17,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 17253,
+							["max"] = 19,
+							["damage"] = 36,
+						},
+						["Tartaruga: Attacco"] = {
+							["min"] = 8,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 6603,
+							["max"] = 8,
+							["damage"] = 24,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-07512C04",
+					["healing"] = 0,
+					["maxhp"] = 224,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 3,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 3,
+							["damage"] = 3,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Tartaruga: Ringhio"] = {
+							["name"] = "Tartaruga: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["name"] = "Ljgbkjbj",
+					["damagetaken"] = 3,
+					["first"] = 1427736990,
+					["role"] = "NONE",
+					["time"] = 6,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Hozen di Fe-Feng"] = {
+					["players"] = {
+						["Ljgbkjbj"] = {
+							["taken"] = 60,
+							["done"] = 3,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 60,
+					["done"] = 3,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 60,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1427736989,
+			["damagetaken"] = 3,
+			["shielding"] = 0,
+			["name"] = "Hozen di Fe-Feng (10)",
+			["mobname"] = "Hozen di Fe-Feng",
+			["mobdone"] = 3,
+			["mobhdone"] = 0,
+			["last_action"] = 1427736989,
+			["multistrikes"] = 0,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["endtime"] = 1427736969,
+			["damage"] = 55,
+			["players"] = {
+				{
+					["last"] = 1427736968,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Hozen di Fe-Feng"] = 55,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 55,
+					["damagespells"] = {
+						["Tartaruga: Morso"] = {
+							["min"] = 14,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 17253,
+							["max"] = 16,
+							["damage"] = 30,
+						},
+						["Tartaruga: Attacco"] = {
+							["min"] = 8,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 6603,
+							["max"] = 9,
+							["damage"] = 25,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-07512C04",
+					["healing"] = 0,
+					["maxhp"] = 224,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 2,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 2,
+							["damage"] = 2,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Tartaruga: Ringhio"] = {
+							["name"] = "Tartaruga: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["name"] = "Ljgbkjbj",
+					["damagetaken"] = 2,
+					["first"] = 1427736963,
+					["role"] = "NONE",
+					["time"] = 5,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Hozen di Fe-Feng"] = {
+					["players"] = {
+						["Ljgbkjbj"] = {
+							["taken"] = 55,
+							["done"] = 2,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 55,
+					["done"] = 2,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 55,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1427736962,
+			["damagetaken"] = 2,
+			["shielding"] = 0,
+			["name"] = "Hozen di Fe-Feng (9)",
+			["mobname"] = "Hozen di Fe-Feng",
+			["mobdone"] = 2,
+			["mobhdone"] = 0,
+			["last_action"] = 1427736962,
+			["multistrikes"] = 0,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 6,
+			["interrupts"] = 0,
+			["endtime"] = 1427736947,
+			["damage"] = 63,
+			["players"] = {
+				{
+					["last"] = 1427736945,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Ladro di Birra di Fe-Feng"] = 63,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 63,
+					["damagespells"] = {
+						["Tartaruga: Morso"] = {
+							["min"] = 17,
+							["critical"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["id"] = 17253,
+							["max"] = 29,
+							["damage"] = 46,
+						},
+						["Tartaruga: Attacco"] = {
+							["min"] = 8,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 6603,
+							["max"] = 9,
+							["damage"] = 17,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-07512C04",
+					["healing"] = 0,
+					["maxhp"] = 224,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Tartaruga: Ringhio"] = {
+							["name"] = "Tartaruga: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["name"] = "Ljgbkjbj",
+					["damagetaken"] = 0,
+					["first"] = 1427736942,
+					["role"] = "NONE",
+					["time"] = 3,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Ladro di Birra di Fe-Feng"] = {
+					["players"] = {
+						["Ljgbkjbj"] = {
+							["taken"] = 63,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 63,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 63,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1427736941,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Ladro di Birra di Fe-Feng (2)",
+			["mobname"] = "Ladro di Birra di Fe-Feng",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1427736941,
+			["multistrikes"] = 0,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 9,
+			["interrupts"] = 0,
+			["endtime"] = 1427736919,
+			["damage"] = 62,
+			["players"] = {
+				{
+					["last"] = 1427736918,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Hozen di Fe-Feng"] = 62,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 62,
+					["damagespells"] = {
+						["Tartaruga: Morso"] = {
+							["min"] = 14,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 17253,
+							["max"] = 15,
+							["damage"] = 29,
+						},
+						["Tartaruga: Attacco"] = {
+							["min"] = 8,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["id"] = 6603,
+							["max"] = 9,
+							["damage"] = 33,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-07512C04",
+					["healing"] = 0,
+					["maxhp"] = 224,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 3,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 3,
+							["damage"] = 3,
+						},
+						["Impalamento"] = {
+							["crushing"] = 0,
+							["id"] = 114974,
+							["min"] = 1,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Impalamento",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 1,
+							["damage"] = 1,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Tartaruga: Ringhio"] = {
+							["name"] = "Tartaruga: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["name"] = "Ljgbkjbj",
+					["damagetaken"] = 4,
+					["first"] = 1427736911,
+					["role"] = "NONE",
+					["time"] = 7,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Hozen di Fe-Feng"] = {
+					["players"] = {
+						["Ljgbkjbj"] = {
+							["taken"] = 62,
+							["done"] = 4,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 62,
+					["done"] = 4,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 62,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1427736910,
+			["damagetaken"] = 4,
+			["shielding"] = 0,
+			["name"] = "Hozen di Fe-Feng (8)",
+			["mobname"] = "Hozen di Fe-Feng",
+			["mobdone"] = 4,
+			["mobhdone"] = 0,
+			["last_action"] = 1427736910,
+			["multistrikes"] = 0,
+		}, -- [5]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["endtime"] = 1427736874,
+			["damage"] = 71,
+			["players"] = {
+				{
+					["last"] = 1427736872,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Hozen di Fe-Feng"] = 71,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 71,
+					["damagespells"] = {
+						["Tartaruga: Morso"] = {
+							["min"] = 19,
+							["critical"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["id"] = 17253,
+							["max"] = 28,
+							["damage"] = 47,
+						},
+						["Tartaruga: Attacco"] = {
+							["min"] = 8,
+							["critical"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["id"] = 6603,
+							["max"] = 16,
+							["damage"] = 24,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-07512C04",
+					["healing"] = 0,
+					["maxhp"] = 224,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 2,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 2,
+							["damage"] = 2,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Tartaruga: Ringhio"] = {
+							["name"] = "Tartaruga: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["name"] = "Ljgbkjbj",
+					["damagetaken"] = 2,
+					["first"] = 1427736868,
+					["role"] = "NONE",
+					["time"] = 4,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Hozen di Fe-Feng"] = {
+					["players"] = {
+						["Ljgbkjbj"] = {
+							["taken"] = 71,
+							["done"] = 2,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 71,
+					["done"] = 2,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 71,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1427736867,
+			["damagetaken"] = 2,
+			["shielding"] = 0,
+			["name"] = "Hozen di Fe-Feng (7)",
+			["mobname"] = "Hozen di Fe-Feng",
+			["mobdone"] = 2,
+			["mobhdone"] = 0,
+			["last_action"] = 1427736867,
+			["multistrikes"] = 0,
+		}, -- [6]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 11,
+			["interrupts"] = 0,
+			["endtime"] = 1427736834,
+			["damage"] = 55,
+			["players"] = {
+				{
+					["last"] = 1427736832,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Hozen di Fe-Feng"] = 55,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 55,
+					["damagespells"] = {
+						["Tartaruga: Morso"] = {
+							["min"] = 7,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 17253,
+							["max"] = 14,
+							["damage"] = 21,
+						},
+						["Tartaruga: Attacco"] = {
+							["min"] = 8,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["id"] = 6603,
+							["max"] = 10,
+							["damage"] = 34,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-07512C04",
+					["healing"] = 0,
+					["maxhp"] = 224,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 3,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 3,
+							["damage"] = 3,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Tartaruga: Ringhio"] = {
+							["name"] = "Tartaruga: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+						["Tartaruga: Carica"] = {
+							["name"] = "Tartaruga: Carica",
+							["active"] = 0,
+							["id"] = 61685,
+							["auratype"] = "BUFF",
+							["uptime"] = 1,
+						},
+					},
+					["name"] = "Ljgbkjbj",
+					["damagetaken"] = 3,
+					["first"] = 1427736824,
+					["role"] = "NONE",
+					["time"] = 8,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Hozen di Fe-Feng"] = {
+					["players"] = {
+						["Ljgbkjbj"] = {
+							["taken"] = 55,
+							["done"] = 3,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 55,
+					["done"] = 3,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 55,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1427736823,
+			["damagetaken"] = 3,
+			["shielding"] = 0,
+			["name"] = "Hozen di Fe-Feng (6)",
+			["mobname"] = "Hozen di Fe-Feng",
+			["mobdone"] = 3,
+			["mobhdone"] = 0,
+			["last_action"] = 1427736823,
+			["multistrikes"] = 0,
+		}, -- [7]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 12,
+			["interrupts"] = 0,
+			["endtime"] = 1427736822,
+			["damage"] = 93,
+			["players"] = {
+				{
+					["last"] = 1427736820,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Aria Vivente"] = 93,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 93,
+					["damagespells"] = {
+						["Tartaruga: Attacco"] = {
+							["min"] = 8,
+							["critical"] = 2,
+							["hit"] = 3,
+							["totalhits"] = 5,
+							["id"] = 6603,
+							["max"] = 17,
+							["damage"] = 58,
+						},
+						["Tartaruga: Morso"] = {
+							["min"] = 7,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 17253,
+							["max"] = 19,
+							["damage"] = 35,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-07512C04",
+					["healing"] = 0,
+					["maxhp"] = 224,
+					["damagetakenspells"] = {
+						["Dardo Fulminante"] = {
+							["crushing"] = 0,
+							["id"] = 73212,
+							["min"] = 6,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Dardo Fulminante",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 6,
+							["damage"] = 6,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Tartaruga: Ringhio"] = {
+							["name"] = "Tartaruga: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["name"] = "Ljgbkjbj",
+					["damagetaken"] = 6,
+					["first"] = 1427736812,
+					["role"] = "NONE",
+					["time"] = 8,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Aria Vivente"] = {
+					["players"] = {
+						["Ljgbkjbj"] = {
+							["taken"] = 93,
+							["done"] = 6,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 93,
+					["done"] = 6,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 93,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1427736810,
+			["damagetaken"] = 6,
+			["shielding"] = 0,
+			["name"] = "Aria Vivente",
+			["mobname"] = "Aria Vivente",
+			["mobdone"] = 6,
+			["mobhdone"] = 0,
+			["last_action"] = 1427736810,
+			["multistrikes"] = 0,
+		}, -- [8]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["endtime"] = 1427736801,
+			["damage"] = 59,
+			["players"] = {
+				{
+					["last"] = 1427736801,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Hozen di Fe-Feng"] = 59,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 59,
+					["damagespells"] = {
+						["Tartaruga: Morso"] = {
+							["min"] = 9,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 17253,
+							["max"] = 16,
+							["damage"] = 25,
+						},
+						["Tartaruga: Attacco"] = {
+							["min"] = 8,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["id"] = 6603,
+							["max"] = 9,
+							["damage"] = 34,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-07512C04",
+					["healing"] = 0,
+					["maxhp"] = 224,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Tartaruga: Ringhio"] = {
+							["name"] = "Tartaruga: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["name"] = "Ljgbkjbj",
+					["damagetaken"] = 0,
+					["first"] = 1427736795,
+					["role"] = "NONE",
+					["time"] = 6,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Hozen di Fe-Feng"] = {
+					["players"] = {
+						["Ljgbkjbj"] = {
+							["taken"] = 59,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 59,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 59,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1427736794,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Hozen di Fe-Feng (5)",
+			["mobname"] = "Hozen di Fe-Feng",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1427736794,
+			["multistrikes"] = 0,
+		}, -- [9]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 9,
+			["interrupts"] = 0,
+			["endtime"] = 1427736787,
+			["damage"] = 61,
+			["players"] = {
+				{
+					["last"] = 1427736786,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Hozen di Fe-Feng"] = 61,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 61,
+					["damagespells"] = {
+						["Tartaruga: Morso"] = {
+							["min"] = 13,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 17253,
+							["max"] = 15,
+							["damage"] = 28,
+						},
+						["Tartaruga: Attacco"] = {
+							["min"] = 8,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["id"] = 6603,
+							["max"] = 9,
+							["damage"] = 33,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-07512C04",
+					["healing"] = 0,
+					["maxhp"] = 224,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 3,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 3,
+							["damage"] = 3,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Tartaruga: Ringhio"] = {
+							["name"] = "Tartaruga: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["name"] = "Ljgbkjbj",
+					["damagetaken"] = 3,
+					["first"] = 1427736780,
+					["role"] = "NONE",
+					["time"] = 6,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Hozen di Fe-Feng"] = {
+					["players"] = {
+						["Ljgbkjbj"] = {
+							["taken"] = 61,
+							["done"] = 3,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 61,
+					["done"] = 3,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 61,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1427736778,
+			["damagetaken"] = 3,
+			["shielding"] = 0,
+			["name"] = "Hozen di Fe-Feng (4)",
+			["mobname"] = "Hozen di Fe-Feng",
+			["mobdone"] = 3,
+			["mobhdone"] = 0,
+			["last_action"] = 1427736778,
+			["multistrikes"] = 0,
+		}, -- [10]
+	},
+}

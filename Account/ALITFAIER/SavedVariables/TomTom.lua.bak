@@ -1,0 +1,20 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+TomTomWaypoints = nil
+TomTomWaypointsMF = {
+	["profileKeys"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = "Àzzurrà - Pozzo dell'Eternità",
+	},
+	["profiles"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = {
+		},
+	},
+}

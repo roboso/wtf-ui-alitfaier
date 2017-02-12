@@ -1,0 +1,12 @@
+
+EveryQuestDBPC = nil
+EQ2DBPC = {
+	["profileKeys"] = {
+		["Alitfaier - Hakkar"] = "global",
+	},
+	["profiles"] = {
+		["global"] = {
+			["dbversion"] = 4,
+		},
+	},
+}

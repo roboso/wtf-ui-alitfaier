@@ -1,0 +1,8 @@
+
+GoldSave = {
+	["Àzzurrà_Pozzo dell'Eternità::Alliance"] = {
+		["show"] = true,
+		["name"] = "Àzzurrà",
+		["gold"] = 953127478,
+	},
+}

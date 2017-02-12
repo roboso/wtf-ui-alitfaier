@@ -1,0 +1,26 @@
+
+dbGACB = {
+	["char"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = {
+			["firstun"] = false,
+			["lastversion"] = 20602,
+		},
+	},
+	["global"] = {
+		["lastinterface"] = 70000,
+		["firstrun"] = false,
+		["lastversion"] = 20602,
+	},
+	["profileKeys"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = "Àzzurrà - Pozzo dell'Eternità",
+	},
+	["profiles"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = {
+			["toggles"] = {
+				["SHOWNEXT"] = false,
+				["FREQUENCY"] = 5,
+				["OLDINT"] = false,
+			},
+		},
+	},
+}

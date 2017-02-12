@@ -1,0 +1,10 @@
+
+FishermansFriendDB = {
+	["profileKeys"] = {
+		["Alitfaier - Nagrand"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

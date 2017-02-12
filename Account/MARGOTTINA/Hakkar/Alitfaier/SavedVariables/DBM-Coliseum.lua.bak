@@ -1,0 +1,24 @@
+
+DBMColiseum_SavedVars = {
+	["NorthrendBeasts"] = {
+		["Enabled"] = true,
+		["SpecialWarningCharge"] = true,
+		["HealthFrame"] = false,
+		["SpecialWarningSilence"] = true,
+		["Timer67650NorthrendBeasts0"] = true,
+		["SpecialWarningSpray"] = true,
+		["WarningBreath"] = true,
+		["WarningSpray"] = true,
+		["WarningImpale"] = true,
+		["Announce"] = false,
+		["WarningRage"] = true,
+	},
+}
+DBMColiseum_SavedStats = {
+	["NorthrendBeasts"] = {
+		["heroicPulls"] = 0,
+		["kills"] = 0,
+		["heroicKills"] = 0,
+		["pulls"] = 0,
+	},
+}

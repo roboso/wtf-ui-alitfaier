@@ -1,0 +1,10 @@
+
+nnTrainersDB = {
+	["factions"] = {
+		["Alliance"] = {
+			["TrainerNotes"] = {
+				["version"] = 3,
+			},
+		},
+	},
+}

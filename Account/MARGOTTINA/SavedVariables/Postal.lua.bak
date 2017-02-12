@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Alitfaier|Pozzo dell'Eternità|Horde|85|WARRIOR", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Alitfaier - Pozzo dell'Eternità"] = "Alitfaier - Pozzo dell'Eternità",
+	},
+	["profiles"] = {
+		["Alitfaier - Pozzo dell'Eternità"] = {
+		},
+	},
+}

@@ -1,0 +1,5324 @@
+
+TradeSkillMaster_CraftingDB = {
+	["global"] = {
+		["frameQueueOpen"] = true,
+		["priceColumn"] = 3,
+	},
+	["profileKeys"] = {
+		["Pàndorella - Nemesis"] = "Default",
+	},
+	["factionrealm"] = {
+		["Alliance - Nemesis"] = {
+			["mats"] = {
+				["item:52182:0:0:0:0:0:0"] = {
+					["name"] = "Diaspro",
+				},
+				["item:36926:0:0:0:0:0:0"] = {
+					["name"] = "Cristallo d'Ombra",
+				},
+				["item:36927:0:0:0:0:0:0"] = {
+					["name"] = "Opale Crepuscolare",
+				},
+				["item:36784:0:0:0:0:0:0"] = {
+					["name"] = "Lacrima della Sirena",
+				},
+				["item:76734:0:0:0:0:0:0"] = {
+					["name"] = "Occhio della Serpe",
+				},
+				["item:23446:0:0:0:0:0:0"] = {
+					["name"] = "Lingotto d'Adamantite",
+				},
+				["item:2835:0:0:0:0:0:0"] = {
+					["name"] = "Pietra Grezza",
+				},
+				["item:3577:0:0:0:0:0:0"] = {
+					["name"] = "Lingotto d'Oro",
+				},
+				["item:2836:0:0:0:0:0:0"] = {
+					["name"] = "Pietra Comune",
+				},
+				["item:34052:0:0:0:0:0:0"] = {
+					["name"] = "Frammento Onirico",
+				},
+				["item:41266:0:0:0:0:0:0"] = {
+					["name"] = "Diamante Aria Fulgida",
+				},
+				["item:2841:0:0:0:0:0:0"] = {
+					["name"] = "Lingotto di Bronzo",
+				},
+				["item:36920:0:0:0:0:0:0"] = {
+					["name"] = "Cristallo Solare",
+				},
+				["item:7910:0:0:0:0:0:0"] = {
+					["name"] = "Rubino Stellato",
+				},
+				["item:34054:0:0:0:0:0:0"] = {
+					["name"] = "Polvere Infinita",
+				},
+				["item:2838:0:0:0:0:0:0"] = {
+					["name"] = "Pietra Pesante",
+				},
+				["item:10286:0:0:0:0:0:0"] = {
+					["name"] = "Cuore Selvaggio",
+				},
+				["item:24478:0:0:0:0:0:0"] = {
+					["name"] = "Perla Selvaggia",
+				},
+				["item:52178:0:0:0:0:0:0"] = {
+					["name"] = "Zefirite",
+				},
+				["item:7912:0:0:0:0:0:0"] = {
+					["name"] = "Pietra Solida",
+				},
+				["item:76138:0:0:0:0:0:0"] = {
+					["name"] = "Cuordifiume",
+				},
+				["item:20963:0:0:0:0:0:0"] = {
+					["name"] = "Filigrana di Mithril",
+				},
+				["item:12365:0:0:0:0:0:0"] = {
+					["name"] = "Pietra Densa",
+				},
+				["item:72104:0:0:0:0:0:0"] = {
+					["name"] = "Acciaio Vivente",
+				},
+				["item:1206:0:0:0:0:0:0"] = {
+					["name"] = "Agata Muschiata",
+				},
+				["item:12359:0:0:0:0:0:0"] = {
+					["name"] = "Lingotto di Torio",
+				},
+				["item:20817:0:0:0:0:0:0"] = {
+					["name"] = "Castone di Bronzo",
+				},
+				["item:71808:0:0:0:0:0:0"] = {
+					["name"] = "Corallo di Lava",
+				},
+				["item:52192:0:0:0:0:0:0"] = {
+					["name"] = "Smeraldo Onirico",
+				},
+				["item:52194:0:0:0:0:0:0"] = {
+					["name"] = "Occhio Demoniaco",
+				},
+				["item:5498:0:0:0:0:0:0"] = {
+					["name"] = "Piccola Perla Lucida",
+				},
+				["item:71805:0:0:0:0:0:0"] = {
+					["name"] = "Granato Regio",
+				},
+				["item:11137:0:0:0:0:0:0"] = {
+					["name"] = "Polvere Visionaria",
+				},
+				["item:76142:0:0:0:0:0:0"] = {
+					["name"] = "Radiosità del Sole",
+				},
+				["item:36921:0:0:0:0:0:0"] = {
+					["name"] = "Bagliore Autunnale",
+				},
+				["item:2840:0:0:0:0:0:0"] = {
+					["name"] = "Lingotto di Rame",
+				},
+				["item:12808:0:0:0:0:0:0"] = {
+					["name"] = "Essenza di Non Morte",
+				},
+				["item:76140:0:0:0:0:0:0"] = {
+					["name"] = "Onice Vermiglio",
+				},
+				["item:3827:0:0:0:0:0:0"] = {
+					["name"] = "Pozione di Mana",
+				},
+				["item:52325:0:0:0:0:0:0"] = {
+					["name"] = "Fuoco Volatile",
+				},
+				["item:11083:0:0:0:0:0:0"] = {
+					["name"] = "Polvere Spirituale",
+				},
+				["item:23449:0:0:0:0:0:0"] = {
+					["name"] = "Lingotto di Korio",
+				},
+				["item:36932:0:0:0:0:0:0"] = {
+					["name"] = "Giada Oscura",
+				},
+				["item:11754:0:0:0:0:0:0"] = {
+					["name"] = "Diamante Nero",
+				},
+				["item:43102:0:0:0:0:0:0"] = {
+					["name"] = "Globo Congelato",
+				},
+				["item:36917:0:0:0:0:0:0"] = {
+					["name"] = "Sanguinite",
+				},
+				["item:24479:0:0:0:0:0:0"] = {
+					["name"] = "Perla d'Ombra",
+				},
+				["item:83089:0:0:0:0:0:0"] = {
+					["name"] = "Pantera di Pietrasole",
+				},
+				["item:52193:0:0:0:0:0:0"] = {
+					["name"] = "Topazio Ardente",
+				},
+				["item:1210:0:0:0:0:0:0"] = {
+					["name"] = "Gemma d'Ombra",
+				},
+				["item:76139:0:0:0:0:0:0"] = {
+					["name"] = "Giada Selvaggia",
+				},
+				["item:23447:0:0:0:0:0:0"] = {
+					["name"] = "Lingotto d'Eternio",
+				},
+				["item:24243:0:0:0:0:0:0"] = {
+					["name"] = "Polvere d'Adamantite",
+				},
+				["item:20816:0:0:0:0:0:0"] = {
+					["name"] = "Filo di Rame Delicato",
+				},
+				["item:35624:0:0:0:0:0:0"] = {
+					["name"] = "Terra Eterna",
+				},
+				["item:3391:0:0:0:0:0:0"] = {
+					["name"] = "Elisir della Forza degli Ogre",
+				},
+				["item:1529:0:0:0:0:0:0"] = {
+					["name"] = "Giada",
+				},
+				["item:83090:0:0:0:0:0:0"] = {
+					["name"] = "Pantera di Zaffiro",
+				},
+				["item:12800:0:0:0:0:0:0"] = {
+					["name"] = "Diamante Azerotiano",
+				},
+				["item:83087:0:0:0:0:0:0"] = {
+					["name"] = "Pantera di Rubino",
+				},
+				["item:36783:0:0:0:0:0:0"] = {
+					["name"] = "Perla del Nord",
+				},
+				["item:76136:0:0:0:0:0:0"] = {
+					["name"] = "Granato Pandariano",
+				},
+				["item:83088:0:0:0:0:0:0"] = {
+					["name"] = "Pantera di Giada",
+				},
+				["item:27860:0:0:0:0:0:0"] = {
+					["name"] = "Acqua Draenei Purificata",
+				},
+				["item:12804:0:0:0:0:0:0"] = {
+					["name"] = "Mojo Potente",
+				},
+				["item:5637:0:0:0:0:0:0"] = {
+					["name"] = "Zanna Grande",
+				},
+				["item:36930:0:0:0:0:0:0"] = {
+					["name"] = "Topazio Monarca",
+				},
+				["item:7078:0:0:0:0:0:0"] = {
+					["name"] = "Essenza di Fuoco",
+				},
+				["item:21752:0:0:0:0:0:0"] = {
+					["name"] = "Castone di Torio",
+				},
+				["item:52329:0:0:0:0:0:0"] = {
+					["name"] = "Vita Volatile",
+				},
+				["item:818:0:0:0:0:0:0"] = {
+					["name"] = "Occhio di Tigre",
+				},
+				["item:774:0:0:0:0:0:0"] = {
+					["name"] = "Malachite",
+				},
+				["item:2842:0:0:0:0:0:0"] = {
+					["name"] = "Lingotto d'Argento",
+				},
+				["item:22452:0:0:0:0:0:0"] = {
+					["name"] = "Terra Primordiale",
+				},
+				["item:3575:0:0:0:0:0:0"] = {
+					["name"] = "Lingotto di Ferro",
+				},
+				["item:76131:0:0:0:0:0:0"] = {
+					["name"] = "Rubino Primordiale",
+				},
+				["item:83092:0:0:0:0:0:0"] = {
+					["name"] = "Globo del Mistero",
+				},
+				["item:52196:0:0:0:0:0:0"] = {
+					["name"] = "Occhio di Chimera",
+				},
+				["item:1705:0:0:0:0:0:0"] = {
+					["name"] = "Pietraluna Minore",
+				},
+				["item:52328:0:0:0:0:0:0"] = {
+					["name"] = "Aria Volatile",
+				},
+				["item:36924:0:0:0:0:0:0"] = {
+					["name"] = "Zaffiro Celestiale",
+				},
+				["item:3864:0:0:0:0:0:0"] = {
+					["name"] = "Citrino",
+				},
+				["item:7909:0:0:0:0:0:0"] = {
+					["name"] = "Acquamarina",
+				},
+				["item:6037:0:0:0:0:0:0"] = {
+					["name"] = "Lingotto di Verargento",
+				},
+				["item:12799:0:0:0:0:0:0"] = {
+					["name"] = "Opale Gigante",
+				},
+				["item:12361:0:0:0:0:0:0"] = {
+					["name"] = "Zaffiro Blu",
+				},
+				["item:37701:0:0:0:0:0:0"] = {
+					["name"] = "Terra Cristallizzata",
+				},
+				["item:36933:0:0:0:0:0:0"] = {
+					["name"] = "Smeraldo Silvano",
+				},
+				["item:76132:0:0:0:0:0:0"] = {
+					["name"] = "Diamante Primordiale",
+				},
+				["item:21929:0:0:0:0:0:0"] = {
+					["name"] = "Spessartina Luminosa",
+				},
+				["item:36929:0:0:0:0:0:0"] = {
+					["name"] = "Citrino Gigante",
+				},
+				["item:3860:0:0:0:0:0:0"] = {
+					["name"] = "Lingotto di Mithril",
+				},
+				["item:41163:0:0:0:0:0:0"] = {
+					["name"] = "Lingotto di Titanio",
+				},
+				["item:36918:0:0:0:0:0:0"] = {
+					["name"] = "Rubino Scarlatto",
+				},
+				["item:41334:0:0:0:0:0:0"] = {
+					["name"] = "Diamante Terra Bruciata",
+				},
+				["item:23079:0:0:0:0:0:0"] = {
+					["name"] = "Olivina Scura",
+				},
+				["item:12364:0:0:0:0:0:0"] = {
+					["name"] = "Smeraldo Gigante",
+				},
+				["item:52190:0:0:0:0:0:0"] = {
+					["name"] = "Rubino Infernale",
+				},
+				["item:12803:0:0:0:0:0:0"] = {
+					["name"] = "Essenza Vivente",
+				},
+				["item:22578:0:0:0:0:0:0"] = {
+					["name"] = "Granulo d'Acqua",
+				},
+				["item:7076:0:0:0:0:0:0"] = {
+					["name"] = "Essenza di Terra",
+				},
+				["item:76133:0:0:0:0:0:0"] = {
+					["name"] = "Lapislazzuli",
+				},
+				["item:76137:0:0:0:0:0:0"] = {
+					["name"] = "Alessandrite",
+				},
+				["item:23112:0:0:0:0:0:0"] = {
+					["name"] = "Draenite Dorata",
+				},
+				["item:76134:0:0:0:0:0:0"] = {
+					["name"] = "Pietrasole",
+				},
+				["item:23445:0:0:0:0:0:0"] = {
+					["name"] = "Lingotto di Vilferro",
+				},
+				["item:76061:0:0:0:0:0:0"] = {
+					["name"] = "Spirito dell'Armonia",
+				},
+				["item:76141:0:0:0:0:0:0"] = {
+					["name"] = "Ametista Imperiale",
+				},
+				["item:52179:0:0:0:0:0:0"] = {
+					["name"] = "Alicite",
+				},
+				["item:52326:0:0:0:0:0:0"] = {
+					["name"] = "Acqua Volatile",
+				},
+				["item:76130:0:0:0:0:0:0"] = {
+					["name"] = "Opale Tigrato",
+				},
+				["item:23117:0:0:0:0:0:0"] = {
+					["name"] = "Pietraluna Azzurra",
+				},
+				["item:23077:0:0:0:0:0:0"] = {
+					["name"] = "Granato Sanguigno",
+				},
+				["item:52180:0:0:0:0:0:0"] = {
+					["name"] = "Pietra Notturna",
+				},
+				["item:52181:0:0:0:0:0:0"] = {
+					["name"] = "Essonite",
+				},
+				["item:52195:0:0:0:0:0:0"] = {
+					["name"] = "Ambra Pregiata",
+				},
+				["item:35627:0:0:0:0:0:0"] = {
+					["name"] = "Ombra Eterna",
+				},
+				["item:52327:0:0:0:0:0:0"] = {
+					["name"] = "Terra Volatile",
+				},
+				["item:76135:0:0:0:0:0:0"] = {
+					["name"] = "Pietraladra",
+				},
+				["item:36923:0:0:0:0:0:0"] = {
+					["name"] = "Calcedonio",
+				},
+				["item:52177:0:0:0:0:0:0"] = {
+					["name"] = "Corniola",
+				},
+				["item:52191:0:0:0:0:0:0"] = {
+					["name"] = "Zaffiro Oceanico",
+				},
+				["item:52188:0:0:0:0:0:0"] = {
+					["name"] = "Castone dell'Orefice",
+				},
+				["item:23107:0:0:0:0:0:0"] = {
+					["name"] = "Draenite d'Ombra",
+				},
+				["item:31079:0:0:0:0:0:0"] = {
+					["name"] = "Adamantite Mercuriale",
+				},
+			},
+			["craftingCostCache"] = {
+				["item:21752:0:0:0:0:0:0"] = 47450,
+				["item:83089:0:0:0:0:0:0"] = 28954424,
+				["item:83088:0:0:0:0:0:0"] = 28376924,
+				["item:20963:0:0:0:0:0:0"] = 63010,
+				["item:83090:0:0:0:0:0:0"] = 26803324,
+				["item:20816:0:0:0:0:0:0"] = 79004,
+				["item:20817:0:0:0:0:0:0"] = 87768,
+				["item:83087:0:0:0:0:0:0"] = 28954424,
+				["item:31079:0:0:0:0:0:0"] = 1851096,
+			},
+			["crafts"] = {
+				[25613] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:1529:0:0:0:0:0:0"] = 1,
+						["item:3577:0:0:0:0:0:0"] = 2,
+						["item:20816:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Anello del Drago d'Oro",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20955:0:0:0:0:0:0",
+				},
+				[122668] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 2,
+						["item:76734:0:0:0:0:0:0"] = 6,
+						["item:52188:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Vera del Sangue",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83801:0:0:0:0:0:0",
+				},
+				[106955] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76139:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Giada Selvaggia Fulminea",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76642:0:0:0:0:0:0",
+				},
+				[53845] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36920:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Cristallo Solare Liscio",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39909:0:0:0:0:0:0",
+				},
+				[53861] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36926:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Cristallo d'Ombra Scintillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39942:0:0:0:0:0:0",
+				},
+				[107626] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76136:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Granato Pandariano Preciso",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76561:0:0:0:0:0:0",
+				},
+				[107658] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato Sprezzante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76536:0:0:0:0:0:0",
+				},
+				[38068] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22452:0:0:0:0:0:0"] = 1,
+						["item:24243:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Adamantite Mercuriale",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:31079:0:0:0:0:0:0",
+				},
+				[107722] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Onice Vermiglio Eccellente",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76673:0:0:0:0:0:0",
+				},
+				[107754] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76132:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diamante Primordiale Austero",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76895:0:0:0:0:0:0",
+				},
+				[122669] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 6,
+						["item:52188:0:0:0:0:0:0"] = 1,
+						["item:76138:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Riflesso del Mare",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83802:0:0:0:0:0:0",
+				},
+				[73230] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52178:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Zefirite Rigida",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52089:0:0:0:0:0:0",
+				},
+				[25278] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:2841:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Castone di Bronzo",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20817:0:0:0:0:0:0",
+				},
+				[107627] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76135:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietraladra Accurata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76549:0:0:0:0:0:0",
+				},
+				[107659] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato Risoluto",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76531:0:0:0:0:0:0",
+				},
+				[131897] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76061:0:0:0:0:0:0"] = 3,
+						["item:76139:0:0:0:0:0:0"] = 3,
+					},
+					["name"] = "Gufo di Giada",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:82774:0:0:0:0:0:0",
+				},
+				[26883] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:7910:0:0:0:0:0:0"] = 1,
+						["item:21752:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pendente con Rubino di Fuoco",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:21764:0:0:0:0:0:0",
+				},
+				[122670] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76136:0:0:0:0:0:0"] = 6,
+						["item:76734:0:0:0:0:0:0"] = 6,
+						["item:52188:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Amuleto dello Spaccagolem",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83803:0:0:0:0:0:0",
+				},
+				[26907] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:21752:0:0:0:0:0:0"] = 1,
+						["item:7076:0:0:0:0:0:0"] = 1,
+						["item:12804:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello della Furia",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:21775:0:0:0:0:0:0",
+				},
+				[34955] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:1529:0:0:0:0:0:0"] = 1,
+						["item:3864:0:0:0:0:0:0"] = 1,
+						["item:3577:0:0:0:0:0:0"] = 4,
+						["item:1705:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello d'Oro del Potere",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:29157:0:0:0:0:0:0",
+				},
+				[107628] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76135:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietraladra del Difensore",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76558:0:0:0:0:0:0",
+				},
+				[130655] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76135:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietraladra Tesa",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:89675:0:0:0:0:0:0",
+				},
+				[107724] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Onice Vermiglio Affilato",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76671:0:0:0:0:0:0",
+				},
+				[107756] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76132:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diamante Primordiale Ardente",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76885:0:0:0:0:0:0",
+				},
+				[122671] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 6,
+						["item:52188:0:0:0:0:0:0"] = 1,
+						["item:76134:0:0:0:0:0:0"] = 6,
+					},
+					["name"] = "Catenina della Vedova",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83804:0:0:0:0:0:0",
+				},
+				[73232] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52179:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Alicite Liscia",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52091:0:0:0:0:0:0",
+				},
+				[121841] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:72104:0:0:0:0:0:0"] = 4,
+						["item:76734:0:0:0:0:0:0"] = 2,
+						["item:76131:0:0:0:0:0:0"] = 20,
+						["item:83092:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pantera di Rubino",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83087:0:0:0:0:0:0",
+				},
+				[56194] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36920:0:0:0:0:0:0"] = 1,
+						["item:37701:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Anello della Roccia del Sole",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:42337:0:0:0:0:0:0",
+				},
+				[107693] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76141:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Ametista Imperiale Accurata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76681:0:0:0:0:0:0",
+				},
+				[107725] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Onice Vermiglio Lucente",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76675:0:0:0:0:0:0",
+				},
+				[107757] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76132:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diamante Primordiale Distruttivo",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76890:0:0:0:0:0:0",
+				},
+				[122672] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 6,
+						["item:76141:0:0:0:0:0:0"] = 2,
+						["item:52188:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Fede di Cielolustro",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83805:0:0:0:0:0:0",
+				},
+				[121842] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:72104:0:0:0:0:0:0"] = 4,
+						["item:76734:0:0:0:0:0:0"] = 2,
+						["item:76138:0:0:0:0:0:0"] = 20,
+						["item:83092:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pantera di Zaffiro",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83090:0:0:0:0:0:0",
+				},
+				[107598] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76137:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Alessandrite Bilanciata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76513:0:0:0:0:0:0",
+				},
+				[107630] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76135:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietraladra Intagliata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76552:0:0:0:0:0:0",
+				},
+				[107662] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato Splendido",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76546:0:0:0:0:0:0",
+				},
+				[107726] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Onice Vermiglio Lucido",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76662:0:0:0:0:0:0",
+				},
+				[107758] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76132:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diamante Primordiale Fulgido",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76897:0:0:0:0:0:0",
+				},
+				[56530] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34054:0:0:0:0:0:0"] = 1,
+						["item:36783:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Perla Incantata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:42701:0:0:0:0:0:0",
+				},
+				[122673] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 6,
+						["item:52188:0:0:0:0:0:0"] = 1,
+						["item:76734:0:0:0:0:0:0"] = 6,
+					},
+					["name"] = "Pendente di Opale Tigrato",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83806:0:0:0:0:0:0",
+				},
+				[25255] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:2840:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Filo di Rame Delicato",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20816:0:0:0:0:0:0",
+				},
+				[73234] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52179:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Alicite Rapida",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52093:0:0:0:0:0:0",
+				},
+				[73266] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52181:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Essonite Sprezzante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52113:0:0:0:0:0:0",
+				},
+				[25287] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:20816:0:0:0:0:0:0"] = 2,
+						["item:1210:0:0:0:0:0:0"] = 2,
+						["item:20817:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Vera della Rovina",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20823:0:0:0:0:0:0",
+				},
+				[107599] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76137:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Alessandrite Fulgida",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76511:0:0:0:0:0:0",
+				},
+				[107631] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76135:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietraladra Scintillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76548:0:0:0:0:0:0",
+				},
+				[56195] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:35624:0:0:0:0:0:0"] = 1,
+						["item:36932:0:0:0:0:0:0"] = 2,
+						["item:36929:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Pendente di Giada a Pugnale",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:42338:0:0:0:0:0:0",
+				},
+				[107695] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76141:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Ametista Imperiale Intagliata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76684:0:0:0:0:0:0",
+				},
+				[107727] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Onice Vermiglio Possente",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76660:0:0:0:0:0:0",
+				},
+				[107759] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76132:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diamante Primordiale Cinereo",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76879:0:0:0:0:0:0",
+				},
+				[28936] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:23107:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Draenite d'Ombra Assoluta",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:23111:0:0:0:0:0:0",
+				},
+				[122674] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Occhio della Serpe Delicato",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83151:0:0:0:0:0:0",
+				},
+				[26908] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:12361:0:0:0:0:0:0"] = 1,
+						["item:21752:0:0:0:0:0:0"] = 1,
+						["item:12808:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pendente con Zaffiro della Notte Invernale",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:21790:0:0:0:0:0:0",
+				},
+				[26916] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:21929:0:0:0:0:0:0"] = 1,
+						["item:7078:0:0:0:0:0:0"] = 4,
+						["item:12803:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Vera del Fuoco Naturale",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:21779:0:0:0:0:0:0",
+				},
+				[106961] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76139:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Giada Selvaggia Vivida",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76647:0:0:0:0:0:0",
+				},
+				[73267] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52181:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Essonite Esperta",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52114:0:0:0:0:0:0",
+				},
+				[53832] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36917:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Sanguinite Delicata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39905:0:0:0:0:0:0",
+				},
+				[107600] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76137:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Alessandrite Energizzata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76519:0:0:0:0:0:0",
+				},
+				[107632] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76135:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietraladra del Guardiano",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76556:0:0:0:0:0:0",
+				},
+				[107696] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76141:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Ametista Imperiale Scintillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76680:0:0:0:0:0:0",
+				},
+				[107728] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Onice Vermiglio Sprezzante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76668:0:0:0:0:0:0",
+				},
+				[107760] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76132:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diamante Primordiale Enigmatico",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76892:0:0:0:0:0:0",
+				},
+				[56531] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36784:0:0:0:0:0:0"] = 1,
+						["item:34054:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Lacrima Incantata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:42702:0:0:0:0:0:0",
+				},
+				[122675] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Occhio della Serpe Ardito",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83141:0:0:0:0:0:0",
+				},
+				[34590] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:23077:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Granato Sanguigno Delicato",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:28595:0:0:0:0:0:0",
+				},
+				[106962] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76139:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Giada Selvaggia Torbida",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76648:0:0:0:0:0:0",
+				},
+				[73268] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52181:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Essonite Capace",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52115:0:0:0:0:0:0",
+				},
+				[107601] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76137:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Alessandrite Vigorosa",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76522:0:0:0:0:0:0",
+				},
+				[107633] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76135:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietraladra Misteriosa",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76553:0:0:0:0:0:0",
+				},
+				[107665] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato Tenue",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76544:0:0:0:0:0:0",
+				},
+				[25615] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:3860:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Filigrana di Mithril",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20963:0:0:0:0:0:0",
+				},
+				[122676] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Occhio della Serpe Brillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83150:0:0:0:0:0:0",
+				},
+				[107602] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76137:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Alessandrite Scheggiata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76520:0:0:0:0:0:0",
+				},
+				[107634] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76135:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietraladra Purificata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76554:0:0:0:0:0:0",
+				},
+				[107666] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato Malvagio",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76535:0:0:0:0:0:0",
+				},
+				[107762] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76132:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diamante Primordiale Eterno",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76896:0:0:0:0:0:0",
+				},
+				[73621] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52194:0:0:0:0:0:0"] = 1,
+						["item:52195:0:0:0:0:0:0"] = 1,
+						["item:52193:0:0:0:0:0:0"] = 1,
+						["item:52190:0:0:0:0:0:0"] = 1,
+						["item:52191:0:0:0:0:0:0"] = 1,
+						["item:52192:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Tirapugni Ingioiellato",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52493:0:0:0:0:0:0",
+				},
+				[58145] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:35624:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Vera della Guardia di Pietra",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:43248:0:0:0:0:0:0",
+				},
+				[25280] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:2842:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello d'Argento Elegante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20818:0:0:0:0:0:0",
+				},
+				[131593] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["hasCD"] = true,
+					["mats"] = {
+						["item:76138:0:0:0:0:0:0"] = 3,
+					},
+					["name"] = "Preziosi da Ricerca",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:90395:0:0:0:0:0:0",
+				},
+				[107635] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76135:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietraladra Astiosa",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76551:0:0:0:0:0:0",
+				},
+				[107667] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato Caparbio",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76545:0:0:0:0:0:0",
+				},
+				[107699] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76141:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Ametista Imperiale Purificata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76686:0:0:0:0:0:0",
+				},
+				[107731] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Onice Vermiglio Esperto",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76674:0:0:0:0:0:0",
+				},
+				[107763] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76132:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diamante Primordiale Lesto",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76887:0:0:0:0:0:0",
+				},
+				[26885] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10286:0:0:0:0:0:0"] = 2,
+						["item:6037:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Anello di Verargento della Guarigione",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:21765:0:0:0:0:0:0",
+				},
+				[122678] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Occhio della Serpe Solido",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83148:0:0:0:0:0:0",
+				},
+				[28953] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:23117:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietraluna Azzurra Sfavillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:23119:0:0:0:0:0:0",
+				},
+				[26925] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:20816:0:0:0:0:0:0"] = 2,
+						["item:2840:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello di Rame Intrecciato",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:21931:0:0:0:0:0:0",
+				},
+				[73239] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52179:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Alicite Fratturata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52094:0:0:0:0:0:0",
+				},
+				[107604] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76137:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Alessandrite Fulminea",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76509:0:0:0:0:0:0",
+				},
+				[53882] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36929:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Citrino Gigante Possente",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39956:0:0:0:0:0:0",
+				},
+				[36524] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:1529:0:0:0:0:0:0"] = 1,
+						["item:20817:0:0:0:0:0:0"] = 1,
+						["item:3575:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Anello di Giada Pesante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:30420:0:0:0:0:0:0",
+				},
+				[107732] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Onice Vermiglio Splendido",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76678:0:0:0:0:0:0",
+				},
+				[107764] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76132:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diamante Primordiale Misero",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76894:0:0:0:0:0:0",
+				},
+				[122679] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Occhio della Serpe Scaltro",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83145:0:0:0:0:0:0",
+				},
+				[58146] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:35627:0:0:0:0:0:0"] = 1,
+						["item:35624:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello del Vigore dell'Ombra",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:43249:0:0:0:0:0:0",
+				},
+				[32179] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:20816:0:0:0:0:0:0"] = 1,
+						["item:818:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Vera con Occhio di Tigre",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:25439:0:0:0:0:0:0",
+				},
+				[107605] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76137:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Alessandrite Nebbiosa",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76507:0:0:0:0:0:0",
+				},
+				[107637] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76135:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietraladra Assoluta",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76559:0:0:0:0:0:0",
+				},
+				[107701] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76141:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Ametista Imperiale Mutevole",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76687:0:0:0:0:0:0",
+				},
+				[107733] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Onice Vermiglio Animoso",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76664:0:0:0:0:0:0",
+				},
+				[107765] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76132:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diamante Primordiale Impassibile",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76893:0:0:0:0:0:0",
+				},
+				[32259] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:2835:0:0:0:0:0:0"] = 8,
+					},
+					["name"] = "Statua di Pietra Grezza",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:25498:0:0:0:0:0:0",
+				},
+				[122680] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Occhio della Serpe Liscio",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83146:0:0:0:0:0:0",
+				},
+				[73241] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52180:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietra Notturna Mutevole",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52096:0:0:0:0:0:0",
+				},
+				[107606] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76137:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Alessandrite Svelta",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:93706:0:0:0:0:0:0",
+				},
+				[53883] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36926:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Cristallo d'Ombra Velato",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39957:0:0:0:0:0:0",
+				},
+				[36525] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:7910:0:0:0:0:0:0"] = 1,
+						["item:21752:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello Rosso della Distruzione",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:30421:0:0:0:0:0:0",
+				},
+				[107702] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76141:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Ametista Imperiale Assoluta",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76691:0:0:0:0:0:0",
+				},
+				[107734] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Onice Vermiglio Tenue",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76676:0:0:0:0:0:0",
+				},
+				[107766] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76132:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diamante Primordiale Potente",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76891:0:0:0:0:0:0",
+				},
+				[122681] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Occhio della Serpe Rigido",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83144:0:0:0:0:0:0",
+				},
+				[73274] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52182:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diaspro Scheggiato",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52121:0:0:0:0:0:0",
+				},
+				[107607] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76137:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Alessandrite Penetrante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76508:0:0:0:0:0:0",
+				},
+				[107639] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76135:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietraladra Velata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76550:0:0:0:0:0:0",
+				},
+				[56199] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36918:0:0:0:0:0:0"] = 2,
+						["item:36921:0:0:0:0:0:0"] = 1,
+						["item:41163:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Statuetta - Lepre di Rubino",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:42341:0:0:0:0:0:0",
+				},
+				[107703] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76141:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Ametista Imperiale Eterna",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76689:0:0:0:0:0:0",
+				},
+				[107735] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Onice Vermiglio Malvagio",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76667:0:0:0:0:0:0",
+				},
+				[107767] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76132:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diamante Primordiale Risonante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76886:0:0:0:0:0:0",
+				},
+				[122682] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Occhio della Serpe Rapido",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83142:0:0:0:0:0:0",
+				},
+				[101763] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:71808:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Corallo di Lava Possente",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:71842:0:0:0:0:0:0",
+				},
+				[26926] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:2840:0:0:0:0:0:0"] = 4,
+						["item:20816:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Anello di Rame Pesante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:21932:0:0:0:0:0:0",
+				},
+				[73243] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52180:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietra Notturna Eterna",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52098:0:0:0:0:0:0",
+				},
+				[53852] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36917:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Sanguinite Brillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39912:0:0:0:0:0:0",
+				},
+				[107608] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76137:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Alessandrite Poderosa",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76524:0:0:0:0:0:0",
+				},
+				[107640] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76134:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietrasole Fratturata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76568:0:0:0:0:0:0",
+				},
+				[36526] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:21752:0:0:0:0:0:0"] = 1,
+						["item:12800:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello con Diamante del Focus",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:30422:0:0:0:0:0:0",
+				},
+				[107736] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Onice Vermiglio Caparbio",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76677:0:0:0:0:0:0",
+				},
+				[107768] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76132:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diamante Primordiale Rivitalizzante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76888:0:0:0:0:0:0",
+				},
+				[122683] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Occhio della Serpe Preciso",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83147:0:0:0:0:0:0",
+				},
+				[107609] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76137:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Alessandrite Radiosa",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76517:0:0:0:0:0:0",
+				},
+				[107641] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76134:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietrasole Mistica",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76569:0:0:0:0:0:0",
+				},
+				[107705] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76131:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Rubino Primordiale Ardito",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76696:0:0:0:0:0:0",
+				},
+				[107737] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76139:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Giada Selvaggia Energizzata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76651:0:0:0:0:0:0",
+				},
+				[41429] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:27860:0:0:0:0:0:0"] = 1,
+						["item:24479:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Perla d'Ombra Purificata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:32836:0:0:0:0:0:0",
+				},
+				[25617] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:20963:0:0:0:0:0:0"] = 1,
+						["item:3864:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello con Citrino Fiammeggiante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20958:0:0:0:0:0:0",
+				},
+				[122684] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Occhio della Serpe Fratturato",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83143:0:0:0:0:0:0",
+				},
+				[101797] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:71805:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Granato Regio Brillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:71881:0:0:0:0:0:0",
+				},
+				[55386] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:41266:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diamante Aria Fulgida Indefesso",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:41375:0:0:0:0:0:0",
+				},
+				[136270] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Occhio della Serpe Lucente",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:93405:0:0:0:0:0:0",
+				},
+				[107642] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76134:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietrasole Rapida",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76567:0:0:0:0:0:0",
+				},
+				[107706] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76131:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Rubino Primordiale Brillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76694:0:0:0:0:0:0",
+				},
+				[107738] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76139:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Giada Selvaggia Vigorosa",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76654:0:0:0:0:0:0",
+				},
+				[122685] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Occhio della Serpe Sfolgorante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83152:0:0:0:0:0:0",
+				},
+				[73246] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52180:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietra Notturna Intagliata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52101:0:0:0:0:0:0",
+				},
+				[136272] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Occhio della Serpe Caparbio",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:93406:0:0:0:0:0:0",
+				},
+				[107643] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76134:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietrasole Liscia",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76565:0:0:0:0:0:0",
+				},
+				[56201] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36930:0:0:0:0:0:0"] = 1,
+						["item:36927:0:0:0:0:0:0"] = 2,
+						["item:41163:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Statuetta - Serpente del Crepuscolo",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:42395:0:0:0:0:0:0",
+				},
+				[41414] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:24478:0:0:0:0:0:0"] = 8,
+						["item:23447:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Vera con Perla Brillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:32772:0:0:0:0:0:0",
+				},
+				[136273] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Occhio della Serpe Teso",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:93408:0:0:0:0:0:0",
+				},
+				[26911] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:12364:0:0:0:0:0:0"] = 2,
+						["item:12804:0:0:0:0:0:0"] = 4,
+						["item:12803:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Pendente con Smeraldo Vivente",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:21791:0:0:0:0:0:0",
+				},
+				[26927] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:20816:0:0:0:0:0:0"] = 1,
+						["item:1210:0:0:0:0:0:0"] = 1,
+						["item:2841:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Collana di Bronzo Spesso",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:21933:0:0:0:0:0:0",
+				},
+				[73247] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52180:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietra Notturna Scintillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52102:0:0:0:0:0:0",
+				},
+				[73279] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52182:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diaspro Poderoso",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52126:0:0:0:0:0:0",
+				},
+				[53854] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36923:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Calcedonio Rigido",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39915:0:0:0:0:0:0",
+				},
+				[107612] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76137:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Alessandrite Infranta",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76518:0:0:0:0:0:0",
+				},
+				[107644] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76134:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietrasole Scaltra",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76566:0:0:0:0:0:0",
+				},
+				[107708] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76131:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Rubino Primordiale Sfolgorante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76695:0:0:0:0:0:0",
+				},
+				[107740] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76139:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Giada Selvaggia Svelta",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:93705:0:0:0:0:0:0",
+				},
+				[25490] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:2841:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Anello di Bronzo Solido",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20907:0:0:0:0:0:0",
+				},
+				[136275] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Occhio della Serpe Misterioso",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:93410:0:0:0:0:0:0",
+				},
+				[107613] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76137:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Alessandrite Stabile",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76525:0:0:0:0:0:0",
+				},
+				[107645] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato Capace",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76538:0:0:0:0:0:0",
+				},
+				[56202] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36924:0:0:0:0:0:0"] = 2,
+						["item:36933:0:0:0:0:0:0"] = 1,
+						["item:41163:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Statuetta - Gufo di Zaffiro",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:42413:0:0:0:0:0:0",
+				},
+				[107709] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76131:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Rubino Primordiale Preciso",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76693:0:0:0:0:0:0",
+				},
+				[41415] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:31079:0:0:0:0:0:0"] = 4,
+						["item:24479:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Perla Nera",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:32774:0:0:0:0:0:0",
+				},
+				[53923] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36932:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Giada Oscura Fulminea",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39981:0:0:0:0:0:0",
+				},
+				[25610] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:20817:0:0:0:0:0:0"] = 1,
+						["item:1206:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pendente dello Scudo d'Agata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20950:0:0:0:0:0:0",
+				},
+				[53891] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36929:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Citrino Gigante Animoso",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39965:0:0:0:0:0:0",
+				},
+				[62941] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11754:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diamante Nero Prismatico",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:45054:0:0:0:0:0:0",
+				},
+				[32808] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:7912:0:0:0:0:0:0"] = 10,
+					},
+					["name"] = "Statua di Pietra Solida",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:25882:0:0:0:0:0:0",
+				},
+				[64727] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36927:0:0:0:0:0:0"] = 2,
+						["item:41163:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Vera del Mana Runica",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:45808:0:0:0:0:0:0",
+				},
+				[73494] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52188:0:0:0:0:0:0"] = 1,
+						["item:52182:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello con Diaspro",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52306:0:0:0:0:0:0",
+				},
+				[73249] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52180:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietra Notturna Velata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52104:0:0:0:0:0:0",
+				},
+				[73281] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52182:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diaspro del Sensei",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52128:0:0:0:0:0:0",
+				},
+				[73270] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52181:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Essonite Astuta",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52117:0:0:0:0:0:0",
+				},
+				[73240] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52180:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietra Notturna Assoluta",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52095:0:0:0:0:0:0",
+				},
+				[107614] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76137:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Alessandrite Torbida",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76515:0:0:0:0:0:0",
+				},
+				[107646] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato Astuto",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76540:0:0:0:0:0:0",
+				},
+				[73495] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52188:0:0:0:0:0:0"] = 1,
+						["item:52181:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Anello d'Essonite",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52308:0:0:0:0:0:0",
+				},
+				[107710] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76142:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Radiosità del Sole Fratturata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76700:0:0:0:0:0:0",
+				},
+				[107742] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76139:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Giada Selvaggia Poderosa",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76656:0:0:0:0:0:0",
+				},
+				[131695] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["hasCD"] = true,
+					["mats"] = {
+						["item:76142:0:0:0:0:0:0"] = 3,
+					},
+					["name"] = "Preziosi da Ricerca",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:90398:0:0:0:0:0:0",
+				},
+				[64728] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36918:0:0:0:0:0:0"] = 1,
+						["item:41163:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Anello con Sigillo Scarlatto",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:45809:0:0:0:0:0:0",
+				},
+				[99540] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52326:0:0:0:0:0:0"] = 8,
+						["item:52195:0:0:0:0:0:0"] = 4,
+						["item:52188:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Vera d'Ambra Malvagia",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:75068:0:0:0:0:0:0",
+				},
+				[53922] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36932:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Giada Oscura Nebbiosa",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39980:0:0:0:0:0:0",
+				},
+				[107743] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76139:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Giada Selvaggia Radiosa",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76649:0:0:0:0:0:0",
+				},
+				[131691] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["hasCD"] = true,
+					["mats"] = {
+						["item:76141:0:0:0:0:0:0"] = 3,
+					},
+					["name"] = "Preziosi da Ricerca",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:90399:0:0:0:0:0:0",
+				},
+				[136274] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Occhio della Serpe dell'Assassino",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:93409:0:0:0:0:0:0",
+				},
+				[73250] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52180:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietra Notturna Accurata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52105:0:0:0:0:0:0",
+				},
+				[25283] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:2840:0:0:0:0:0:0"] = 2,
+						["item:774:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Anello Intarsiato di Malachite",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20821:0:0:0:0:0:0",
+				},
+				[130656] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76135:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietraladra dell'Assassino",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:89678:0:0:0:0:0:0",
+				},
+				[122667] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76142:0:0:0:0:0:0"] = 2,
+						["item:76734:0:0:0:0:0:0"] = 6,
+						["item:52188:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello del Leone",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83800:0:0:0:0:0:0",
+				},
+				[107615] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76137:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Alessandrite Vivida",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76514:0:0:0:0:0:0",
+				},
+				[107647] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato del Campione",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76533:0:0:0:0:0:0",
+				},
+				[56203] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36918:0:0:0:0:0:0"] = 1,
+						["item:36933:0:0:0:0:0:0"] = 2,
+						["item:41163:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Statuetta - Cinghiale di Smeraldo",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:42418:0:0:0:0:0:0",
+				},
+				[107711] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76142:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Radiosità del Sole Mistica",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76701:0:0:0:0:0:0",
+				},
+				[25339] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:20817:0:0:0:0:0:0"] = 1,
+						["item:1705:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Amuleto della Luna",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20830:0:0:0:0:0:0",
+				},
+				[26880] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:12359:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Castone di Torio",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:21752:0:0:0:0:0:0",
+				},
+				[107636] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76135:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietraladra Mutevole",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76555:0:0:0:0:0:0",
+				},
+				[73399] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52196:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Occhio di Chimera Brillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52257:0:0:0:0:0:0",
+				},
+				[28948] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:23117:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietraluna Azzurra Rigida",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:23116:0:0:0:0:0:0",
+				},
+				[32809] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:12365:0:0:0:0:0:0"] = 10,
+					},
+					["name"] = "Statua di Pietra Densa",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:25883:0:0:0:0:0:0",
+				},
+				[53920] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36932:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Giada Oscura Vigorosa",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39978:0:0:0:0:0:0",
+				},
+				[140050] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["hasCD"] = true,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 3,
+					},
+					["name"] = "Cuore della Serpe",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:95469:0:0:0:0:0:0",
+				},
+				[107720] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Onice Vermiglio Abile",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76666:0:0:0:0:0:0",
+				},
+				[53880] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36929:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Citrino Gigante Abile",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39955:0:0:0:0:0:0",
+				},
+				[53892] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36926:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Cristallo d'Ombra Accurato",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39966:0:0:0:0:0:0",
+				},
+				[53856] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36920:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Cristallo Solare Rapido",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39918:0:0:0:0:0:0",
+				},
+				[107616] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76137:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Alessandrite Zen",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76512:0:0:0:0:0:0",
+				},
+				[107648] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato Furbo",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76527:0:0:0:0:0:0",
+				},
+				[53876] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36929:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Citrino Gigante Feroce",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39951:0:0:0:0:0:0",
+				},
+				[107712] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76142:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Radiosità del Sole Rapida",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76699:0:0:0:0:0:0",
+				},
+				[107744] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76139:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Giada Selvaggia Regale",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76653:0:0:0:0:0:0",
+				},
+				[53860] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36926:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Cristallo d'Ombra Mutevole",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39935:0:0:0:0:0:0",
+				},
+				[73497] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52188:0:0:0:0:0:0"] = 1,
+						["item:52180:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Girocollo di Pietra Notturna",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52309:0:0:0:0:0:0",
+				},
+				[73222] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52177:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Corniola Ardita",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52081:0:0:0:0:0:0",
+				},
+				[53872] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36929:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Citrino Gigante Inciso",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39947:0:0:0:0:0:0",
+				},
+				[38175] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:20817:0:0:0:0:0:0"] = 1,
+						["item:2841:0:0:0:0:0:0"] = 6,
+						["item:1705:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Girocollo di Bronzo",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:31154:0:0:0:0:0:0",
+				},
+				[53831] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36917:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Sanguinite Ardita",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39900:0:0:0:0:0:0",
+				},
+				[73223] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52177:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Corniola Delicata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52082:0:0:0:0:0:0",
+				},
+				[107638] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76135:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietraladra Eterna",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76557:0:0:0:0:0:0",
+				},
+				[58141] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36929:0:0:0:0:0:0"] = 1,
+						["item:37701:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Collana di Cristallo di Citrino",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:43244:0:0:0:0:0:0",
+				},
+				[121843] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76142:0:0:0:0:0:0"] = 20,
+						["item:76734:0:0:0:0:0:0"] = 2,
+						["item:72104:0:0:0:0:0:0"] = 4,
+						["item:83092:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pantera di Pietrasole",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83089:0:0:0:0:0:0",
+				},
+				[107661] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato Esperto",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76542:0:0:0:0:0:0",
+				},
+				[107617] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76133:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Lapislazzuli Rigido",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76502:0:0:0:0:0:0",
+				},
+				[107649] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato Mortale",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76526:0:0:0:0:0:0",
+				},
+				[136269] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Occhio della Serpe Risplendente",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:93404:0:0:0:0:0:0",
+				},
+				[107713] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76142:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Radiosità del Sole Liscia",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76697:0:0:0:0:0:0",
+				},
+				[107745] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76139:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Giada Selvaggia Infranta",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76650:0:0:0:0:0:0",
+				},
+				[41420] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:24478:0:0:0:0:0:0"] = 1,
+						["item:27860:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Perla Selvaggia Purificata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:32833:0:0:0:0:0:0",
+				},
+				[107719] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Onice Vermiglio Mortale",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76658:0:0:0:0:0:0",
+				},
+				[55394] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:41266:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diamante Aria Fulgida Celere",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:41339:0:0:0:0:0:0",
+				},
+				[131686] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["hasCD"] = true,
+					["mats"] = {
+						["item:76131:0:0:0:0:0:0"] = 3,
+					},
+					["name"] = "Preziosi da Ricerca",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:90401:0:0:0:0:0:0",
+				},
+				[107655] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato Lucente",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76543:0:0:0:0:0:0",
+				},
+				[56196] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36917:0:0:0:0:0:0"] = 1,
+						["item:35624:0:0:0:0:0:0"] = 1,
+						["item:36923:0:0:0:0:0:0"] = 1,
+						["item:36920:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Collana del Sole Insanguinato",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:42339:0:0:0:0:0:0",
+				},
+				[106947] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76138:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Cuordifiume Rigido",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76636:0:0:0:0:0:0",
+				},
+				[107660] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato Risplendente",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76547:0:0:0:0:0:0",
+				},
+				[53934] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36923:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Calcedonio Solido",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39919:0:0:0:0:0:0",
+				},
+				[55402] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:41334:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diamante Terra Bruciata Persistente",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:41381:0:0:0:0:0:0",
+				},
+				[53918] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36932:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Giada Oscura Regale",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39976:0:0:0:0:0:0",
+				},
+				[53873] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36926:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Cristallo d'Ombra Intagliato",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39948:0:0:0:0:0:0",
+				},
+				[107650] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato Abile",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76534:0:0:0:0:0:0",
+				},
+				[32807] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:2838:0:0:0:0:0:0"] = 8,
+					},
+					["name"] = "Statua di Pietra Pesante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:25881:0:0:0:0:0:0",
+				},
+				[55399] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:41334:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diamante Terra Bruciata Potente",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:41397:0:0:0:0:0:0",
+				},
+				[56197] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34052:0:0:0:0:0:0"] = 1,
+						["item:36933:0:0:0:0:0:0"] = 1,
+						["item:41163:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello con Sigillo del Sogno",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:42340:0:0:0:0:0:0",
+				},
+				[53894] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36926:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Cristallo d'Ombra Eterno",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39968:0:0:0:0:0:0",
+				},
+				[28917] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:23079:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Olivina Scura Scheggiata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:23104:0:0:0:0:0:0",
+				},
+				[122661] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76133:0:0:0:0:0:0"] = 1,
+						["item:76130:0:0:0:0:0:0"] = 1,
+						["item:52188:0:0:0:0:0:0"] = 1,
+						["item:76134:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Vera di Lapislazzuli",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83793:0:0:0:0:0:0",
+				},
+				[131688] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["hasCD"] = true,
+					["mats"] = {
+						["item:76139:0:0:0:0:0:0"] = 3,
+					},
+					["name"] = "Preziosi da Ricerca",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:90397:0:0:0:0:0:0",
+				},
+				[54017] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36917:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Sanguinite Precisa",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39910:0:0:0:0:0:0",
+				},
+				[53870] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36932:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Giada Oscura Scheggiata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39933:0:0:0:0:0:0",
+				},
+				[106948] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76138:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Cuordifiume Tempestoso",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76637:0:0:0:0:0:0",
+				},
+				[107611] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76137:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Alessandrite del Sensei",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76510:0:0:0:0:0:0",
+				},
+				[25284] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:5498:0:0:0:0:0:0"] = 1,
+						["item:2840:0:0:0:0:0:0"] = 2,
+						["item:20817:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello con Perla Semplice",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20820:0:0:0:0:0:0",
+				},
+				[53871] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36926:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Cristallo d'Ombra del Guardiano",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39940:0:0:0:0:0:0",
+				},
+				[107718] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Onice Vermiglio Furbo",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76659:0:0:0:0:0:0",
+				},
+				[107619] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76133:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Lapislazzuli Solido",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76506:0:0:0:0:0:0",
+				},
+				[107651] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato Feroce",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76537:0:0:0:0:0:0",
+				},
+				[56205] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36932:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Lenti di Giada Oscura",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:41367:0:0:0:0:0:0",
+				},
+				[73478] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["hasCD"] = true,
+					["mats"] = {
+						["item:52182:0:0:0:0:0:0"] = 3,
+						["item:52177:0:0:0:0:0:0"] = 3,
+						["item:52180:0:0:0:0:0:0"] = 3,
+						["item:52181:0:0:0:0:0:0"] = 3,
+						["item:52178:0:0:0:0:0:0"] = 3,
+						["item:52179:0:0:0:0:0:0"] = 3,
+					},
+					["name"] = "Prisma Infuocato",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52304:0:0:0:0:0:0",
+				},
+				[41418] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:24478:0:0:0:0:0:0"] = 20,
+						["item:23449:0:0:0:0:0:0"] = 12,
+						["item:24479:0:0:0:0:0:0"] = 3,
+						["item:31079:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Corona della Strega di Mare",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:32776:0:0:0:0:0:0",
+				},
+				[28925] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:23107:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Draenite d'Ombra Eterna",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:23108:0:0:0:0:0:0",
+				},
+				[28905] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:23077:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Granato Sanguigno Ardito",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:23095:0:0:0:0:0:0",
+				},
+				[122662] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76136:0:0:0:0:0:0"] = 1,
+						["item:76135:0:0:0:0:0:0"] = 1,
+						["item:52188:0:0:0:0:0:0"] = 1,
+						["item:76137:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Collana d'Alessandrite",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83794:0:0:0:0:0:0",
+				},
+				[131690] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["hasCD"] = true,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 3,
+					},
+					["name"] = "Preziosi da Ricerca",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:90400:0:0:0:0:0:0",
+				},
+				[107654] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato Affilato",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76539:0:0:0:0:0:0",
+				},
+				[31052] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:31079:0:0:0:0:0:0"] = 1,
+						["item:23446:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello d'Adamantite Pesante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:24078:0:0:0:0:0:0",
+				},
+				[106949] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76138:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Cuordifiume Sfavillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76638:0:0:0:0:0:0",
+				},
+				[73496] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52188:0:0:0:0:0:0"] = 1,
+						["item:52179:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Pendente d'Alicite",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52307:0:0:0:0:0:0",
+				},
+				[107620] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76133:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Lapislazzuli Sfavillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76505:0:0:0:0:0:0",
+				},
+				[140060] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76133:0:0:0:0:0:0"] = 5,
+						["item:76130:0:0:0:0:0:0"] = 5,
+						["item:76137:0:0:0:0:0:0"] = 5,
+						["item:76136:0:0:0:0:0:0"] = 5,
+						["item:76135:0:0:0:0:0:0"] = 5,
+						["item:76061:0:0:0:0:0:0"] = 1,
+						["item:76134:0:0:0:0:0:0"] = 5,
+					},
+					["name"] = "Diamante Primordiale",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76132:0:0:0:0:0:0",
+				},
+				[31049] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:23112:0:0:0:0:0:0"] = 2,
+						["item:23445:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello d'Oro di Draenite",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:24075:0:0:0:0:0:0",
+				},
+				[53874] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36929:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Citrino Gigante del Campione",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39949:0:0:0:0:0:0",
+				},
+				[107652] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato Eccellente",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76541:0:0:0:0:0:0",
+				},
+				[99541] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52190:0:0:0:0:0:0"] = 4,
+						["item:52188:0:0:0:0:0:0"] = 1,
+						["item:52327:0:0:0:0:0:0"] = 8,
+					},
+					["name"] = "Anello con Sigillo di Rubini Malvagio",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:75071:0:0:0:0:0:0",
+				},
+				[107716] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Onice Vermiglio Astuto",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76672:0:0:0:0:0:0",
+				},
+				[64726] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36924:0:0:0:0:0:0"] = 2,
+						["item:41163:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Amuleto con Zaffiro Celestiale",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:45813:0:0:0:0:0:0",
+				},
+				[53941] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36923:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Calcedonio Sfavillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39927:0:0:0:0:0:0",
+				},
+				[107610] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76137:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Alessandrite Regale",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76521:0:0:0:0:0:0",
+				},
+				[122663] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76135:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietraladra della Divinazione",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83795:0:0:0:0:0:0",
+				},
+				[53925] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36932:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Giada Oscura Energizzata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39983:0:0:0:0:0:0",
+				},
+				[122664] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76139:0:0:0:0:0:0"] = 2,
+						["item:52188:0:0:0:0:0:0"] = 1,
+						["item:76734:0:0:0:0:0:0"] = 6,
+					},
+					["name"] = "Cuore della Terra",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83796:0:0:0:0:0:0",
+				},
+				[63743] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:6037:0:0:0:0:0:0"] = 8,
+					},
+					["name"] = "Amuleto del Verosguardo",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:45627:0:0:0:0:0:0",
+				},
+				[106950] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76138:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Cuordifiume Solido",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76639:0:0:0:0:0:0",
+				},
+				[62242] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:43102:0:0:0:0:0:0"] = 1,
+						["item:36932:0:0:0:0:0:0"] = 1,
+						["item:36926:0:0:0:0:0:0"] = 1,
+						["item:36923:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Prisma Ghiacciato",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:44943:0:0:0:0:0:0",
+				},
+				[106960] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76139:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Giada Selvaggia Bilanciata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76646:0:0:0:0:0:0",
+				},
+				[28910] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:21929:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Spessartina Luminosa Incisa",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:23098:0:0:0:0:0:0",
+				},
+				[53893] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36929:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Citrino Gigante Risoluto",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39967:0:0:0:0:0:0",
+				},
+				[107621] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76133:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Lapislazzuli Tempestoso",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76504:0:0:0:0:0:0",
+				},
+				[107653] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato Inciso",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76529:0:0:0:0:0:0",
+				},
+				[56206] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36926:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Lenti di Cristallo d'Ombra",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:42420:0:0:0:0:0:0",
+				},
+				[107717] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Onice Vermiglio del Campione",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76665:0:0:0:0:0:0",
+				},
+				[28914] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:23107:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Draenite d'Ombra Scintillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:23100:0:0:0:0:0:0",
+				},
+				[120045] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:83087:0:0:0:0:0:0"] = 1,
+						["item:83090:0:0:0:0:0:0"] = 1,
+						["item:83089:0:0:0:0:0:0"] = 1,
+						["item:83088:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pantera d'Onice Ingioiellata",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:82453:0:0:0:0:0:0",
+				},
+				[25612] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:3391:0:0:0:0:0:0"] = 2,
+						["item:3575:0:0:0:0:0:0"] = 8,
+					},
+					["name"] = "Paranocche di Ferro Pesante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20954:0:0:0:0:0:0",
+				},
+				[25620] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:20963:0:0:0:0:0:0"] = 2,
+						["item:6037:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello di Verargento Inciso",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20960:0:0:0:0:0:0",
+				},
+				[58144] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36932:0:0:0:0:0:0"] = 2,
+						["item:35624:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello di Giada del Massacro",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:43247:0:0:0:0:0:0",
+				},
+				[58143] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36926:0:0:0:0:0:0"] = 2,
+						["item:35624:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello di Terrombra",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:43246:0:0:0:0:0:0",
+				},
+				[28916] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:23079:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Olivina Scura Radiosa",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:23103:0:0:0:0:0:0",
+				},
+				[73225] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52177:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Corniola Brillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52084:0:0:0:0:0:0",
+				},
+				[32801] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:2836:0:0:0:0:0:0"] = 8,
+					},
+					["name"] = "Statua di Pietra Comune",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:25880:0:0:0:0:0:0",
+				},
+				[56193] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36917:0:0:0:0:0:0"] = 1,
+						["item:37701:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Vera con Sanguinite",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:42336:0:0:0:0:0:0",
+				},
+				[53843] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36920:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Cristallo Solare Scaltro",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39907:0:0:0:0:0:0",
+				},
+				[53859] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36926:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Cristallo d'Ombra Assoluto",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39934:0:0:0:0:0:0",
+				},
+				[107622] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76136:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Granato Pandariano Ardito",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76564:0:0:0:0:0:0",
+				},
+				[131759] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76061:0:0:0:0:0:0"] = 3,
+					},
+					["name"] = "Preziosi da Ricerca",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:90406:0:0:0:0:0:0",
+				},
+				[31048] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:23077:0:0:0:0:0:0"] = 2,
+						["item:23445:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello Sanguinario di Vilferro",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:24074:0:0:0:0:0:0",
+				},
+				[47280] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:23117:0:0:0:0:0:0"] = 3,
+						["item:23107:0:0:0:0:0:0"] = 3,
+						["item:21929:0:0:0:0:0:0"] = 3,
+						["item:23112:0:0:0:0:0:0"] = 3,
+						["item:23079:0:0:0:0:0:0"] = 3,
+						["item:23077:0:0:0:0:0:0"] = 3,
+					},
+					["name"] = "Vetro Brillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:35945:0:0:0:0:0:0",
+				},
+				[34961] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:12364:0:0:0:0:0:0"] = 2,
+						["item:21752:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello con Smeraldo del Re Leone",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:29160:0:0:0:0:0:0",
+				},
+				[34960] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:21752:0:0:0:0:0:0"] = 1,
+						["item:12800:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Vera di Torio Brillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:29159:0:0:0:0:0:0",
+				},
+				[26902] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:21752:0:0:0:0:0:0"] = 1,
+						["item:12799:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello con Opale Semplice",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:21767:0:0:0:0:0:0",
+				},
+				[122665] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76135:0:0:0:0:0:0"] = 6,
+						["item:52188:0:0:0:0:0:0"] = 1,
+						["item:76734:0:0:0:0:0:0"] = 6,
+					},
+					["name"] = "Vera d'Ombra di Pietraladra",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83798:0:0:0:0:0:0",
+				},
+				[107715] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Onice Vermiglio Capace",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76670:0:0:0:0:0:0",
+				},
+				[25621] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:3860:0:0:0:0:0:0"] = 2,
+						["item:3864:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello con Citrino della Guarigione Rapida",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20961:0:0:0:0:0:0",
+				},
+				[34959] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:7910:0:0:0:0:0:0"] = 2,
+						["item:6037:0:0:0:0:0:0"] = 3,
+						["item:3864:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Anello di Verargento del Comandante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:29158:0:0:0:0:0:0",
+				},
+				[73226] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52177:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Corniola Precisa",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52085:0:0:0:0:0:0",
+				},
+				[25318] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:2841:0:0:0:0:0:0"] = 2,
+						["item:1210:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Anello delle Ombre del Crepuscolo",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20828:0:0:0:0:0:0",
+				},
+				[32178] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:20816:0:0:0:0:0:0"] = 1,
+						["item:774:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pendente di Malachite",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:25438:0:0:0:0:0:0",
+				},
+				[25305] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:2842:0:0:0:0:0:0"] = 2,
+						["item:20817:0:0:0:0:0:0"] = 1,
+						["item:1705:0:0:0:0:0:0"] = 1,
+						["item:1206:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello d'Argento Pesante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20826:0:0:0:0:0:0",
+				},
+				[25321] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11083:0:0:0:0:0:0"] = 4,
+						["item:5498:0:0:0:0:0:0"] = 3,
+						["item:3827:0:0:0:0:0:0"] = 2,
+						["item:2842:0:0:0:0:0:0"] = 4,
+						["item:1705:0:0:0:0:0:0"] = 3,
+					},
+					["name"] = "Corona dell'Anima Lunare",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20832:0:0:0:0:0:0",
+				},
+				[107623] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76136:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Granato Pandariano Brillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76562:0:0:0:0:0:0",
+				},
+				[25317] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:2842:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Anello del Vigore d'Argento",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20827:0:0:0:0:0:0",
+				},
+				[37818] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:818:0:0:0:0:0:0"] = 3,
+						["item:1210:0:0:0:0:0:0"] = 2,
+						["item:20817:0:0:0:0:0:0"] = 1,
+						["item:2841:0:0:0:0:0:0"] = 2,
+						["item:774:0:0:0:0:0:0"] = 3,
+					},
+					["name"] = "Vera di Bronzo del Fervore",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:30804:0:0:0:0:0:0",
+				},
+				[99543] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52326:0:0:0:0:0:0"] = 8,
+						["item:52195:0:0:0:0:0:0"] = 5,
+						["item:52188:0:0:0:0:0:0"] = 1,
+						["item:52329:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Pendente d'Ambra Malvagia",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:75075:0:0:0:0:0:0",
+				},
+				[26874] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:7909:0:0:0:0:0:0"] = 3,
+						["item:52188:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello con Sigillo d'Acquamarina",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20964:0:0:0:0:0:0",
+				},
+				[26903] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:12361:0:0:0:0:0:0"] = 4,
+						["item:21752:0:0:0:0:0:0"] = 1,
+						["item:6037:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Anello con Sigillo di Zaffiro",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:21768:0:0:0:0:0:0",
+				},
+				[40514] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:24478:0:0:0:0:0:0"] = 10,
+						["item:24479:0:0:0:0:0:0"] = 1,
+						["item:22578:0:0:0:0:0:0"] = 3,
+					},
+					["name"] = "Collana della Profondità",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:32508:0:0:0:0:0:0",
+				},
+				[122666] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 6,
+						["item:76131:0:0:0:0:0:0"] = 2,
+						["item:52188:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello con Sigillo del Signore",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83799:0:0:0:0:0:0",
+				},
+				[28950] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:23117:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pietraluna Azzurra Solida",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:23118:0:0:0:0:0:0",
+				},
+				[107723] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Onice Vermiglio Inciso",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76661:0:0:0:0:0:0",
+				},
+				[99542] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52325:0:0:0:0:0:0"] = 4,
+						["item:52191:0:0:0:0:0:0"] = 5,
+						["item:52188:0:0:0:0:0:0"] = 1,
+						["item:52328:0:0:0:0:0:0"] = 8,
+					},
+					["name"] = "Collana di Zaffiri Malvagia",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:75074:0:0:0:0:0:0",
+				},
+				[73227] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52178:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Zefirite Solida",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52086:0:0:0:0:0:0",
+				},
+				[59759] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36930:0:0:0:0:0:0"] = 2,
+						["item:36933:0:0:0:0:0:0"] = 1,
+						["item:41163:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Statuetta - Granchio Monarca",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:44063:0:0:0:0:0:0",
+				},
+				[64725] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36933:0:0:0:0:0:0"] = 3,
+						["item:41163:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Girocollo con Smeraldi",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:45812:0:0:0:0:0:0",
+				},
+				[53844] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36917:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Sanguinite Sfolgorante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:39908:0:0:0:0:0:0",
+				},
+				[31050] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:23445:0:0:0:0:0:0"] = 1,
+						["item:23117:0:0:0:0:0:0"] = 2,
+						["item:23079:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Anello con Pietraluna Azzurra",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:24076:0:0:0:0:0:0",
+				},
+				[107624] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76136:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Granato Pandariano Delicato",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76560:0:0:0:0:0:0",
+				},
+				[107656] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato Lucido",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76530:0:0:0:0:0:0",
+				},
+				[31051] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:31079:0:0:0:0:0:0"] = 1,
+						["item:23446:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Collana d'Adamantite Spessa",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:24077:0:0:0:0:0:0",
+				},
+				[99544] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52190:0:0:0:0:0:0"] = 5,
+						["item:52326:0:0:0:0:0:0"] = 6,
+						["item:52188:0:0:0:0:0:0"] = 1,
+						["item:52327:0:0:0:0:0:0"] = 8,
+					},
+					["name"] = "Girocollo di Rubini Malvagio",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:75078:0:0:0:0:0:0",
+				},
+				[26872] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:1529:0:0:0:0:0:0"] = 4,
+						["item:6037:0:0:0:0:0:0"] = 2,
+						["item:20963:0:0:0:0:0:0"] = 4,
+						["item:11137:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Statuetta - Gufo di Giada",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:21748:0:0:0:0:0:0",
+				},
+				[121844] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:72104:0:0:0:0:0:0"] = 4,
+						["item:76139:0:0:0:0:0:0"] = 20,
+						["item:76734:0:0:0:0:0:0"] = 2,
+						["item:83092:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Pantera di Giada",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83088:0:0:0:0:0:0",
+				},
+				[58142] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36923:0:0:0:0:0:0"] = 1,
+						["item:37701:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Amuleto di Cristallo di Calcedonio",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:43245:0:0:0:0:0:0",
+				},
+				[25493] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:20816:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Anello Intrecciato di Rame",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20906:0:0:0:0:0:0",
+				},
+				[26876] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:7909:0:0:0:0:0:0"] = 1,
+						["item:20963:0:0:0:0:0:0"] = 3,
+					},
+					["name"] = "Pendente d'Acquamarina del Guerriero",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:21755:0:0:0:0:0:0",
+				},
+				[107663] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato Animoso",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76532:0:0:0:0:0:0",
+				},
+				[25498] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:5637:0:0:0:0:0:0"] = 2,
+						["item:20817:0:0:0:0:0:0"] = 2,
+						["item:3575:0:0:0:0:0:0"] = 8,
+					},
+					["name"] = "Collare di Ferro della Barbarie",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:20909:0:0:0:0:0:0",
+				},
+				[73228] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52178:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Zefirite Sfavillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52087:0:0:0:0:0:0",
+				},
+				[36523] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:20817:0:0:0:0:0:0"] = 1,
+						["item:2841:0:0:0:0:0:0"] = 4,
+						["item:1206:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Collana Brillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:30419:0:0:0:0:0:0",
+				},
+				[122677] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76734:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Occhio della Serpe Sfavillante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:83149:0:0:0:0:0:0",
+				},
+				[26928] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:20816:0:0:0:0:0:0"] = 1,
+						["item:818:0:0:0:0:0:0"] = 2,
+						["item:2840:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Collana con Occhio di Tigre Preziosa",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:21934:0:0:0:0:0:0",
+				},
+				[73622] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52180:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Polvere Stellare",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52490:0:0:0:0:0:0",
+				},
+				[107625] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76136:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Granato Pandariano Sfolgorante",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76563:0:0:0:0:0:0",
+				},
+				[107657] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76130:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Opale Tigrato Possente",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76528:0:0:0:0:0:0",
+				},
+				[56208] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:36926:0:0:0:0:0:0"] = 1,
+						["item:36932:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Lenti di Giada d'Ombra",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:42421:0:0:0:0:0:0",
+				},
+				[107721] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76140:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Onice Vermiglio Feroce",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76669:0:0:0:0:0:0",
+				},
+				[107753] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:76132:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Diamante Primordiale Agile",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:76884:0:0:0:0:0:0",
+				},
+				[73620] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52188:0:0:0:0:0:0"] = 3,
+						["item:52177:0:0:0:0:0:0"] = 3,
+					},
+					["name"] = "Punte di Corniola",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:52492:0:0:0:0:0:0",
+				},
+				[99539] = {
+					["players"] = {
+						["Pàndorella"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:52191:0:0:0:0:0:0"] = 4,
+						["item:52188:0:0:0:0:0:0"] = 1,
+						["item:52328:0:0:0:0:0:0"] = 8,
+					},
+					["name"] = "Anello con Zaffiro Malvagio",
+					["profession"] = "Oreficeria",
+					["queued"] = 0,
+					["itemID"] = "item:75067:0:0:0:0:0:0",
+				},
+			},
+			["tradeSkills"] = {
+				["Pàndorella"] = {
+					["Oreficeria"] = {
+						["prompted"] = true,
+						["maxLevel"] = 600,
+						["link"] = "|cffffd000|Htrade:5000000057B7222:110420:755|h[Oreficeria]|h|r",
+						["isSecondary"] = false,
+						["level"] = 600,
+						["accountKey"] = "Nemesis659868831",
+					},
+					["Sartoria"] = {
+						["isSecondary"] = false,
+						["level"] = 600,
+						["maxLevel"] = 600,
+						["link"] = "|cffffd000|Htrade:5000000057B7222:110426:197|h[Sartoria]|h|r",
+					},
+				},
+			},
+		},
+	},
+}

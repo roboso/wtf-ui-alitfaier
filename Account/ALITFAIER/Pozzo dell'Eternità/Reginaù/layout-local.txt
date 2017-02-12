@@ -1,0 +1,15 @@
+Version: 1
+Frame: QuickTalents
+FrameLevel: 1
+Anchor: RIGHT
+X: -178
+Y: 138
+W: 86
+H: 16
+Frame: DBMMinimapButton
+FrameLevel: 3
+Anchor: TOPRIGHT
+X: -136
+Y: -139
+W: 32
+H: 32

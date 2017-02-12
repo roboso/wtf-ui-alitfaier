@@ -1,0 +1,148 @@
+
+Prat3HighCPUPerCharDB = {
+	["time"] = 1383756705,
+	["scrollback"] = {
+		["ChatFrame1"] = {
+			{
+				"|cff979797[17:31:57]|r|c00000000|r |Hchannel:channel:1|h[1] |h Connessione al canale: |Hchannel:1|h[1. Generale - Isola Errante]|h", -- [1]
+				1, -- [2]
+				0.7529412508010864, -- [3]
+				0.7529412508010864, -- [4]
+				69, -- [5]
+			}, -- [1]
+			{
+				"|cff979797[17:31:57]|r|c00000000|r |Hchannel:channel:3|h[3] |h Connessione al canale: |Hchannel:3|h[3. DifesaLocale - Isola Errante]|h", -- [1]
+				1, -- [2]
+				0.7529412508010864, -- [3]
+				0.7529412508010864, -- [4]
+				71, -- [5]
+			}, -- [2]
+			{
+				"|cff979797[17:32:13]|r|c00000000|r Missione \"Molto da imparare\" completata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [3]
+			{
+				"|cff979797[17:32:13]|r|c00000000|r Esperienza guadagnata: 10.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [4]
+			{
+				"|cff979797[17:32:13]|r|c00000000|r Hai ricevuto: 2 rame.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [5]
+			{
+				"|cff979797[17:32:14]|r|c00000000|r Missione \"La lezione del ramo di ferro\" accettata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [6]
+			{
+				"|cff979797[17:35:04]|r|c00000000|r Missione \"La lezione del ramo di ferro\" completata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [7]
+			{
+				"|cff979797[17:35:04]|r|c00000000|r Esperienza guadagnata: 80.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [8]
+			{
+				"|cff979797[17:35:04]|r|c00000000|r Hai ricevuto: 15 rame.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [9]
+			{
+				"|cff979797[17:35:04]|r|c00000000|r Missione \"La lezione del pugno di sabbia\" accettata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [10]
+			{
+				"|cff979797[17:40:38]|r|c00000000|r Missione \"La lezione del pugno di sabbia\" completata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [11]
+			{
+				"|cff979797[17:40:38]|r|c00000000|r Esperienza guadagnata: 260.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [12]
+			{
+				"|cff979797[17:40:38]|r|c00000000|r Hai ricevuto: 1 argento.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [13]
+			{
+				"|cff979797[17:40:38]|r|c00000000|r Oggetto ricevuto: |cffffffff|Hitem:73214:0:0:0:0:0:0:0:1:0:0|h[Bracciali Leggeri dell'Iniziato]|h|r.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [14]
+			{
+				"|cff979797[17:40:39]|r|c00000000|r Missione \"La lezione del dominio sull'orgoglio\" accettata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [15]
+			{
+				"|cff979797[17:44:25]|r|c00000000|r Hai scoperto: \"Vallata Albeggiante\". 10 punti esperienza guadagnati.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [16]
+			{
+				"|cff979797[17:44:58]|r|c00000000|r Hai scoperto: \"Scalinata dell'Alba\". 10 punti esperienza guadagnati.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [17]
+			{
+				"|cff979797[17:45:27]|r|c00000000|r Hai scoperto: \"Tempio delle Cinque Albe\". 45 punti esperienza guadagnati.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [18]
+			{
+				"|cff979797[17:47:15]|r|c00000000|r Tempio delle Cinque Albe è la tua nuova dimora.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [19]
+			{
+				"|cff979797[17:51:45]|r|c00000000|r Hai scoperto: \"Wu-Song\". 10 punti esperienza guadagnati.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [20]
+		},
+	},
+}

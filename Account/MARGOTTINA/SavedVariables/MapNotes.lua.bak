@@ -1,0 +1,375 @@
+
+MapNotes_Data_Notes = {
+	["WM Ironforge"] = {
+	},
+	["WM Ogrimmar"] = {
+	},
+	["WM BlastedLands"] = {
+	},
+	["WM AzuremystIsle"] = {
+	},
+	["WM Expansion01"] = {
+	},
+	["WM TerokkarForest"] = {
+	},
+	["WM Ghostlands"] = {
+	},
+	["WM BladesEdgeMountains"] = {
+	},
+	["WM Barrens"] = {
+	},
+	["WM Badlands"] = {
+	},
+	["WM Azeroth"] = {
+	},
+	["WM Moonglade"] = {
+	},
+	["WM ZulDrak"] = {
+	},
+	["WM WesternPlaguelands"] = {
+	},
+	["WM Felwood"] = {
+	},
+	["WM IcecrownGlacier"] = {
+	},
+	["WM Nagrand"] = {
+	},
+	["WM Tirisfal"] = {
+	},
+	["WM StonetalonMountains"] = {
+	},
+	["WM Desolace"] = {
+	},
+	["WM Sunwell"] = {
+	},
+	["WM SilvermoonCity"] = {
+	},
+	["WM Aszhara"] = {
+	},
+	["WM Arathi"] = {
+	},
+	["WM Wetlands"] = {
+	},
+	["WM Winterspring"] = {
+	},
+	["WM WarsongGulch"] = {
+	},
+	["WM ThousandNeedles"] = {
+	},
+	["WM Northrend"] = {
+	},
+	["WM TheExodar"] = {
+	},
+	["WM Kalimdor"] = {
+	},
+	["WM Undercity"] = {
+	},
+	["WM Hellfire"] = {
+	},
+	["WM TheStormPeaks"] = {
+	},
+	["WM Durotar"] = {
+	},
+	["WM DeadwindPass"] = {
+	},
+	["Atlas BlackrockSpireEnt"] = {
+	},
+	["WM Ashenvale"] = {
+	},
+	["WM LakeWintergrasp"] = {
+	},
+	["WM Feralas"] = {
+	},
+	["WM Stormwind"] = {
+	},
+	["WM Dragonblight"] = {
+	},
+	["WM BoreanTundra"] = {
+	},
+	["WM Darnassis"] = {
+	},
+	["WM BurningSteppes"] = {
+	},
+	["WM LochModan"] = {
+	},
+	["WM HowlingFjord"] = {
+	},
+	["WM Stranglethorn"] = {
+	},
+	["WM NetherstormArena"] = {
+	},
+	["WM EasternPlaguelands"] = {
+	},
+	["WM Duskwood"] = {
+	},
+	["WM Silithus"] = {
+	},
+	["WM UngoroCrater"] = {
+	},
+	["WM ShadowmoonValley"] = {
+	},
+	["WM WorldMap"] = {
+	},
+	["WM Teldrassil"] = {
+	},
+	["WM Redridge"] = {
+	},
+	["WM Dalaran2"] = {
+	},
+	["WM SholazarBasin"] = {
+	},
+	["WM Tanaris"] = {
+	},
+	["WM Silverpine"] = {
+	},
+	["WM ArathiBasin"] = {
+	},
+	["WM Netherstorm"] = {
+	},
+	["WM Cosmic"] = {
+	},
+	["WM ThunderBluff"] = {
+	},
+	["WM StrandoftheAncients"] = {
+	},
+	["WM Darkshore"] = {
+	},
+	["WM Dustwallow"] = {
+	},
+	["WM Hilsbrad"] = {
+	},
+	["WM EversongWoods"] = {
+	},
+	["WM Hinterlands"] = {
+	},
+	["WM Mulgore"] = {
+	},
+	["WM AlteracValley"] = {
+	},
+	["WM Zangarmarsh"] = {
+	},
+	["WM Westfall"] = {
+	},
+	["WM Dalaran1"] = {
+	},
+	["WM SwampOfSorrows"] = {
+	},
+	["WM BloodmystIsle"] = {
+	},
+	["WM Alterac"] = {
+	},
+	["WM SearingGorge"] = {
+	},
+	["WM GrizzlyHills"] = {
+	},
+	["WM CrystalsongForest"] = {
+	},
+	["WM Elwynn"] = {
+	},
+	["WM ScarletEnclave"] = {
+	},
+	["WM DunMorogh"] = {
+	},
+	["WM ShattrathCity"] = {
+	},
+}
+MapNotes_Data_Lines = {
+	["WM Ironforge"] = {
+	},
+	["WM Ogrimmar"] = {
+	},
+	["WM BlastedLands"] = {
+	},
+	["WM AzuremystIsle"] = {
+	},
+	["WM Expansion01"] = {
+	},
+	["WM TerokkarForest"] = {
+	},
+	["WM Ghostlands"] = {
+	},
+	["WM BladesEdgeMountains"] = {
+	},
+	["WM Barrens"] = {
+	},
+	["WM Badlands"] = {
+	},
+	["WM Azeroth"] = {
+	},
+	["WM Moonglade"] = {
+	},
+	["WM ZulDrak"] = {
+	},
+	["WM WesternPlaguelands"] = {
+	},
+	["WM Felwood"] = {
+	},
+	["WM IcecrownGlacier"] = {
+	},
+	["WM Nagrand"] = {
+	},
+	["WM Tirisfal"] = {
+	},
+	["WM StonetalonMountains"] = {
+	},
+	["WM Desolace"] = {
+	},
+	["WM Sunwell"] = {
+	},
+	["WM SilvermoonCity"] = {
+	},
+	["WM Aszhara"] = {
+	},
+	["WM Arathi"] = {
+	},
+	["WM Wetlands"] = {
+	},
+	["WM Winterspring"] = {
+	},
+	["WM WarsongGulch"] = {
+	},
+	["WM ThousandNeedles"] = {
+	},
+	["WM Northrend"] = {
+	},
+	["WM TheExodar"] = {
+	},
+	["WM Kalimdor"] = {
+	},
+	["WM Undercity"] = {
+	},
+	["WM Hellfire"] = {
+	},
+	["WM TheStormPeaks"] = {
+	},
+	["WM Durotar"] = {
+	},
+	["WM DeadwindPass"] = {
+	},
+	["Atlas BlackrockSpireEnt"] = {
+	},
+	["WM Ashenvale"] = {
+	},
+	["WM LakeWintergrasp"] = {
+	},
+	["WM Feralas"] = {
+	},
+	["WM Stormwind"] = {
+	},
+	["WM Dragonblight"] = {
+	},
+	["WM BoreanTundra"] = {
+	},
+	["WM Darnassis"] = {
+	},
+	["WM BurningSteppes"] = {
+	},
+	["WM LochModan"] = {
+	},
+	["WM HowlingFjord"] = {
+	},
+	["WM Stranglethorn"] = {
+	},
+	["WM NetherstormArena"] = {
+	},
+	["WM EasternPlaguelands"] = {
+	},
+	["WM Duskwood"] = {
+	},
+	["WM Silithus"] = {
+	},
+	["WM UngoroCrater"] = {
+	},
+	["WM ShadowmoonValley"] = {
+	},
+	["WM WorldMap"] = {
+	},
+	["WM Teldrassil"] = {
+	},
+	["WM Redridge"] = {
+	},
+	["WM Dalaran2"] = {
+	},
+	["WM SholazarBasin"] = {
+	},
+	["WM Tanaris"] = {
+	},
+	["WM Silverpine"] = {
+	},
+	["WM ArathiBasin"] = {
+	},
+	["WM Netherstorm"] = {
+	},
+	["WM Cosmic"] = {
+	},
+	["WM ThunderBluff"] = {
+	},
+	["WM StrandoftheAncients"] = {
+	},
+	["WM Darkshore"] = {
+	},
+	["WM Dustwallow"] = {
+	},
+	["WM Hilsbrad"] = {
+	},
+	["WM EversongWoods"] = {
+	},
+	["WM Hinterlands"] = {
+	},
+	["WM Mulgore"] = {
+	},
+	["WM AlteracValley"] = {
+	},
+	["WM Zangarmarsh"] = {
+	},
+	["WM Westfall"] = {
+	},
+	["WM Dalaran1"] = {
+	},
+	["WM SwampOfSorrows"] = {
+	},
+	["WM BloodmystIsle"] = {
+	},
+	["WM Alterac"] = {
+	},
+	["WM SearingGorge"] = {
+	},
+	["WM GrizzlyHills"] = {
+	},
+	["WM CrystalsongForest"] = {
+	},
+	["WM Elwynn"] = {
+	},
+	["WM ScarletEnclave"] = {
+	},
+	["WM DunMorogh"] = {
+	},
+	["WM ShattrathCity"] = {
+	},
+}
+MapNotes_Data = nil
+MapNotes_Lines = nil
+MapNotes_Options = {
+	["shownotes"] = true,
+	["colourT"] = {
+		{
+		}, -- [1]
+		{
+		}, -- [2]
+		{
+		}, -- [3]
+	},
+	["coordsLocY"] = 532,
+	["coordF"] = 1,
+	["coordsLocX"] = 60,
+	["Version"] = "5.14.30000",
+	["aFactor"] = 1,
+	["iFactor"] = 16,
+	["nFactor"] = 0.75,
+	["Edition"] = "Fan's Update",
+	["miniC"] = true,
+}
+MapNotes_Undelete_Info = {
+}
+MapNotes_Globals = {
+}

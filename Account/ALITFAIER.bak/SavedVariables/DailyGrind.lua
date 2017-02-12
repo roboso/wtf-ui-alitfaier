@@ -1,0 +1,4 @@
+
+DailyGrindQuests = nil
+QuestHistory = {
+}

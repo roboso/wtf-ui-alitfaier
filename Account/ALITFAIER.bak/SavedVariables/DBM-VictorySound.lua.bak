@@ -1,0 +1,38 @@
+
+DBM_VictorySound_Settings = {
+	["startSound"] = true,
+	["revision"] = 11000,
+	["wipeSoundList"] = {
+		"defeat.mp3", -- [1]
+		"PIRdefeat.mp3", -- [2]
+		"SMB3defeat.mp3", -- [3]
+		"SMWdefeat.mp3", -- [4]
+		"KCdefeat.mp3", -- [5]
+	},
+	["victoryPath"] = "victory.mp3",
+	["wipeSound"] = true,
+	["victorySound"] = true,
+	["victorySoundList"] = {
+		"victory.mp3", -- [1]
+		"SMB3victory.mp3", -- [2]
+		"SMBvictory.mp3", -- [3]
+		"SMRPGvictory.mp3", -- [4]
+		"FFvictory.mp3", -- [5]
+		"FFvictoryclassic.mp3", -- [6]
+		"FFvictorylong.mp3", -- [7]
+	},
+	["masterSound"] = true,
+	["wipePath"] = "defeat.mp3",
+	["startPath"] = "start.mp3",
+	["startSoundList"] = {
+		"start.mp3", -- [1]
+		"SMB3start.mp3", -- [2]
+		"SMWstart.mp3", -- [3]
+		"SMRPGstart.mp3", -- [4]
+		"WCstart.mp3", -- [5]
+		"SMRidleyStart.mp3", -- [6]
+		"FFstart.mp3", -- [7]
+		"FFXstart.mp3", -- [8]
+	},
+	["enabled"] = true,
+}

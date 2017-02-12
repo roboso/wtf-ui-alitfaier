@@ -1,0 +1,27 @@
+
+DecursiveDB = {
+	["profileKeys"] = {
+		["Àzzurrà - Nemesis"] = "Default",
+	},
+	["class"] = {
+		["DRUID"] = {
+			["CureOrder"] = {
+				nil, -- [1]
+				-16, -- [2]
+				[16] = -15,
+				[32] = 4,
+			},
+		},
+	},
+	["global"] = {
+		["LastVersionAnnounce"] = 1384722578,
+	},
+	["profiles"] = {
+		["Default"] = {
+			["DebuffsFrameContainer_y"] = 494.9332936135324,
+			["MainBarX"] = 682.6666802822001,
+			["MainBarY"] = -95.99999571580156,
+			["DebuffsFrameContainer_x"] = 1024.0000204233,
+		},
+	},
+}

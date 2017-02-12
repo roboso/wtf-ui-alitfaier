@@ -1,0 +1,8 @@
+Version: 1
+Frame: FlashTalentFrame
+FrameLevel: 1
+Anchor: LEFT
+X: 8
+Y: -25
+W: 106
+H: 242

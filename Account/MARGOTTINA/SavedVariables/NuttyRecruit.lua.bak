@@ -1,0 +1,19 @@
+
+NuttyRecruitDB = {
+	["profileKeys"] = {
+		["Alitfaier - Pozzo dell'Eternità"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["message"] = "La gilda Unolycircus cerca healer tank e qualche dps per iniziare raid per info wisp me. orari raid 21.00 24.00",
+			["lasttime"] = {
+				["Distese del Terrore"] = 1349481724,
+				["Santuario delle Due Lune"] = 1349480598,
+				["Vallata dell'Eterna Primavera"] = 1349480746,
+			},
+			["general"] = true,
+			["enable"] = true,
+			["trade"] = true,
+		},
+	},
+}

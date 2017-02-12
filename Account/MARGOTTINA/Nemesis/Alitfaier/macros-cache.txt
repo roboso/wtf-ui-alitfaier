@@ -1,0 +1,20 @@
+VER 3 0100000000000003 "aoe" "WARRIOR_TALENT_ICON_MASTERCLEAVER"
+#showtooltip colpo furente
+/clic [btn:1]MTSB1 LeftButton;[btn:2]MTSB1 RightButton;[btn:3]MTSB1 MiddleButton;[btn:4]MTSB1 Button4;[btn:5]MTSB1 Button5
+END
+VER 3 0100000000000004 "cd" "ABILITY_CRITICALSTRIKE"
+#showtooltip avventatezza
+/use avventatezza
+/use bagno di sangue
+/use avatar
+/use stendardo teschiato
+END
+VER 3 0100000000000005 "sffsf" "ACHIEVEMENT_JADESERPENT"
+/tar comandante
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P1DR1DH1OT1WM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1WM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+NStePolPrøZal[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ali[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

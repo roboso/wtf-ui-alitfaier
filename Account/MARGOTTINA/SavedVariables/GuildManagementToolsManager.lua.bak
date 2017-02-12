@@ -1,0 +1,2 @@
+
+GMTmanagerDB = nil

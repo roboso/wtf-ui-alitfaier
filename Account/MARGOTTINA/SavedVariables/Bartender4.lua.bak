@@ -1,0 +1,308 @@
+
+Bartender4DB = {
+	["namespaces"] = {
+		["BagBar"] = {
+			["profileKeys"] = {
+				["Alitfaier - Hakkar"] = "SpartanUI Standard",
+			},
+			["profiles"] = {
+				["Alitfaier - Hakkar"] = {
+					["position"] = {
+						["y"] = -15.30000078366298,
+						["x"] = 120.6999903799788,
+						["point"] = "CENTER",
+						["relPoint"] = "CENTER",
+					},
+				},
+				["SpartanUI Standard"] = {
+					["position"] = {
+						["y"] = -15.30000078366298,
+						["x"] = 120.6999903799788,
+						["point"] = "CENTER",
+						["relPoint"] = "CENTER",
+					},
+					["padding"] = 1,
+					["keyring"] = true,
+				},
+			},
+		},
+		["Vehicle"] = {
+			["profileKeys"] = {
+				["Alitfaier - Hakkar"] = "SpartanUI Standard",
+			},
+			["profiles"] = {
+				["Alitfaier - Hakkar"] = {
+					["position"] = {
+						["y"] = 22.94999858023421,
+						["x"] = -89.24999540144781,
+						["point"] = "CENTER",
+						["relPoint"] = "CENTER",
+					},
+				},
+				["SpartanUI Standard"] = {
+					["position"] = {
+						["y"] = 22.94999858023421,
+						["x"] = -89.24999540144781,
+						["point"] = "CENTER",
+						["relPoint"] = "CENTER",
+					},
+				},
+			},
+		},
+		["XPBar"] = {
+			["profileKeys"] = {
+				["Alitfaier - Hakkar"] = "SpartanUI Standard",
+			},
+			["profiles"] = {
+				["Alitfaier - Hakkar"] = {
+				},
+				["SpartanUI Standard"] = {
+				},
+			},
+		},
+		["ActionBars"] = {
+			["profileKeys"] = {
+				["Alitfaier - Hakkar"] = "SpartanUI Standard",
+			},
+			["profiles"] = {
+				["Alitfaier - Hakkar"] = {
+					["actionbars"] = {
+						{
+							["position"] = {
+								["y"] = -212.4999763960828,
+								["x"] = 0,
+								["point"] = "CENTER",
+								["relPoint"] = "CENTER",
+							},
+						}, -- [1]
+						{
+							["position"] = {
+								["y"] = -180.199990082555,
+								["x"] = 0,
+								["point"] = "CENTER",
+								["relPoint"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["position"] = {
+								["y"] = -147.9000037690271,
+								["x"] = 0,
+								["point"] = "CENTER",
+								["relPoint"] = "CENTER",
+							},
+						}, -- [3]
+						{
+							["position"] = {
+								["y"] = -115.5999925410007,
+								["x"] = 0,
+								["point"] = "CENTER",
+								["relPoint"] = "CENTER",
+							},
+						}, -- [4]
+						{
+							["position"] = {
+								["y"] = -83.29999792264003,
+								["x"] = 0,
+								["point"] = "CENTER",
+								["relPoint"] = "CENTER",
+							},
+						}, -- [5]
+						{
+							["position"] = {
+								["y"] = -50.99999915186292,
+								["x"] = 0,
+								["point"] = "CENTER",
+								["relPoint"] = "CENTER",
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						[9] = {
+						},
+						[10] = {
+						},
+					},
+				},
+				["SpartanUI Standard"] = {
+					["actionbars"] = {
+						{
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["position"] = {
+								["y"] = -212.4999763960828,
+								["x"] = 0,
+								["point"] = "CENTER",
+								["relPoint"] = "CENTER",
+							},
+							["padding"] = 6,
+						}, -- [1]
+						{
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["position"] = {
+								["y"] = -180.199990082555,
+								["x"] = 0,
+								["point"] = "CENTER",
+								["relPoint"] = "CENTER",
+							},
+							["padding"] = 6,
+						}, -- [2]
+						{
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["position"] = {
+								["y"] = -147.9000037690271,
+								["x"] = 0,
+								["point"] = "CENTER",
+								["relPoint"] = "CENTER",
+							},
+							["padding"] = 6,
+						}, -- [3]
+						{
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["position"] = {
+								["y"] = -115.5999925410007,
+								["x"] = 0,
+								["point"] = "CENTER",
+								["relPoint"] = "CENTER",
+							},
+							["padding"] = 6,
+						}, -- [4]
+						{
+							["rows"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["position"] = {
+								["y"] = -83.29999792264003,
+								["x"] = 0,
+								["point"] = "CENTER",
+								["relPoint"] = "CENTER",
+							},
+							["padding"] = 5,
+						}, -- [5]
+						{
+							["rows"] = 3,
+							["skin"] = {
+								["Zoom"] = true,
+							},
+							["position"] = {
+								["y"] = -50.99999915186292,
+								["x"] = 0,
+								["point"] = "CENTER",
+								["relPoint"] = "CENTER",
+							},
+							["padding"] = 5,
+						}, -- [6]
+						{
+						}, -- [7]
+						[9] = {
+						},
+						[10] = {
+						},
+					},
+				},
+			},
+		},
+		["RepBar"] = {
+			["profileKeys"] = {
+				["Alitfaier - Hakkar"] = "SpartanUI Standard",
+			},
+			["profiles"] = {
+				["Alitfaier - Hakkar"] = {
+				},
+				["SpartanUI Standard"] = {
+				},
+			},
+		},
+		["StanceBar"] = {
+			["profileKeys"] = {
+				["Alitfaier - Hakkar"] = "SpartanUI Standard",
+			},
+			["profiles"] = {
+				["Alitfaier - Hakkar"] = {
+					["position"] = {
+						["y"] = -12.7499995669369,
+						["x"] = -70.1250030681996,
+						["point"] = "CENTER",
+						["relPoint"] = "CENTER",
+					},
+				},
+				["SpartanUI Standard"] = {
+					["position"] = {
+						["y"] = -12.7499995669369,
+						["x"] = -70.1250030681996,
+						["point"] = "CENTER",
+						["relPoint"] = "CENTER",
+					},
+					["padding"] = 1,
+				},
+			},
+		},
+		["PetBar"] = {
+			["profileKeys"] = {
+				["Alitfaier - Hakkar"] = "SpartanUI Standard",
+			},
+			["profiles"] = {
+				["Alitfaier - Hakkar"] = {
+					["position"] = {
+						["y"] = 59.49999555015972,
+						["x"] = 0,
+						["point"] = "CENTER",
+						["relPoint"] = "CENTER",
+					},
+				},
+				["SpartanUI Standard"] = {
+					["position"] = {
+						["y"] = 59.49999555015972,
+						["x"] = 0,
+						["point"] = "CENTER",
+						["relPoint"] = "CENTER",
+					},
+					["skin"] = {
+						["Zoom"] = true,
+					},
+					["padding"] = 1,
+				},
+			},
+		},
+		["MicroMenu"] = {
+			["profileKeys"] = {
+				["Alitfaier - Hakkar"] = "SpartanUI Standard",
+			},
+			["profiles"] = {
+				["Alitfaier - Hakkar"] = {
+					["position"] = {
+						["y"] = 18.3599998297826,
+						["x"] = -71.40000007625082,
+						["point"] = "CENTER",
+						["relPoint"] = "CENTER",
+					},
+				},
+				["SpartanUI Standard"] = {
+					["position"] = {
+						["y"] = 18.3599998297826,
+						["x"] = -71.40000007625082,
+						["point"] = "CENTER",
+						["relPoint"] = "CENTER",
+					},
+					["padding"] = -2,
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Alitfaier - Hakkar"] = "SpartanUI Standard",
+	},
+	["profiles"] = {
+		["Alitfaier - Hakkar"] = {
+		},
+		["SpartanUI Standard"] = {
+		},
+	},
+}

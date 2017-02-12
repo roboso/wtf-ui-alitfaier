@@ -1,0 +1,7 @@
+Decursive: enabled
+Dominos: enabled
+Dominos_Cast: enabled
+Dominos_Config: enabled
+Dominos_Encounter: enabled
+Dominos_Roll: enabled
+Dominos_XP: enabled

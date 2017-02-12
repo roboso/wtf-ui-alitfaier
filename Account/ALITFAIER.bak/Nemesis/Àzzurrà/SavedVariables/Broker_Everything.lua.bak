@@ -1,0 +1,108 @@
+
+Broker_EverythingDB = {
+	["Durability"] = {
+		["enabled"] = true,
+	},
+	["Guild"] = {
+		["enabled"] = true,
+		["showMOTD"] = true,
+		["showOffliner"] = false,
+		["showXP"] = true,
+		["showMobileChatter"] = true,
+		["splitTables"] = false,
+	},
+	["Calendar"] = {
+		["enabled"] = true,
+		["hideMinimapCalendar"] = false,
+	},
+	["Bags"] = {
+		["enabled"] = true,
+		["freespace"] = true,
+	},
+	["Currency"] = {
+		["enabled"] = true,
+		["subTTposition"] = "BOTTOM",
+		["shortTT"] = false,
+		["currenciesInTitle"] = {
+			["1"] = false,
+			["4"] = false,
+			["3"] = false,
+			["2"] = false,
+		},
+	},
+	["ZoneText"] = {
+		["enabled"] = false,
+	},
+	["Gold"] = {
+		["enabled"] = true,
+		["goldColor"] = false,
+	},
+	["Clock"] = {
+		["enabled"] = true,
+		["format24"] = true,
+		["timeLocal"] = true,
+	},
+	["XP"] = {
+		["enabled"] = true,
+		["display"] = 0,
+	},
+	["GPS / Location / ZoneText"] = {
+		["enabled"] = true,
+		["precision"] = 1,
+		["format"] = "%s, %s",
+	},
+	["Dualspec"] = {
+		["enabled"] = true,
+	},
+	["Location"] = {
+		["enabled"] = false,
+	},
+	["suffixColour"] = true,
+	["tooltipScale"] = false,
+	["Mail"] = {
+		["enabled"] = true,
+		["playsound"] = false,
+	},
+	["Memory"] = {
+		["enabled"] = true,
+		["mem_max_addons"] = -1,
+	},
+	["FPS"] = {
+		["enabled"] = true,
+	},
+	["Stuff"] = {
+		["enabled"] = true,
+	},
+	["Friends"] = {
+		["enabled"] = true,
+		["splitFriends"] = true,
+		["disableGameIcons"] = false,
+	},
+	["Equipment"] = {
+		["enabled"] = true,
+	},
+	["showHints"] = true,
+	["Speed"] = {
+		["enabled"] = true,
+		["precision"] = 0,
+	},
+	["GPS"] = {
+		["enabled"] = true,
+	},
+	["Nameplates"] = {
+		["enabled"] = true,
+	},
+	["Volume"] = {
+		["enabled"] = true,
+		["useWheel"] = false,
+		["steps"] = 1,
+	},
+	["Tracking"] = {
+		["enabled"] = true,
+	},
+	["Latency"] = {
+		["enabled"] = true,
+		["showHome"] = true,
+		["showWorld"] = true,
+	},
+}

@@ -1,0 +1,301 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 7,
+		["interrupts"] = 0,
+		["damage"] = 97,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "PALADIN",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["damage"] = 97,
+				["damagespells"] = {
+					["Attacco"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 1,
+						["MISS"] = 0,
+						["damage"] = 14,
+						["DEFLECT"] = 0,
+						["id"] = 6603,
+						["max"] = 14,
+						["min"] = 14,
+						["PARRY"] = 0,
+						["critical"] = 0,
+						["hit"] = 1,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Assalto del Crociato"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 2,
+						["MISS"] = 0,
+						["damage"] = 83,
+						["DEFLECT"] = 0,
+						["id"] = 35395,
+						["max"] = 42,
+						["min"] = 41,
+						["PARRY"] = 0,
+						["critical"] = 0,
+						["hit"] = 2,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+				},
+				["deaths"] = {
+				},
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "0x05000000058A385D",
+				["healing"] = 0,
+				["ccbreaks"] = 0,
+				["damagetakenspells"] = {
+					["Attacco"] = {
+						["min"] = 4,
+						["name"] = "Attacco",
+						["id"] = 6603,
+						["max"] = 5,
+						["totalhits"] = 2,
+						["damage"] = 9,
+					},
+				},
+				["maxhp"] = 123,
+				["deathlog"] = {
+					{
+						["ts"] = 1386101686.268,
+						["amount"] = -5,
+						["hp"] = 123,
+						["spellid"] = 88163,
+						["srcname"] = "Worg da Battaglia Roccianera",
+					}, -- [1]
+					{
+						["ts"] = 1386101688.196,
+						["amount"] = -4,
+						["hp"] = 118,
+						["spellid"] = 88163,
+						["srcname"] = "Worg da Battaglia Roccianera",
+					}, -- [2]
+					["pos"] = 3,
+				},
+				["name"] = "Kjyjmkytoè",
+				["power"] = {
+					[9] = {
+						["amount"] = 2,
+						["spells"] = {
+							[35395] = 2,
+						},
+					},
+				},
+				["auras"] = {
+					["Colpi Indeboliti"] = {
+						["name"] = "Colpi Indeboliti",
+						["active"] = 0,
+						["id"] = 115798,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 5,
+					},
+				},
+				["damagetaken"] = 9,
+				["time"] = 5,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["damagetaken"] = 9,
+		["shielding"] = 0,
+		["healing"] = 0,
+		["power"] = {
+			[9] = 2,
+		},
+		["starttime"] = 1386101674,
+		["mobtaken"] = 97,
+		["name"] = "Totale",
+		["mobs"] = {
+			["Worg da Battaglia Roccianera"] = {
+				["players"] = {
+					["Kjyjmkytoè"] = {
+						["taken"] = 97,
+						["done"] = 9,
+						["class"] = "PALADIN",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 97,
+				["done"] = 9,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["overhealing"] = 0,
+		["mobhdone"] = 0,
+		["last_action"] = 1386101674,
+		["mobdone"] = 9,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["damage"] = 97,
+			["players"] = {
+				{
+					["last"] = 1386101679,
+					["healingabsorbed"] = 0,
+					["class"] = "PALADIN",
+					["damaged"] = {
+						["Worg da Battaglia Roccianera"] = 97,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 97,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 14,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 14,
+							["min"] = 14,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Assalto del Crociato"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 2,
+							["MISS"] = 0,
+							["damage"] = 83,
+							["DEFLECT"] = 0,
+							["id"] = 35395,
+							["max"] = 42,
+							["min"] = 41,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 2,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x05000000058A385D",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 4,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 5,
+							["totalhits"] = 2,
+							["damage"] = 9,
+						},
+					},
+					["maxhp"] = 123,
+					["name"] = "Kjyjmkytoè",
+					["power"] = {
+						[9] = {
+							["amount"] = 2,
+							["spells"] = {
+								[35395] = 2,
+							},
+						},
+					},
+					["auras"] = {
+						["Colpi Indeboliti"] = {
+							["name"] = "Colpi Indeboliti",
+							["active"] = 0,
+							["id"] = 115798,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 5,
+						},
+					},
+					["damagetaken"] = 9,
+					["first"] = 1386101674,
+					["time"] = 5,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 9,
+			["shielding"] = 0,
+			["endtime"] = 1386101681,
+			["healing"] = 0,
+			["mobs"] = {
+				["Worg da Battaglia Roccianera"] = {
+					["players"] = {
+						["Kjyjmkytoè"] = {
+							["taken"] = 97,
+							["done"] = 9,
+							["class"] = "PALADIN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 97,
+					["done"] = 9,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+				[9] = 2,
+			},
+			["starttime"] = 1386101674,
+			["mobtaken"] = 97,
+			["name"] = "Worg da Battaglia Roccianera",
+			["mobname"] = "Worg da Battaglia Roccianera",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1386101674,
+			["mobdone"] = 9,
+		}, -- [1]
+	},
+}

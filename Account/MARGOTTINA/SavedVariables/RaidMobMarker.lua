@@ -1,0 +1,4 @@
+
+MobDB = {
+	["Version"] = "MOBDB01",
+}

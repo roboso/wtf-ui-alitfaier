@@ -1,0 +1,10 @@
+
+LoremasterDB = {
+	["profileKeys"] = {
+		["Braveherat - Hakkar"] = "char",
+	},
+	["char"] = {
+		["Braveherat - Hakkar"] = {
+		},
+	},
+}

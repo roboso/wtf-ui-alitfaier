@@ -1,0 +1,519 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 38,
+		["interrupts"] = 0,
+		["damage"] = 483,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "MONK",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["damage"] = 483,
+				["damagespells"] = {
+					["Diretto"] = {
+						["min"] = 8,
+						["critical"] = 2,
+						["hit"] = 14,
+						["totalhits"] = 16,
+						["id"] = 100780,
+						["max"] = 17,
+						["damage"] = 151,
+					},
+					["Attacco"] = {
+						["min"] = 19,
+						["hit"] = 16,
+						["totalhits"] = 16,
+						["id"] = 6603,
+						["max"] = 22,
+						["damage"] = 332,
+					},
+				},
+				["ccbreaks"] = 0,
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "Player-1316-070C16EE",
+				["healing"] = 0,
+				["maxhp"] = 154,
+				["damagetakenspells"] = {
+					["Attacco"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["min"] = 1,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Attacco",
+						["blocked"] = 0,
+						["totalhits"] = 5,
+						["resisted"] = 0,
+						["max"] = 1,
+						["damage"] = 5,
+					},
+					["Residuo Tossico"] = {
+						["crushing"] = 0,
+						["id"] = 84150,
+						["min"] = 1,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Residuo Tossico",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 1,
+						["damage"] = 1,
+					},
+				},
+				["deathlog"] = {
+					{
+						["ts"] = 1416337159.097,
+						["amount"] = -1,
+						["hp"] = 152,
+						["spellid"] = 88163,
+						["srcname"] = "Gnomo Contaminato Frenetico",
+					}, -- [1]
+					{
+						["ts"] = 1416337216.587,
+						["amount"] = -1,
+						["hp"] = 153,
+						["spellid"] = 88163,
+						["srcname"] = "Gnomo Contaminato Frenetico",
+					}, -- [2]
+					{
+						["ts"] = 1416337226.66,
+						["amount"] = -1,
+						["hp"] = 153,
+						["spellid"] = 88163,
+						["srcname"] = "Gnomo Contaminato Frenetico",
+					}, -- [3]
+					{
+						["ts"] = 1416337254.589,
+						["amount"] = -1,
+						["hp"] = 153,
+						["spellid"] = 88163,
+						["srcname"] = "Gnomo Contaminato Frenetico",
+					}, -- [4]
+					{
+						["ts"] = 1416338045.584,
+						["amount"] = -1,
+						["hp"] = 166,
+						["spellid"] = 88163,
+						["srcname"] = "Poltiglia Tossica",
+					}, -- [5]
+					{
+						["ts"] = 1416338045.911,
+						["amount"] = -1,
+						["hp"] = 164,
+						["spellid"] = 84150,
+						["srcname"] = "Poltiglia Tossica",
+					}, -- [6]
+					["pos"] = 7,
+				},
+				["power"] = {
+					[12] = {
+						["amount"] = 30,
+						["spells"] = {
+							[100780] = 30,
+						},
+					},
+				},
+				["name"] = "Hmjgyu",
+				["auras"] = {
+				},
+				["damagetaken"] = 6,
+				["time"] = 20,
+				["multistrikes"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["Manichino d'Allenamento"] = {
+				["players"] = {
+					["Hmjgyu"] = {
+						["taken"] = 247,
+						["done"] = 0,
+						["class"] = "MONK",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 247,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Poltiglia Tossica"] = {
+				["players"] = {
+					["Hmjgyu"] = {
+						["taken"] = 31,
+						["done"] = 2,
+						["class"] = "MONK",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 31,
+				["done"] = 2,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Gnomo Contaminato Frenetico"] = {
+				["players"] = {
+					["Hmjgyu"] = {
+						["taken"] = 205,
+						["done"] = 4,
+						["class"] = "MONK",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 205,
+				["done"] = 4,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["mobtaken"] = 483,
+		["healing"] = 0,
+		["power"] = {
+			[12] = 30,
+		},
+		["starttime"] = 1416337120,
+		["damagetaken"] = 6,
+		["shielding"] = 0,
+		["name"] = "Totale",
+		["overhealing"] = 0,
+		["mobdone"] = 6,
+		["mobhdone"] = 0,
+		["last_action"] = 1416337120,
+		["multistrikes"] = 0,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 14,
+			["interrupts"] = 0,
+			["endtime"] = 1416337963,
+			["damage"] = 89,
+			["players"] = {
+				{
+					["last"] = 1416337956,
+					["healingabsorbed"] = 0,
+					["class"] = "MONK",
+					["damaged"] = {
+						["Manichino d'Allenamento"] = 89,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 89,
+					["damagespells"] = {
+						["Diretto"] = {
+							["min"] = 8,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 100780,
+							["max"] = 9,
+							["damage"] = 25,
+						},
+						["Attacco"] = {
+							["min"] = 20,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 6603,
+							["max"] = 22,
+							["damage"] = 64,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-070C16EE",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 168,
+					["power"] = {
+						[12] = {
+							["amount"] = 6,
+							["spells"] = {
+								[100780] = 6,
+							},
+						},
+					},
+					["name"] = "Hmjgyu",
+					["auras"] = {
+					},
+					["damagetaken"] = 0,
+					["first"] = 1416337949,
+					["time"] = 7,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Manichino d'Allenamento"] = {
+					["players"] = {
+						["Hmjgyu"] = {
+							["taken"] = 89,
+							["done"] = 0,
+							["class"] = "MONK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 89,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 89,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+				[12] = 6,
+			},
+			["starttime"] = 1416337949,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Manichino d'Allenamento (3)",
+			["mobname"] = "Manichino d'Allenamento",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1416337949,
+			["multistrikes"] = 0,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 10,
+			["interrupts"] = 0,
+			["endtime"] = 1416337857,
+			["damage"] = 69,
+			["players"] = {
+				{
+					["last"] = 1416337852,
+					["healingabsorbed"] = 0,
+					["class"] = "MONK",
+					["damaged"] = {
+						["Manichino d'Allenamento"] = 69,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 69,
+					["damagespells"] = {
+						["Diretto"] = {
+							["min"] = 9,
+							["critical"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["id"] = 100780,
+							["max"] = 17,
+							["damage"] = 26,
+						},
+						["Attacco"] = {
+							["min"] = 21,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 6603,
+							["max"] = 22,
+							["damage"] = 43,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-070C16EE",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 168,
+					["power"] = {
+						[12] = {
+							["amount"] = 4,
+							["spells"] = {
+								[100780] = 4,
+							},
+						},
+					},
+					["name"] = "Hmjgyu",
+					["auras"] = {
+					},
+					["damagetaken"] = 0,
+					["first"] = 1416337849,
+					["time"] = 3,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Manichino d'Allenamento"] = {
+					["players"] = {
+						["Hmjgyu"] = {
+							["taken"] = 69,
+							["done"] = 0,
+							["class"] = "MONK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 69,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 69,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+				[12] = 4,
+			},
+			["starttime"] = 1416337847,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Manichino d'Allenamento (2)",
+			["mobname"] = "Manichino d'Allenamento",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1416337847,
+			["multistrikes"] = 0,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 14,
+			["interrupts"] = 0,
+			["endtime"] = 1416337617,
+			["damage"] = 89,
+			["players"] = {
+				{
+					["last"] = 1416337609,
+					["healingabsorbed"] = 0,
+					["class"] = "MONK",
+					["damaged"] = {
+						["Manichino d'Allenamento"] = 89,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 89,
+					["damagespells"] = {
+						["Diretto"] = {
+							["min"] = 8,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 100780,
+							["max"] = 9,
+							["damage"] = 25,
+						},
+						["Attacco"] = {
+							["min"] = 21,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 6603,
+							["max"] = 22,
+							["damage"] = 64,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-070C16EE",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 168,
+					["power"] = {
+						[12] = {
+							["amount"] = 6,
+							["spells"] = {
+								[100780] = 6,
+							},
+						},
+					},
+					["name"] = "Hmjgyu",
+					["auras"] = {
+					},
+					["damagetaken"] = 0,
+					["first"] = 1416337604,
+					["time"] = 5,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Manichino d'Allenamento"] = {
+					["players"] = {
+						["Hmjgyu"] = {
+							["taken"] = 89,
+							["done"] = 0,
+							["class"] = "MONK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 89,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 89,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+				[12] = 6,
+			},
+			["starttime"] = 1416337603,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Manichino d'Allenamento",
+			["mobname"] = "Manichino d'Allenamento",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1416337603,
+			["multistrikes"] = 0,
+		}, -- [3]
+	},
+}

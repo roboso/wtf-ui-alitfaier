@@ -1,0 +1,8 @@
+
+GoldSave = {
+	["Àzzurrà_Nemesis::Alliance"] = {
+		["show"] = true,
+		["name"] = "Àzzurrà",
+		["gold"] = 832474642,
+	},
+}

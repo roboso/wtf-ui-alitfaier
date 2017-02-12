@@ -1,0 +1,32 @@
+
+nnTrainersDBPC = {
+	["global"] = {
+		["filter"] = {
+			["Rogue"] = false,
+			["Poison"] = false,
+			["Fishing"] = false,
+			["Cooking"] = false,
+			["Demon"] = false,
+			["Jewelcrafting"] = false,
+			["Leatherworking"] = false,
+			["Engineering"] = false,
+			["Hunter"] = false,
+			["Mining"] = false,
+			["Enchanting"] = false,
+			["Blacksmithing"] = false,
+			["Shaman"] = false,
+			["Alchemy"] = false,
+			["Mage"] = false,
+			["Portal Trainer"] = false,
+			["Druid"] = false,
+			["Pet"] = false,
+			["Warlock"] = false,
+			["Warrior"] = false,
+			["First Aid"] = false,
+			["Priest"] = false,
+			["Skinning"] = false,
+			["Herbalism"] = false,
+			["Tailoring"] = false,
+		},
+	},
+}

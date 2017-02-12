@@ -1,0 +1,8 @@
+
+Professionalist_ProfessionsTable = {
+	["Alitfaier"] = {
+		["cooking"] = "201104021803|cffffd000|Htrade:88053:525:525:4800000011CD751:mAIC3MhZHwxXDtw7vM3////////G0z1Wg5OH|h[Cooking]|h|r",
+		["fa"] = "201104021803|cffffd000|Htrade:74559:525:525:4800000011CD751:8LPPYBA|h[First Aid]|h|r",
+		["bs"] = "201104021803|cffffd000|Htrade:76666:525:525:4800000011CD751:2/+/f5nHjfNw/37+//6fvffz2sAAFiA+AiBYDOA4//P8v4BAAufCC+HFaAAFAD8///h//8//////////jfA+////////QQw7//H|h[Blacksmithing]|h|r",
+	},
+}

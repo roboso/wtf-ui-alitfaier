@@ -1,0 +1,8 @@
+Version: 1
+Frame: QuickTalents
+FrameLevel: 1
+Anchor: LEFT
+X: 0
+Y: 166
+W: 86
+H: 16

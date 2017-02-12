@@ -1,0 +1,4 @@
+Armory: disabled
+GarrisonCommander: enabled
+GarrisonCommander-Broker: enabled
+WIM: enabled

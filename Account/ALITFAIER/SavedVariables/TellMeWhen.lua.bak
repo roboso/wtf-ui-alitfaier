@@ -1,0 +1,33 @@
+
+TellMeWhenDB = {
+	["profileKeys"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = "Àzzurrà - Pozzo dell'Eternità",
+	},
+	["global"] = {
+		["TextLayouts"] = {
+			["icon1"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+			["bar2"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+		},
+	},
+	["Version"] = 73301,
+	["profiles"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = {
+			["Version"] = 73301,
+			["Groups"] = {
+				{
+					["GUID"] = "TMW:group:1Nae3etR0xuj",
+				}, -- [1]
+			},
+		},
+	},
+}

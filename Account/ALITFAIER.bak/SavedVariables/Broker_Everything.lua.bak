@@ -1,0 +1,10 @@
+
+goldDB = {
+	["Alliance"] = {
+		["Nemesis"] = {
+			["Alyara"] = 32682,
+		},
+	},
+}
+Broker_EverythingGlobalDB = {
+}

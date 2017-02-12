@@ -1,0 +1,2365 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 139,
+		["interrupts"] = 0,
+		["damage"] = 4821,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "WARRIOR",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+					["Frenesia di Vittoria"] = {
+						["shielding"] = 0,
+						["id"] = 118779,
+						["healing"] = 175,
+						["min"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Frenesia di Vittoria",
+						["max"] = 38,
+						["critical"] = 0,
+						["absorbed"] = 0,
+						["overhealing"] = 404,
+						["hits"] = 16,
+					},
+				},
+				["overhealing"] = 404,
+				["interrupts"] = 0,
+				["damage"] = 3874,
+				["damagespells"] = {
+					["Attacco"] = {
+						["min"] = 20,
+						["critical"] = 4,
+						["hit"] = 61,
+						["totalhits"] = 65,
+						["id"] = 6603,
+						["max"] = 49,
+						["damage"] = 1574,
+					},
+					["Assalto Eroico"] = {
+						["min"] = 23,
+						["critical"] = 3,
+						["hit"] = 54,
+						["totalhits"] = 57,
+						["id"] = 78,
+						["max"] = 60,
+						["damage"] = 1555,
+					},
+					["Frenesia di Vittoria"] = {
+						["min"] = 40,
+						["hit"] = 16,
+						["totalhits"] = 16,
+						["id"] = 34428,
+						["max"] = 50,
+						["damage"] = 745,
+					},
+				},
+				["healed"] = {
+					["Player-1316-07283B76"] = {
+						["shielding"] = 0,
+						["class"] = "WARRIOR",
+						["name"] = "Diegøenrage",
+						["amount"] = 175,
+					},
+				},
+				["deathlog"] = {
+					{
+						["ts"] = 1420333531.196,
+						["amount"] = -7,
+						["hp"] = 211,
+						["srcname"] = "Lupo da Punta delle Nevi",
+						["spellid"] = 88163,
+					}, -- [1]
+					{
+						["ts"] = 1420333533.201,
+						["amount"] = -7,
+						["hp"] = 204,
+						["srcname"] = "Lupo da Punta delle Nevi",
+						["spellid"] = 88163,
+					}, -- [2]
+					{
+						["ts"] = 1420333534.638,
+						["amount"] = -9,
+						["hp"] = 197,
+						["srcname"] = "Cinghiale delle Rupi",
+						["spellid"] = 88163,
+					}, -- [3]
+					{
+						["ts"] = 1420333535.217,
+						["amount"] = -5,
+						["hp"] = 188,
+						["srcname"] = "Lupo da Punta delle Nevi",
+						["spellid"] = 88163,
+					}, -- [4]
+					{
+						["ts"] = 1420333535.931,
+						["amount"] = 37,
+						["absorb"] = 0,
+						["hp"] = 220,
+						["spellid"] = 118779,
+						["srcname"] = "Diegøenrage",
+					}, -- [5]
+					{
+						["ts"] = 1420333536.643,
+						["amount"] = -9,
+						["hp"] = 220,
+						["spellid"] = 88163,
+						["srcname"] = "Cinghiale delle Rupi",
+					}, -- [6]
+					{
+						["ts"] = 1420333537.112,
+						["amount"] = -6,
+						["hp"] = 211,
+						["srcname"] = "Lupo da Punta delle Nevi",
+						["spellid"] = 88163,
+					}, -- [7]
+					{
+						["ts"] = 1420333539.151,
+						["amount"] = -5,
+						["hp"] = 205,
+						["srcname"] = "Lupo da Punta delle Nevi",
+						["spellid"] = 88163,
+					}, -- [8]
+					{
+						["ts"] = 1420333541.201,
+						["amount"] = -6,
+						["hp"] = 200,
+						["srcname"] = "Lupo da Punta delle Nevi",
+						["spellid"] = 88163,
+					}, -- [9]
+					{
+						["absorb"] = 0,
+						["ts"] = 1420333542.567,
+						["amount"] = 38,
+						["hp"] = 232,
+						["srcname"] = "Diegøenrage",
+						["spellid"] = 118779,
+					}, -- [10]
+					{
+						["ts"] = 1420333543.175,
+						["amount"] = -5,
+						["hp"] = 232,
+						["srcname"] = "Lupo da Punta delle Nevi",
+						["spellid"] = 88163,
+					}, -- [11]
+					{
+						["ts"] = 1420333569.217,
+						["amount"] = -7,
+						["hp"] = 252,
+						["spellid"] = 88163,
+						["srcname"] = "Lupo da Punta delle Nevi",
+					}, -- [12]
+					{
+						["ts"] = 1420333527.793,
+						["amount"] = -8,
+						["hp"] = 231,
+						["srcname"] = "Cinghiale delle Rupi",
+						["spellid"] = 88163,
+					}, -- [13]
+					{
+						["ts"] = 1420333529.19,
+						["amount"] = -5,
+						["hp"] = 223,
+						["srcname"] = "Lupo da Punta delle Nevi",
+						["spellid"] = 88163,
+					}, -- [14]
+					{
+						["ts"] = 1420333529.821,
+						["amount"] = -7,
+						["hp"] = 218,
+						["srcname"] = "Cinghiale delle Rupi",
+						["spellid"] = 88163,
+					}, -- [15]
+					["pos"] = 13,
+				},
+				["id"] = "Player-1316-07283B76",
+				["healing"] = 175,
+				["auras"] = {
+					["Vittoria in Pugno"] = {
+						["name"] = "Vittoria in Pugno",
+						["active"] = 10,
+						["id"] = 32216,
+						["auratype"] = "BUFF",
+						["uptime"] = 171,
+					},
+					["Frenesia di Vittoria"] = {
+						["name"] = "Frenesia di Vittoria",
+						["active"] = 7,
+						["id"] = 118779,
+						["auratype"] = "BUFF",
+						["uptime"] = 164,
+					},
+					["Carica"] = {
+						["name"] = "Carica",
+						["active"] = 0,
+						["id"] = 105771,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 16,
+					},
+				},
+				["damagetakenspells"] = {
+					["Attacco"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["min"] = 1,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Attacco",
+						["blocked"] = 0,
+						["totalhits"] = 75,
+						["resisted"] = 0,
+						["max"] = 9,
+						["damage"] = 335,
+					},
+					["Scudo di Fulmini"] = {
+						["crushing"] = 0,
+						["id"] = 12550,
+						["min"] = 10,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Scudo di Fulmini",
+						["blocked"] = 0,
+						["totalhits"] = 2,
+						["resisted"] = 0,
+						["max"] = 10,
+						["damage"] = 20,
+					},
+					["Dardo Fulminante"] = {
+						["crushing"] = 0,
+						["id"] = 9532,
+						["min"] = 9,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Dardo Fulminante",
+						["blocked"] = 0,
+						["totalhits"] = 5,
+						["resisted"] = 0,
+						["max"] = 13,
+						["damage"] = 53,
+					},
+					["Lama Avvelenata"] = {
+						["crushing"] = 0,
+						["id"] = 70133,
+						["min"] = 1,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Lama Avvelenata",
+						["blocked"] = 0,
+						["totalhits"] = 3,
+						["resisted"] = 0,
+						["max"] = 1,
+						["damage"] = 3,
+					},
+					["Assalto del Gelo"] = {
+						["crushing"] = 0,
+						["id"] = 79895,
+						["min"] = 7,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Assalto del Gelo",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 7,
+						["damage"] = 7,
+					},
+				},
+				["ccbreaks"] = 0,
+				["time"] = 166,
+				["name"] = "Diegøenrage",
+				["damagetaken"] = 418,
+				["power"] = {
+					{
+						["amount"] = 40,
+						["spells"] = {
+							[109128] = 40,
+						},
+					}, -- [1]
+				},
+				["maxhp"] = 182,
+				["shielding"] = 0,
+				["multistrikes"] = 0,
+			}, -- [1]
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "WARLOCK",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["damage"] = 947,
+				["damagespells"] = {
+					["Rupnik: Dardo di Fuoco"] = {
+						["min"] = 46,
+						["critical"] = 2,
+						["hit"] = 3,
+						["totalhits"] = 5,
+						["id"] = 3110,
+						["max"] = 94,
+						["damage"] = 327,
+					},
+					["Dardo d'Ombra"] = {
+						["min"] = 81,
+						["hit"] = 1,
+						["totalhits"] = 1,
+						["id"] = 686,
+						["max"] = 81,
+						["damage"] = 81,
+					},
+					["Corruzione"] = {
+						["min"] = 15,
+						["critical"] = 11,
+						["hit"] = 14,
+						["totalhits"] = 25,
+						["id"] = 146739,
+						["max"] = 30,
+						["damage"] = 539,
+					},
+				},
+				["ccbreaks"] = 0,
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "Player-1316-072836EE",
+				["healing"] = 0,
+				["maxhp"] = 666,
+				["damagetakenspells"] = {
+					["Dardo Fulminante"] = {
+						["crushing"] = 0,
+						["id"] = 9532,
+						["min"] = 10,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Dardo Fulminante",
+						["blocked"] = 0,
+						["totalhits"] = 3,
+						["resisted"] = 0,
+						["max"] = 12,
+						["damage"] = 32,
+					},
+					["Scudo di Fulmini"] = {
+						["crushing"] = 0,
+						["id"] = 12550,
+						["min"] = 10,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Scudo di Fulmini",
+						["blocked"] = 0,
+						["totalhits"] = 3,
+						["resisted"] = 0,
+						["max"] = 12,
+						["damage"] = 34,
+					},
+					["Attacco"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["min"] = 6,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Attacco",
+						["blocked"] = 0,
+						["totalhits"] = 3,
+						["resisted"] = 0,
+						["max"] = 8,
+						["damage"] = 22,
+					},
+				},
+				["deathlog"] = {
+					{
+						["ts"] = 1420333241.168,
+						["amount"] = -10,
+						["hp"] = 656,
+						["spellid"] = 9532,
+						["srcname"] = "Veggente Mantogelido",
+					}, -- [1]
+					{
+						["ts"] = 1420333245.261,
+						["amount"] = -10,
+						["hp"] = 646,
+						["spellid"] = 12550,
+						["srcname"] = "Veggente Mantogelido",
+					}, -- [2]
+					{
+						["ts"] = 1420333249.164,
+						["amount"] = -10,
+						["hp"] = 636,
+						["spellid"] = 9532,
+						["srcname"] = "Veggente Mantogelido",
+					}, -- [3]
+					{
+						["ts"] = 1420333251.085,
+						["amount"] = -12,
+						["hp"] = 624,
+						["spellid"] = 12550,
+						["srcname"] = "Veggente Mantogelido",
+					}, -- [4]
+					{
+						["ts"] = 1420333252.227,
+						["amount"] = -6,
+						["hp"] = 624,
+						["spellid"] = 88163,
+						["srcname"] = "Marcianeve Mantogelido",
+					}, -- [5]
+					{
+						["ts"] = 1420333254.601,
+						["amount"] = -8,
+						["hp"] = 618,
+						["spellid"] = 88163,
+						["srcname"] = "Marcianeve Mantogelido",
+					}, -- [6]
+					{
+						["ts"] = 1420333256.65,
+						["amount"] = -8,
+						["hp"] = 610,
+						["spellid"] = 88163,
+						["srcname"] = "Marcianeve Mantogelido",
+					}, -- [7]
+					{
+						["ts"] = 1420333258.819,
+						["amount"] = -12,
+						["hp"] = 590,
+						["spellid"] = 12550,
+						["srcname"] = "Veggente Mantogelido",
+					}, -- [8]
+					{
+						["ts"] = 1420333265.067,
+						["amount"] = -12,
+						["hp"] = 578,
+						["spellid"] = 9532,
+						["srcname"] = "Veggente Mantogelido",
+					}, -- [9]
+					["pos"] = 10,
+				},
+				["power"] = {
+					[15] = {
+						["amount"] = 25,
+						["spells"] = {
+							[686] = 25,
+						},
+					},
+				},
+				["name"] = "Lockmodan",
+				["auras"] = {
+					["Corruzione"] = {
+						["name"] = "Corruzione",
+						["active"] = 0,
+						["id"] = 146739,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 15,
+					},
+				},
+				["damagetaken"] = 88,
+				["time"] = 33,
+				["multistrikes"] = 0,
+			}, -- [2]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["Grik'nir il Freddo"] = {
+				["players"] = {
+					["Diegøenrage"] = {
+						["taken"] = 97,
+						["done"] = 7,
+						["class"] = "WARRIOR",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 97,
+				["done"] = 7,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Manichino d'Allenamento"] = {
+				["players"] = {
+					["Diegøenrage"] = {
+						["taken"] = 21,
+						["done"] = 0,
+						["class"] = "WARRIOR",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 21,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Saprofago Faucisalde"] = {
+				["players"] = {
+					["Diegøenrage"] = {
+						["taken"] = 263,
+						["done"] = 12,
+						["class"] = "WARRIOR",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 263,
+				["done"] = 12,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Troll Giovane Mantogelido"] = {
+				["players"] = {
+					["Diegøenrage"] = {
+						["taken"] = 979,
+						["done"] = 63,
+						["class"] = "WARRIOR",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 979,
+				["done"] = 63,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Veggente Mantogelido"] = {
+				["players"] = {
+					["Diegøenrage"] = {
+						["taken"] = 100,
+						["done"] = 73,
+						["class"] = "WARRIOR",
+					},
+					["Lockmodan"] = {
+						["taken"] = 478,
+						["done"] = 66,
+						["class"] = "WARLOCK",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 578,
+				["done"] = 139,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Cinghiale delle Rupi Ammaestrato"] = {
+				["players"] = {
+					["Diegøenrage"] = {
+						["taken"] = 0,
+						["done"] = 1,
+						["class"] = "WARRIOR",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 1,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Cinghiale delle Rupi"] = {
+				["players"] = {
+					["Diegøenrage"] = {
+						["taken"] = 405,
+						["done"] = 49,
+						["class"] = "WARRIOR",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 405,
+				["done"] = 49,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Elementale del Fuoco Ribelle"] = {
+				["players"] = {
+					["Diegøenrage"] = {
+						["taken"] = 95,
+						["done"] = 6,
+						["class"] = "WARRIOR",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 95,
+				["done"] = 6,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Lupo da Punta delle Nevi"] = {
+				["players"] = {
+					["Diegøenrage"] = {
+						["taken"] = 179,
+						["done"] = 81,
+						["class"] = "WARRIOR",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 179,
+				["done"] = 81,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Novizia Mantogelido"] = {
+				["players"] = {
+					["Diegøenrage"] = {
+						["taken"] = 48,
+						["done"] = 0,
+						["class"] = "WARRIOR",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 48,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Lupo della Foresta Malconcio"] = {
+				["players"] = {
+					["Diegøenrage"] = {
+						["taken"] = 136,
+						["done"] = 9,
+						["class"] = "WARRIOR",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 136,
+				["done"] = 9,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Marcianeve Mantogelido"] = {
+				["players"] = {
+					["Diegøenrage"] = {
+						["taken"] = 320,
+						["done"] = 39,
+						["class"] = "WARRIOR",
+					},
+					["Lockmodan"] = {
+						["taken"] = 469,
+						["done"] = 22,
+						["class"] = "WARLOCK",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 789,
+				["done"] = 61,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Cinghiale Piccolo delle Rupi"] = {
+				["players"] = {
+					["Diegøenrage"] = {
+						["taken"] = 554,
+						["done"] = 35,
+						["class"] = "WARRIOR",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 554,
+				["done"] = 35,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Lupo Giovane Malconcio"] = {
+				["players"] = {
+					["Diegøenrage"] = {
+						["taken"] = 284,
+						["done"] = 27,
+						["class"] = "WARRIOR",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 284,
+				["done"] = 27,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Lama Mantogelido"] = {
+				["players"] = {
+					["Diegøenrage"] = {
+						["taken"] = 297,
+						["done"] = 11,
+						["class"] = "WARRIOR",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 297,
+				["done"] = 11,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Novizio Mantogelido"] = {
+				["players"] = {
+					["Diegøenrage"] = {
+						["taken"] = 96,
+						["done"] = 5,
+						["class"] = "WARRIOR",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 96,
+				["done"] = 5,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["mobtaken"] = 4821,
+		["healing"] = 175,
+		["power"] = {
+			40, -- [1]
+			[15] = 25,
+		},
+		["starttime"] = 1420331249,
+		["damagetaken"] = 506,
+		["shielding"] = 0,
+		["name"] = "Totale",
+		["overhealing"] = 404,
+		["mobdone"] = 506,
+		["mobhdone"] = 0,
+		["last_action"] = 1420331249,
+		["multistrikes"] = 0,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 24,
+			["interrupts"] = 0,
+			["endtime"] = 1420333546,
+			["damage"] = 294,
+			["players"] = {
+				{
+					["last"] = 1420333544,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["Cinghiale delle Rupi"] = 206,
+						["Lupo da Punta delle Nevi"] = 88,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+						["Frenesia di Vittoria"] = {
+							["shielding"] = 0,
+							["id"] = 118779,
+							["healing"] = 75,
+							["min"] = 37,
+							["multistrike"] = 0,
+							["name"] = "Frenesia di Vittoria",
+							["max"] = 38,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 0,
+							["hits"] = 2,
+						},
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 294,
+					["damagespells"] = {
+						["Attacco"] = {
+							["min"] = 21,
+							["hit"] = 5,
+							["totalhits"] = 5,
+							["id"] = 6603,
+							["max"] = 24,
+							["damage"] = 112,
+						},
+						["Assalto Eroico"] = {
+							["min"] = 23,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["id"] = 78,
+							["max"] = 27,
+							["damage"] = 100,
+						},
+						["Frenesia di Vittoria"] = {
+							["min"] = 40,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 34428,
+							["max"] = 42,
+							["damage"] = 82,
+						},
+					},
+					["healed"] = {
+						["Player-1316-07283B76"] = {
+							["shielding"] = 0,
+							["class"] = "WARRIOR",
+							["name"] = "Diegøenrage",
+							["amount"] = 75,
+						},
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-07283B76",
+					["healing"] = 75,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 5,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 15,
+							["resisted"] = 0,
+							["max"] = 9,
+							["damage"] = 100,
+						},
+					},
+					["maxhp"] = 252,
+					["power"] = {
+						{
+							["amount"] = 20,
+							["spells"] = {
+								[109128] = 20,
+							},
+						}, -- [1]
+					},
+					["name"] = "Diegøenrage",
+					["auras"] = {
+						["Vittoria in Pugno"] = {
+							["name"] = "Vittoria in Pugno",
+							["active"] = 1,
+							["id"] = 32216,
+							["auratype"] = "BUFF",
+							["uptime"] = 11,
+						},
+						["Frenesia di Vittoria"] = {
+							["name"] = "Frenesia di Vittoria",
+							["active"] = 1,
+							["id"] = 118779,
+							["auratype"] = "BUFF",
+							["uptime"] = 9,
+						},
+						["Carica"] = {
+							["name"] = "Carica",
+							["active"] = 0,
+							["id"] = 109128,
+							["auratype"] = "BUFF",
+							["uptime"] = 6,
+						},
+					},
+					["damagetaken"] = 100,
+					["first"] = 1420333523,
+					["time"] = 21,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Lupo da Punta delle Nevi"] = {
+					["players"] = {
+						["Diegøenrage"] = {
+							["taken"] = 88,
+							["done"] = 58,
+							["class"] = "WARRIOR",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 88,
+					["done"] = 58,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Cinghiale delle Rupi"] = {
+					["players"] = {
+						["Diegøenrage"] = {
+							["taken"] = 206,
+							["done"] = 42,
+							["class"] = "WARRIOR",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 206,
+					["done"] = 42,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 294,
+			["overhealing"] = 0,
+			["healing"] = 75,
+			["power"] = {
+				20, -- [1]
+			},
+			["starttime"] = 1420333522,
+			["damagetaken"] = 100,
+			["shielding"] = 0,
+			["name"] = "Cinghiale delle Rupi (3)",
+			["mobname"] = "Cinghiale delle Rupi",
+			["mobdone"] = 100,
+			["mobhdone"] = 0,
+			["last_action"] = 1420333522,
+			["multistrikes"] = 0,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 11,
+			["interrupts"] = 0,
+			["endtime"] = 1420333496,
+			["damage"] = 169,
+			["players"] = {
+				{
+					["last"] = 1420333494,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["Cinghiale delle Rupi"] = 78,
+						["Lupo da Punta delle Nevi"] = 91,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+						["Frenesia di Vittoria"] = {
+							["shielding"] = 0,
+							["id"] = 118779,
+							["healing"] = 8,
+							["min"] = 8,
+							["multistrike"] = 0,
+							["name"] = "Frenesia di Vittoria",
+							["max"] = 8,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 30,
+							["hits"] = 1,
+						},
+					},
+					["overhealing"] = 30,
+					["interrupts"] = 0,
+					["damage"] = 169,
+					["damagespells"] = {
+						["Attacco"] = {
+							["min"] = 23,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 6603,
+							["max"] = 26,
+							["damage"] = 74,
+						},
+						["Assalto Eroico"] = {
+							["min"] = 24,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 78,
+							["max"] = 27,
+							["damage"] = 51,
+						},
+						["Frenesia di Vittoria"] = {
+							["min"] = 44,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 34428,
+							["max"] = 44,
+							["damage"] = 44,
+						},
+					},
+					["healed"] = {
+						["Player-1316-07283B76"] = {
+							["shielding"] = 0,
+							["class"] = "WARRIOR",
+							["name"] = "Diegøenrage",
+							["amount"] = 8,
+						},
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-07283B76",
+					["healing"] = 8,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 8,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 8,
+							["damage"] = 16,
+						},
+					},
+					["maxhp"] = 252,
+					["power"] = {
+						{
+							["amount"] = 20,
+							["spells"] = {
+								[109128] = 20,
+							},
+						}, -- [1]
+					},
+					["name"] = "Diegøenrage",
+					["auras"] = {
+						["Vittoria in Pugno"] = {
+							["name"] = "Vittoria in Pugno",
+							["active"] = 1,
+							["id"] = 32216,
+							["auratype"] = "BUFF",
+							["uptime"] = 4,
+						},
+						["Frenesia di Vittoria"] = {
+							["name"] = "Frenesia di Vittoria",
+							["active"] = 1,
+							["id"] = 118779,
+							["auratype"] = "BUFF",
+							["uptime"] = 3,
+						},
+						["Carica"] = {
+							["name"] = "Carica",
+							["active"] = 0,
+							["id"] = 109128,
+							["auratype"] = "BUFF",
+							["uptime"] = 6,
+						},
+					},
+					["damagetaken"] = 16,
+					["first"] = 1420333486,
+					["time"] = 8,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Lupo da Punta delle Nevi"] = {
+					["players"] = {
+						["Diegøenrage"] = {
+							["taken"] = 91,
+							["done"] = 16,
+							["class"] = "WARRIOR",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 91,
+					["done"] = 16,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Cinghiale delle Rupi"] = {
+					["players"] = {
+						["Diegøenrage"] = {
+							["taken"] = 78,
+							["done"] = 0,
+							["class"] = "WARRIOR",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 78,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 169,
+			["overhealing"] = 30,
+			["healing"] = 8,
+			["power"] = {
+				20, -- [1]
+			},
+			["starttime"] = 1420333485,
+			["damagetaken"] = 16,
+			["shielding"] = 0,
+			["name"] = "Cinghiale delle Rupi (2)",
+			["mobname"] = "Cinghiale delle Rupi",
+			["mobdone"] = 16,
+			["mobhdone"] = 0,
+			["last_action"] = 1420333485,
+			["multistrikes"] = 0,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 6,
+			["interrupts"] = 0,
+			["endtime"] = 1420333432,
+			["damage"] = 121,
+			["players"] = {
+				{
+					["last"] = 1420333432,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["Cinghiale delle Rupi"] = 121,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 121,
+					["damagespells"] = {
+						["Attacco"] = {
+							["min"] = 23,
+							["critical"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["id"] = 6603,
+							["max"] = 48,
+							["damage"] = 71,
+						},
+						["Assalto Eroico"] = {
+							["min"] = 25,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 78,
+							["max"] = 25,
+							["damage"] = 50,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-07283B76",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 7,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 7,
+							["damage"] = 7,
+						},
+					},
+					["maxhp"] = 252,
+					["power"] = {
+					},
+					["name"] = "Diegøenrage",
+					["auras"] = {
+						["Vittoria in Pugno"] = {
+							["name"] = "Vittoria in Pugno",
+							["active"] = 1,
+							["id"] = 32216,
+							["auratype"] = "BUFF",
+							["uptime"] = 2,
+						},
+					},
+					["damagetaken"] = 7,
+					["first"] = 1420333427,
+					["time"] = 5,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Cinghiale delle Rupi"] = {
+					["players"] = {
+						["Diegøenrage"] = {
+							["taken"] = 121,
+							["done"] = 7,
+							["class"] = "WARRIOR",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 121,
+					["done"] = 7,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 121,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1420333426,
+			["damagetaken"] = 7,
+			["shielding"] = 0,
+			["name"] = "Cinghiale delle Rupi",
+			["mobname"] = "Cinghiale delle Rupi",
+			["mobdone"] = 7,
+			["mobhdone"] = 0,
+			["last_action"] = 1420333426,
+			["multistrikes"] = 0,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 31,
+			["interrupts"] = 0,
+			["endtime"] = 1420333352,
+			["damage"] = 442,
+			["players"] = {
+				{
+					["last"] = 1420333339,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["Marcianeve Mantogelido"] = 193,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+						["Frenesia di Vittoria"] = {
+							["shielding"] = 0,
+							["id"] = 118779,
+							["healing"] = 43,
+							["min"] = 16,
+							["multistrike"] = 0,
+							["name"] = "Frenesia di Vittoria",
+							["max"] = 27,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 33,
+							["hits"] = 2,
+						},
+					},
+					["overhealing"] = 33,
+					["interrupts"] = 0,
+					["damage"] = 193,
+					["damagespells"] = {
+						["Attacco"] = {
+							["min"] = 23,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 6603,
+							["max"] = 25,
+							["damage"] = 73,
+						},
+						["Frenesia di Vittoria"] = {
+							["min"] = 45,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 34428,
+							["max"] = 47,
+							["damage"] = 92,
+						},
+						["Assalto Eroico"] = {
+							["min"] = 28,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 78,
+							["max"] = 28,
+							["damage"] = 28,
+						},
+					},
+					["healed"] = {
+						["Player-1316-07283B76"] = {
+							["shielding"] = 0,
+							["class"] = "WARRIOR",
+							["name"] = "Diegøenrage",
+							["amount"] = 43,
+						},
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-07283B76",
+					["healing"] = 43,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Dardo Fulminante"] = {
+							["crushing"] = 0,
+							["id"] = 9532,
+							["min"] = 9,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Dardo Fulminante",
+							["blocked"] = 0,
+							["totalhits"] = 4,
+							["resisted"] = 0,
+							["max"] = 11,
+							["damage"] = 40,
+						},
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 5,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 3,
+							["resisted"] = 0,
+							["max"] = 9,
+							["damage"] = 22,
+						},
+					},
+					["maxhp"] = 252,
+					["power"] = {
+					},
+					["name"] = "Diegøenrage",
+					["auras"] = {
+						["Frenesia di Vittoria"] = {
+							["name"] = "Frenesia di Vittoria",
+							["active"] = 0,
+							["id"] = 118779,
+							["auratype"] = "BUFF",
+							["uptime"] = 11,
+						},
+						["Vittoria in Pugno"] = {
+							["name"] = "Vittoria in Pugno",
+							["active"] = 1,
+							["id"] = 32216,
+							["auratype"] = "BUFF",
+							["uptime"] = 20,
+						},
+					},
+					["damagetaken"] = 62,
+					["first"] = 1420333325,
+					["time"] = 14,
+					["multistrikes"] = 0,
+				}, -- [1]
+				{
+					["last"] = 1420333351,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Marcianeve Mantogelido"] = 122,
+						["Veggente Mantogelido"] = 127,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 249,
+					["damagespells"] = {
+						["Rupnik: Dardo di Fuoco"] = {
+							["min"] = 46,
+							["critical"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["id"] = 3110,
+							["max"] = 93,
+							["damage"] = 139,
+						},
+						["Dardo d'Ombra"] = {
+							["min"] = 81,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 686,
+							["max"] = 81,
+							["damage"] = 81,
+						},
+						["Corruzione"] = {
+							["min"] = 29,
+							["critical"] = 1,
+							["totalhits"] = 1,
+							["id"] = 146739,
+							["max"] = 29,
+							["damage"] = 29,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-072836EE",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 666,
+					["power"] = {
+						[15] = {
+							["amount"] = 25,
+							["spells"] = {
+								[686] = 25,
+							},
+						},
+					},
+					["name"] = "Lockmodan",
+					["auras"] = {
+						["Corruzione"] = {
+							["name"] = "Corruzione",
+							["active"] = 0,
+							["id"] = 146739,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["damagetaken"] = 0,
+					["first"] = 1420333344,
+					["time"] = 7,
+					["multistrikes"] = 0,
+				}, -- [2]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Veggente Mantogelido"] = {
+					["players"] = {
+						["Diegøenrage"] = {
+							["taken"] = 0,
+							["done"] = 40,
+							["class"] = "WARRIOR",
+						},
+						["Lockmodan"] = {
+							["taken"] = 127,
+							["done"] = 0,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 127,
+					["done"] = 40,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Marcianeve Mantogelido"] = {
+					["players"] = {
+						["Diegøenrage"] = {
+							["taken"] = 193,
+							["done"] = 22,
+							["class"] = "WARRIOR",
+						},
+						["Lockmodan"] = {
+							["taken"] = 122,
+							["done"] = 0,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 315,
+					["done"] = 22,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 442,
+			["overhealing"] = 33,
+			["healing"] = 43,
+			["power"] = {
+				[15] = 25,
+			},
+			["starttime"] = 1420333321,
+			["damagetaken"] = 62,
+			["shielding"] = 0,
+			["name"] = "Marcianeve Mantogelido (2)",
+			["mobname"] = "Marcianeve Mantogelido",
+			["mobdone"] = 62,
+			["mobhdone"] = 0,
+			["last_action"] = 1420333321,
+			["multistrikes"] = 0,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 6,
+			["interrupts"] = 0,
+			["endtime"] = 1420333312,
+			["damage"] = 103,
+			["players"] = {
+				{
+					["last"] = 1420333312,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["Marcianeve Mantogelido"] = 103,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 103,
+					["damagespells"] = {
+						["Attacco"] = {
+							["min"] = 24,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 6603,
+							["max"] = 24,
+							["damage"] = 48,
+						},
+						["Assalto Eroico"] = {
+							["min"] = 26,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 78,
+							["max"] = 29,
+							["damage"] = 55,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-07283B76",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 5,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 3,
+							["resisted"] = 0,
+							["max"] = 7,
+							["damage"] = 17,
+						},
+					},
+					["maxhp"] = 252,
+					["power"] = {
+					},
+					["name"] = "Diegøenrage",
+					["auras"] = {
+						["Vittoria in Pugno"] = {
+							["name"] = "Vittoria in Pugno",
+							["active"] = 1,
+							["id"] = 32216,
+							["auratype"] = "BUFF",
+							["uptime"] = 1,
+						},
+					},
+					["damagetaken"] = 17,
+					["first"] = 1420333306,
+					["time"] = 6,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Marcianeve Mantogelido"] = {
+					["players"] = {
+						["Diegøenrage"] = {
+							["taken"] = 103,
+							["done"] = 17,
+							["class"] = "WARRIOR",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 103,
+					["done"] = 17,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 103,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1420333306,
+			["damagetaken"] = 17,
+			["shielding"] = 0,
+			["name"] = "Marcianeve Mantogelido",
+			["mobname"] = "Marcianeve Mantogelido",
+			["mobdone"] = 17,
+			["mobhdone"] = 0,
+			["last_action"] = 1420333306,
+			["multistrikes"] = 0,
+		}, -- [5]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 28,
+			["interrupts"] = 0,
+			["endtime"] = 1420333267,
+			["damage"] = 822,
+			["players"] = {
+				{
+					["last"] = 1420333265,
+					["healingabsorbed"] = 0,
+					["class"] = "WARLOCK",
+					["damaged"] = {
+						["Veggente Mantogelido"] = 351,
+						["Marcianeve Mantogelido"] = 347,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 698,
+					["damagespells"] = {
+						["Rupnik: Dardo di Fuoco"] = {
+							["min"] = 47,
+							["critical"] = 1,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["id"] = 3110,
+							["max"] = 94,
+							["damage"] = 188,
+						},
+						["Corruzione"] = {
+							["min"] = 15,
+							["critical"] = 10,
+							["hit"] = 14,
+							["totalhits"] = 24,
+							["id"] = 146739,
+							["max"] = 30,
+							["damage"] = 510,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-072836EE",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Dardo Fulminante"] = {
+							["crushing"] = 0,
+							["id"] = 9532,
+							["min"] = 10,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Dardo Fulminante",
+							["blocked"] = 0,
+							["totalhits"] = 3,
+							["resisted"] = 0,
+							["max"] = 12,
+							["damage"] = 32,
+						},
+						["Scudo di Fulmini"] = {
+							["crushing"] = 0,
+							["id"] = 12550,
+							["min"] = 10,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Scudo di Fulmini",
+							["blocked"] = 0,
+							["totalhits"] = 3,
+							["resisted"] = 0,
+							["max"] = 12,
+							["damage"] = 34,
+						},
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 6,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 3,
+							["resisted"] = 0,
+							["max"] = 8,
+							["damage"] = 22,
+						},
+					},
+					["maxhp"] = 666,
+					["power"] = {
+					},
+					["name"] = "Lockmodan",
+					["auras"] = {
+						["Corruzione"] = {
+							["name"] = "Corruzione",
+							["active"] = 0,
+							["id"] = 146739,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 12,
+						},
+					},
+					["damagetaken"] = 88,
+					["first"] = 1420333239,
+					["time"] = 26,
+					["multistrikes"] = 0,
+				}, -- [1]
+				{
+					["last"] = 1420333258,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["Veggente Mantogelido"] = 100,
+						["Marcianeve Mantogelido"] = 24,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 124,
+					["damagespells"] = {
+						["Attacco"] = {
+							["min"] = 24,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["id"] = 6603,
+							["max"] = 25,
+							["damage"] = 97,
+						},
+						["Assalto Eroico"] = {
+							["min"] = 27,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 78,
+							["max"] = 27,
+							["damage"] = 27,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-07283B76",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Scudo di Fulmini"] = {
+							["crushing"] = 0,
+							["id"] = 12550,
+							["min"] = 10,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Scudo di Fulmini",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 10,
+							["damage"] = 20,
+						},
+						["Dardo Fulminante"] = {
+							["crushing"] = 0,
+							["id"] = 9532,
+							["min"] = 13,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Dardo Fulminante",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 13,
+							["damage"] = 13,
+						},
+					},
+					["maxhp"] = 238,
+					["power"] = {
+					},
+					["name"] = "Diegøenrage",
+					["auras"] = {
+						["Vittoria in Pugno"] = {
+							["name"] = "Vittoria in Pugno",
+							["active"] = 1,
+							["id"] = 32216,
+							["auratype"] = "BUFF",
+							["uptime"] = 15,
+						},
+					},
+					["damagetaken"] = 33,
+					["first"] = 1420333240,
+					["time"] = 18,
+					["multistrikes"] = 0,
+				}, -- [2]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Veggente Mantogelido"] = {
+					["players"] = {
+						["Diegøenrage"] = {
+							["taken"] = 100,
+							["done"] = 33,
+							["class"] = "WARRIOR",
+						},
+						["Lockmodan"] = {
+							["taken"] = 351,
+							["done"] = 66,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 451,
+					["done"] = 99,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Marcianeve Mantogelido"] = {
+					["players"] = {
+						["Diegøenrage"] = {
+							["taken"] = 24,
+							["done"] = 0,
+							["class"] = "WARRIOR",
+						},
+						["Lockmodan"] = {
+							["taken"] = 347,
+							["done"] = 22,
+							["class"] = "WARLOCK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 371,
+					["done"] = 22,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 822,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1420333239,
+			["damagetaken"] = 121,
+			["shielding"] = 0,
+			["name"] = "Veggente Mantogelido",
+			["mobname"] = "Veggente Mantogelido",
+			["mobdone"] = 121,
+			["mobhdone"] = 0,
+			["last_action"] = 1420333239,
+			["multistrikes"] = 0,
+		}, -- [6]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 6,
+			["interrupts"] = 0,
+			["endtime"] = 1420332364,
+			["damage"] = 80,
+			["players"] = {
+				{
+					["last"] = 1420332364,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["Lupo della Foresta Malconcio"] = 80,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 80,
+					["damagespells"] = {
+						["Attacco"] = {
+							["min"] = 26,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 6603,
+							["max"] = 26,
+							["damage"] = 52,
+						},
+						["Assalto Eroico"] = {
+							["min"] = 28,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 78,
+							["max"] = 28,
+							["damage"] = 28,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-07283B76",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 3,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 3,
+							["damage"] = 6,
+						},
+					},
+					["maxhp"] = 238,
+					["power"] = {
+					},
+					["name"] = "Diegøenrage",
+					["auras"] = {
+						["Vittoria in Pugno"] = {
+							["name"] = "Vittoria in Pugno",
+							["active"] = 1,
+							["id"] = 32216,
+							["auratype"] = "BUFF",
+							["uptime"] = 2,
+						},
+					},
+					["damagetaken"] = 6,
+					["first"] = 1420332359,
+					["time"] = 5,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Lupo della Foresta Malconcio"] = {
+					["players"] = {
+						["Diegøenrage"] = {
+							["taken"] = 80,
+							["done"] = 6,
+							["class"] = "WARRIOR",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 80,
+					["done"] = 6,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 80,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1420332358,
+			["damagetaken"] = 6,
+			["shielding"] = 0,
+			["name"] = "Lupo della Foresta Malconcio",
+			["mobname"] = "Lupo della Foresta Malconcio",
+			["mobdone"] = 6,
+			["mobhdone"] = 0,
+			["last_action"] = 1420332358,
+			["multistrikes"] = 0,
+		}, -- [7]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 6,
+			["interrupts"] = 0,
+			["endtime"] = 1420332231,
+			["damage"] = 70,
+			["players"] = {
+				{
+					["last"] = 1420332231,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["Cinghiale Piccolo delle Rupi"] = 70,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 70,
+					["damagespells"] = {
+						["Attacco"] = {
+							["min"] = 22,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 6603,
+							["max"] = 22,
+							["damage"] = 44,
+						},
+						["Assalto Eroico"] = {
+							["min"] = 26,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 78,
+							["max"] = 26,
+							["damage"] = 26,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-07283B76",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 3,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 4,
+							["damage"] = 7,
+						},
+					},
+					["maxhp"] = 224,
+					["power"] = {
+					},
+					["name"] = "Diegøenrage",
+					["auras"] = {
+						["Carica"] = {
+							["name"] = "Carica",
+							["active"] = 0,
+							["id"] = 105771,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 1,
+						},
+					},
+					["damagetaken"] = 7,
+					["first"] = 1420332225,
+					["time"] = 6,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Cinghiale Piccolo delle Rupi"] = {
+					["players"] = {
+						["Diegøenrage"] = {
+							["taken"] = 70,
+							["done"] = 7,
+							["class"] = "WARRIOR",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 70,
+					["done"] = 7,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 70,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1420332225,
+			["damagetaken"] = 7,
+			["shielding"] = 0,
+			["name"] = "Cinghiale Piccolo delle Rupi",
+			["mobname"] = "Cinghiale Piccolo delle Rupi",
+			["mobdone"] = 7,
+			["mobhdone"] = 0,
+			["last_action"] = 1420332225,
+			["multistrikes"] = 0,
+		}, -- [8]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 6,
+			["interrupts"] = 0,
+			["endtime"] = 1420332203,
+			["damage"] = 144,
+			["players"] = {
+				{
+					["last"] = 1420332203,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["Troll Giovane Mantogelido"] = 144,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 144,
+					["damagespells"] = {
+						["Attacco"] = {
+							["min"] = 22,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 6603,
+							["max"] = 23,
+							["damage"] = 67,
+						},
+						["Assalto Eroico"] = {
+							["min"] = 26,
+							["critical"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["id"] = 78,
+							["max"] = 51,
+							["damage"] = 77,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-07283B76",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 224,
+					["power"] = {
+					},
+					["name"] = "Diegøenrage",
+					["auras"] = {
+						["Carica"] = {
+							["name"] = "Carica",
+							["active"] = 0,
+							["id"] = 105771,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 1,
+						},
+					},
+					["damagetaken"] = 0,
+					["first"] = 1420332197,
+					["time"] = 6,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Troll Giovane Mantogelido"] = {
+					["players"] = {
+						["Diegøenrage"] = {
+							["taken"] = 144,
+							["done"] = 0,
+							["class"] = "WARRIOR",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 144,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 144,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1420332197,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Troll Giovane Mantogelido (2)",
+			["mobname"] = "Troll Giovane Mantogelido",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1420332197,
+			["multistrikes"] = 0,
+		}, -- [9]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["endtime"] = 1420332127,
+			["damage"] = 92,
+			["players"] = {
+				{
+					["last"] = 1420332126,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["Troll Giovane Mantogelido"] = 92,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 92,
+					["damagespells"] = {
+						["Assalto Eroico"] = {
+							["min"] = 25,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 78,
+							["max"] = 25,
+							["damage"] = 25,
+						},
+						["Attacco"] = {
+							["min"] = 22,
+							["critical"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["id"] = 6603,
+							["max"] = 45,
+							["damage"] = 67,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-07283B76",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 4,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 4,
+							["damage"] = 8,
+						},
+					},
+					["maxhp"] = 224,
+					["power"] = {
+					},
+					["name"] = "Diegøenrage",
+					["auras"] = {
+					},
+					["damagetaken"] = 8,
+					["first"] = 1420332122,
+					["time"] = 4,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Troll Giovane Mantogelido"] = {
+					["players"] = {
+						["Diegøenrage"] = {
+							["taken"] = 92,
+							["done"] = 8,
+							["class"] = "WARRIOR",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 92,
+					["done"] = 8,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 92,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1420332120,
+			["damagetaken"] = 8,
+			["shielding"] = 0,
+			["name"] = "Troll Giovane Mantogelido",
+			["mobname"] = "Troll Giovane Mantogelido",
+			["mobdone"] = 8,
+			["mobhdone"] = 0,
+			["last_action"] = 1420332120,
+			["multistrikes"] = 0,
+		}, -- [10]
+	},
+}

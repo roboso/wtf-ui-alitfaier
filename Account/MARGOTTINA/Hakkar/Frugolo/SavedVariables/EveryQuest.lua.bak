@@ -1,0 +1,29 @@
+
+EveryQuestDBPC = nil
+EQ2DBPC = {
+	["profileKeys"] = {
+		["Frugolo - Hakkar"] = "global",
+	},
+	["profiles"] = {
+		["global"] = {
+			["history"] = {
+				[13876] = {
+					["status"] = 0,
+				},
+				[13594] = {
+					["status"] = 0,
+				},
+				[13874] = {
+					["status"] = 0,
+				},
+				[26453] = {
+					["status"] = 0,
+				},
+				[26883] = {
+					["status"] = 0,
+				},
+			},
+			["dbversion"] = 4,
+		},
+	},
+}

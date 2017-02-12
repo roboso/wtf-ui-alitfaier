@@ -1,0 +1,13 @@
+BINDINGMODE 0
+bind W ACTIONBUTTON2
+bind Q ACTIONBUTTON1
+bind E ACTIONBUTTON3
+bind NUMLOCK NONE
+bind R ACTIONBUTTON4
+bind 1 CLICK DominosActionButton1:LeftButton
+bind 2 CLICK DominosActionButton2:LeftButton
+bind 3 CLICK DominosActionButton3:LeftButton
+bind SHIFT-MOUSEWHEELUP NONE
+bind SHIFT-DOWN NONE
+bind SHIFT-MOUSEWHEELDOWN NONE
+bind . TOGGLEAUTORUN

@@ -1,0 +1,4 @@
+VER 3 0100000000000041 "ZGVMacro2" "0"
+/target Prince Liam Greymane
+/run ZGV:MRM()
+END

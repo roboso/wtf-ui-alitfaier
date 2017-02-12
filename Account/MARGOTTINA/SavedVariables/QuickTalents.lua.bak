@@ -1,0 +1,23 @@
+
+QT_Saved = {
+	["GlyphHistory"] = {
+		["WARRIOR"] = {
+			[2] = {
+			},
+		},
+	},
+	["BackgroundAlpha"] = 75,
+	["Bindings"] = {
+	},
+	["Scale"] = 100,
+	["ShowTooltips"] = false,
+	["Position"] = {
+		"TOPRIGHT", -- [1]
+		-5, -- [2]
+		-210, -- [3]
+	},
+	["GlyphHistorySize"] = 3,
+	["CollapseInCombat"] = false,
+	["Collapsed"] = false,
+	["ShowGlyphs"] = true,
+}

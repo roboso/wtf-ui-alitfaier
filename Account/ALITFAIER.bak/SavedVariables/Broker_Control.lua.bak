@@ -1,0 +1,10 @@
+
+BrokerControlDB = {
+	["profileKeys"] = {
+		["Baxino - Pozzo dell'Eternità"] = "Baxino - Pozzo dell'Eternità",
+	},
+	["profiles"] = {
+		["Baxino - Pozzo dell'Eternità"] = {
+		},
+	},
+}

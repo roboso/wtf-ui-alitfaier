@@ -1,0 +1,2 @@
+
+MinimalistDB = nil

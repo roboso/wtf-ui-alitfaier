@@ -1,0 +1,19 @@
+
+ArmoryLocalSettings = {
+	["playerStatBottomDropdown"] = "SPELL",
+	["playerStatTopDropdown"] = "ATTRIBUTES",
+	["PaperDoll"] = {
+		["LastViewed"] = {
+			["1"] = "Crushridge",
+			["count"] = 2,
+			["2"] = "Lorenzø",
+		},
+	},
+	["Chat"] = {
+		true, -- [1]
+		["r"] = 1,
+		["sticky"] = 0,
+		["g"] = 1,
+		["b"] = 1,
+	},
+}

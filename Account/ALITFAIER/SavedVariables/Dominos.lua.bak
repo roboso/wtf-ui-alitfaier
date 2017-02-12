@@ -1,0 +1,354 @@
+
+DominosDB = {
+	["namespaces"] = {
+		["ActionSets"] = {
+			["global"] = {
+				["version"] = 1,
+			},
+			["profiles"] = {
+				["Druida"] = {
+					["Àzzurrà - Pozzo dell'Eternità"] = {
+						["actionSets"] = {
+							"spell|8921|spell", -- [1]
+							"spell|191034|spell", -- [2]
+							"spell|192081|spell", -- [3]
+							"spell|78674|spell", -- [4]
+							"spell|202347|spell", -- [5]
+							"spell|202360|spell", -- [6]
+							"spell|194223|spell", -- [7]
+							nil, -- [8]
+							"spell|68996|spell", -- [9]
+							"item|6948", -- [10]
+							"spell|80451|spell", -- [11]
+							"spell|131474|spell", -- [12]
+							"spell|102280|spell", -- [13]
+							"spell|22812|spell", -- [14]
+							"spell|102359|spell", -- [15]
+							"spell|194223|spell", -- [16]
+							nil, -- [17]
+							nil, -- [18]
+							nil, -- [19]
+							"spell|5185|spell", -- [20]
+							"spell|774|spell", -- [21]
+							"spell|78675|spell", -- [22]
+							"summonmount|280", -- [23]
+							"spell|156606|spell", -- [24]
+							"spell|5215|spell", -- [25]
+							"spell|87840|spell", -- [26]
+							"spell|1850|spell", -- [27]
+							nil, -- [28]
+							"spell|194223|spell", -- [29]
+							"spell|339|spell", -- [30]
+							nil, -- [31]
+							"spell|33786|spell", -- [32]
+							"spell|20484|spell", -- [33]
+							"spell|50769|spell", -- [34]
+							"summonmount|449", -- [35]
+							"spell|102359|spell", -- [36]
+							"summonmount|753", -- [37]
+							"summonmount|407", -- [38]
+							"summonmount|183", -- [39]
+							"item|49278", -- [40]
+							nil, -- [41]
+							"summonmount|280", -- [42]
+							"item|109167", -- [43]
+							nil, -- [44]
+							"spell|68996|spell", -- [45]
+							"spell|80451|spell", -- [46]
+							"item|110560", -- [47]
+							"item|6948", -- [48]
+							[60] = "companion|41252|MOUNT",
+							[62] = "spell|80451|spell",
+							[118] = "spell|33786|spell",
+							[77] = "spell|5215|spell",
+							[81] = "spell|774|spell",
+							[74] = "spell|22568|spell",
+							[120] = "item|109218",
+							[97] = "spell|22812|spell",
+							[111] = "spell|78674|spell",
+							[75] = "spell|33917|spell",
+							[109] = "spell|8921|spell",
+							[83] = "item|81406",
+							[105] = "item|122460",
+							[76] = "spell|106832|spell",
+							[110] = "spell|191034|spell",
+							[99] = "spell|1850|spell",
+							[98] = "spell|22842|spell",
+						},
+					},
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = "Druida",
+	},
+	["profiles"] = {
+		["Druida"] = {
+			["frames"] = {
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 0,
+					["pages"] = {
+						["DRUID"] = {
+							["bear"] = 8,
+							["tree"] = 7,
+							["page2"] = 1,
+							["cat"] = 6,
+							["page5"] = 4,
+							["page4"] = 3,
+							["moonkin"] = 9,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [1]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 40,
+					["pages"] = {
+						["DRUID"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [2]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 80,
+					["pages"] = {
+						["DRUID"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [3]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 120,
+					["pages"] = {
+						["DRUID"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [4]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 160,
+					["pages"] = {
+						["DRUID"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [5]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 200,
+					["pages"] = {
+						["DRUID"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [6]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 240,
+					["pages"] = {
+						["DRUID"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [7]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 280,
+					["pages"] = {
+						["DRUID"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [8]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 320,
+					["pages"] = {
+						["DRUID"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [9]
+				{
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOM",
+					["showInOverrideUI"] = false,
+					["padW"] = 2,
+					["x"] = 0,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["y"] = 360,
+					["pages"] = {
+						["DRUID"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [10]
+				["artifact"] = {
+					["point"] = "TOP",
+					["lockMode"] = false,
+					["padW"] = 2,
+					["spacing"] = 1,
+					["mode"] = "artifact",
+					["numButtons"] = 20,
+					["texture"] = "blizzard",
+					["showInPetBattleUI"] = false,
+					["columns"] = 20,
+					["showInOverrideUI"] = false,
+					["showLabels"] = true,
+					["y"] = 0,
+					["font"] = "Friz Quadrata TT",
+					["padH"] = 2,
+					["alwaysShowText"] = true,
+					["x"] = 0,
+				},
+				["exp"] = {
+					["point"] = "TOP",
+					["lockMode"] = false,
+					["padW"] = 2,
+					["spacing"] = 1,
+					["mode"] = "reputation",
+					["numButtons"] = 20,
+					["texture"] = "blizzard",
+					["showInPetBattleUI"] = false,
+					["columns"] = 20,
+					["showInOverrideUI"] = false,
+					["showLabels"] = true,
+					["y"] = 0,
+					["font"] = "Friz Quadrata TT",
+					["padH"] = 2,
+					["alwaysShowText"] = true,
+					["x"] = 0,
+				},
+				["extra"] = {
+					["y"] = -165,
+					["x"] = 214,
+					["anchor"] = "10TR",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["bags"] = {
+					["showInPetBattleUI"] = false,
+					["point"] = "BOTTOMRIGHT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = false,
+				},
+				["pet"] = {
+					["y"] = -174,
+					["x"] = -417,
+					["spacing"] = 6,
+					["anchor"] = "vehicleLT",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["cast"] = {
+					["y"] = -91,
+					["x"] = 185,
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["roll"] = {
+					["showInPetBattleUI"] = true,
+					["x"] = -397,
+					["columns"] = 1,
+					["spacing"] = 2,
+					["anchor"] = "encounterTL",
+					["showInOverrideUI"] = true,
+					["y"] = 102,
+				},
+				["class"] = {
+					["showInPetBattleUI"] = false,
+					["x"] = -442,
+					["point"] = "BOTTOMRIGHT",
+					["spacing"] = 2,
+					["anchor"] = "menuTL",
+					["showInOverrideUI"] = false,
+					["y"] = 37,
+				},
+				["vehicle"] = {
+					["y"] = -175,
+					["x"] = -224,
+					["anchor"] = "10TL",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+				["encounter"] = {
+					["showInPetBattleUI"] = true,
+					["x"] = -417,
+					["anchor"] = "petTC",
+					["showInOverrideUI"] = true,
+					["y"] = -141,
+				},
+				["menu"] = {
+					["y"] = 0,
+					["x"] = -244,
+					["point"] = "BOTTOMRIGHT",
+					["showInOverrideUI"] = false,
+					["showInPetBattleUI"] = false,
+				},
+			},
+		},
+	},
+}
+DominosVersion = "7.0.8"

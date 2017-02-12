@@ -1,0 +1,50 @@
+
+Prat3HighCPUPerCharDB = {
+	["time"] = 1417295459,
+	["scrollback"] = {
+		["ChatFrame1"] = {
+			{
+				"|cff979797[22:07:31]|r|c00000000|r |Hchannel:channel:1|h[1] |h Cambio di canale: |Hchannel:1|h[1. Generale - Gilneas]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				69, -- [5]
+			}, -- [1]
+			{
+				"|cff979797[22:07:31]|r|c00000000|r |Hchannel:channel:3|h[3] |h Cambio di canale: |Hchannel:3|h[3. DifesaLocale - Gilneas]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				71, -- [5]
+			}, -- [2]
+			{
+				"|cff979797[22:10:59]|r|c00000000|r Missione \"Mantenere la posizione\" completata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [3]
+			{
+				"|cff979797[22:10:59]|r|c00000000|r Esperienza guadagnata: 450.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [4]
+			{
+				"|cff979797[22:10:59]|r|c00000000|r Hai ricevuto: 1 argento.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [5]
+			{
+				"|cff979797[22:10:59]|r|c00000000|r Oggetto ricevuto: |cffffffff|Hitem:54983:0:0:0:0:0:0:0:7:0:11:0|h[Bracciali del Repellente]|h|r.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [6]
+		},
+	},
+}

@@ -1,0 +1,10 @@
+
+DurStatusOpt = {
+	["showMerchant"] = true,
+	["showInChar"] = true,
+	["showWarning"] = false,
+	["showAverage"] = false,
+	["warnLevel"] = 30,
+	["showReport"] = true,
+	["showWindow"] = true,
+}

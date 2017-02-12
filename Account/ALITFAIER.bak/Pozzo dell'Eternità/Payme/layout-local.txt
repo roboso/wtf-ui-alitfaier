@@ -1,0 +1,15 @@
+Version: 1
+Frame: TMW_CursorAnchor
+FrameLevel: 22
+Anchor: BOTTOMLEFT
+X: 334
+Y: 86
+W: 24
+H: 24
+Frame: QuickTalents
+FrameLevel: 1
+Anchor: LEFT
+X: 27
+Y: 160
+W: 86
+H: 16

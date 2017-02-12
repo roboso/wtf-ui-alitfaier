@@ -1,0 +1,6 @@
+VER 3 0100000000000005 "ZGVMacro2" "0"
+/target Huojin Trainee
+/target Tushui Trainee
+/target Tushui Trainee
+/run ZGV:MRM()
+END

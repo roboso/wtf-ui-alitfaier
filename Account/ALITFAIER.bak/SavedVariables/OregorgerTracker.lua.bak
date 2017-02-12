@@ -1,0 +1,22 @@
+
+OregorgerTrackerDB = {
+	["minimapPoint"] = "CENTER",
+	["decay"] = 1,
+	["minimap"] = true,
+	["lightY"] = 35.0000038146973,
+	["minimapX"] = -411.495513916016,
+	["light"] = true,
+	["broadcast"] = true,
+	["accuracy"] = 7.5,
+	["lightInterval"] = 0.1,
+	["minimapRoom"] = 1,
+	["searchInterval"] = 0.35,
+	["lightX"] = 0,
+	["lightSize"] = 50,
+	["minimapSize"] = 230,
+	["lightPoint"] = "CENTER",
+	["minimapY"] = -160.153854370117,
+	["minimapRotate"] = true,
+	["lightSound"] = 2,
+	["interval"] = 0.75,
+}

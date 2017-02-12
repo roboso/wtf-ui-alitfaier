@@ -1,0 +1,909 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 33,
+		["interrupts"] = 0,
+		["damage"] = 1178,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "PRIEST",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["damage"] = 1178,
+				["damagespells"] = {
+					["Ji Palmo Infuocato: Attacco"] = {
+						["min"] = 28,
+						["critical"] = 3,
+						["hit"] = 9,
+						["totalhits"] = 12,
+						["id"] = 6603,
+						["max"] = 69,
+						["damage"] = 490,
+					},
+					["Punizione"] = {
+						["min"] = 142,
+						["critical"] = 1,
+						["totalhits"] = 1,
+						["id"] = 585,
+						["max"] = 142,
+						["damage"] = 142,
+					},
+					["Ji Palmo Infuocato: Calcio dell'Oscuramento"] = {
+						["min"] = 13,
+						["hit"] = 3,
+						["totalhits"] = 3,
+						["id"] = 128631,
+						["max"] = 13,
+						["damage"] = 39,
+					},
+					["Attacco"] = {
+						["min"] = 5,
+						["hit"] = 5,
+						["totalhits"] = 5,
+						["id"] = 6603,
+						["max"] = 13,
+						["damage"] = 37,
+					},
+					["Ji Palmo Infuocato: Capriola da Combattimento"] = {
+						["min"] = 67,
+						["hit"] = 1,
+						["totalhits"] = 1,
+						["id"] = 117314,
+						["max"] = 67,
+						["damage"] = 67,
+					},
+					["Parola d'Ombra: Dolore"] = {
+						["min"] = 22,
+						["hit"] = 3,
+						["totalhits"] = 3,
+						["id"] = 589,
+						["max"] = 22,
+						["damage"] = 66,
+					},
+					["Ji Palmo Infuocato: Diretto"] = {
+						["min"] = 32,
+						["hit"] = 9,
+						["totalhits"] = 9,
+						["id"] = 128630,
+						["max"] = 41,
+						["damage"] = 337,
+					},
+				},
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "0x05000000064A08E5",
+				["healing"] = 0,
+				["ccbreaks"] = 0,
+				["damagetakenspells"] = {
+					["Attacco"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["min"] = 4,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "Attacco",
+						["blocked"] = 0,
+						["totalhits"] = 6,
+						["resisted"] = 0,
+						["max"] = 14,
+						["damage"] = 45,
+					},
+					["Esibizione di Furia"] = {
+						["crushing"] = 0,
+						["id"] = 128416,
+						["min"] = 22,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "Esibizione di Furia",
+						["blocked"] = 0,
+						["totalhits"] = 2,
+						["resisted"] = 0,
+						["max"] = 22,
+						["damage"] = 44,
+					},
+					["Lancio dei Fuochi!"] = {
+						["crushing"] = 0,
+						["id"] = 109103,
+						["min"] = 1,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "Lancio dei Fuochi!",
+						["blocked"] = 0,
+						["totalhits"] = 4,
+						["resisted"] = 0,
+						["max"] = 2,
+						["damage"] = 5,
+					},
+				},
+				["maxhp"] = 381,
+				["deathlog"] = {
+					{
+						["ts"] = 1412421170.778,
+						["amount"] = -14,
+						["hp"] = 381,
+						["spellid"] = 88163,
+						["srcname"] = "Saggio di Fe-Feng",
+					}, -- [1]
+					{
+						["ts"] = 1412420982.745,
+						["amount"] = -22,
+						["hp"] = 359,
+						["spellid"] = 128416,
+						["srcname"] = "Farabutto di Fe-Feng",
+					}, -- [2]
+					{
+						["ts"] = 1412420983.512,
+						["amount"] = -4,
+						["hp"] = 359,
+						["spellid"] = 88163,
+						["srcname"] = "Farabutto di Fe-Feng",
+					}, -- [3]
+					{
+						["ts"] = 1412420983.512,
+						["amount"] = -22,
+						["hp"] = 337,
+						["spellid"] = 128416,
+						["srcname"] = "Farabutto di Fe-Feng",
+					}, -- [4]
+					{
+						["ts"] = 1412420989.285,
+						["amount"] = -4,
+						["hp"] = 381,
+						["spellid"] = 88163,
+						["srcname"] = "Farabutto di Fe-Feng",
+					}, -- [5]
+					{
+						["ts"] = 1412420991.17,
+						["amount"] = -5,
+						["hp"] = 377,
+						["spellid"] = 88163,
+						["srcname"] = "Farabutto di Fe-Feng",
+					}, -- [6]
+					{
+						["absorb"] = -5,
+						["hp"] = 372,
+						["ts"] = 1412420993.256,
+						["srcname"] = "Farabutto di Fe-Feng",
+						["spellid"] = 88163,
+					}, -- [7]
+					{
+						["ts"] = 1412421013.277,
+						["amount"] = -4,
+						["hp"] = 376,
+						["spellid"] = 88163,
+						["srcname"] = "Ladro di Fuochi di Fe-Feng",
+					}, -- [8]
+					{
+						["ts"] = 1412421014.211,
+						["amount"] = -1,
+						["hp"] = 371,
+						["spellid"] = 109103,
+						["srcname"] = "Ladro di Fuochi di Fe-Feng",
+					}, -- [9]
+					{
+						["ts"] = 1412421014.779,
+						["amount"] = -2,
+						["hp"] = 369,
+						["spellid"] = 109103,
+						["srcname"] = "Ladro di Fuochi di Fe-Feng",
+					}, -- [10]
+					{
+						["ts"] = 1412421015.346,
+						["amount"] = -1,
+						["hp"] = 368,
+						["spellid"] = 109103,
+						["srcname"] = "Ladro di Fuochi di Fe-Feng",
+					}, -- [11]
+					{
+						["ts"] = 1412421015.83,
+						["amount"] = -1,
+						["hp"] = 367,
+						["spellid"] = 109103,
+						["srcname"] = "Ladro di Fuochi di Fe-Feng",
+					}, -- [12]
+					{
+						["absorb"] = -15,
+						["hp"] = 381,
+						["ts"] = 1412421160.35,
+						["srcname"] = "Saggio di Fe-Feng",
+						["spellid"] = 88163,
+					}, -- [13]
+					{
+						["absorb"] = -13,
+						["hp"] = 381,
+						["ts"] = 1412421162.436,
+						["srcname"] = "Saggio di Fe-Feng",
+						["spellid"] = 88163,
+					}, -- [14]
+					{
+						["absorb"] = -14,
+						["hp"] = 381,
+						["ts"] = 1412421168.893,
+						["srcname"] = "Saggio di Fe-Feng",
+						["spellid"] = 88163,
+					}, -- [15]
+					["pos"] = 2,
+				},
+				["name"] = "Loignxzo",
+				["power"] = {
+				},
+				["auras"] = {
+					["Parola del Potere: Scudo"] = {
+						["name"] = "Parola del Potere: Scudo",
+						["active"] = 3,
+						["id"] = 17,
+						["auratype"] = "BUFF",
+						["uptime"] = 61,
+					},
+					["Anima Indebolita"] = {
+						["name"] = "Anima Indebolita",
+						["active"] = 3,
+						["id"] = 6788,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 61,
+					},
+					["Parola d'Ombra: Dolore"] = {
+						["name"] = "Parola d'Ombra: Dolore",
+						["active"] = 0,
+						["id"] = 589,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 3,
+					},
+				},
+				["damagetaken"] = 94,
+				["time"] = 44,
+			}, -- [1]
+			{
+				["healingabsorbed"] = 0,
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["damage"] = 0,
+				["damagespells"] = {
+				},
+				["damagetaken"] = 0,
+				["shielding"] = 0,
+				["id"] = "0xF13100160003D088",
+				["healing"] = 0,
+				["ccbreaks"] = 0,
+				["damagetakenspells"] = {
+				},
+				["maxhp"] = 0,
+				["deathlog"] = {
+				},
+				["name"] = "Ji Palmo Infuocato",
+				["power"] = {
+				},
+				["auras"] = {
+					["Capriola da Combattimento"] = {
+						["name"] = "Capriola da Combattimento",
+						["active"] = 0,
+						["id"] = 117326,
+						["auratype"] = "BUFF",
+						["uptime"] = 2,
+					},
+				},
+				["healed"] = {
+				},
+				["time"] = 1,
+			}, -- [2]
+		},
+		["deaths"] = 0,
+		["damagetaken"] = 94,
+		["shielding"] = 0,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["starttime"] = 1412420781,
+		["mobtaken"] = 1178,
+		["name"] = "Totale",
+		["mobs"] = {
+			["Ladro di Fuochi di Fe-Feng"] = {
+				["players"] = {
+					["Loignxzo"] = {
+						["taken"] = 35,
+						["done"] = 9,
+						["class"] = "PRIEST",
+					},
+					["Ji Palmo Infuocato"] = {
+						["taken"] = 248,
+						["done"] = 0,
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 283,
+				["done"] = 9,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Farabutto di Fe-Feng"] = {
+				["players"] = {
+					["Ji Palmo Infuocato"] = {
+						["taken"] = 685,
+						["done"] = 0,
+					},
+					["Loignxzo"] = {
+						["taken"] = 210,
+						["done"] = 57,
+						["class"] = "PRIEST",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 895,
+				["done"] = 57,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Saggio di Fe-Feng"] = {
+				["players"] = {
+					["Loignxzo"] = {
+						["taken"] = 0,
+						["done"] = 28,
+						["class"] = "PRIEST",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 28,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["overhealing"] = 0,
+		["mobhdone"] = 0,
+		["last_action"] = 1412420781,
+		["mobdone"] = 94,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 9,
+			["interrupts"] = 0,
+			["damage"] = 283,
+			["players"] = {
+				{
+					["last"] = 1412421010,
+					["healingabsorbed"] = 0,
+					["class"] = "PRIEST",
+					["damaged"] = {
+						["Ladro di Fuochi di Fe-Feng"] = 283,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 283,
+					["damagespells"] = {
+						["Attacco"] = {
+							["min"] = 13,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 6603,
+							["max"] = 13,
+							["damage"] = 13,
+						},
+						["Ji Palmo Infuocato: Calcio dell'Oscuramento"] = {
+							["min"] = 13,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 128631,
+							["max"] = 13,
+							["damage"] = 13,
+						},
+						["Ji Palmo Infuocato: Attacco"] = {
+							["min"] = 34,
+							["critical"] = 1,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["id"] = 6603,
+							["max"] = 62,
+							["damage"] = 131,
+						},
+						["Parola d'Ombra: Dolore"] = {
+							["min"] = 22,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 589,
+							["max"] = 22,
+							["damage"] = 22,
+						},
+						["Ji Palmo Infuocato: Diretto"] = {
+							["min"] = 32,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 128630,
+							["max"] = 36,
+							["damage"] = 104,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x05000000064A08E5",
+					["healing"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 4,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 4,
+							["damage"] = 4,
+						},
+						["Lancio dei Fuochi!"] = {
+							["crushing"] = 0,
+							["id"] = 109103,
+							["min"] = 1,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Lancio dei Fuochi!",
+							["blocked"] = 0,
+							["totalhits"] = 4,
+							["resisted"] = 0,
+							["max"] = 2,
+							["damage"] = 5,
+						},
+					},
+					["ccbreaks"] = 0,
+					["maxhp"] = 381,
+					["name"] = "Loignxzo",
+					["power"] = {
+					},
+					["auras"] = {
+						["Parola del Potere: Scudo"] = {
+							["name"] = "Parola del Potere: Scudo",
+							["active"] = 1,
+							["id"] = 17,
+							["auratype"] = "BUFF",
+							["uptime"] = 2,
+						},
+						["Anima Indebolita"] = {
+							["name"] = "Anima Indebolita",
+							["active"] = 1,
+							["id"] = 6788,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 2,
+						},
+						["Parola d'Ombra: Dolore"] = {
+							["name"] = "Parola d'Ombra: Dolore",
+							["active"] = 0,
+							["id"] = 589,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 1,
+						},
+					},
+					["damagetaken"] = 9,
+					["first"] = 1412421002,
+					["time"] = 8,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 9,
+			["shielding"] = 0,
+			["endtime"] = 1412421011,
+			["healing"] = 0,
+			["mobs"] = {
+				["Ladro di Fuochi di Fe-Feng"] = {
+					["players"] = {
+						["Loignxzo"] = {
+							["taken"] = 35,
+							["done"] = 9,
+							["class"] = "PRIEST",
+						},
+						["Ji Palmo Infuocato"] = {
+							["taken"] = 248,
+							["done"] = 0,
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 283,
+					["done"] = 9,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1412421002,
+			["mobtaken"] = 283,
+			["name"] = "Ladro di Fuochi di Fe-Feng",
+			["mobname"] = "Ladro di Fuochi di Fe-Feng",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1412421002,
+			["mobdone"] = 9,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 11,
+			["interrupts"] = 0,
+			["damage"] = 325,
+			["players"] = {
+				{
+					["last"] = 1412420989,
+					["healingabsorbed"] = 0,
+					["class"] = "PRIEST",
+					["damaged"] = {
+						["Farabutto di Fe-Feng"] = 325,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 325,
+					["damagespells"] = {
+						["Ji Palmo Infuocato: Attacco"] = {
+							["min"] = 28,
+							["critical"] = 1,
+							["hit"] = 4,
+							["totalhits"] = 5,
+							["id"] = 6603,
+							["max"] = 67,
+							["damage"] = 186,
+						},
+						["Ji Palmo Infuocato: Calcio dell'Oscuramento"] = {
+							["min"] = 13,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 128631,
+							["max"] = 13,
+							["damage"] = 13,
+						},
+						["Attacco"] = {
+							["min"] = 5,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 6603,
+							["max"] = 8,
+							["damage"] = 13,
+						},
+						["Ji Palmo Infuocato: Diretto"] = {
+							["min"] = 32,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 128630,
+							["max"] = 41,
+							["damage"] = 113,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x05000000064A08E5",
+					["healing"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 4,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 5,
+							["damage"] = 9,
+						},
+					},
+					["ccbreaks"] = 0,
+					["maxhp"] = 381,
+					["name"] = "Loignxzo",
+					["power"] = {
+					},
+					["auras"] = {
+						["Parola del Potere: Scudo"] = {
+							["name"] = "Parola del Potere: Scudo",
+							["active"] = 1,
+							["id"] = 17,
+							["auratype"] = "BUFF",
+							["uptime"] = 7,
+						},
+						["Anima Indebolita"] = {
+							["name"] = "Anima Indebolita",
+							["active"] = 1,
+							["id"] = 6788,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 7,
+						},
+					},
+					["damagetaken"] = 9,
+					["first"] = 1412420980,
+					["time"] = 9,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 9,
+			["shielding"] = 0,
+			["endtime"] = 1412420991,
+			["healing"] = 0,
+			["mobs"] = {
+				["Farabutto di Fe-Feng"] = {
+					["players"] = {
+						["Ji Palmo Infuocato"] = {
+							["taken"] = 312,
+							["done"] = 0,
+						},
+						["Loignxzo"] = {
+							["taken"] = 13,
+							["done"] = 9,
+							["class"] = "PRIEST",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 325,
+					["done"] = 9,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1412420980,
+			["mobtaken"] = 325,
+			["name"] = "Farabutto di Fe-Feng",
+			["mobname"] = "Farabutto di Fe-Feng",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1412420980,
+			["mobdone"] = 9,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 13,
+			["interrupts"] = 0,
+			["damage"] = 570,
+			["players"] = {
+				{
+					["last"] = 1412420965,
+					["healingabsorbed"] = 0,
+					["damaged"] = {
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 0,
+					["damagespells"] = {
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "0xF13100160003D088",
+					["healing"] = 0,
+					["damagetakenspells"] = {
+					},
+					["ccbreaks"] = 0,
+					["maxhp"] = 0,
+					["name"] = "Ji Palmo Infuocato",
+					["power"] = {
+					},
+					["auras"] = {
+						["Capriola da Combattimento"] = {
+							["name"] = "Capriola da Combattimento",
+							["active"] = 0,
+							["id"] = 117326,
+							["auratype"] = "BUFF",
+							["uptime"] = 2,
+						},
+					},
+					["healed"] = {
+					},
+					["first"] = 1412420964,
+					["time"] = 1,
+				}, -- [1]
+				{
+					["last"] = 1412420976,
+					["healingabsorbed"] = 0,
+					["class"] = "PRIEST",
+					["damaged"] = {
+						["Farabutto di Fe-Feng"] = 570,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 570,
+					["damagespells"] = {
+						["Ji Palmo Infuocato: Attacco"] = {
+							["min"] = 33,
+							["critical"] = 1,
+							["hit"] = 3,
+							["totalhits"] = 4,
+							["id"] = 6603,
+							["max"] = 69,
+							["damage"] = 173,
+						},
+						["Punizione"] = {
+							["min"] = 142,
+							["critical"] = 1,
+							["totalhits"] = 1,
+							["id"] = 585,
+							["max"] = 142,
+							["damage"] = 142,
+						},
+						["Ji Palmo Infuocato: Calcio dell'Oscuramento"] = {
+							["min"] = 13,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 128631,
+							["max"] = 13,
+							["damage"] = 13,
+						},
+						["Attacco"] = {
+							["min"] = 5,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 6603,
+							["max"] = 6,
+							["damage"] = 11,
+						},
+						["Ji Palmo Infuocato: Capriola da Combattimento"] = {
+							["min"] = 67,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 117314,
+							["max"] = 67,
+							["damage"] = 67,
+						},
+						["Parola d'Ombra: Dolore"] = {
+							["min"] = 22,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 589,
+							["max"] = 22,
+							["damage"] = 44,
+						},
+						["Ji Palmo Infuocato: Diretto"] = {
+							["min"] = 38,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 128630,
+							["max"] = 41,
+							["damage"] = 120,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x05000000064A08E5",
+					["healing"] = 0,
+					["damagetakenspells"] = {
+						["Esibizione di Furia"] = {
+							["crushing"] = 0,
+							["id"] = 128416,
+							["min"] = 22,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Esibizione di Furia",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 22,
+							["damage"] = 44,
+						},
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 4,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 4,
+							["damage"] = 4,
+						},
+					},
+					["ccbreaks"] = 0,
+					["maxhp"] = 381,
+					["name"] = "Loignxzo",
+					["power"] = {
+					},
+					["auras"] = {
+						["Parola d'Ombra: Dolore"] = {
+							["name"] = "Parola d'Ombra: Dolore",
+							["active"] = 0,
+							["id"] = 589,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 2,
+						},
+					},
+					["damagetaken"] = 48,
+					["first"] = 1412420964,
+					["time"] = 12,
+				}, -- [2]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 48,
+			["shielding"] = 0,
+			["endtime"] = 1412420977,
+			["healing"] = 0,
+			["mobs"] = {
+				["Farabutto di Fe-Feng"] = {
+					["players"] = {
+						["Ji Palmo Infuocato"] = {
+							["taken"] = 373,
+							["done"] = 0,
+						},
+						["Loignxzo"] = {
+							["taken"] = 197,
+							["done"] = 48,
+							["class"] = "PRIEST",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 570,
+					["done"] = 48,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1412420964,
+			["mobtaken"] = 570,
+			["name"] = "Farabutto di Fe-Feng",
+			["mobname"] = "Farabutto di Fe-Feng",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1412420964,
+			["mobdone"] = 48,
+		}, -- [3]
+	},
+}

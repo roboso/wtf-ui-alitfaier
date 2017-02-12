@@ -1,0 +1,208 @@
+
+OQ_data = {
+	["show_contract_ads"] = 1,
+	["premade_sort_ascending"] = true,
+	["log_x"] = 100,
+	["_voip"] = "-",
+	["_voip_exclusion"] = {
+	},
+	["_premade_type"] = "X",
+	["_lang_filter"] = "G",
+	["premade_filter_qualified"] = 0,
+	["fog_enabled"] = 1,
+	["karma"] = {
+	},
+	["banned"] = {
+	},
+	["_locals"] = {
+		["sbambami-nemesis"] = {
+			["G/sJ5D"] = 1411212669,
+		},
+		["conakull-nemesis"] = {
+			["G/z+/m"] = 1411212670,
+		},
+		["kratoself-nemesis"] = {
+			["G/6UH4"] = 1411212656,
+		},
+		["drakedog-nemesis"] = {
+			["G/t13W"] = 1411212656,
+		},
+		["anafestico-nemesis"] = {
+			["G8IRnD"] = 1411212647,
+		},
+	},
+	["_paperdoll_show_ilevel"] = 1,
+	["loot_acceptance"] = 1,
+	["banlist_sort"] = "ts",
+	["scores"] = {
+		["start_round_tm"] = 1410611305,
+		["time_lag"] = 0,
+		["timeleft"] = 3600,
+		["alliance"] = 0,
+		["officers"] = {
+			["A"] = {
+				["nKnights"] = 0,
+				["nSilver"] = 0,
+				["nGenerals"] = 0,
+				["nGolden"] = 0,
+			},
+			["H"] = {
+				["nKnights"] = 0,
+				["nSilver"] = 0,
+				["nGenerals"] = 0,
+				["nGolden"] = 0,
+			},
+		},
+		["horde"] = 0,
+		["ngames"] = 0,
+		["bg"] = {
+			["AB"] = 50,
+			["AV"] = 50,
+			["WSG"] = 50,
+			["EotS"] = 50,
+			["DWG"] = 50,
+			["TP"] = 50,
+			["SotA"] = 50,
+			["IoC"] = 50,
+			["BFG"] = 50,
+		},
+		["end_round_tm"] = 1411216105,
+	},
+	["show_controlled"] = 0,
+	["realid"] = "azzurra#2697",
+	["_was_filtering"] = 1,
+	["_hint_intro_shown"] = 1411212603,
+	["_helper_intro_shown"] = 1411212557,
+	["_voip_filter"] = "0",
+	["_filter_text"] = "or",
+	["_karma_last_tm"] = 1411212545,
+	["log_y"] = 1081,
+	["sk_adjust"] = 0,
+	["_history"] = {
+		"|cFF00B00013:31:15|r  logging out", -- [1]
+	},
+	["tear_cup"] = {
+	},
+	["_xrealm_arena"] = 0,
+	["leader"] = {
+		["pve.raid"] = {
+			["nBosses"] = 0,
+			["pts"] = 0,
+		},
+		["pve.challenge"] = {
+			["nBosses"] = 0,
+			["pts"] = 0,
+		},
+		["pve.scenario"] = {
+			["nBosses"] = 0,
+			["pts"] = 0,
+		},
+		["rbg"] = {
+			["bg_end"] = 0,
+			["start_tm"] = 0,
+			["nLosses"] = 0,
+			["tm"] = 0,
+			["nGames"] = 0,
+			["bg_length"] = 0,
+			["nWins"] = 0,
+			["bg_start"] = 0,
+		},
+		["bg"] = {
+			["bg_end"] = 0,
+			["start_tm"] = 0,
+			["nLosses"] = 0,
+			["tm"] = 0,
+			["nGames"] = 0,
+			["bg_length"] = 0,
+			["nWins"] = 0,
+			["bg_start"] = 0,
+		},
+		["pve.5man"] = {
+			["nBosses"] = 0,
+			["pts"] = 0,
+		},
+	},
+	["btag_cache"] = {
+	},
+	["my_tokens"] = {
+		["S8NRxU"] = 1411241316,
+		["S8NQ1t"] = 1411241316,
+		["S8OZCy"] = 1411241345,
+		["S8NpYk"] = 1411241326,
+	},
+	["autoaccept_mesh_request"] = 1,
+	["show_gearhilight"] = 1,
+	["_premade_exclusion"] = {
+	},
+	["_lang_exclusion"] = {
+	},
+	["stats"] = {
+		["bg_end"] = 0,
+		["start_tm"] = 0,
+		["nLosses"] = 0,
+		["nGames"] = 0,
+		["tm"] = 0,
+		["nWins"] = 0,
+		["bg_start"] = 0,
+	},
+	["build"] = 201,
+	["toon"] = {
+		["ilàrià-nemesis"] = {
+			["stats"] = {
+				["bg"] = {
+					["nGames"] = 0,
+					["nWins"] = 0,
+					["nLosses"] = 0,
+				},
+				["rbg"] = {
+					["nGames"] = 0,
+					["nWins"] = 0,
+					["nLosses"] = 0,
+				},
+			},
+			["waitlist"] = {
+			},
+			["tab3_notice"] = 1411817462,
+			["player_wallet"] = {
+			},
+			["shout_caps"] = 1,
+			["who_popped_lust"] = 1,
+			["shout_ragequits"] = 1,
+			["raid"] = {
+			},
+			["reports"] = {
+			},
+			["my_toons"] = {
+			},
+			["player_role"] = 1,
+			["last_tm"] = 0,
+			["_idata"] = {
+			},
+			["my_group"] = 0,
+			["marquee_y"] = 10.000004513558,
+			["marquee_x"] = 615.1666303644404,
+			["say_sapped"] = 1,
+			["MinimapPos"] = 0,
+			["class_portrait"] = 1,
+			["my_slot"] = 0,
+			["shout_kbs"] = 1,
+			["auto_role"] = 1,
+		},
+	},
+	["banlist_sort_ascending"] = true,
+	["_pending_info"] = {
+	},
+	["premade_filter_type"] = "X",
+	["ok2autoinspect"] = 1,
+	["_filter_open"] = true,
+	["waitlist_sort_ascending"] = true,
+	["waitlist_sort"] = "time",
+	["_premade_info"] = {
+	},
+	["show_premade_ads"] = 0,
+	["premade_sort"] = "rank",
+	["announce_spy"] = 1,
+	["timer_width"] = 200,
+	["autohide_friendreqs"] = 1,
+	["auto_join_oqgeneral"] = 1,
+}

@@ -1,0 +1,2820 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 1159,
+		["interrupts"] = 0,
+		["damage"] = 45748,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "DRUID",
+				["damaged"] = {
+				},
+				["auras"] = {
+					["Fuoco Lunare"] = {
+						["name"] = "Fuoco Lunare",
+						["active"] = 0,
+						["id"] = 8921,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 46,
+					},
+					["Barilotto Piazzato"] = {
+						["name"] = "Barilotto Piazzato",
+						["active"] = 0,
+						["id"] = 68555,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 21,
+					},
+					["Graffio"] = {
+						["name"] = "Graffio",
+						["active"] = 0,
+						["id"] = 1822,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 11,
+					},
+					["Forma Felina"] = {
+						["name"] = "Forma Felina",
+						["active"] = 2,
+						["id"] = 768,
+						["auratype"] = "BUFF",
+						["uptime"] = 427,
+					},
+					["Rinvigorimento"] = {
+						["name"] = "Rinvigorimento",
+						["active"] = 0,
+						["id"] = 774,
+						["auratype"] = "BUFF",
+						["uptime"] = 42,
+					},
+					["Scatto Oscuro"] = {
+						["name"] = "Scatto Oscuro",
+						["active"] = 0,
+						["id"] = 68992,
+						["auratype"] = "BUFF",
+						["uptime"] = 20,
+					},
+					["Lancio Torcia"] = {
+						["name"] = "Lancio Torcia",
+						["active"] = 4,
+						["id"] = 67063,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 747,
+					},
+				},
+				["ccbreaks"] = 0,
+				["time"] = 1069,
+				["interrupts"] = 0,
+				["damage"] = 45748,
+				["damagespells"] = {
+					["Lancio Torcia"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 139,
+						["MISS"] = 0,
+						["damage"] = 1179,
+						["DEFLECT"] = 0,
+						["id"] = 67063,
+						["max"] = 9,
+						["min"] = 7,
+						["PARRY"] = 0,
+						["critical"] = 0,
+						["hit"] = 139,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Dilaniamento"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 6,
+						["MISS"] = 0,
+						["damage"] = 264,
+						["DEFLECT"] = 0,
+						["id"] = 33876,
+						["max"] = 48,
+						["min"] = 39,
+						["PARRY"] = 0,
+						["critical"] = 0,
+						["hit"] = 6,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Ira Silvana"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 119,
+						["MISS"] = 10,
+						["damage"] = 7209,
+						["DEFLECT"] = 0,
+						["id"] = 5176,
+						["max"] = 159,
+						["min"] = 37,
+						["PARRY"] = 0,
+						["critical"] = 5,
+						["hit"] = 104,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Mastino di Gilneas: Attacco"] = {
+						["DODGE"] = 1,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 1,
+						["totalhits"] = 66,
+						["MISS"] = 0,
+						["damage"] = 414,
+						["DEFLECT"] = 0,
+						["id"] = 6603,
+						["max"] = 12,
+						["min"] = 3,
+						["PARRY"] = 0,
+						["critical"] = 6,
+						["hit"] = 58,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Attacco"] = {
+						["DODGE"] = 6,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 3,
+						["totalhits"] = 53,
+						["MISS"] = 0,
+						["damage"] = 744,
+						["DEFLECT"] = 0,
+						["id"] = 6603,
+						["max"] = 35,
+						["min"] = 12,
+						["PARRY"] = 1,
+						["critical"] = 6,
+						["hit"] = 37,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Morso Feroce"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 3,
+						["MISS"] = 0,
+						["damage"] = 462,
+						["DEFLECT"] = 0,
+						["id"] = 22568,
+						["max"] = 264,
+						["min"] = 72,
+						["PARRY"] = 0,
+						["critical"] = 2,
+						["hit"] = 1,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Lancio Barilotto"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 2,
+						["MISS"] = 0,
+						["damage"] = 0,
+						["DEFLECT"] = 0,
+						["id"] = 69094,
+						["max"] = 0,
+						["PARRY"] = 0,
+						["critical"] = 0,
+						["hit"] = 0,
+						["EVADE"] = 2,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Graffio"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 7,
+						["MISS"] = 0,
+						["damage"] = 167,
+						["DEFLECT"] = 0,
+						["id"] = 1822,
+						["max"] = 42,
+						["min"] = 20,
+						["PARRY"] = 0,
+						["critical"] = 1,
+						["hit"] = 6,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Fuoco Lunare"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 59,
+						["MISS"] = 0,
+						["damage"] = 750,
+						["DEFLECT"] = 0,
+						["id"] = 8921,
+						["max"] = 32,
+						["min"] = 7,
+						["PARRY"] = 0,
+						["critical"] = 5,
+						["hit"] = 54,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Cannone dei Ribelli: Effetto Cannone dei Ribelli"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 66,
+						["MISS"] = 0,
+						["damage"] = 34436,
+						["DEFLECT"] = 0,
+						["id"] = 67278,
+						["max"] = 1096,
+						["min"] = 414,
+						["PARRY"] = 0,
+						["critical"] = 3,
+						["hit"] = 63,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Ser Darius Crowley: Attacco"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 1,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 1,
+						["MISS"] = 0,
+						["damage"] = 113,
+						["DEFLECT"] = 0,
+						["id"] = 6603,
+						["max"] = 113,
+						["min"] = 113,
+						["PARRY"] = 0,
+						["critical"] = 0,
+						["hit"] = 0,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Cavallo di Crowley: Attacco"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 1,
+						["MISS"] = 0,
+						["damage"] = 10,
+						["DEFLECT"] = 0,
+						["id"] = 6603,
+						["max"] = 10,
+						["min"] = 10,
+						["PARRY"] = 0,
+						["critical"] = 0,
+						["hit"] = 1,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+				},
+				["deaths"] = {
+					{
+						["log"] = {
+							{
+								["ts"] = 1410357504.294,
+								["amount"] = -8,
+								["hp"] = 85,
+								["spellid"] = 88163,
+								["srcname"] = "Squartatore Zannacremisi",
+							}, -- [1]
+							{
+								["ts"] = 1410357504.294,
+								["amount"] = -7,
+								["hp"] = 85,
+								["spellid"] = 88163,
+								["srcname"] = "Squartatore Zannacremisi",
+							}, -- [2]
+							{
+								["ts"] = 1410357504.421,
+								["amount"] = -7,
+								["hp"] = 85,
+								["spellid"] = 88163,
+								["srcname"] = "Squartatore Zannacremisi",
+							}, -- [3]
+							{
+								["ts"] = 1410357504.543,
+								["amount"] = -6,
+								["hp"] = 85,
+								["spellid"] = 88163,
+								["srcname"] = "Squartatore Zannacremisi",
+							}, -- [4]
+							{
+								["ts"] = 1410357504.666,
+								["amount"] = -7,
+								["hp"] = 85,
+								["spellid"] = 88163,
+								["srcname"] = "Squartatore Zannacremisi",
+							}, -- [5]
+							{
+								["ts"] = 1410357504.775,
+								["amount"] = -9,
+								["hp"] = 85,
+								["spellid"] = 88163,
+								["srcname"] = "Squartatore Zannacremisi",
+							}, -- [6]
+							{
+								["ts"] = 1410357504.775,
+								["amount"] = -6,
+								["hp"] = 85,
+								["spellid"] = 88163,
+								["srcname"] = "Squartatore Zannacremisi",
+							}, -- [7]
+							{
+								["ts"] = 1410357504.775,
+								["amount"] = -8,
+								["hp"] = 85,
+								["spellid"] = 88163,
+								["srcname"] = "Squartatore Zannacremisi",
+							}, -- [8]
+							{
+								["ts"] = 1410357504.775,
+								["amount"] = -7,
+								["hp"] = 85,
+								["spellid"] = 88163,
+								["srcname"] = "Squartatore Zannacremisi",
+							}, -- [9]
+							{
+								["ts"] = 1410357504.775,
+								["amount"] = -7,
+								["hp"] = 85,
+								["spellid"] = 88163,
+								["srcname"] = "Squartatore Zannacremisi",
+							}, -- [10]
+							{
+								["ts"] = 1410357504.904,
+								["amount"] = -7,
+								["hp"] = 85,
+								["spellid"] = 88163,
+								["srcname"] = "Squartatore Zannacremisi",
+							}, -- [11]
+							{
+								["ts"] = 1410357505.144,
+								["amount"] = -7,
+								["hp"] = 85,
+								["spellid"] = 88163,
+								["srcname"] = "Squartatore Zannacremisi",
+							}, -- [12]
+							{
+								["ts"] = 1410357505.606,
+								["amount"] = 0,
+								["spellname"] = "Lkjruo muore",
+								["hp"] = 0,
+								["spellid"] = 5384,
+							}, -- [13]
+							{
+								["ts"] = 1410357503.582,
+								["amount"] = -5,
+								["hp"] = 129,
+								["spellid"] = 88163,
+								["srcname"] = "Squartatore Zannacremisi",
+							}, -- [14]
+							{
+								["ts"] = 1410357503.582,
+								["amount"] = -7,
+								["hp"] = 129,
+								["spellid"] = 88163,
+								["srcname"] = "Squartatore Zannacremisi",
+							}, -- [15]
+						},
+						["ts"] = 1410357505.606,
+					}, -- [1]
+					{
+						["log"] = {
+							{
+								["ts"] = 1410356938.332,
+								["amount"] = -6,
+								["hp"] = 67,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [1]
+							{
+								["ts"] = 1410356939.763,
+								["amount"] = -8,
+								["hp"] = 61,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [2]
+							{
+								["ts"] = 1410356940.342,
+								["amount"] = -7,
+								["hp"] = 53,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [3]
+							{
+								["ts"] = 1410356941.818,
+								["amount"] = -8,
+								["hp"] = 46,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [4]
+							{
+								["ts"] = 1410356942.359,
+								["amount"] = -6,
+								["hp"] = 38,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [5]
+							{
+								["ts"] = 1410356948.395,
+								["amount"] = -6,
+								["hp"] = 32,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [6]
+							{
+								["ts"] = 1410356948.395,
+								["amount"] = -7,
+								["hp"] = 32,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [7]
+							{
+								["ts"] = 1410356948.771,
+								["amount"] = -8,
+								["hp"] = 26,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [8]
+							{
+								["ts"] = 1410356950.389,
+								["amount"] = -6,
+								["hp"] = 11,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [9]
+							{
+								["ts"] = 1410356950.389,
+								["amount"] = -6,
+								["hp"] = 11,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [10]
+							{
+								["ts"] = 1410356951.185,
+								["amount"] = 0,
+								["spellname"] = "Lkjruo muore",
+								["hp"] = 0,
+								["spellid"] = 5384,
+							}, -- [11]
+							{
+								["ts"] = 1410356934.308,
+								["amount"] = -5,
+								["hp"] = 93,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [12]
+							{
+								["ts"] = 1410356935.309,
+								["amount"] = -8,
+								["hp"] = 88,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [13]
+							{
+								["ts"] = 1410356936.252,
+								["amount"] = -6,
+								["hp"] = 80,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [14]
+							{
+								["ts"] = 1410356937.263,
+								["amount"] = -7,
+								["hp"] = 74,
+								["spellid"] = 88163,
+								["srcname"] = "Worgen Zannacremisi",
+							}, -- [15]
+						},
+						["ts"] = 1410356951.185,
+					}, -- [2]
+				},
+				["damagetaken"] = 3397,
+				["power"] = {
+				},
+				["id"] = "0x0500000006DD45C1",
+				["maxhp"] = 103,
+				["damagetakenspells"] = {
+					["Attacco"] = {
+						["min"] = 2,
+						["name"] = "Attacco",
+						["id"] = 6603,
+						["max"] = 22,
+						["totalhits"] = 474,
+						["damage"] = 3297,
+					},
+					["Pugnalata alle Spalle"] = {
+						["min"] = 2,
+						["name"] = "Pugnalata alle Spalle",
+						["id"] = 75360,
+						["max"] = 5,
+						["totalhits"] = 16,
+						["damage"] = 36,
+					},
+					["Taglio Spaccone"] = {
+						["min"] = 11,
+						["name"] = "Taglio Spaccone",
+						["id"] = 75361,
+						["max"] = 14,
+						["totalhits"] = 5,
+						["damage"] = 64,
+					},
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+					["Rinvigorimento"] = {
+						["shielding"] = 0,
+						["id"] = 774,
+						["healing"] = 1090,
+						["min"] = 0,
+						["name"] = "Rinvigorimento",
+						["max"] = 186,
+						["critical"] = 2,
+						["absorbed"] = 0,
+						["overhealing"] = 1156,
+						["hits"] = 20,
+					},
+				},
+				["name"] = "Lkjruo",
+				["overhealing"] = 1156,
+				["healed"] = {
+					["Lkjruo"] = {
+						["class"] = "DRUID",
+						["shielding"] = 0,
+						["amount"] = 1026,
+					},
+					["Mastino di Gilneas"] = {
+						["class"] = "WARRIOR",
+						["shielding"] = 0,
+						["amount"] = 64,
+					},
+				},
+				["shielding"] = 0,
+				["healing"] = 1090,
+				["deathlog"] = {
+					{
+						["ts"] = 1410360061.858,
+						["amount"] = -10,
+						["hp"] = 187,
+						["spellid"] = 88163,
+						["srcname"] = "Marinaio Reietto",
+					}, -- [1]
+					{
+						["ts"] = 1410360062.378,
+						["amount"] = -6,
+						["hp"] = 187,
+						["spellid"] = 88163,
+						["srcname"] = "Marinaio Reietto",
+					}, -- [2]
+					{
+						["ts"] = 1410360017.34,
+						["amount"] = -10,
+						["hp"] = 239,
+						["spellid"] = 88163,
+						["srcname"] = "Marinaio Reietto",
+					}, -- [3]
+					{
+						["ts"] = 1410360019.343,
+						["amount"] = -9,
+						["hp"] = 223,
+						["spellid"] = 88163,
+						["srcname"] = "Marinaio Reietto",
+					}, -- [4]
+					{
+						["ts"] = 1410360049.88,
+						["amount"] = -10,
+						["hp"] = 286,
+						["spellid"] = 88163,
+						["srcname"] = "Marinaio Reietto",
+					}, -- [5]
+					{
+						["ts"] = 1410360050.353,
+						["amount"] = -6,
+						["hp"] = 286,
+						["spellid"] = 88163,
+						["srcname"] = "Marinaio Reietto",
+					}, -- [6]
+					{
+						["ts"] = 1410360051.876,
+						["amount"] = -13,
+						["hp"] = 270,
+						["spellid"] = 88163,
+						["srcname"] = "Marinaio Reietto",
+					}, -- [7]
+					{
+						["ts"] = 1410360054.201,
+						["amount"] = -14,
+						["hp"] = 243,
+						["spellid"] = 75361,
+						["srcname"] = "Marinaio Reietto",
+					}, -- [8]
+					{
+						["ts"] = 1410360054.376,
+						["amount"] = -6,
+						["hp"] = 243,
+						["spellid"] = 88163,
+						["srcname"] = "Marinaio Reietto",
+					}, -- [9]
+					{
+						["ts"] = 1410360055.801,
+						["amount"] = -10,
+						["hp"] = 237,
+						["spellid"] = 88163,
+						["srcname"] = "Marinaio Reietto",
+					}, -- [10]
+					{
+						["ts"] = 1410360056.387,
+						["amount"] = -7,
+						["hp"] = 237,
+						["spellid"] = 88163,
+						["srcname"] = "Marinaio Reietto",
+					}, -- [11]
+					{
+						["ts"] = 1410360057.88,
+						["amount"] = -10,
+						["hp"] = 220,
+						["spellid"] = 88163,
+						["srcname"] = "Marinaio Reietto",
+					}, -- [12]
+					{
+						["ts"] = 1410360058.364,
+						["amount"] = -7,
+						["hp"] = 220,
+						["spellid"] = 88163,
+						["srcname"] = "Marinaio Reietto",
+					}, -- [13]
+					{
+						["ts"] = 1410360059.82,
+						["amount"] = -11,
+						["hp"] = 203,
+						["spellid"] = 88163,
+						["srcname"] = "Marinaio Reietto",
+					}, -- [14]
+					{
+						["ts"] = 1410360060.384,
+						["amount"] = -5,
+						["hp"] = 203,
+						["spellid"] = 88163,
+						["srcname"] = "Marinaio Reietto",
+					}, -- [15]
+					["pos"] = 3,
+				},
+			}, -- [1]
+		},
+		["deaths"] = 2,
+		["damagetaken"] = 3397,
+		["shielding"] = 0,
+		["healing"] = 1090,
+		["power"] = {
+		},
+		["starttime"] = 1410356299,
+		["mobtaken"] = 45748,
+		["name"] = "Totale",
+		["mobs"] = {
+			["Theraccoon-Darksorrow"] = {
+				["players"] = {
+				},
+				["hdone"] = 194,
+				["htakenspell"] = {
+					["Rinvigorimento"] = {
+						["min"] = 0,
+						["crits"] = 6,
+						["max"] = 194,
+						["healing"] = 194,
+						["overhealing"] = 1852,
+						["hits"] = 14,
+					},
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 10,
+						["healing"] = 104,
+						["overhealing"] = 5820,
+						["hits"] = 88,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 298,
+				["hdonespell"] = {
+					["Rinvigorimento"] = {
+						["min"] = 0,
+						["crits"] = 6,
+						["max"] = 194,
+						["healing"] = 194,
+						["overhealing"] = 1852,
+						["hits"] = 14,
+					},
+				},
+			},
+			["Cittadino Ferito"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 831,
+						["hits"] = 21,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Fenegan Cobbel"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 142,
+						["hits"] = 7,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Inseguitore Zannacremisi"] = {
+				["players"] = {
+					["Lkjruo"] = {
+						["taken"] = 26430,
+						["done"] = 0,
+						["class"] = "DRUID",
+					},
+					["Ser Darius Crowley"] = {
+						["taken"] = 113,
+						["done"] = 0,
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 26543,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Principe Liam Mantogrigio"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 200,
+						["hits"] = 10,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Re Genn Mantogrigio"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 396,
+						["hits"] = 10,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Squartatore Zannacremisi"] = {
+				["players"] = {
+					["Lkjruo"] = {
+						["taken"] = 135,
+						["done"] = 962,
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 135,
+				["done"] = 962,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Assassino Reietto"] = {
+				["players"] = {
+					["Lkjruo"] = {
+						["taken"] = 32,
+						["done"] = 82,
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 32,
+				["done"] = 82,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Worgen Sfrenato"] = {
+				["players"] = {
+					["Lkjruo"] = {
+						["taken"] = 718,
+						["done"] = 67,
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 718,
+				["done"] = 67,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Loren la Ricettatrice"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 102,
+						["hits"] = 5,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Guardia Reale di Gilneas"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 10,
+						["healing"] = 388,
+						["overhealing"] = 3409612,
+						["hits"] = 155,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 388,
+				["hdonespell"] = {
+				},
+			},
+			["Barone"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 98,
+						["hits"] = 7,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Inseguitrice Zannacremisi"] = {
+				["players"] = {
+					["Lkjruo"] = {
+						["taken"] = 9195,
+						["done"] = 0,
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 9195,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Cavallo di Crowley"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 2040,
+						["hits"] = 10,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Abominio Orrido"] = {
+				["players"] = {
+					["Lkjruo"] = {
+						["taken"] = 70,
+						["done"] = 56,
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 526,
+				["htakenspell"] = {
+					["Ricucitura"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 255,
+						["healing"] = 526,
+						["overhealing"] = 1004,
+						["hits"] = 6,
+					},
+				},
+				["taken"] = 70,
+				["done"] = 56,
+				["htaken"] = 526,
+				["hdonespell"] = {
+					["Ricucitura"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 255,
+						["healing"] = 526,
+						["overhealing"] = 1004,
+						["hits"] = 6,
+					},
+				},
+			},
+			["Sopravvissuto Scosso"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 3439,
+						["hits"] = 87,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Reietto Invasore"] = {
+				["players"] = {
+					["Lkjruo"] = {
+						["taken"] = 1864,
+						["done"] = 321,
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1864,
+				["done"] = 321,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Marinaio Reietto"] = {
+				["players"] = {
+					["Lkjruo"] = {
+						["taken"] = 1056,
+						["done"] = 399,
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1056,
+				["done"] = 399,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Worgen Zannacremisi"] = {
+				["players"] = {
+					["Lkjruo"] = {
+						["taken"] = 1252,
+						["done"] = 529,
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1252,
+				["done"] = 529,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Macchinista Reietto"] = {
+				["players"] = {
+					["Lkjruo"] = {
+						["taken"] = 159,
+						["done"] = 0,
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 159,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Inseguitore Furioso"] = {
+				["players"] = {
+					["Lkjruo"] = {
+						["taken"] = 1503,
+						["done"] = 22,
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1503,
+				["done"] = 22,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Soldato Reietto"] = {
+				["players"] = {
+					["Lkjruo"] = {
+						["taken"] = 562,
+						["done"] = 279,
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 562,
+				["done"] = 279,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Myriam Destincanto"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 488,
+						["hits"] = 10,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Reietta Invasore"] = {
+				["players"] = {
+					["Lkjruo"] = {
+						["taken"] = 442,
+						["done"] = 90,
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 442,
+				["done"] = 90,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Annubys-TwistingNether"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 812,
+						["hits"] = 38,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Tobias Foscomanto"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 7,
+						["healing"] = 178,
+						["overhealing"] = 2154,
+						["hits"] = 136,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 178,
+				["hdonespell"] = {
+				},
+			},
+			["Sorella Almyra"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 143,
+						["hits"] = 7,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Ribelle della Porta Nord"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 11,
+						["healing"] = 156,
+						["overhealing"] = 4359,
+						["hits"] = 78,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 156,
+				["hdonespell"] = {
+				},
+			},
+			["Worgen Alfa"] = {
+				["players"] = {
+					["Lkjruo"] = {
+						["taken"] = 96,
+						["done"] = 185,
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 96,
+				["done"] = 185,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Guardingo Zannacremisi"] = {
+				["players"] = {
+					["Lkjruo"] = {
+						["taken"] = 1193,
+						["done"] = 118,
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1193,
+				["done"] = 118,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Gwen Bracciofermo"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 42,
+						["hits"] = 5,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Celestine del Raccolto"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 100,
+						["hits"] = 5,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Cittadina Ferita"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 832,
+						["hits"] = 21,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Ser Darius Crowley"] = {
+				["players"] = {
+				},
+				["hdone"] = 914,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 7,
+						["healing"] = 88,
+						["overhealing"] = 50600,
+						["hits"] = 192,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 88,
+				["hdonespell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 11,
+						["healing"] = 914,
+						["overhealing"] = 3482210,
+						["hits"] = 892,
+					},
+				},
+			},
+			["Giovane Worgen"] = {
+				["players"] = {
+					["Lkjruo"] = {
+						["taken"] = 928,
+						["done"] = 287,
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 928,
+				["done"] = 287,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["overhealing"] = 1156,
+		["mobhdone"] = 1634,
+		["last_action"] = 1410356299,
+		["mobdone"] = 3397,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 15,
+			["interrupts"] = 0,
+			["damage"] = 240,
+			["players"] = {
+				{
+					["last"] = 1410360056,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Marinaio Reietto"] = 240,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 240,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 18,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 18,
+							["min"] = 18,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Ira Silvana"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 3,
+							["MISS"] = 0,
+							["damage"] = 222,
+							["DEFLECT"] = 0,
+							["id"] = 5176,
+							["max"] = 78,
+							["min"] = 71,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 3,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006DD45C1",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 5,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 13,
+							["totalhits"] = 12,
+							["damage"] = 101,
+						},
+						["Taglio Spaccone"] = {
+							["min"] = 14,
+							["name"] = "Taglio Spaccone",
+							["id"] = 75361,
+							["max"] = 14,
+							["totalhits"] = 1,
+							["damage"] = 14,
+						},
+					},
+					["maxhp"] = 286,
+					["name"] = "Lkjruo",
+					["power"] = {
+					},
+					["auras"] = {
+					},
+					["damagetaken"] = 115,
+					["first"] = 1410360044,
+					["time"] = 12,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 115,
+			["shielding"] = 0,
+			["endtime"] = 1410360057,
+			["healing"] = 0,
+			["mobs"] = {
+				["Marinaio Reietto"] = {
+					["players"] = {
+						["Lkjruo"] = {
+							["taken"] = 240,
+							["done"] = 115,
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 240,
+					["done"] = 115,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1410360042,
+			["mobtaken"] = 240,
+			["name"] = "Marinaio Reietto",
+			["mobname"] = "Marinaio Reietto",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410360042,
+			["mobdone"] = 115,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 15,
+			["interrupts"] = 0,
+			["damage"] = 306,
+			["players"] = {
+				{
+					["last"] = 1410360013,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Marinaio Reietto"] = 306,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 306,
+					["damagespells"] = {
+						["Ira Silvana"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 4,
+							["MISS"] = 0,
+							["damage"] = 306,
+							["DEFLECT"] = 0,
+							["id"] = 5176,
+							["max"] = 80,
+							["min"] = 73,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 4,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006DD45C1",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 5,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 11,
+							["totalhits"] = 8,
+							["damage"] = 58,
+						},
+						["Taglio Spaccone"] = {
+							["min"] = 14,
+							["name"] = "Taglio Spaccone",
+							["id"] = 75361,
+							["max"] = 14,
+							["totalhits"] = 1,
+							["damage"] = 14,
+						},
+					},
+					["maxhp"] = 286,
+					["name"] = "Lkjruo",
+					["power"] = {
+					},
+					["auras"] = {
+					},
+					["damagetaken"] = 72,
+					["first"] = 1410360001,
+					["time"] = 12,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 72,
+			["shielding"] = 0,
+			["endtime"] = 1410360014,
+			["healing"] = 0,
+			["mobs"] = {
+				["Marinaio Reietto"] = {
+					["players"] = {
+						["Lkjruo"] = {
+							["taken"] = 306,
+							["done"] = 72,
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 306,
+					["done"] = 72,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1410359999,
+			["mobtaken"] = 306,
+			["name"] = "Marinaio Reietto",
+			["mobname"] = "Marinaio Reietto",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410359999,
+			["mobdone"] = 72,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 13,
+			["interrupts"] = 0,
+			["damage"] = 240,
+			["players"] = {
+				{
+					["last"] = 1410359993,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Marinaio Reietto"] = 240,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 240,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 17,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 17,
+							["min"] = 17,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Ira Silvana"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 3,
+							["MISS"] = 0,
+							["damage"] = 223,
+							["DEFLECT"] = 0,
+							["id"] = 5176,
+							["max"] = 78,
+							["min"] = 68,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 3,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006DD45C1",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 5,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 13,
+							["totalhits"] = 8,
+							["damage"] = 65,
+						},
+						["Taglio Spaccone"] = {
+							["min"] = 11,
+							["name"] = "Taglio Spaccone",
+							["id"] = 75361,
+							["max"] = 11,
+							["totalhits"] = 1,
+							["damage"] = 11,
+						},
+					},
+					["maxhp"] = 286,
+					["name"] = "Lkjruo",
+					["power"] = {
+					},
+					["auras"] = {
+					},
+					["damagetaken"] = 76,
+					["first"] = 1410359982,
+					["time"] = 11,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 76,
+			["shielding"] = 0,
+			["endtime"] = 1410359994,
+			["healing"] = 0,
+			["mobs"] = {
+				["Theraccoon-Darksorrow"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Rinvigorimento"] = {
+							["min"] = 0,
+							["crits"] = 1,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 447,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Rinvigorimento"] = {
+							["min"] = 0,
+							["crits"] = 1,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 447,
+							["hits"] = 3,
+						},
+					},
+				},
+				["Marinaio Reietto"] = {
+					["players"] = {
+						["Lkjruo"] = {
+							["taken"] = 240,
+							["done"] = 76,
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 240,
+					["done"] = 76,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1410359981,
+			["mobtaken"] = 240,
+			["name"] = "Marinaio Reietto",
+			["mobname"] = "Marinaio Reietto",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410359981,
+			["mobdone"] = 76,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 20,
+			["interrupts"] = 0,
+			["damage"] = 270,
+			["players"] = {
+				{
+					["last"] = 1410359973,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Marinaio Reietto"] = 270,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 270,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 1,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 3,
+							["MISS"] = 0,
+							["damage"] = 53,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 35,
+							["min"] = 18,
+							["PARRY"] = 0,
+							["critical"] = 1,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Ira Silvana"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 3,
+							["MISS"] = 0,
+							["damage"] = 217,
+							["DEFLECT"] = 0,
+							["id"] = 5176,
+							["max"] = 76,
+							["min"] = 67,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 3,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006DD45C1",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 5,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 13,
+							["totalhits"] = 12,
+							["damage"] = 111,
+						},
+						["Taglio Spaccone"] = {
+							["min"] = 12,
+							["name"] = "Taglio Spaccone",
+							["id"] = 75361,
+							["max"] = 13,
+							["totalhits"] = 2,
+							["damage"] = 25,
+						},
+					},
+					["maxhp"] = 286,
+					["name"] = "Lkjruo",
+					["power"] = {
+					},
+					["auras"] = {
+					},
+					["damagetaken"] = 136,
+					["first"] = 1410359954,
+					["time"] = 19,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 136,
+			["shielding"] = 0,
+			["endtime"] = 1410359974,
+			["healing"] = 0,
+			["mobs"] = {
+				["Theraccoon-Darksorrow"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Rinvigorimento"] = {
+							["min"] = 0,
+							["crits"] = 1,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 223,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Rinvigorimento"] = {
+							["min"] = 0,
+							["crits"] = 1,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 223,
+							["hits"] = 1,
+						},
+					},
+				},
+				["Marinaio Reietto"] = {
+					["players"] = {
+						["Lkjruo"] = {
+							["taken"] = 270,
+							["done"] = 136,
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 270,
+					["done"] = 136,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1410359954,
+			["mobtaken"] = 270,
+			["name"] = "Marinaio Reietto",
+			["mobname"] = "Marinaio Reietto",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410359954,
+			["mobdone"] = 136,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 6,
+			["interrupts"] = 0,
+			["damage"] = 159,
+			["players"] = {
+				{
+					["last"] = 1410359926,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Macchinista Reietto"] = 159,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 159,
+					["damagespells"] = {
+						["Ira Silvana"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 159,
+							["DEFLECT"] = 0,
+							["id"] = 5176,
+							["max"] = 159,
+							["min"] = 159,
+							["PARRY"] = 0,
+							["critical"] = 1,
+							["hit"] = 0,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006DD45C1",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 286,
+					["name"] = "Lkjruo",
+					["power"] = {
+					},
+					["auras"] = {
+					},
+					["damagetaken"] = 0,
+					["first"] = 1410359926,
+					["time"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["endtime"] = 1410359931,
+			["healing"] = 0,
+			["mobs"] = {
+				["Macchinista Reietto"] = {
+					["players"] = {
+						["Lkjruo"] = {
+							["taken"] = 159,
+							["done"] = 0,
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 159,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1410359925,
+			["mobtaken"] = 159,
+			["name"] = "Macchinista Reietto",
+			["mobname"] = "Macchinista Reietto",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410359925,
+			["mobdone"] = 0,
+		}, -- [5]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 15,
+			["interrupts"] = 0,
+			["damage"] = 299,
+			["players"] = {
+				{
+					["last"] = 1410359726,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Soldato Reietto"] = 299,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 299,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 1,
+							["totalhits"] = 7,
+							["MISS"] = 0,
+							["damage"] = 92,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 28,
+							["min"] = 12,
+							["PARRY"] = 1,
+							["critical"] = 1,
+							["hit"] = 4,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Dilaniamento"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 39,
+							["DEFLECT"] = 0,
+							["id"] = 33876,
+							["max"] = 39,
+							["min"] = 39,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Morso Feroce"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 126,
+							["DEFLECT"] = 0,
+							["id"] = 22568,
+							["max"] = 126,
+							["min"] = 126,
+							["PARRY"] = 0,
+							["critical"] = 1,
+							["hit"] = 0,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Graffio"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 2,
+							["MISS"] = 0,
+							["damage"] = 42,
+							["DEFLECT"] = 0,
+							["id"] = 1822,
+							["max"] = 21,
+							["min"] = 21,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 2,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006DD45C1",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 17,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 22,
+							["totalhits"] = 7,
+							["damage"] = 132,
+						},
+					},
+					["maxhp"] = 286,
+					["name"] = "Lkjruo",
+					["power"] = {
+					},
+					["auras"] = {
+						["Graffio"] = {
+							["name"] = "Graffio",
+							["active"] = 0,
+							["id"] = 1822,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 4,
+						},
+					},
+					["damagetaken"] = 132,
+					["first"] = 1410359714,
+					["time"] = 12,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 132,
+			["shielding"] = 0,
+			["endtime"] = 1410359727,
+			["healing"] = 0,
+			["mobs"] = {
+				["Soldato Reietto"] = {
+					["players"] = {
+						["Lkjruo"] = {
+							["taken"] = 299,
+							["done"] = 132,
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 299,
+					["done"] = 132,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1410359712,
+			["mobtaken"] = 299,
+			["name"] = "Soldato Reietto",
+			["mobname"] = "Soldato Reietto",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410359712,
+			["mobdone"] = 132,
+		}, -- [6]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 21,
+			["interrupts"] = 0,
+			["damage"] = 263,
+			["players"] = {
+				{
+					["last"] = 1410359685,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Soldato Reietto"] = 263,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 263,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 1,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 1,
+							["totalhits"] = 7,
+							["MISS"] = 0,
+							["damage"] = 84,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 15,
+							["min"] = 13,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 5,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Dilaniamento"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 44,
+							["DEFLECT"] = 0,
+							["id"] = 33876,
+							["max"] = 44,
+							["min"] = 44,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Morso Feroce"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 72,
+							["DEFLECT"] = 0,
+							["id"] = 22568,
+							["max"] = 72,
+							["min"] = 72,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Graffio"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 2,
+							["MISS"] = 0,
+							["damage"] = 63,
+							["DEFLECT"] = 0,
+							["id"] = 1822,
+							["max"] = 42,
+							["min"] = 21,
+							["PARRY"] = 0,
+							["critical"] = 1,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006DD45C1",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 14,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 18,
+							["totalhits"] = 9,
+							["damage"] = 147,
+						},
+					},
+					["maxhp"] = 286,
+					["name"] = "Lkjruo",
+					["power"] = {
+					},
+					["auras"] = {
+						["Graffio"] = {
+							["name"] = "Graffio",
+							["active"] = 0,
+							["id"] = 1822,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["damagetaken"] = 147,
+					["first"] = 1410359667,
+					["time"] = 18,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 147,
+			["shielding"] = 0,
+			["endtime"] = 1410359687,
+			["healing"] = 0,
+			["mobs"] = {
+				["Soldato Reietto"] = {
+					["players"] = {
+						["Lkjruo"] = {
+							["taken"] = 263,
+							["done"] = 147,
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 263,
+					["done"] = 147,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1410359666,
+			["mobtaken"] = 263,
+			["name"] = "Soldato Reietto",
+			["mobname"] = "Soldato Reietto",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410359666,
+			["mobdone"] = 147,
+		}, -- [7]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 55,
+			["interrupts"] = 0,
+			["damage"] = 868,
+			["players"] = {
+				{
+					["last"] = 1410359533,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Reietta Invasore"] = 216,
+						["Reietto Invasore"] = 652,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 868,
+					["damagespells"] = {
+						["Ira Silvana"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 14,
+							["MISS"] = 2,
+							["damage"] = 868,
+							["DEFLECT"] = 0,
+							["id"] = 5176,
+							["max"] = 80,
+							["min"] = 66,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 12,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006DD45C1",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 11,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 13,
+							["totalhits"] = 4,
+							["damage"] = 48,
+						},
+					},
+					["maxhp"] = 286,
+					["name"] = "Lkjruo",
+					["power"] = {
+					},
+					["auras"] = {
+						["Forma Felina"] = {
+							["name"] = "Forma Felina",
+							["active"] = 1,
+							["id"] = 768,
+							["auratype"] = "BUFF",
+							["uptime"] = 3,
+						},
+					},
+					["damagetaken"] = 48,
+					["first"] = 1410359482,
+					["time"] = 51,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 48,
+			["shielding"] = 0,
+			["endtime"] = 1410359536,
+			["healing"] = 0,
+			["mobs"] = {
+				["Reietta Invasore"] = {
+					["players"] = {
+						["Lkjruo"] = {
+							["taken"] = 216,
+							["done"] = 12,
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 216,
+					["done"] = 12,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Reietto Invasore"] = {
+					["players"] = {
+						["Lkjruo"] = {
+							["taken"] = 652,
+							["done"] = 36,
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 652,
+					["done"] = 36,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1410359481,
+			["mobtaken"] = 868,
+			["name"] = "Reietto Invasore",
+			["mobname"] = "Reietto Invasore",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410359481,
+			["mobdone"] = 48,
+		}, -- [8]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 10,
+			["interrupts"] = 0,
+			["damage"] = 213,
+			["players"] = {
+				{
+					["last"] = 1410359452,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Reietto Invasore"] = 213,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 213,
+					["damagespells"] = {
+						["Fuoco Lunare"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 5,
+							["MISS"] = 0,
+							["damage"] = 68,
+							["DEFLECT"] = 0,
+							["id"] = 8921,
+							["max"] = 20,
+							["min"] = 10,
+							["PARRY"] = 0,
+							["critical"] = 1,
+							["hit"] = 4,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Ira Silvana"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 2,
+							["MISS"] = 0,
+							["damage"] = 145,
+							["DEFLECT"] = 0,
+							["id"] = 5176,
+							["max"] = 75,
+							["min"] = 70,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 2,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006DD45C1",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 12,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 13,
+							["totalhits"] = 3,
+							["damage"] = 38,
+						},
+					},
+					["maxhp"] = 286,
+					["name"] = "Lkjruo",
+					["power"] = {
+					},
+					["auras"] = {
+						["Fuoco Lunare"] = {
+							["name"] = "Fuoco Lunare",
+							["active"] = 0,
+							["id"] = 8921,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 8,
+						},
+					},
+					["damagetaken"] = 38,
+					["first"] = 1410359444,
+					["time"] = 8,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 38,
+			["shielding"] = 0,
+			["endtime"] = 1410359454,
+			["healing"] = 0,
+			["mobs"] = {
+				["Reietto Invasore"] = {
+					["players"] = {
+						["Lkjruo"] = {
+							["taken"] = 213,
+							["done"] = 38,
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 213,
+					["done"] = 38,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1410359444,
+			["mobtaken"] = 213,
+			["name"] = "Reietto Invasore",
+			["mobname"] = "Reietto Invasore",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410359444,
+			["mobdone"] = 38,
+		}, -- [9]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 6,
+			["interrupts"] = 0,
+			["damage"] = 212,
+			["players"] = {
+				{
+					["last"] = 1410359436,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Reietto Invasore"] = 212,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 212,
+					["damagespells"] = {
+						["Ira Silvana"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 3,
+							["MISS"] = 0,
+							["damage"] = 212,
+							["DEFLECT"] = 0,
+							["id"] = 5176,
+							["max"] = 74,
+							["min"] = 68,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 3,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006DD45C1",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 286,
+					["name"] = "Lkjruo",
+					["power"] = {
+					},
+					["auras"] = {
+					},
+					["damagetaken"] = 0,
+					["first"] = 1410359433,
+					["time"] = 3,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["endtime"] = 1410359438,
+			["healing"] = 0,
+			["mobs"] = {
+				["Reietto Invasore"] = {
+					["players"] = {
+						["Lkjruo"] = {
+							["taken"] = 212,
+							["done"] = 0,
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 212,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1410359432,
+			["mobtaken"] = 212,
+			["name"] = "Reietto Invasore",
+			["mobname"] = "Reietto Invasore",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1410359432,
+			["mobdone"] = 0,
+		}, -- [10]
+	},
+}

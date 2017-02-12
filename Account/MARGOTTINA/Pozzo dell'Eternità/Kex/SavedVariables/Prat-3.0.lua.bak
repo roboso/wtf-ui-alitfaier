@@ -1,0 +1,384 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["time"] = 1470828613,
+	["scrollback"] = {
+		["ChatFrame1"] = {
+			{
+				"|cff979797[13:25:18]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Deachtano-Pozzodell'Eternità:736:CHANNEL:1|h|cffc41e3aDeachtano|r|h|cffd8d8d8]|r: la cosa ancora più brutta e che quando l'ho visto muorire ho pianto...", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [1]
+			{
+				"|cff979797[13:25:30]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Deachtano-Pozzodell'Eternità:739:CHANNEL:1|h|cffc41e3aDeachtano|r|h|cffd8d8d8]|r: maledetto gioco ç-ç", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [2]
+			{
+				"|cff979797[13:25:40]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Vilkanda-Pozzodell'Eternità:742:CHANNEL:1|h|cff0070ddVilkanda|r|h|cffd8d8d8]|r: lasciare l'alleanza a quella pippa di suo figlio è un insulto -_-", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [3]
+			{
+				"|cff979797[13:25:43]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Xìno-Pozzodell'Eternità:744:CHANNEL:1|h|cffaad372Xìno|r|h|cffd8d8d8]|r: pd brutta fine, ma la storia si fa interessante", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [4]
+			{
+				"|cff979797[13:25:45]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Soulsaber-Pozzodell'Eternità:745:CHANNEL:2|h|cff8787edSoulsaber|r|h|cffd8d8d8]|r: Vendo  |cff1eff00|Hitem:20974::::::::36:267::1::::|h[Modello: Pendente di Giada della Detonazione]|h|r |cff1eff00|Hitem:2598::::::::36:267::::::|h[Modello: Tonaca di Lino Rossa]|h|r  ", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+			}, -- [5]
+			{
+				"|cff979797[13:25:49]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Soulsaber-Pozzodell'Eternità:747:CHANNEL:2|h|cff8787edSoulsaber|r|h|cffd8d8d8]|r:  |cff1eff00|Hitem:4347::::::::36:267::1::::|h[Modello: Spallacci di Lana Rinforzati]|h|r", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+			}, -- [6]
+			{
+				"|cff979797[13:25:50]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Reyfalkenayn-Pozzodell'Eternità:748:CHANNEL:1|h|cff3fc6eaReyfalkenayn|r|h|cffd8d8d8]|r: Pensa io che lago feci a 12 anni quando vidi morire Re Terenas in Warcraft III", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [7]
+			{
+				"|cff979797[13:26:02]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Deachtano-Pozzodell'Eternità:749:CHANNEL:1|h|cffc41e3aDeachtano|r|h|cffd8d8d8]|r: dopo l'orda e infame mortacci loro e chi l'ha fatta", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [8]
+			{
+				"|cff979797[13:26:06]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Deachtano-Pozzodell'Eternità:751:CHANNEL:1|h|cffc41e3aDeachtano|r|h|cffd8d8d8]|r: è", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [9]
+			{
+				"|cff979797[13:26:23]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Xìno-Pozzodell'Eternità:753:CHANNEL:1|h|cffaad372Xìno|r|h|cffd8d8d8]|r: non ci sarebbe l'alleanza senza l'orda", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [10]
+			{
+				"|cff979797[13:26:34]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Vilkanda-Pozzodell'Eternità:754:CHANNEL:1|h|cff0070ddVilkanda|r|h|cffd8d8d8]|r: qualcuno ha pg orda per sapere cosa succede dalla loro parte in quel momento?", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [11]
+			{
+				"|cff979797[13:26:36]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Reyfalkenayn-Pozzodell'Eternità:755:CHANNEL:1|h|cff3fc6eaReyfalkenayn|r|h|cffd8d8d8]|r: Ciò non toglie che l'Alleanza esiste", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [12]
+			{
+				"|cff979797[13:26:42]|r|c00000000|r Missione \"I demoni sono tra loro\" completata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [13]
+			{
+				"|cff979797[13:26:42]|r|c00000000|r Hai ricevuto: 15 oro, 40 argento.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [14]
+			{
+				"|cff979797[13:26:43]|r|c00000000|r Missione \"Un'arma dell'Alleanza\" accettata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [15]
+			{
+				"|cff979797[13:26:45]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Reyfalkenayn-Pozzodell'Eternità:760:CHANNEL:1|h|cff3fc6eaReyfalkenayn|r|h|cffd8d8d8]|r: Ed è un dato di fatto", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [16]
+			{
+				"|cff979797[13:26:46]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Hollows-Pozzodell'Eternità:761:CHANNEL:1|h|cff3fc6eaHollows|r|h|cffd8d8d8]|r: Sylvanas diventa Warchief", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [17]
+			{
+				"|cff979797[13:26:54]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Xìno-Pozzodell'Eternità:764:CHANNEL:1|h|cffaad372Xìno|r|h|cffd8d8d8]|r: beh sicuro", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [18]
+			{
+				"|cff979797[13:26:57]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Xìno-Pozzodell'Eternità:766:CHANNEL:1|h|cffaad372Xìno|r|h|cffd8d8d8]|r: sta baldracca", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [19]
+			{
+				"|cff979797[13:26:58]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Sahel-Pozzodell'Eternità:767:CHANNEL:1|h|cffa330c9Sahel|r|h|cffd8d8d8]|r: in pratica vol'jin viene ferito mortalmente ", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [20]
+			{
+				"|cff979797[13:26:59]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Fimbulr-Pozzodell'Eternità:768:CHANNEL:1|h|cffaad372Fimbulr|r|h|cffd8d8d8]|r: L'Alleanza ci sarebbe comunque senza orda, ammesso che esista la Legione Infuocata.", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [21]
+			{
+				"|cff979797[13:27:04]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Sahel-Pozzodell'Eternità:769:CHANNEL:1|h|cffa330c9Sahel|r|h|cffd8d8d8]|r: thrall sta mangiando mazzate", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [22]
+			{
+				"|cff979797[13:27:07]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Reyfalkenayn-Pozzodell'Eternità:770:CHANNEL:1|h|cff3fc6eaReyfalkenayn|r|h|cffd8d8d8]|r: Dibattere sulla sua origine ha poco senso per svilirne il ruolo", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [23]
+			{
+				"|cff979797[13:27:25]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Reyfalkenayn-Pozzodell'Eternità:772:CHANNEL:1|h|cff3fc6eaReyfalkenayn|r|h|cffd8d8d8]|r: No non sono d'accordo, l'Alleanza è stata una risposta all'invasione degli Orchi", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [24]
+			{
+				"|cff979797[13:27:32]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Sahel-Pozzodell'Eternità:774:CHANNEL:1|h|cffa330c9Sahel|r|h|cffd8d8d8]|r: allora Sylvanas raccatta vol'jin che le dice \"non lasciare morire l'orda oggi\" e suona la ritirata", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [25]
+			{
+				"|cff979797[13:27:34]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Democrazia-Pozzodell'Eternità:775:CHANNEL:1|h|cffaad372Democrazia|r|h|cffd8d8d8]|r:  |cffffff00|Hquest:40661:-1|h[Fermare l'invasione]|h|r come si fa???", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [26]
+			{
+				"|cff979797[13:27:51]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Deachtano-Pozzodell'Eternità:776:CHANNEL:1|h|cffc41e3aDeachtano|r|h|cffd8d8d8]|r: apri la mappa ", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [27]
+			{
+				"|cff979797[13:27:54]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Reyfalkenayn-Pozzodell'Eternità:778:CHANNEL:1|h|cff3fc6eaReyfalkenayn|r|h|cffd8d8d8]|r: Senza una tale disgrazia che incombeva su tutti i Reami Orientali uomini, nani, elfi e gnomi non si sarebbero mai coalizzati", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [28]
+			{
+				"|cff979797[13:28:06]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Deachtano-Pozzodell'Eternità:779:CHANNEL:1|h|cffc41e3aDeachtano|r|h|cffd8d8d8]|r: vai nei regni orientali", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [29]
+			{
+				"|cff979797[13:28:20]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Willidan-Pozzodell'Eternità:780:CHANNEL:1|h|cffa330c9Willidan|r|h|cffd8d8d8]|r: anche perchè le razze ally sono tutte razziste", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [30]
+			{
+				"|cff979797[13:28:20]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Xìno-Pozzodell'Eternità:781:CHANNEL:1|h|cffaad372Xìno|r|h|cffd8d8d8]|r: a me comunque sto ragazzino non mi piace, anche se è cresciuto mi sta sempre sul cazzo (Anduin)", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [31]
+			{
+				"|cff979797[13:28:38]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Fimbulr-Pozzodell'Eternità:785:CHANNEL:1|h|cffaad372Fimbulr|r|h|cffd8d8d8]|r: In verità nella guerra degli antichi sono stati gli elfi a non chiedere aiuto alle altre razze perché troppo orgogliosi, e li c'era la legione.", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [32]
+			{
+				"|cff979797[13:28:46]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Reyfalkenayn-Pozzodell'Eternità:787:CHANNEL:1|h|cff3fc6eaReyfalkenayn|r|h|cffd8d8d8]|r: Anduin è un povero citrullo che ha avuto il privilegio di fare sofismi su pace e amore", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [33]
+			{
+				"|cff979797[13:29:03]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Lukev-Pozzodell'Eternità:795:CHANNEL:2|h|cfff48cbaLukev|r|h|cffd8d8d8]|r:  Gilda \"Vae Victis\" recluta nuovi giocatori  per ampliare il nostro gruppo raid serale!Ambiente sereno e maturo. Scrivetemi per qualsiasi info!", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+			}, -- [34]
+			{
+				"|cff979797[13:29:05]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Skjoppo-Pozzodell'Eternità:797:CHANNEL:1|h|cffaad372Skjoppo|r|h|cffd8d8d8]|r: Gli gnomi amano tutti :<", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [35]
+			{
+				"|cff979797[13:29:16]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Tiaiel-Pozzodell'Eternità:799:CHANNEL:1|h|cffaad372Tiaiel|r|h|cffd8d8d8]|r: esatto u.u", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [36]
+			{
+				"|cff979797[13:29:20]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Skjoppo-Pozzodell'Eternità:800:CHANNEL:1|h|cffaad372Skjoppo|r|h|cffd8d8d8]|r: Gnome master race", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [37]
+			{
+				"|cff979797[13:29:23]|r|c00000000|r Missione \"Un'arma dell'Alleanza\" completata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [38]
+			{
+				"|cff979797[13:29:23]|r|c00000000|r Hai ricevuto: 7 oro, 70 argento.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [39]
+			{
+				"|cff979797[13:29:23]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Xìno-Pozzodell'Eternità:803:CHANNEL:1|h|cffaad372Xìno|r|h|cffd8d8d8]|r: esattamente. Il problema è che non è in grado di regnare..quantomeno non adesso. Staremo a vedere come si evolverà la situazione", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [40]
+			{
+				"|cff979797[13:29:25]|r|c00000000|r Missione \"Fermare l'invasione\" accettata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [41]
+			{
+				"|cff979797[13:29:31]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Willidan-Pozzodell'Eternità:805:CHANNEL:1|h|cffa330c9Willidan|r|h|cffd8d8d8]|r: gnomi clandestini ad ironforge", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [42]
+			{
+				"|cff979797[13:29:40]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Skjoppo-Pozzodell'Eternità:806:CHANNEL:1|h|cffaad372Skjoppo|r|h|cffd8d8d8]|r: Gundam Mekkatork", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [43]
+			{
+				"|cff979797[13:29:50]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Skjoppo-Pozzodell'Eternità:807:CHANNEL:1|h|cffaad372Skjoppo|r|h|cffd8d8d8]|r: op pls blizz nerf", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [44]
+			{
+				"|cff979797[13:29:53]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Escanore-Pozzodell'Eternità:808:CHANNEL:1|h|cffa330c9Escanore|r|h|cffd8d8d8]|r: ma garrison niente per il demon hunter?", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [45]
+			{
+				"|cff979797[13:29:55]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Willidan-Pozzodell'Eternità:809:CHANNEL:1|h|cffa330c9Willidan|r|h|cffd8d8d8]|r: rubano il lavoro ai nani", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [46]
+			{
+				"|cff979797[13:29:56]|r|c00000000|r |Hchannel:channel:1|h[1] |h Cambio di canale: |Hchannel:1|h[1. Generale - Marche Occidentali]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [47]
+			{
+				"|cff979797[13:29:56]|r|c00000000|r |Hchannel:channel:2|h[2] |h Uscita dal canale: |Hchannel:2|h[2. Commercio - Città]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+			}, -- [48]
+			{
+				"|cff979797[13:29:56]|r|c00000000|r |Hchannel:channel:3|h[3] |h Cambio di canale: |Hchannel:3|h[3. DifesaLocale - Marche Occidentali]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				69, -- [5]
+			}, -- [49]
+			{
+				"|cff979797[13:30:13]|r|c00000000|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Kex-Pozzodell'Eternità:813:CHANNEL:1|h|cffa330c9Kex|r|h|cffd8d8d8]|r: La gilda Lux et Tenebra cerca player per Legion, l'obiettivo è formare gruppo per raid HC e MITICI. Attendance 3/4 sere. richiesta serietà e attitudine a migliorare in game. per info wisp me sashà.", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+			}, -- [50]
+		},
+	},
+}

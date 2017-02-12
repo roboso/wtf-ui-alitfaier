@@ -1,0 +1,42 @@
+
+EPGP_DB = {
+	["namespaces"] = {
+		["boss"] = {
+		},
+		["loot"] = {
+		},
+		["warnings"] = {
+		},
+		["whisper"] = {
+		},
+		["log"] = {
+		},
+		["gptooltip"] = {
+		},
+		["announce"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Àzzurrà - Nemesis"] = "Lux et Tenebrä",
+	},
+	["global"] = {
+		["last_version"] = "v5.11.11",
+		["last_tier"] = 602,
+	},
+	["profiles"] = {
+		["Àzzurrà - Nemesis"] = {
+			["min_ep"] = 500,
+			["extras_p"] = 50,
+			["decay_p"] = 20,
+			["outsiders"] = 0,
+			["base_gp"] = 1000,
+		},
+		["Lux et Tenebrä"] = {
+			["min_ep"] = 500,
+			["extras_p"] = 50,
+			["decay_p"] = 20,
+			["outsiders"] = 0,
+			["base_gp"] = 1000,
+		},
+	},
+}

@@ -1,0 +1,29 @@
+
+MapsterDB = {
+	["namespaces"] = {
+		["GroupIcons"] = {
+		},
+		["Coords"] = {
+		},
+		["FogClear"] = {
+		},
+		["BattleMap"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Alitfaier - Pozzo dell'Eternità"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["point"] = "BOTTOM",
+			["scale"] = 1.589999914169312,
+			["mini"] = {
+				["scale"] = 2,
+			},
+			["arrowScale"] = 1.5,
+			["y"] = -66.83343890669914,
+			["x"] = 30.63242883221983,
+			["poiScale"] = 1,
+		},
+	},
+}

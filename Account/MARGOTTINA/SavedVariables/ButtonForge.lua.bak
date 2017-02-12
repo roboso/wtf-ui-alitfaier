@@ -1,0 +1,7 @@
+
+ButtonForgeGlobalSettings = {
+	["RemoveMissingMacros"] = true,
+	["MacroCheckDelay"] = 3,
+	["Version"] = 0.9,
+	["VersionMinor"] = 16,
+}

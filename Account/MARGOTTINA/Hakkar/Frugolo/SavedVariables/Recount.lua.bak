@@ -1,0 +1,5229 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Frugolo"] = {
+			["GUID"] = "0x048000000315E4AD",
+			["LastEventHealth"] = {
+				"95 (77%)", -- [1]
+				"95 (77%)", -- [2]
+				"87 (71%)", -- [3]
+				"87 (71%)", -- [4]
+				"87 (71%)", -- [5]
+				"87 (71%)", -- [6]
+				"80 (65%)", -- [7]
+				"80 (65%)", -- [8]
+				"80 (65%)", -- [9]
+				"74 (60%)", -- [10]
+				"74 (60%)", -- [11]
+				"67 (54%)", -- [12]
+				"86 (70%)", -- [13]
+				"115 (94%)", -- [14]
+				"122 (100%)", -- [15]
+				"122 (100%)", -- [16]
+				"122 (100%)", -- [17]
+				"122 (100%)", -- [18]
+				"122 (100%)", -- [19]
+				"116 (95%)", -- [20]
+				"116 (95%)", -- [21]
+				"116 (95%)", -- [22]
+				"110 (90%)", -- [23]
+				"110 (90%)", -- [24]
+				"110 (90%)", -- [25]
+				"104 (85%)", -- [26]
+				"104 (85%)", -- [27]
+				"96 (78%)", -- [28]
+				"96 (78%)", -- [29]
+				"96 (78%)", -- [30]
+				"88 (72%)", -- [31]
+				"88 (72%)", -- [32]
+				"82 (67%)", -- [33]
+				"82 (67%)", -- [34]
+				"75 (61%)", -- [35]
+				"75 (61%)", -- [36]
+				"69 (56%)", -- [37]
+				"69 (56%)", -- [38]
+				"69 (56%)", -- [39]
+				"103 (84%)", -- [40]
+				"122 (100%)", -- [41]
+				"122 (100%)", -- [42]
+				"122 (100%)", -- [43]
+				"122 (100%)", -- [44]
+				"115 (94%)", -- [45]
+				"108 (88%)", -- [46]
+				"108 (88%)", -- [47]
+				"108 (88%)", -- [48]
+				"102 (83%)", -- [49]
+				"95 (77%)", -- [50]
+			},
+			["LastAttackedBy"] = "Strigid Owl",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"HEAL", -- [13]
+				"HEAL", -- [14]
+				"HEAL", -- [15]
+				"HEAL", -- [16]
+				"HEAL", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"HEAL", -- [40]
+				"HEAL", -- [41]
+				"HEAL", -- [42]
+				"HEAL", -- [43]
+				"HEAL", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["TimeHeal"] = {
+					10.84, -- [1]
+				},
+				["Healing"] = {
+					25, -- [1]
+				},
+				["DamageTaken"] = {
+					785, -- [1]
+				},
+				["HealingTaken"] = {
+					25, -- [1]
+				},
+				["Overhealing"] = {
+					55, -- [1]
+				},
+				["TimeDamage"] = {
+					490.5599999999999, -- [1]
+				},
+				["ActiveTime"] = {
+					501.3999999999999, -- [1]
+				},
+				["HOT_Time"] = {
+					30, -- [1]
+				},
+				["DOT_Time"] = {
+					99, -- [1]
+				},
+				["Damage"] = {
+					3430, -- [1]
+				},
+			},
+			["enClass"] = "DRUID",
+			["unit"] = "Frugolo",
+			["level"] = 1,
+			["LastDamageAbility"] = "Melee",
+			["LastFightIn"] = 45,
+			["LastEventNum"] = {
+				nil, -- [1]
+				6.557377049180328, -- [2]
+				nil, -- [3]
+				nil, -- [4]
+				nil, -- [5]
+				5.737704918032787, -- [6]
+				nil, -- [7]
+				4.918032786885246, -- [8]
+				nil, -- [9]
+				5.737704918032787, -- [10]
+				nil, -- [11]
+				nil, -- [12]
+				6.557377049180328, -- [13]
+				6.557377049180328, -- [14]
+				6.557377049180328, -- [15]
+				6.557377049180328, -- [16]
+				6.557377049180328, -- [17]
+				nil, -- [18]
+				4.918032786885246, -- [19]
+				nil, -- [20]
+				nil, -- [21]
+				4.918032786885246, -- [22]
+				nil, -- [23]
+				nil, -- [24]
+				4.918032786885246, -- [25]
+				6.557377049180328, -- [26]
+				nil, -- [27]
+				nil, -- [28]
+				nil, -- [29]
+				6.557377049180328, -- [30]
+				nil, -- [31]
+				4.918032786885246, -- [32]
+				[45] = 5.737704918032787,
+				[49] = 5.737704918032787,
+				[36] = 4.918032786885246,
+				[38] = 4.918032786885246,
+				[40] = 6.557377049180328,
+				[42] = 6.557377049180328,
+				[44] = 6.557377049180328,
+				[34] = 5.737704918032787,
+				[41] = 6.557377049180328,
+				[43] = 6.557377049180328,
+				[48] = 4.918032786885246,
+			},
+			["type"] = "Self",
+			["FightsSaved"] = 5,
+			["LastDamageTaken"] = 6,
+			["TimeLast"] = {
+				["TimeHeal"] = 1286762716,
+				["OVERALL"] = 1286762805,
+				["DamageTaken"] = 1286762805,
+				["Healing"] = 1286762716,
+				["HealingTaken"] = 1286762716,
+				["HOT_Time"] = 1286762716,
+				["TimeDamage"] = 1286762805,
+				["ActiveTime"] = 1286762805,
+				["Overhealing"] = 1286762716,
+				["DOT_Time"] = 1286762796,
+				["Damage"] = 1286762805,
+			},
+			["Owner"] = false,
+			["LastAbility"] = 9863.874,
+			["NextEventNum"] = 45,
+			["LastEventHealthNum"] = {
+				77.8688524590164, -- [1]
+				77.8688524590164, -- [2]
+				71.31147540983606, -- [3]
+				71.31147540983606, -- [4]
+				71.31147540983606, -- [5]
+				71.31147540983606, -- [6]
+				65.57377049180327, -- [7]
+				65.57377049180327, -- [8]
+				65.57377049180327, -- [9]
+				60.65573770491803, -- [10]
+				60.65573770491803, -- [11]
+				54.91803278688525, -- [12]
+				70.49180327868852, -- [13]
+				94.26229508196721, -- [14]
+				100, -- [15]
+				100, -- [16]
+				100, -- [17]
+				100, -- [18]
+				100, -- [19]
+				95.08196721311475, -- [20]
+				95.08196721311475, -- [21]
+				95.08196721311475, -- [22]
+				90.1639344262295, -- [23]
+				90.1639344262295, -- [24]
+				90.1639344262295, -- [25]
+				85.24590163934427, -- [26]
+				85.24590163934427, -- [27]
+				78.68852459016394, -- [28]
+				78.68852459016394, -- [29]
+				78.68852459016394, -- [30]
+				72.13114754098361, -- [31]
+				72.13114754098361, -- [32]
+				67.21311475409836, -- [33]
+				67.21311475409836, -- [34]
+				61.47540983606557, -- [35]
+				61.47540983606557, -- [36]
+				56.55737704918032, -- [37]
+				56.55737704918032, -- [38]
+				56.55737704918032, -- [39]
+				84.42622950819673, -- [40]
+				100, -- [41]
+				100, -- [42]
+				100, -- [43]
+				100, -- [44]
+				94.26229508196721, -- [45]
+				88.52459016393442, -- [46]
+				88.52459016393442, -- [47]
+				88.52459016393442, -- [48]
+				83.60655737704919, -- [49]
+				77.8688524590164, -- [50]
+			},
+			["LastEvents"] = {
+				"Frugolo Wrath Strigid Owl Hit -19 (Nature)", -- [1]
+				"Strigid Owl Melee Frugolo Hit -8 (Physical)", -- [2]
+				"Frugolo Wrath Strigid Owl Hit -21 (Nature)", -- [3]
+				"Strigid Owl Melee Frugolo Dodge", -- [4]
+				"Frugolo Moonfire Strigid Owl Hit -8 (Arcane)", -- [5]
+				"Strigid Owl Melee Frugolo Hit -7 (Physical)", -- [6]
+				"Frugolo Moonfire (DoT) Strigid Owl Tick -4 (Arcane)", -- [7]
+				"Strigid Owl Melee Frugolo Hit -6 (Physical)", -- [8]
+				"Frugolo Wrath Strigid Owl Hit -20 (Nature)", -- [9]
+				"Strigid Owl Melee Frugolo Hit -7 (Physical)", -- [10]
+				"Frugolo Moonfire (DoT) Strigid Owl Tick -4 (Arcane)", -- [11]
+				"Frugolo Wrath Strigid Owl Hit -18 (Nature)", -- [12]
+				"Frugolo Rejuvenation Frugolo Tick +8", -- [13]
+				"Frugolo Rejuvenation Frugolo Tick +8", -- [14]
+				"Frugolo Rejuvenation Frugolo Tick +8 (8 overheal)", -- [15]
+				"Frugolo Rejuvenation Frugolo Tick +8 (8 overheal)", -- [16]
+				"Frugolo Rejuvenation Frugolo Tick +8 (8 overheal)", -- [17]
+				"Frugolo Moonfire Strigid Owl Hit -8 (Arcane)", -- [18]
+				"Strigid Owl Melee Frugolo Hit -6 (Physical)", -- [19]
+				"Frugolo Moonfire (DoT) Strigid Owl Tick -4 (Arcane)", -- [20]
+				"Frugolo Wrath Strigid Owl Hit -20 (Nature)", -- [21]
+				"Strigid Owl Melee Frugolo Hit -6 (Physical)", -- [22]
+				"Frugolo Wrath Strigid Owl Hit -19 (Nature)", -- [23]
+				"Frugolo Moonfire (DoT) Strigid Owl Tick -4 (Arcane)", -- [24]
+				"Strigid Owl Melee Frugolo Hit -6 (Physical)", -- [25]
+				"Strigid Owl Melee Frugolo Hit -8 (Physical)", -- [26]
+				"Frugolo Wrath Strigid Owl Miss (Nature)", -- [27]
+				"Frugolo Moonfire (DoT) Strigid Owl Tick -4 (Arcane)", -- [28]
+				"Frugolo Wrath Strigid Owl Hit -19 (Nature)", -- [29]
+				"Strigid Owl Melee Frugolo Hit -8 (Physical)", -- [30]
+				"Frugolo Wrath Strigid Owl Hit -19 (Nature)", -- [31]
+				"Strigid Owl Melee Frugolo Hit -6 (Physical)", -- [32]
+				"Frugolo Moonfire Strigid Owl Miss (Arcane)", -- [33]
+				"Strigid Owl Melee Frugolo Hit -7 (Physical)", -- [34]
+				"Frugolo Wrath Strigid Owl Hit -21 (Nature)", -- [35]
+				"Strigid Owl Melee Frugolo Hit -6 (Physical)", -- [36]
+				"Frugolo Moonfire Strigid Owl Miss (Arcane)", -- [37]
+				"Strigid Owl Melee Frugolo Hit -6 (Physical)", -- [38]
+				"Frugolo Moonfire Strigid Owl Hit -9 (Arcane)", -- [39]
+				"Frugolo Rejuvenation Frugolo Tick +8", -- [40]
+				"Frugolo Rejuvenation Frugolo Tick +8 (8 overheal)", -- [41]
+				"Frugolo Rejuvenation Frugolo Tick +8 (8 overheal)", -- [42]
+				"Frugolo Rejuvenation Frugolo Tick +8 (8 overheal)", -- [43]
+				"Frugolo Rejuvenation Frugolo Tick +8 (8 overheal)", -- [44]
+				"Strigid Owl Melee Frugolo Hit -7 (Physical)", -- [45]
+				"Frugolo Moonfire (DoT) Strigid Owl Tick -4 (Arcane)", -- [46]
+				"Frugolo Wrath Strigid Owl Hit -21 (Nature)", -- [47]
+				"Strigid Owl Melee Frugolo Hit -6 (Physical)", -- [48]
+				"Strigid Owl Melee Frugolo Hit -7 (Physical)", -- [49]
+				"Frugolo Moonfire (DoT) Strigid Owl Tick -4 (Arcane)", -- [50]
+			},
+			["Name"] = "Frugolo",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				true, -- [2]
+				false, -- [3]
+				true, -- [4]
+				false, -- [5]
+				true, -- [6]
+				false, -- [7]
+				true, -- [8]
+				false, -- [9]
+				true, -- [10]
+				false, -- [11]
+				false, -- [12]
+				true, -- [13]
+				true, -- [14]
+				true, -- [15]
+				true, -- [16]
+				true, -- [17]
+				false, -- [18]
+				true, -- [19]
+				false, -- [20]
+				false, -- [21]
+				true, -- [22]
+				false, -- [23]
+				false, -- [24]
+				true, -- [25]
+				true, -- [26]
+				false, -- [27]
+				false, -- [28]
+				false, -- [29]
+				true, -- [30]
+				false, -- [31]
+				true, -- [32]
+				false, -- [33]
+				true, -- [34]
+				false, -- [35]
+				true, -- [36]
+				false, -- [37]
+				true, -- [38]
+				false, -- [39]
+				true, -- [40]
+				true, -- [41]
+				true, -- [42]
+				true, -- [43]
+				true, -- [44]
+				true, -- [45]
+				false, -- [46]
+				false, -- [47]
+				true, -- [48]
+				true, -- [49]
+				false, -- [50]
+			},
+			["LastEventTimes"] = {
+				9814.210999999999, -- [1]
+				9815.159, -- [2]
+				9816.927, -- [3]
+				9817.162, -- [4]
+				9817.681000000001, -- [5]
+				9819.185, -- [6]
+				9820.627, -- [7]
+				9821.17, -- [8]
+				9821.328, -- [9]
+				9823.201000000001, -- [10]
+				9823.667, -- [11]
+				9824.68, -- [12]
+				9827.460000000001, -- [13]
+				9830.502, -- [14]
+				9833.433000000001, -- [15]
+				9836.458000000001, -- [16]
+				9839.468000000001, -- [17]
+				9845.419, -- [18]
+				9847.552, -- [19]
+				9848.382, -- [20]
+				9849.166000000001, -- [21]
+				9849.571, -- [22]
+				9851.176, -- [23]
+				9851.365, -- [24]
+				9851.57, -- [25]
+				9853.554, -- [26]
+				9853.759, -- [27]
+				9854.371000000001, -- [28]
+				9855.418, -- [29]
+				9855.566000000001, -- [30]
+				9857.417, -- [31]
+				9857.567999999999, -- [32]
+				9858.228999999999, -- [33]
+				9859.576000000001, -- [34]
+				9861.531000000001, -- [35]
+				9861.562, -- [36]
+				9862.297000000001, -- [37]
+				9863.557000000001, -- [38]
+				9863.874, -- [39]
+				9871.710000000001, -- [40]
+				9874.667, -- [41]
+				9877.664000000001, -- [42]
+				9880.67, -- [43]
+				9883.669, -- [44]
+				9809.171, -- [45]
+				9810.826000000001, -- [46]
+				9810.876, -- [47]
+				9811.157999999999, -- [48]
+				9813.156000000001, -- [49]
+				9813.803, -- [50]
+			},
+			["Fights"] = {
+				["Fight5"] = {
+					["DOTs"] = {
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Webwood Spider"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 19,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 5,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Arcane"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 19,
+					},
+					["DOT_Time"] = 9,
+					["Damage"] = 89,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Arcane"] = 21,
+						["Melee"] = 9,
+						["Nature"] = 59,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mangy Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 9,
+								},
+								["Wrath"] = {
+									["count"] = 59,
+								},
+								["Moonfire"] = {
+									["count"] = 9,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 89,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Grell"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 19,
+								},
+							},
+							["amount"] = 19,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mangy Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2.43,
+								},
+								["Wrath"] = {
+									["count"] = 6.48,
+								},
+								["Moonfire"] = {
+									["count"] = 3.5,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 4.94,
+								},
+							},
+							["amount"] = 17.35,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 17.35,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Wrath"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 21,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 59,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 59,
+						},
+						["Moonfire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 9,
+									["min"] = 9,
+									["count"] = 1,
+									["amount"] = 9,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 9,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 9,
+									["min"] = 9,
+									["count"] = 1,
+									["amount"] = 9,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 9,
+						},
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 4,
+									["min"] = 4,
+									["count"] = 3,
+									["amount"] = 12,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 12,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 17.35,
+					["TimeDamaging"] = {
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mangy Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2.43,
+								},
+								["Wrath"] = {
+									["count"] = 6.48,
+								},
+								["Moonfire"] = {
+									["count"] = 3.5,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 4.94,
+								},
+							},
+							["amount"] = 17.35,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight2"] = {
+					["DOTs"] = {
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Grell"] = {
+									["count"] = 0,
+								},
+								["Strigid Owl"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 15,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 55,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 9,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Arcane"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 5,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 6,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 55,
+					},
+					["DOT_Time"] = 15,
+					["Damage"] = 127,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Arcane"] = 28,
+						["Melee"] = 0,
+						["Nature"] = 99,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Strigid Owl"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 99,
+								},
+								["Moonfire"] = {
+									["count"] = 8,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 127,
+						},
+						["Mangy Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Moonfire"] = {
+									["count"] = 0,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Grell"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Strigid Owl"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 55,
+								},
+							},
+							["amount"] = 55,
+						},
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Strigid Owl"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 6.09,
+								},
+								["Moonfire"] = {
+									["count"] = 0.75,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 13.05,
+								},
+							},
+							["amount"] = 19.89,
+						},
+						["Mangy Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Moonfire"] = {
+									["count"] = 0,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 19.89,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Wrath"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 21,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 99,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 99,
+						},
+						["Moonfire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 8,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 8,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 8,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 4,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 20,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 20,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 19.89,
+					["TimeDamaging"] = {
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Strigid Owl"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 6.09,
+								},
+								["Moonfire"] = {
+									["count"] = 0.75,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 13.05,
+								},
+							},
+							["amount"] = 19.89,
+						},
+						["Mangy Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Moonfire"] = {
+									["count"] = 0,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Grellkin"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Arcane"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 0,
+								},
+								["Parry"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Fire"] = 0,
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Arcane"] = 0,
+						["Melee"] = 0,
+						["Nature"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Young Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grellkin"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Moonfire"] = {
+									["count"] = 0,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mangy Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Young Nightsaber"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+								["Fire"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grellkin"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Young Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grellkin"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Moonfire"] = {
+									["count"] = 0,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mangy Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Wrath"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Moonfire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Parry"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["Young Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grellkin"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Moonfire"] = {
+									["count"] = 0,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mangy Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight3"] = {
+					["DOTs"] = {
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Young Thistle Boar"] = {
+									["count"] = 0,
+								},
+								["Nightsaber"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 15,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 32,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 2,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 9,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Arcane"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 5,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 6,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Fire"] = 0,
+						["Melee"] = 32,
+						["Nature"] = 0,
+					},
+					["DOT_Time"] = 15,
+					["Damage"] = 119,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Arcane"] = 28,
+						["Melee"] = 11,
+						["Nature"] = 80,
+					},
+					["PartialAbsorb"] = {
+						["Poison (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Young Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nightsaber"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 11,
+								},
+								["Wrath"] = {
+									["count"] = 80,
+								},
+								["Moonfire"] = {
+									["count"] = 8,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 119,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Moonfire"] = {
+									["count"] = 0,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Young Nightsaber"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nightsaber"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 32,
+								},
+							},
+							["amount"] = 32,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Fire"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Lurker"] = {
+							["Details"] = {
+								["Poison (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Poison (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["Frugolo"] = {
+							["Details"] = {
+								["Rejuvenation"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["Rejuvenation"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["Frugolo"] = {
+							["Details"] = {
+								["Rejuvenation"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Young Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frugolo"] = {
+							["Details"] = {
+								["Rejuvenation"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nightsaber"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0.47,
+								},
+								["Wrath"] = {
+									["count"] = 2.21,
+								},
+								["Moonfire"] = {
+									["count"] = 0.28,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 12.69,
+								},
+							},
+							["amount"] = 15.65,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Moonfire"] = {
+									["count"] = 0,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["Rejuvenation"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Frugolo"] = {
+							["Details"] = {
+								["Rejuvenation"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 15.65,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 11,
+									["min"] = 11,
+									["count"] = 1,
+									["amount"] = 11,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 11,
+						},
+						["Wrath"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 21,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 80,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 80,
+						},
+						["Moonfire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 8,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 8,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 8,
+						},
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 4,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 20,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 20,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 15.65,
+					["TimeDamaging"] = {
+						["Young Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nightsaber"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0.47,
+								},
+								["Wrath"] = {
+									["count"] = 2.21,
+								},
+								["Moonfire"] = {
+									["count"] = 0.28,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 12.69,
+								},
+							},
+							["amount"] = 15.65,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Moonfire"] = {
+									["count"] = 0,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+						["Rejuvenation"] = {
+							["Details"] = {
+								["Frugolo"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight4"] = {
+					["TimeHealing"] = {
+						["Frugolo"] = {
+							["Details"] = {
+								["Rejuvenation"] = {
+									["count"] = 2.13,
+								},
+							},
+							["amount"] = 2.13,
+						},
+					},
+					["OverHeals"] = {
+						["Rejuvenation"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["TimeSpent"] = {
+						["Young Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Frugolo"] = {
+							["Details"] = {
+								["Rejuvenation"] = {
+									["count"] = 2.13,
+								},
+							},
+							["amount"] = 2.13,
+						},
+						["Webwood Lurker"] = {
+							["Details"] = {
+								["Moonfire"] = {
+									["count"] = 6.62,
+								},
+								["Wrath"] = {
+									["count"] = 8.140000000000001,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 10.01,
+								},
+							},
+							["amount"] = 24.77,
+						},
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Moonfire"] = {
+									["count"] = 0,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mangy Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 54,
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 10,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 0,
+						},
+						["Poison (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Frugolo"] = {
+							["Details"] = {
+								["Rejuvenation"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 8,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 10,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 0,
+						},
+						["Poison (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 26.9,
+					["ElementHitsTaken"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 10,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["ElementTaken"] = {
+						["Fire"] = 0,
+						["Physical"] = 0,
+						["Melee"] = 50,
+						["Nature"] = 4,
+					},
+					["HOTs"] = {
+						["Rejuvenation"] = {
+							["Details"] = {
+								["Moon Priestess Amara"] = {
+									["count"] = 0,
+								},
+								["Frugolo"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["Damage"] = 132,
+					["HealedWho"] = {
+						["Frugolo"] = {
+							["Details"] = {
+								["Rejuvenation"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 8,
+						},
+					},
+					["TimeHeal"] = 2.13,
+					["Heals"] = {
+						["Rejuvenation"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 8,
+									["min"] = 8,
+									["count"] = 1,
+									["amount"] = 8,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 8,
+						},
+					},
+					["DOT_Time"] = 12,
+					["DOTs"] = {
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Young Thistle Boar"] = {
+									["count"] = 0,
+								},
+								["Webwood Lurker"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 12,
+						},
+					},
+					["Healing"] = 8,
+					["Overhealing"] = 0,
+					["HOT_Time"] = 3,
+					["ElementDone"] = {
+						["Arcane"] = 33,
+						["Melee"] = 0,
+						["Nature"] = 99,
+					},
+					["HealingTaken"] = 8,
+					["DamagedWho"] = {
+						["Young Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Lurker"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 99,
+								},
+								["Moonfire"] = {
+									["count"] = 17,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 16,
+								},
+							},
+							["amount"] = 132,
+						},
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Moonfire"] = {
+									["count"] = 0,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mangy Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 24.77,
+					["TimeDamaging"] = {
+						["Young Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Lurker"] = {
+							["Details"] = {
+								["Moonfire"] = {
+									["count"] = 6.62,
+								},
+								["Wrath"] = {
+									["count"] = 8.140000000000001,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 10.01,
+								},
+							},
+							["amount"] = 24.77,
+						},
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Moonfire"] = {
+									["count"] = 0,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mangy Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["Wrath"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 21,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 99,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 99,
+						},
+						["Moonfire"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 9,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 17,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 17,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 4,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 16,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 16,
+						},
+					},
+					["WhoDamaged"] = {
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+								["Fire"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 50,
+								},
+								["Poison (DoT)"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 54,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Arcane"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Tick"] = {
+									["count"] = 4,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Grellkin"] = {
+									["count"] = 0,
+								},
+								["Strigid Owl"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 59,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Arcane"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 2,
+								},
+								["Tick"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 59,
+					},
+					["DOT_Time"] = 9,
+					["Damage"] = 127,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Arcane"] = 29,
+						["Nature"] = 98,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Young Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Strigid Owl"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 98,
+								},
+								["Moonfire"] = {
+									["count"] = 17,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 127,
+						},
+						["Grellkin"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Moonfire"] = {
+									["count"] = 0,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mangy Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Strigid Owl"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 59,
+								},
+							},
+							["amount"] = 59,
+						},
+						["Grellkin"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Young Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Strigid Owl"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 11.53,
+								},
+								["Moonfire"] = {
+									["count"] = 6.66,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 3.76,
+								},
+							},
+							["amount"] = 21.95,
+						},
+						["Grellkin"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Moonfire"] = {
+									["count"] = 0,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mangy Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 21.95,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Wrath"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 21,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 98,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 98,
+						},
+						["Moonfire"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 9,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 17,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 17,
+						},
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 4,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 12,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 12,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 21.95,
+					["TimeDamaging"] = {
+						["Young Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Strigid Owl"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 11.53,
+								},
+								["Moonfire"] = {
+									["count"] = 6.66,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 3.76,
+								},
+							},
+							["amount"] = 21.95,
+						},
+						["Grellkin"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Moonfire"] = {
+									["count"] = 0,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mangy Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Grellkin"] = {
+									["count"] = 0,
+								},
+								["Strigid Owl"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 59,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 9,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Arcane"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 2,
+								},
+								["Tick"] = {
+									["count"] = 3,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Melee"] = 59,
+					},
+					["DOT_Time"] = 9,
+					["Damage"] = 127,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Arcane"] = 29,
+						["Nature"] = 98,
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["Young Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Strigid Owl"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 98,
+								},
+								["Moonfire"] = {
+									["count"] = 17,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 127,
+						},
+						["Grellkin"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Moonfire"] = {
+									["count"] = 0,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mangy Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Strigid Owl"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 59,
+								},
+							},
+							["amount"] = 59,
+						},
+						["Grellkin"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 9,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["Young Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Strigid Owl"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 11.53,
+								},
+								["Moonfire"] = {
+									["count"] = 6.66,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 3.76,
+								},
+							},
+							["amount"] = 21.95,
+						},
+						["Grellkin"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Moonfire"] = {
+									["count"] = 0,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mangy Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 21.95,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["Wrath"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 21,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 98,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 98,
+						},
+						["Moonfire"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 9,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 17,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 17,
+						},
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 4,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 12,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 12,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 21.95,
+					["TimeDamaging"] = {
+						["Young Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Strigid Owl"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 11.53,
+								},
+								["Moonfire"] = {
+									["count"] = 6.66,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 3.76,
+								},
+							},
+							["amount"] = 21.95,
+						},
+						["Grellkin"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+								["Moonfire"] = {
+									["count"] = 0,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Mangy Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeHealing"] = {
+						["Frugolo"] = {
+							["Details"] = {
+								["Rejuvenation"] = {
+									["count"] = 10.84,
+								},
+							},
+							["amount"] = 10.84,
+						},
+					},
+					["OverHeals"] = {
+						["Rejuvenation"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 8,
+									["min"] = 7,
+									["count"] = 7,
+									["amount"] = 55,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 55,
+						},
+					},
+					["TimeSpent"] = {
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 39.78999999999999,
+								},
+								["Moonfire"] = {
+									["count"] = 7.67,
+								},
+								["Melee"] = {
+									["count"] = 2.25,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 15.57,
+								},
+							},
+							["amount"] = 65.27999999999999,
+						},
+						["Nightsaber"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0.47,
+								},
+								["Wrath"] = {
+									["count"] = 2.21,
+								},
+								["Moonfire"] = {
+									["count"] = 3.78,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 12.69,
+								},
+							},
+							["amount"] = 19.15,
+						},
+						["Mangy Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 33.82,
+								},
+							},
+							["amount"] = 33.82,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 104.54,
+								},
+								["Moonfire"] = {
+									["count"] = 3.5,
+								},
+								["Melee"] = {
+									["count"] = 4.640000000000001,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 4.94,
+								},
+							},
+							["amount"] = 117.62,
+						},
+						["Young Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 30.02,
+								},
+							},
+							["amount"] = 30.02,
+						},
+						["Frugolo"] = {
+							["Details"] = {
+								["Rejuvenation"] = {
+									["count"] = 10.84,
+								},
+							},
+							["amount"] = 10.84,
+						},
+						["Strigid Owl"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 17.62,
+								},
+								["Moonfire"] = {
+									["count"] = 10.91,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 16.81,
+								},
+							},
+							["amount"] = 45.34,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 77.20000000000003,
+								},
+								["Moonfire"] = {
+									["count"] = 3.5,
+								},
+								["Melee"] = {
+									["count"] = 11.03,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 3.85,
+								},
+							},
+							["amount"] = 95.58000000000004,
+						},
+						["Webwood Lurker"] = {
+							["Details"] = {
+								["Moonfire"] = {
+									["count"] = 6.62,
+								},
+								["Wrath"] = {
+									["count"] = 8.140000000000001,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 10.01,
+								},
+							},
+							["amount"] = 24.77,
+						},
+						["Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 33.09,
+								},
+							},
+							["amount"] = 33.09,
+						},
+						["Grellkin"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2.6,
+								},
+								["Wrath"] = {
+									["count"] = 6.970000000000001,
+								},
+								["Moonfire"] = {
+									["count"] = 8.44,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 7.880000000000001,
+								},
+							},
+							["amount"] = 25.89000000000001,
+						},
+					},
+					["DamageTaken"] = 785,
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 96,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 96,
+							["amount"] = 0,
+						},
+						["Poison (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["Frugolo"] = {
+							["Details"] = {
+								["Rejuvenation"] = {
+									["count"] = 25,
+								},
+							},
+							["amount"] = 25,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 96,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 96,
+							["amount"] = 0,
+						},
+						["Poison (DoT)"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 501.3999999999999,
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 8,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 8,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 4,
+								},
+								["Miss"] = {
+									["count"] = 7,
+								},
+								["Hit"] = {
+									["count"] = 85,
+								},
+							},
+							["amount"] = 96,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+					},
+					["ElementTaken"] = {
+						["Physical"] = 328,
+						["Fire"] = 96,
+						["Melee"] = 354,
+						["Nature"] = 7,
+					},
+					["HOTs"] = {
+						["Rejuvenation"] = {
+							["Details"] = {
+								["Moon Priestess Amara"] = {
+									["count"] = 15,
+								},
+								["Frugolo"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 30,
+						},
+					},
+					["Damage"] = 3430,
+					["HealedWho"] = {
+						["Frugolo"] = {
+							["Details"] = {
+								["Rejuvenation"] = {
+									["count"] = 25,
+								},
+							},
+							["amount"] = 25,
+						},
+					},
+					["TimeHeal"] = 10.84,
+					["Heals"] = {
+						["Rejuvenation"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 8,
+									["min"] = 1,
+									["count"] = 4,
+									["amount"] = 25,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 25,
+						},
+					},
+					["DOT_Time"] = 99,
+					["DOTs"] = {
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Young Thistle Boar"] = {
+									["count"] = 18,
+								},
+								["Strigid Owl"] = {
+									["count"] = 24,
+								},
+								["Nightsaber"] = {
+									["count"] = 15,
+								},
+								["Grellkin"] = {
+									["count"] = 15,
+								},
+								["Webwood Lurker"] = {
+									["count"] = 12,
+								},
+								["Grell"] = {
+									["count"] = 6,
+								},
+								["Webwood Spider"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 99,
+						},
+					},
+					["Healing"] = 25,
+					["Overhealing"] = 55,
+					["HOT_Time"] = 30,
+					["ElementDone"] = {
+						["Arcane"] = 262,
+						["Melee"] = 74,
+						["Nature"] = 3094,
+					},
+					["HealingTaken"] = 25,
+					["DamagedWho"] = {
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 303,
+								},
+								["Moonfire"] = {
+									["count"] = 25,
+								},
+								["Melee"] = {
+									["count"] = 7,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 24,
+								},
+							},
+							["amount"] = 359,
+						},
+						["Nightsaber"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 11,
+								},
+								["Wrath"] = {
+									["count"] = 80,
+								},
+								["Moonfire"] = {
+									["count"] = 15,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 126,
+						},
+						["Mangy Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 299,
+								},
+							},
+							["amount"] = 299,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 951,
+								},
+								["Moonfire"] = {
+									["count"] = 9,
+								},
+								["Melee"] = {
+									["count"] = 16,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 988,
+						},
+						["Young Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 192,
+								},
+							},
+							["amount"] = 192,
+						},
+						["Strigid Owl"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 197,
+								},
+								["Moonfire"] = {
+									["count"] = 33,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 32,
+								},
+							},
+							["amount"] = 262,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 570,
+								},
+								["Moonfire"] = {
+									["count"] = 9,
+								},
+								["Melee"] = {
+									["count"] = 30,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 617,
+						},
+						["Webwood Lurker"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 99,
+								},
+								["Moonfire"] = {
+									["count"] = 17,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 16,
+								},
+							},
+							["amount"] = 132,
+						},
+						["Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 285,
+								},
+							},
+							["amount"] = 285,
+						},
+						["Grellkin"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 10,
+								},
+								["Wrath"] = {
+									["count"] = 118,
+								},
+								["Moonfire"] = {
+									["count"] = 22,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 170,
+						},
+					},
+					["TimeDamage"] = 490.5599999999999,
+					["TimeDamaging"] = {
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 39.78999999999999,
+								},
+								["Moonfire"] = {
+									["count"] = 7.67,
+								},
+								["Melee"] = {
+									["count"] = 2.25,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 15.57,
+								},
+							},
+							["amount"] = 65.27999999999999,
+						},
+						["Nightsaber"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 0.47,
+								},
+								["Wrath"] = {
+									["count"] = 2.21,
+								},
+								["Moonfire"] = {
+									["count"] = 3.78,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 12.69,
+								},
+							},
+							["amount"] = 19.15,
+						},
+						["Mangy Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 33.82,
+								},
+							},
+							["amount"] = 33.82,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 104.54,
+								},
+								["Moonfire"] = {
+									["count"] = 3.5,
+								},
+								["Melee"] = {
+									["count"] = 4.640000000000001,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 4.94,
+								},
+							},
+							["amount"] = 117.62,
+						},
+						["Young Nightsaber"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 30.02,
+								},
+							},
+							["amount"] = 30.02,
+						},
+						["Strigid Owl"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 17.62,
+								},
+								["Moonfire"] = {
+									["count"] = 10.91,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 16.81,
+								},
+							},
+							["amount"] = 45.34,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 77.20000000000003,
+								},
+								["Moonfire"] = {
+									["count"] = 3.5,
+								},
+								["Melee"] = {
+									["count"] = 11.03,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 3.85,
+								},
+							},
+							["amount"] = 95.58000000000004,
+						},
+						["Webwood Lurker"] = {
+							["Details"] = {
+								["Moonfire"] = {
+									["count"] = 6.62,
+								},
+								["Wrath"] = {
+									["count"] = 8.140000000000001,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 10.01,
+								},
+							},
+							["amount"] = 24.77,
+						},
+						["Thistle Boar"] = {
+							["Details"] = {
+								["Wrath"] = {
+									["count"] = 33.09,
+								},
+							},
+							["amount"] = 33.09,
+						},
+						["Grellkin"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 2.6,
+								},
+								["Wrath"] = {
+									["count"] = 6.970000000000001,
+								},
+								["Moonfire"] = {
+									["count"] = 8.44,
+								},
+								["Moonfire (DoT)"] = {
+									["count"] = 7.880000000000001,
+								},
+							},
+							["amount"] = 25.89000000000001,
+						},
+					},
+					["Attacks"] = {
+						["Wrath"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 14,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 29,
+									["min"] = 25,
+									["count"] = 7,
+									["amount"] = 192,
+								},
+								["Hit"] = {
+									["max"] = 21,
+									["min"] = 17,
+									["count"] = 154,
+									["amount"] = 2902,
+								},
+							},
+							["count"] = 175,
+							["amount"] = 3094,
+						},
+						["Moonfire"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 9,
+									["min"] = 7,
+									["count"] = 16,
+									["amount"] = 130,
+								},
+							},
+							["count"] = 19,
+							["amount"] = 130,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 7,
+									["min"] = 7,
+									["count"] = 1,
+									["amount"] = 7,
+								},
+								["Parry"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 16,
+									["min"] = 16,
+									["count"] = 1,
+									["amount"] = 16,
+								},
+								["Hit"] = {
+									["max"] = 11,
+									["min"] = 7,
+									["count"] = 6,
+									["amount"] = 51,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 74,
+						},
+						["Moonfire (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 4,
+									["min"] = 4,
+									["count"] = 33,
+									["amount"] = 132,
+								},
+							},
+							["count"] = 33,
+							["amount"] = 132,
+						},
+					},
+					["WhoDamaged"] = {
+						["Young Thistle Boar"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+						["Nightsaber"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 32,
+								},
+							},
+							["amount"] = 32,
+						},
+						["Strigid Owl"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 114,
+								},
+							},
+							["amount"] = 114,
+						},
+						["Webwood Spider"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 74,
+								},
+							},
+							["amount"] = 74,
+						},
+						["Young Nightsaber"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 328,
+								},
+								["Fire"] = {
+									["count"] = 96,
+								},
+							},
+							["amount"] = 424,
+						},
+						["Grellkin"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+						["Webwood Lurker"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 50,
+								},
+								["Poison (DoT)"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 57,
+						},
+						["Grell"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 49,
+								},
+							},
+							["amount"] = 49,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Arcane"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 3,
+								},
+								["Tick"] = {
+									["count"] = 33,
+								},
+								["Hit"] = {
+									["count"] = 16,
+								},
+							},
+							["amount"] = 52,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 1,
+								},
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 9,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 14,
+								},
+								["Crit"] = {
+									["count"] = 7,
+								},
+								["Hit"] = {
+									["count"] = 154,
+								},
+							},
+							["amount"] = 175,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 1286759891,
+			["LastActive"] = 1286762825,
+		},
+	},
+	["FightNum"] = 46,
+	["CombatTimes"] = {
+		{
+			1286759891, -- [1]
+			1286759895, -- [2]
+			"03:18:12", -- [3]
+			"03:18:15", -- [4]
+			"Young Nightsaber", -- [5]
+		}, -- [1]
+		{
+			1286759914, -- [1]
+			1286759920, -- [2]
+			"03:18:34", -- [3]
+			"03:18:40", -- [4]
+			"Young Nightsaber", -- [5]
+		}, -- [2]
+		{
+			1286759930, -- [1]
+			1286759941, -- [2]
+			"03:18:51", -- [3]
+			"03:19:01", -- [4]
+			"Young Thistle Boar", -- [5]
+		}, -- [3]
+		{
+			1286759949, -- [1]
+			1286759959, -- [2]
+			"03:19:10", -- [3]
+			"03:19:19", -- [4]
+			"Young Thistle Boar", -- [5]
+		}, -- [4]
+		{
+			1286759968, -- [1]
+			1286759979, -- [2]
+			"03:19:28", -- [3]
+			"03:19:39", -- [4]
+			"Young Nightsaber", -- [5]
+		}, -- [5]
+		{
+			1286759993, -- [1]
+			1286759999, -- [2]
+			"03:19:53", -- [3]
+			"03:19:59", -- [4]
+			"Young Thistle Boar", -- [5]
+		}, -- [6]
+		{
+			1286760008, -- [1]
+			1286760018, -- [2]
+			"03:20:08", -- [3]
+			"03:20:18", -- [4]
+			"Grell", -- [5]
+		}, -- [7]
+		{
+			1286760026, -- [1]
+			1286760033, -- [2]
+			"03:20:27", -- [3]
+			"03:20:33", -- [4]
+			"Grell", -- [5]
+		}, -- [8]
+		{
+			1286760045, -- [1]
+			1286760053, -- [2]
+			"03:20:45", -- [3]
+			"03:20:53", -- [4]
+			"Grell", -- [5]
+		}, -- [9]
+		{
+			1286760062, -- [1]
+			1286760068, -- [2]
+			"03:21:02", -- [3]
+			"03:21:08", -- [4]
+			"Grell", -- [5]
+		}, -- [10]
+		{
+			1286760076, -- [1]
+			1286760094, -- [2]
+			"03:21:16", -- [3]
+			"03:21:34", -- [4]
+			"Grell", -- [5]
+		}, -- [11]
+		{
+			1286760104, -- [1]
+			1286760114, -- [2]
+			"03:21:44", -- [3]
+			"03:21:54", -- [4]
+			"Grell", -- [5]
+		}, -- [12]
+		{
+			1286760121, -- [1]
+			1286760129, -- [2]
+			"03:22:01", -- [3]
+			"03:22:09", -- [4]
+			"Grell", -- [5]
+		}, -- [13]
+		{
+			1286760136, -- [1]
+			1286760142, -- [2]
+			"03:22:16", -- [3]
+			"03:22:22", -- [4]
+			"Grell", -- [5]
+		}, -- [14]
+		{
+			1286760157, -- [1]
+			1286760162, -- [2]
+			"03:22:38", -- [3]
+			"03:22:42", -- [4]
+			"Young Thistle Boar", -- [5]
+		}, -- [15]
+		{
+			1286760172, -- [1]
+			1286760176, -- [2]
+			"03:22:53", -- [3]
+			"03:22:56", -- [4]
+			"Young Nightsaber", -- [5]
+		}, -- [16]
+		{
+			1286760406, -- [1]
+			1286760412, -- [2]
+			"03:26:46", -- [3]
+			"03:26:52", -- [4]
+			"Thistle Boar", -- [5]
+		}, -- [17]
+		{
+			1286760420, -- [1]
+			1286760425, -- [2]
+			"03:27:00", -- [3]
+			"03:27:05", -- [4]
+			"Thistle Boar", -- [5]
+		}, -- [18]
+		{
+			1286760432, -- [1]
+			1286760437, -- [2]
+			"03:27:12", -- [3]
+			"03:27:17", -- [4]
+			"Thistle Boar", -- [5]
+		}, -- [19]
+		{
+			1286760444, -- [1]
+			1286760449, -- [2]
+			"03:27:24", -- [3]
+			"03:27:29", -- [4]
+			"Thistle Boar", -- [5]
+		}, -- [20]
+		{
+			1286760460, -- [1]
+			1286760466, -- [2]
+			"03:27:41", -- [3]
+			"03:27:46", -- [4]
+			"Thistle Boar", -- [5]
+		}, -- [21]
+		{
+			1286760477, -- [1]
+			1286760484, -- [2]
+			"03:27:57", -- [3]
+			"03:28:04", -- [4]
+			"Webwood Spider", -- [5]
+		}, -- [22]
+		{
+			1286760503, -- [1]
+			1286760508, -- [2]
+			"03:28:23", -- [3]
+			"03:28:28", -- [4]
+			"Webwood Spider", -- [5]
+		}, -- [23]
+		{
+			1286760516, -- [1]
+			1286760522, -- [2]
+			"03:28:36", -- [3]
+			"03:28:42", -- [4]
+			"Webwood Spider", -- [5]
+		}, -- [24]
+		{
+			1286760534, -- [1]
+			1286760547, -- [2]
+			"03:28:55", -- [3]
+			"03:29:07", -- [4]
+			"Webwood Spider", -- [5]
+		}, -- [25]
+		{
+			1286760553, -- [1]
+			1286760561, -- [2]
+			"03:29:14", -- [3]
+			"03:29:21", -- [4]
+			"Webwood Spider", -- [5]
+		}, -- [26]
+		{
+			1286760651, -- [1]
+			1286760656, -- [2]
+			"03:30:51", -- [3]
+			"03:30:56", -- [4]
+			"Mangy Nightsaber", -- [5]
+		}, -- [27]
+		{
+			1286760683, -- [1]
+			1286760688, -- [2]
+			"03:31:24", -- [3]
+			"03:31:28", -- [4]
+			"Mangy Nightsaber", -- [5]
+		}, -- [28]
+		{
+			1286760712, -- [1]
+			1286760717, -- [2]
+			"03:31:53", -- [3]
+			"03:31:57", -- [4]
+			"Mangy Nightsaber", -- [5]
+		}, -- [29]
+		{
+			1286760733, -- [1]
+			1286760740, -- [2]
+			"03:32:14", -- [3]
+			"03:32:20", -- [4]
+			"Mangy Nightsaber", -- [5]
+		}, -- [30]
+		{
+			1286760753, -- [1]
+			1286760758, -- [2]
+			"03:32:33", -- [3]
+			"03:32:38", -- [4]
+			"Mangy Nightsaber", -- [5]
+		}, -- [31]
+		{
+			1286760860, -- [1]
+			1286760870, -- [2]
+			"03:34:21", -- [3]
+			"03:34:30", -- [4]
+			"Webwood Spider", -- [5]
+		}, -- [32]
+		{
+			1286760889, -- [1]
+			1286760898, -- [2]
+			"03:34:49", -- [3]
+			"03:34:58", -- [4]
+			"Webwood Spider", -- [5]
+		}, -- [33]
+		{
+			1286760907, -- [1]
+			1286760915, -- [2]
+			"03:35:07", -- [3]
+			"03:35:15", -- [4]
+			"Webwood Spider", -- [5]
+		}, -- [34]
+		{
+			1286760925, -- [1]
+			1286760933, -- [2]
+			"03:35:25", -- [3]
+			"03:35:33", -- [4]
+			"Webwood Spider", -- [5]
+		}, -- [35]
+		{
+			1286760946, -- [1]
+			1286760961, -- [2]
+			"03:35:47", -- [3]
+			"03:36:01", -- [4]
+			"Webwood Spider", -- [5]
+		}, -- [36]
+		{
+			1286761247, -- [1]
+			1286761262, -- [2]
+			"03:40:47", -- [3]
+			"03:41:02", -- [4]
+			"Young Thistle Boar", -- [5]
+		}, -- [37]
+		{
+			1286761307, -- [1]
+			1286761316, -- [2]
+			"03:41:47", -- [3]
+			"03:41:56", -- [4]
+			"Young Thistle Boar", -- [5]
+		}, -- [38]
+		{
+			1286761333, -- [1]
+			1286761341, -- [2]
+			"03:42:14", -- [3]
+			"03:42:21", -- [4]
+			"Grell", -- [5]
+		}, -- [39]
+		{
+			1286761356, -- [1]
+			1286761367, -- [2]
+			"03:42:37", -- [3]
+			"03:42:47", -- [4]
+			"Grellkin", -- [5]
+		}, -- [40]
+		{
+			1286761372, -- [1]
+			1286761384, -- [2]
+			"03:42:52", -- [3]
+			"03:43:04", -- [4]
+			"Grellkin", -- [5]
+		}, -- [41]
+		{
+			1286761526, -- [1]
+			1286761542, -- [2]
+			"03:45:27", -- [3]
+			"03:45:42", -- [4]
+			"Webwood Spider", -- [5]
+		}, -- [42]
+		{
+			1286762684, -- [1]
+			1286762710, -- [2]
+			"04:04:44", -- [3]
+			"04:05:10", -- [4]
+			"Webwood Lurker", -- [5]
+		}, -- [43]
+		{
+			1286762724, -- [1]
+			1286762740, -- [2]
+			"04:05:25", -- [3]
+			"04:05:40", -- [4]
+			"Nightsaber", -- [5]
+		}, -- [44]
+		{
+			1286762749, -- [1]
+			1286762769, -- [2]
+			"04:05:49", -- [3]
+			"04:06:09", -- [4]
+			"Strigid Owl", -- [5]
+		}, -- [45]
+		{
+			1286762787, -- [1]
+			1286762808, -- [2]
+			"04:06:27", -- [3]
+			"04:06:48", -- [4]
+			"Strigid Owl", -- [5]
+		}, -- [46]
+	},
+	["FoughtWho"] = {
+		"Strigid Owl 04:06:27-04:06:48", -- [1]
+		"Strigid Owl 04:05:49-04:06:09", -- [2]
+		"Nightsaber 04:05:25-04:05:40", -- [3]
+		"Webwood Lurker 04:04:44-04:05:10", -- [4]
+		"Webwood Spider 03:45:27-03:45:42", -- [5]
+	},
+}

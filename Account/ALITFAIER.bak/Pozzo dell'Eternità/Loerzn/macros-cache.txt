@@ -1,0 +1,4 @@
+VER 3 0100000000000007 "ZGVMacro2" "0"
+/target Principe Liam Mantogrigio
+/run ZGV:MRM()
+END

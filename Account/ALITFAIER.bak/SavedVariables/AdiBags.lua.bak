@@ -1,0 +1,58 @@
+
+AdiBagsDB = {
+	["namespaces"] = {
+		["ItemLevel"] = {
+		},
+		["FilterOverride"] = {
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 3,
+				},
+			},
+		},
+		["ItemCategory"] = {
+		},
+		["NewItem"] = {
+		},
+		["AdiBags_TooltipInfo"] = {
+		},
+		["Equipment"] = {
+		},
+		["ItemSets"] = {
+		},
+		["CurrencyFrame"] = {
+		},
+		["DataSource"] = {
+		},
+		["Junk"] = {
+		},
+		["MoneyFrame"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["scale"] = 0.9,
+			["skin"] = {
+				["BankColor"] = {
+					[3] = 0.501960784313726,
+				},
+				["background"] = "Solid",
+			},
+			["bagFont"] = {
+				["name"] = "Anonymous Pro Bold (U)",
+				["r"] = 0.129411764705882,
+				["g"] = 0.862745098039216,
+			},
+			["sectionFont"] = {
+				["name"] = "Anonymous Pro Bold (U)",
+				["r"] = 0.243137254901961,
+				["b"] = 1,
+				["g"] = 0.725490196078431,
+				["size"] = 16,
+			},
+		},
+	},
+}

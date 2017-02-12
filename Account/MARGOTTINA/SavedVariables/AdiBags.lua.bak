@@ -1,0 +1,130 @@
+
+AdiBagsDB = {
+	["namespaces"] = {
+		["ItemLevel"] = {
+		},
+		["FilterOverride"] = {
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 3,
+				},
+			},
+		},
+		["ItemCategory"] = {
+			["profiles"] = {
+				["Default"] = {
+					["splitBySubclass"] = {
+						["Consumabile"] = true,
+						["Ricetta"] = true,
+						["Varie"] = true,
+						["Gemma"] = true,
+						["Glifo"] = true,
+						["Beni commerciali"] = true,
+					},
+				},
+				["diego"] = {
+					["splitBySubclass"] = {
+						["Consumabile"] = true,
+						["Ricetta"] = true,
+						["Varie"] = true,
+						["Gemma"] = true,
+						["Glifo"] = true,
+						["Beni commerciali"] = true,
+					},
+				},
+			},
+		},
+		["NewItem"] = {
+			["profiles"] = {
+				["Default"] = {
+					["highlight"] = "blizzard",
+				},
+				["diego"] = {
+					["highlight"] = "blizzard",
+				},
+			},
+		},
+		["AdiBags_TooltipInfo"] = {
+		},
+		["Equipment"] = {
+		},
+		["ItemSets"] = {
+			["char"] = {
+				["Alitfaier - Pozzo dell'Eternità"] = {
+					["mergedSets"] = {
+						["challenge"] = true,
+						["dps1"] = true,
+						["dps aoe"] = true,
+						["tank challenge"] = true,
+						["gladiator"] = true,
+						["tank"] = true,
+					},
+				},
+			},
+		},
+		["CurrencyFrame"] = {
+		},
+		["DataSource"] = {
+		},
+		["Junk"] = {
+		},
+		["MoneyFrame"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Alitfaier - Pozzo dell'Eternità"] = "diego",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["skin"] = {
+				["insets"] = 2,
+			},
+			["bagFont"] = {
+				["r"] = 0.999997794628143,
+				["b"] = 0.999997794628143,
+				["g"] = 0.999997794628143,
+				["size"] = 20,
+			},
+			["positions"] = {
+				["anchor"] = {
+					["xOffset"] = -51.69287109375,
+					["yOffset"] = 481.162353515625,
+				},
+				["Backpack"] = {
+					["xOffset"] = -17.7773615429469,
+					["yOffset"] = 184.683791814503,
+				},
+			},
+			["sectionFont"] = {
+				["size"] = 20,
+			},
+			["columnWidth"] = {
+				["Backpack"] = 5,
+			},
+		},
+		["diego"] = {
+			["scale"] = 1,
+			["maxHeight"] = 0.7,
+			["positions"] = {
+				["anchor"] = {
+					["xOffset"] = 0,
+					["yOffset"] = 361.914337158203,
+				},
+				["Backpack"] = {
+					["xOffset"] = 110.221923828125,
+					["point"] = "TOPRIGHT",
+					["yOffset"] = -333.218139648438,
+				},
+			},
+			["sectionFont"] = {
+				["size"] = 20,
+			},
+			["columnWidth"] = {
+				["Backpack"] = 12,
+				["Bank"] = 10,
+			},
+			["positionMode"] = "manual",
+			["hideAnchor"] = true,
+		},
+	},
+}

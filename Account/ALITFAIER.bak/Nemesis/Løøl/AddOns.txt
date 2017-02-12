@@ -1,0 +1,2 @@
+ChocolateBar: disabled
+ChocolateBar_Options: enabled

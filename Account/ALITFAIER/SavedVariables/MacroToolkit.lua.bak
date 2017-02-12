@@ -1,0 +1,10 @@
+
+MacroToolkitDB = {
+	["profileKeys"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = "profile",
+	},
+	["profiles"] = {
+		["profile"] = {
+		},
+	},
+}

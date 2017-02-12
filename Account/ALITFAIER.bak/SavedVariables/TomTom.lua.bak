@@ -1,0 +1,20 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Àzzurrà - Nemesis"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+TomTomWaypoints = nil
+TomTomWaypointsMF = {
+	["profileKeys"] = {
+		["Àzzurrà - Nemesis"] = "Àzzurrà - Nemesis",
+	},
+	["profiles"] = {
+		["Àzzurrà - Nemesis"] = {
+		},
+	},
+}

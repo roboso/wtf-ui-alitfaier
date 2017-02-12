@@ -1,0 +1,70 @@
+
+AmrDb = {
+	["Talents"] = {
+	},
+	["LastCharacterImportDate"] = "",
+	["SendSettings"] = {
+		["SendTo"] = "",
+		["SendGems"] = true,
+		["SendEnchants"] = true,
+		["SendEnchantMaterials"] = true,
+		["SendToType"] = "a friend",
+	},
+	["CharacterName"] = "Ilåria",
+	["Race"] = "BloodElf",
+	["ActiveSpec"] = 1,
+	["Level"] = 86,
+	["Equipped"] = {
+		{
+			"|cffa335ee|Hitem:76767:4207:4253:4010:0:0:0:0:86:0:0:0|h[Copricapo Foderato della Gloria Raggiante]|h|r", -- [1]
+			"|cffa335ee|Hitem:71214:0:0:0:0:0:0:0:86:0:0:0|h[Pendente della Mente Infuocata]|h|r", -- [2]
+			"|cffa335ee|Hitem:69582:0:4019:0:0:0:0:-1814603648:86:0:0:0|h[Paraspalle del Forateschi]|h|r", -- [3]
+			nil, -- [4]
+			"|cffa335ee|Hitem:55062:4063:4001:0:0:0:0:1962491776:86:0:0:0|h[Corazza Foderata d'Elementio Leggero]|h|r", -- [5]
+			"|cffa335ee|Hitem:63495:0:4010:3995:0:0:-212:-1930362834:86:0:0:0|h[Cintura del Protettore della Tempesta della Folgore]|h|r", -- [6]
+			"|cffa335ee|Hitem:76768:4109:4010:4010:4010:0:0:0:86:0:0:0|h[Schinieri della Gloria Raggiante]|h|r", -- [7]
+			"|cffa335ee|Hitem:77169:0:3990:4010:0:0:0:0:86:0:0:0|h[Calzari d'Argento della Furia]|h|r", -- [8]
+			"|cffa335ee|Hitem:77316:0:0:0:0:0:0:0:86:0:0:0|h[Bracciali Fiammeggianti del Calore]|h|r", -- [9]
+			"|cffa335ee|Hitem:60363:4068:4010:0:0:0:0:0:86:0:0:0|h[Guanti di Saffirio Rinforzato]|h|r", -- [10]
+			"|cffa335ee|Hitem:72831:0:0:0:0:0:0:-1943447296:86:0:0:0|h[Anello Cornuto]|h|r", -- [11]
+			"|cffa335ee|Hitem:76153:0:0:0:0:0:0:828482688:86:0:0:0|h[Anello con Sigillo del Profeta del Crepuscolo]|h|r", -- [12]
+			"|cffa335ee|Hitem:77114:0:0:0:0:0:0:0:86:0:0:0|h[Desideri in Bottiglia]|h|r", -- [13]
+			"|cffa335ee|Hitem:77204:0:0:0:0:0:0:1132849920:86:0:0:0|h[Sigillo dei Sette Segni]|h|r", -- [14]
+			"|cffa335ee|Hitem:76160:0:0:0:0:0:0:-2141330688:86:0:0:0|h[Drappo del Santuario dei Draghi]|h|r", -- [15]
+			"|cffa335ee|Hitem:69618:0:0:0:0:0:0:1201222080:86:0:0:0|h[Spada Sfregiatrice Zuliana]|h|r", -- [16]
+			"|cffa335ee|Hitem:77227:0:4010:0:0:0:0:290980000:86:0:0:0|h[Fermatempo dello Stormo di Bronzo]|h|r", -- [17]
+		}, -- [1]
+	},
+	["Specs"] = {
+	},
+	["Options"] = {
+	},
+	["Region"] = "EU",
+	["Currencies"] = {
+	},
+	["Glyphs"] = {
+	},
+	["LogData"] = {
+		["_wipes"] = {
+		},
+		["_autoLog"] = {
+			[1136] = "disabled",
+		},
+		["_lastDiff"] = 0,
+		["_lastZone"] = "Kalimdor",
+	},
+	["BagItems"] = {
+	},
+	["BankItems"] = {
+	},
+	["LastCharacterImport"] = "",
+	["Reps"] = {
+	},
+	["Faction"] = "Horde",
+	["IconInfo"] = {
+	},
+	["Professions"] = {
+	},
+	["RealmName"] = "Pozzo dell'Eternità",
+	["Class"] = "PALADIN",
+}

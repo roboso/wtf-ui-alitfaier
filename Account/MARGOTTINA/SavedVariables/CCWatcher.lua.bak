@@ -1,0 +1,9 @@
+
+CCWatcherDB = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

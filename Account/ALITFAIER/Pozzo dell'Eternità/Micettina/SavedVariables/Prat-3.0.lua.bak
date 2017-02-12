@@ -1,0 +1,223 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["time"] = 1470078614,
+	["scrollback"] = {
+		["ChatFrame1"] = {
+			{
+				"|cff979797[20:55:27]|r|c00000000|r Missione \"Rimandali da dove sono venuti!\" accettata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [1]
+			{
+				"|cff979797[21:01:55]|r|c00000000|r Missione \"Rimandali da dove sono venuti!\" completata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [2]
+			{
+				"|cff979797[21:01:55]|r|c00000000|r Esperienza guadagnata: 550.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [3]
+			{
+				"|cff979797[21:01:55]|r|c00000000|r Hai ricevuto: 50 rame.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [4]
+			{
+				"|cff979797[21:01:55]|r|c00000000|r Missione \"Lupi tra le pecore\" accettata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [5]
+			{
+				"|cff979797[21:04:42]|r|c00000000|r Hai appreso un nuovo incantesimo: |cff71d5ff|Hspell:34026:0|h[Ordine di Morte]|h|r.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [6]
+			{
+				"|cff979797[21:05:11]|r|c00000000|r Missione \"Lupi tra le pecore\" completata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [7]
+			{
+				"|cff979797[21:05:11]|r|c00000000|r Esperienza guadagnata: 550.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [8]
+			{
+				"|cff979797[21:05:11]|r|c00000000|r Hai ricevuto: 40 rame.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [9]
+			{
+				"|cff979797[21:05:11]|r|c00000000|r Missione \"Unisciti alla battaglia!\" accettata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [10]
+			{
+				"|cff979797[21:05:54]|r|c00000000|r Missione \"Unisciti alla battaglia!\" completata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [11]
+			{
+				"|cff979797[21:05:54]|r|c00000000|r Esperienza guadagnata: 71.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [12]
+			{
+				"|cff979797[21:05:54]|r|c00000000|r Hai ricevuto: 13 rame.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [13]
+			{
+				"|cff979797[21:05:55]|r|c00000000|r Missione \"Hanno mandato degli assassini\" accettata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [14]
+			{
+				"|cff979797[21:06:03]|r|c00000000|r Missione \"Non temere alcun male\" accettata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [15]
+			{
+				"|cff979797[21:08:51]|r|c00000000|r Missione \"Non temere alcun male\" completata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [16]
+			{
+				"|cff979797[21:08:51]|r|c00000000|r Esperienza guadagnata: 275.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [17]
+			{
+				"|cff979797[21:08:51]|r|c00000000|r Hai ricevuto: 50 rame.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [18]
+			{
+				"|cff979797[21:09:01]|r|c00000000|r Missione \"Hanno mandato degli assassini\" completata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [19]
+			{
+				"|cff979797[21:09:01]|r|c00000000|r Esperienza guadagnata: 275.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [20]
+			{
+				"|cff979797[21:09:01]|r|c00000000|r Hai ricevuto: 50 rame.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [21]
+			{
+				"|cff979797[21:09:02]|r|c00000000|r Missione \"Le retrovie sono sgombre\" accettata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [22]
+			{
+				"|cff979797[21:09:41]|r|c00000000|r Missione \"Le retrovie sono sgombre\" completata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [23]
+			{
+				"|cff979797[21:09:41]|r|c00000000|r Esperienza guadagnata: 38.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [24]
+			{
+				"|cff979797[21:09:41]|r|c00000000|r Hai ricevuto: 7 rame.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [25]
+			{
+				"|cff979797[21:09:41]|r|c00000000|r Missione \"L'invasione dei Roccianera\" accettata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [26]
+			{
+				"|cff979797[21:10:14]|r|c00000000|r Missione \"Acqua della speranza\" accettata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [27]
+		},
+	},
+}

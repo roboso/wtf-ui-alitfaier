@@ -1,0 +1,21 @@
+
+FollowerLocationInfoDB = {
+	["BrokerTitle_Coords"] = false,
+	["ShowHiddenFollowers"] = false,
+	["ListOpen"] = true,
+	["ExternalURL"] = "WoWHead",
+	["Minimap"] = {
+		["enabled"] = true,
+	},
+	["ShowCoordsFrame"] = true,
+	["BrokerTitle_NumFollowers"] = true,
+	["ShowFollowerID"] = true,
+	["ShowCollectedFollower"] = false,
+	["questTitleLocale"] = "itIT",
+	["language"] = false,
+	["questTitles"] = {
+		[36611] = "Un vero pescatore di Draenor",
+		[36616] = "Un pescatore nella nostra squadra",
+	},
+}
+FLI_tmpDB = nil

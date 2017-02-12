@@ -1,0 +1,17 @@
+
+YorsahjAnnounceDB = {
+	["profileKeys"] = {
+		["Alitfaier - Crushridge"] = "Alitfaier - Crushridge",
+	},
+	["profiles"] = {
+		["Alitfaier - Crushridge"] = {
+			["normal"] = {
+				["usepriority"] = false,
+			},
+			["heroic"] = {
+				["usepriority"] = true,
+			},
+			["loaded"] = true,
+		},
+	},
+}

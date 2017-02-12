@@ -1,0 +1,133 @@
+
+CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
+	["currentCharacterFirst"] = true,
+	["alertClassHallUpgrades"] = true,
+	["monitorRows"] = 8,
+	["alertInstantCompleteWorldQuest"] = true,
+	["alertMissions"] = true,
+	["alertLegionCookingRecipes"] = true,
+	["orderCharactersAutomatically"] = true,
+	["showCharacterRealms"] = true,
+	["alertTroops"] = true,
+	["characters"] = {
+		{
+			["orderResources"] = 1939,
+			["weeklyResetTime"] = 1484722799,
+			["missions"] = {
+			},
+			["troops"] = {
+				{
+					["limit"] = 3,
+					["description"] = "Professionisti d'élite nell'arcano e negli elementi, gli Invocatori del Kirin Tor vantano un retaggio che comprende Nielas Aran, padre di Medivh, e non hanno eguali nelle arti magiche.",
+					["name"] = "Invocatori del Kirin Tor",
+					["count"] = 2,
+					["icon"] = 1396699,
+					["classSpec"] = 72,
+				}, -- [1]
+				{
+					["limit"] = 4,
+					["description"] = "Benché molti Maghi considerino gli Elementali imprevedibili, è da secoli che i Maghi del Gelo hanno adottato gli Elementali dell'Acqua come loro famigli.",
+					["name"] = "Elementali dell'Acqua",
+					["count"] = 4,
+					["icon"] = 1396675,
+					["classSpec"] = 73,
+				}, -- [2]
+			},
+			["class"] = "MAGE",
+			["orders"] = {
+				{
+					["capacity"] = 3,
+					["troopCount"] = 2,
+					["name"] = "Invocatori del Kirin Tor",
+					["texture"] = 1396699,
+				}, -- [1]
+				{
+					["capacity"] = 4,
+					["troopCount"] = 4,
+					["name"] = "Elementali dell'Acqua",
+					["texture"] = 1396675,
+				}, -- [2]
+				{
+					["total"] = 2,
+					["name"] = "Appunti sulla Ricerca dell'Artefatto",
+					["ready"] = 0,
+					["capacity"] = 2,
+					["duration"] = 432000,
+					["nextSeconds"] = 168346,
+					["texture"] = 237446,
+				}, -- [3]
+			},
+			["updateTime"] = 1484685241,
+			["order"] = 1,
+			["name"] = "Enchàntrix-Pozzo dell'Eternità",
+			["sealOfBrokenFate"] = 0,
+			["monitor"] = {
+				[1396675] = true,
+				[237446] = true,
+				["advancement"] = true,
+				[1396699] = true,
+				["missions"] = true,
+			},
+			["advancement"] = {
+				["numTalents"] = 4,
+				["newTalentTier"] = {
+					{
+						["isBeingResearched"] = false,
+						["description"] = "Permette di assegnare un incarico di lavoro per un Cristallo Focalizzante, utilizzabile per scatenare il Potere di Dalaran e completare immediatamente una missione mondiale non élite sulla tua mappa una volta ogni 18 ore.",
+						["perkSpellID"] = 221602,
+						["researchCost"] = 12500,
+						["researchDuration"] = 432000,
+						["tier"] = 5,
+						["selected"] = false,
+						["icon"] = 610679,
+						["researched"] = false,
+						["talentAvailability"] = 4,
+						["id"] = 388,
+						["researchCurrency"] = 1220,
+						["name"] = "Potere di Dalaran",
+						["researchStartTime"] = 0,
+						["uiOrder"] = 1,
+						["researchGoldCost"] = 0,
+						["researchTimeRemaining"] = 0,
+					}, -- [1]
+					{
+						["isBeingResearched"] = false,
+						["description"] = "In cambio di Risorse per l'Enclave, permette di assegnare un incarico di lavoro per uno dei tuoi tre Sigilli del Destino Infranto settimanali.",
+						["perkSpellID"] = 218708,
+						["researchCost"] = 12500,
+						["researchDuration"] = 432000,
+						["tier"] = 5,
+						["selected"] = false,
+						["icon"] = 609814,
+						["researched"] = false,
+						["talentAvailability"] = 4,
+						["id"] = 387,
+						["researchCurrency"] = 1220,
+						["name"] = "Divinazione Arcana",
+						["researchStartTime"] = 0,
+						["uiOrder"] = 2,
+						["researchGoldCost"] = 0,
+						["researchTimeRemaining"] = 0,
+					}, -- [2]
+				},
+			},
+			["seals"] = {
+				["sealOfBrokenFate"] = 0,
+			},
+			["realm"] = "Pozzo dell'Eternità",
+		}, -- [1]
+	},
+	["alertAnyArtifactResearchNotes"] = true,
+	["dragPosition"] = {
+		"TOPLEFT", -- [1]
+		45.0000038146973, -- [2]
+		-120, -- [3]
+	},
+	["alertDisableInInstances"] = true,
+	["forgetDragPosition"] = true,
+	["version"] = 1.03,
+	["alertBonusRollToken"] = true,
+	["alertChampionArmaments"] = true,
+	["alertArtifactResearchNotes"] = true,
+	["alert"] = "current",
+}

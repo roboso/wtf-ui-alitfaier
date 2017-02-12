@@ -1,0 +1,90 @@
+
+CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
+	["currentCharacterFirst"] = true,
+	["alertClassHallUpgrades"] = true,
+	["monitorRows"] = 8,
+	["alertInstantCompleteWorldQuest"] = true,
+	["alertMissions"] = true,
+	["alertLegionCookingRecipes"] = true,
+	["orderCharactersAutomatically"] = true,
+	["showCharacterRealms"] = true,
+	["alertTroops"] = true,
+	["characters"] = {
+		{
+			["orderResources"] = 4600,
+			["weeklyResetTime"] = 1485327599,
+			["missions"] = {
+			},
+			["troops"] = {
+				{
+					["limit"] = 4,
+					["description"] = "\"I prigionieri Vrykul che abbiamo catturato guardano i loro compagni morti con una strana tristezza. Sembra che invidino i morti.\" - Re Varian Wrynn",
+					["name"] = "Aspiranti Valarjar",
+					["count"] = 4,
+					["icon"] = 1401869,
+					["classSpec"] = 99,
+				}, -- [1]
+				{
+					["limit"] = 3,
+					["description"] = "Le più forti Signore dello Scudo vengono scelte dalle Valkyra per servire Eyir, una guardiana dei Titani. Qualora morisse valorosamente, una Signora dello Scudo Valkyra potrebbe essere scelta per diventare una delle leggendarie Val'kyr.",
+					["name"] = "Signora dello Scudo Valkyra",
+					["count"] = 1,
+					["icon"] = 1401874,
+					["classSpec"] = 100,
+				}, -- [2]
+			},
+			["class"] = "WARRIOR",
+			["orders"] = {
+				{
+					["capacity"] = 4,
+					["troopCount"] = 4,
+					["name"] = "Aspiranti Valarjar",
+					["texture"] = 1401869,
+				}, -- [1]
+				{
+					["capacity"] = 3,
+					["troopCount"] = 1,
+					["name"] = "Signora dello Scudo Valkyra",
+					["texture"] = 1401874,
+				}, -- [2]
+				{
+					["capacity"] = 2,
+					["name"] = "Appunti sulla Ricerca dell'Artefatto",
+					["texture"] = 237446,
+				}, -- [3]
+				{
+					["capacity"] = 24,
+					["name"] = "Legion Cooking Recipes",
+					["texture"] = 134939,
+				}, -- [4]
+			},
+			["updateTime"] = 1484923438,
+			["order"] = 1,
+			["name"] = "Alitfaier-Pozzo dell'Eternità",
+			["sealOfBrokenFate"] = 3,
+			["monitor"] = {
+				[1401874] = true,
+				[1401869] = true,
+				[237446] = true,
+				["advancement"] = true,
+				["missions"] = true,
+				[134939] = true,
+			},
+			["advancement"] = {
+				["numTalents"] = 6,
+			},
+			["seals"] = {
+				["sealOfBrokenFate"] = 1,
+			},
+			["realm"] = "Pozzo dell'Eternità",
+		}, -- [1]
+	},
+	["alertAnyArtifactResearchNotes"] = true,
+	["alertDisableInInstances"] = true,
+	["forgetDragPosition"] = true,
+	["version"] = 1.03,
+	["alertBonusRollToken"] = true,
+	["alertChampionArmaments"] = true,
+	["alertArtifactResearchNotes"] = true,
+	["alert"] = "current",
+}

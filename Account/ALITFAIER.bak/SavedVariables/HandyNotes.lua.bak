@@ -1,0 +1,19 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Àzzurrà - Nemesis"] = "Àzzurrà - Nemesis",
+	},
+	["profiles"] = {
+		["Àzzurrà - Nemesis"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Àzzurrà - Nemesis"] = "Àzzurrà - Nemesis",
+	},
+	["profiles"] = {
+		["Àzzurrà - Nemesis"] = {
+		},
+	},
+}

@@ -1,0 +1,25 @@
+
+TradeSkillMaster_CompetitorTrackerDB = {
+	["profiles"] = {
+		["Default"] = {
+			["treeGroupStatus"] = {
+				["groups"] = {
+					["1"] = true,
+				},
+				["scrollvalue"] = 0,
+				["selected"] = 1,
+				["treesizable"] = true,
+				["fullwidth"] = 800.9999389648438,
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Pingola - Nemesis"] = "Default",
+	},
+	["factionrealm"] = {
+		["Alliance - Nemesis"] = {
+			["loginTime"] = 1401200064,
+			["logoutTime"] = 1401200197,
+		},
+	},
+}

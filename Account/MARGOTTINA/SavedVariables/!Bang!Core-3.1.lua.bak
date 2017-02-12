@@ -1,0 +1,19 @@
+
+BangCore_TPODB = {
+	["profileKeys"] = {
+		["Alitfaier - Hakkar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["Pushed"] = "110",
+			["OutdatedAddons"] = {
+			},
+			["InstalledAddons"] = {
+				["BangCore_TPO"] = 31010,
+				["[B!EC]"] = 31009,
+			},
+			["UpdatedAddons"] = {
+			},
+		},
+	},
+}

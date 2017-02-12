@@ -1,0 +1,2 @@
+
+AtlasLootAdvancedSearchConfig = nil

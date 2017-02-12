@@ -1,0 +1,1018 @@
+
+AmrBagItems = nil
+AmrBankItems = {
+	"|cff1eff00|Hitem:45912:0:0:0:0:0:0:2011459584:90:0:0|h[Libro della Maestria dei Glifi]|h|r", -- [1]
+	"|cffffffff|Hitem:62251:0:0:0:0:0:0:-2084346624:90:0:0|h[Pergamena Runica della Fermezza II]|h|r", -- [2]
+	"|cffffffff|Hitem:18606:0:0:0:0:0:0:0:90:0:0|h[Stendardo da Battaglia dell'Alleanza]|h|r", -- [3]
+	"|cff1eff00|Hitem:12360:0:0:0:0:0:0:971627264:90:0:0|h[Lingotto d'Arcanite]|h|r", -- [4]
+	"|cffa335ee|Hitem:100397:4429:4647:0:0:0:0:1441339904:90:0:0|h[Stivali da Guerra dell'Atrocità del Gladiatore Temibile]|h|r", -- [5]
+	"|cffa335ee|Hitem:103320:0:0:0:0:0:0:0:90:154:0|h[Anello con Sigillo dell'Atrocità del Gladiatore Temibile]|h|r", -- [6]
+	"|cffa335ee|Hitem:99959:0:4657:4646:0:0:0:0:90:159:0|h[Elmo a Piastre del Gladiatore Tirannico]|h|r", -- [7]
+	"|cffa335ee|Hitem:86547:0:0:0:0:0:0:906693888:90:0:0|h[Frammento Celeste]|h|r", -- [8]
+	"|cff0070dd|Hitem:76661:0:0:0:0:0:0:1043567648:90:0:0|h[Onice Vermiglio Inciso]|h|r", -- [9]
+	"|cff0070dd|Hitem:52206:0:0:0:0:0:0:1989539968:90:0:0|h[Rubino Infernale Ardito]|h|r", -- [10]
+	"|cffa335ee|Hitem:89278:0:0:0:0:0:0:1677282048:90:0:445|h[Spallacci del Protettore Ombroso]|h|r", -- [11]
+	"|cffffffff|Hitem:43637:0:0:0:0:0:0:1231803840:90:0:0|h[Moneta d'Oro di Brann Barbabronzea]|h|r", -- [12]
+	"|cffa335ee|Hitem:103317:0:0:0:0:0:0:0:90:161:0|h[Girocollo dell'Efficienza del Gladiatore Temibile]|h|r", -- [13]
+	"|cff0070dd|Hitem:76649:0:0:0:0:0:0:1238642432:90:0:0|h[Giada Selvaggia Radiosa]|h|r", -- [14]
+	"|cffffffff|Hitem:32427:0:0:0:0:0:0:1781209984:90:0:0|h[Cristallo degli Alafatua]|h|r", -- [15]
+	"|cff0070dd|Hitem:76697:0:0:0:0:0:0:1023671424:90:0:0|h[Radiosità del Sole Liscia]|h|r", -- [16]
+	"|cffa335ee|Hitem:77191:4099:0:0:0:0:0:1299644672:90:0:0|h[Gurthalak, Voce delle Profondità]|h|r", -- [17]
+	"|cff1eff00|Hitem:85568:0:0:0:0:0:0:74828552:90:0:0|h[Protezioni Brutali]|h|r", -- [18]
+	"|cffffffff|Hitem:78883:0:0:0:0:0:0:939246368:90:0:0|h[Corroborante di Lunacupa]|h|r", -- [19]
+	"|cffffffff|Hitem:87903:0:0:0:0:0:0:68502784:90:0:0|h[Schegge di Ambra del Terrore]|h|r", -- [20]
+	"|cff0070dd|Hitem:76683:0:0:0:0:0:0:831790720:90:0:0|h[Ametista Imperiale Astiosa]|h|r", -- [21]
+	"|cff9d9d9d|Hitem:24516:0:0:0:0:0:0:923666368:90:0:0|h[Artiglio di Sferzaroccia Danneggiato]|h|r", -- [22]
+	"|cff0070dd|Hitem:76693:0:0:0:0:0:0:485465216:90:0:0|h[Rubino Primordiale Preciso]|h|r", -- [23]
+	"|cffffffff|Hitem:95449:0:0:0:0:0:0:0:90:0:0|h[Borsa di Semi di Enigma]|h|r", -- [24]
+	"|cffffffff|Hitem:44012:0:0:0:0:0:0:1698274944:90:0:0|h[Elisir delle Fogne]|h|r", -- [25]
+	"|cffffffff|Hitem:43638:0:0:0:0:0:0:764027392:90:0:0|h[Moneta d'Oro di Arugal]|h|r", -- [26]
+	"|cff0070dd|Hitem:11086:0:0:0:0:0:0:1851376768:90:0:0|h[Jang'thraze l'Inflessibile]|h|r", -- [27]
+	"|cffa335ee|Hitem:86906:4446:4997:0:0:0:0:1542965504:90:135:447|h[Kilrak, Fauci del Terrore]|h|r", -- [28]
+	"|cffa335ee|Hitem:105123:0:4653:0:0:0:0:240059904:90:149:491|h[Martello da Forgiatore dell'Ingegnere d'Assedio]|h|r", -- [29]
+	"|cffffffff|Hitem:95449:0:0:0:0:0:0:0:90:0:0|h[Borsa di Semi di Enigma]|h|r", -- [30]
+	"|cff0070dd|Hitem:86566:0:0:0:0:0:0:459255936:90:0:0|h[Guanti del Depredatore]|h|r", -- [31]
+	"|cffa335ee|Hitem:103315:4424:0:0:0:0:0:0:90:154:0|h[Mantello dell'Alacrità del Gladiatore Temibile]|h|r", -- [32]
+	"|cffffffff|Hitem:43634:0:0:0:0:0:0:1031477632:90:0:0|h[Moneta d'Oro di Dama Katrana Prestor]|h|r", -- [33]
+	"|cffffffff|Hitem:17202:0:0:0:0:0:0:2062349440:90:0:0|h[Palla di Neve]|h|r", -- [34]
+	"|cff1eff00|Hitem:8705:0:0:0:0:0:0:1681617408:90:0:0|h[Trasmettitore d'Emergenza di OOX-22/FE]|h|r", -- [35]
+	"|cffffffff|Hitem:40073:0:0:0:0:0:0:219642080:90:0:0|h[Elisir della Forza Vigorosa]|h|r", -- [36]
+	"|cffffffff|Hitem:43631:0:0:0:0:0:0:1416477312:90:0:0|h[Moneta d'Oro di Teron]|h|r", -- [37]
+	"|cffffffff|Hitem:43640:0:0:0:0:0:0:1840714496:90:0:0|h[Moneta d'Oro di Archimonde]|h|r", -- [38]
+	"|cffa335ee|Hitem:77191:4099:0:0:0:0:0:1305806752:90:0:0|h[Gurthalak, Voce delle Profondità]|h|r", -- [39]
+	"|cffffffff|Hitem:95449:0:0:0:0:0:0:0:90:0:0|h[Borsa di Semi di Enigma]|h|r", -- [40]
+	"|cffffffff|Hitem:95449:0:0:0:0:0:0:0:90:0:0|h[Borsa di Semi di Enigma]|h|r", -- [41]
+	"|cffa335ee|Hitem:99958:4432:4600:0:0:0:0:0:90:140:0|h[Guanti Lunghi a Piastre del Gladiatore Tirannico]|h|r", -- [42]
+	"|cffa335ee|Hitem:49888:0:0:0:0:0:0:2067059712:90:0:0|h[Lama dell'Ombra]|h|r", -- [43]
+	"|cff0070dd|Hitem:104294:0:0:0:0:0:0:247705225:90:0:0|h[Ballata del Vecchio Marinaio Senza Tempo]|h|r", -- [44]
+	"|cffa335ee|Hitem:103331:0:4646:4600:0:0:0:0:90:154:0|h[Gambali Foderati a Piastre del Gladiatore Temibile]|h|r", -- [45]
+	"|cff1eff00|Hitem:12811:0:0:0:0:0:0:0:90:0:0|h[Globo Virtuoso]|h|r", -- [46]
+	"|cff1eff00|Hitem:71083:0:0:0:0:0:0:958399232:90:0:0|h[Gettone dei Giochi di Lunacupa]|h|r", -- [47]
+	"|cff0070dd|Hitem:86580:0:0:0:0:0:0:2040682496:90:0:0|h[Giglio Gigante]|h|r", -- [48]
+	"|cffa335ee|Hitem:69210:0:0:0:0:0:0:0:90:0:0|h[Insegna di Gilda Rinomata]|h|r", -- [49]
+	"|cffffffff|Hitem:72120:0:0:0:0:0:0:1564710656:90:0:0|h[Cuoio Esotico]|h|r", -- [50]
+	"|cffffffff|Hitem:87216:0:0:0:0:0:0:1457828608:90:0:0|h[Incudine Termica]|h|r", -- [51]
+	"|cffffffff|Hitem:95449:0:0:0:0:0:0:0:90:0:0|h[Borsa di Semi di Enigma]|h|r", -- [52]
+	"|cffffffff|Hitem:2772:0:0:0:0:0:0:701051392:90:0:0|h[Minerale di Ferro]|h|r", -- [53]
+	"|cffffffff|Hitem:23445:0:0:0:0:0:0:2020990976:90:0:0|h[Lingotto di Vilferro]|h|r", -- [54]
+	"|cff0070dd|Hitem:76697:0:0:0:0:0:0:839027968:90:0:0|h[Radiosità del Sole Liscia]|h|r", -- [55]
+	"|cffffffff|Hitem:87216:0:0:0:0:0:0:119049344:90:0:0|h[Incudine Termica]|h|r", -- [56]
+	"|cffffffff|Hitem:72235:0:0:0:0:0:0:1626005760:90:0:0|h[Erbaseta]|h|r", -- [57]
+	"|cffffffff|Hitem:95350:0:0:0:0:0:0:850954240:90:0:0|h[Incanto di Vu]|h|r", -- [58]
+	"|cff1eff00|Hitem:36910:0:0:0:0:0:0:702146240:90:0:0|h[Minerale di Titanio]|h|r", -- [59]
+	"|cffffffff|Hitem:86477:0:0:0:0:0:0:1775019264:90:0:0|h[Equilibrio di Meng l'Imperatore Folle]|h|r", -- [60]
+	"|cffffffff|Hitem:97982:0:0:0:0:0:0:740595200:90:0:0|h[Fiala di Melma Rossastra]|h|r", -- [61]
+	"|cffffffff|Hitem:97979:0:0:0:0:0:0:1582198400:90:0:0|h[L'Orso e la Fanciulla]|h|r", -- [62]
+	"|cff0070dd|Hitem:94221:0:0:0:0:0:0:1610471552:90:0:0|h[Pietra Rituale degli Shan'ze]|h|r", -- [63]
+	"|cff1eff00|Hitem:23427:0:0:0:0:0:0:-1630956416:90:0:0|h[Minerale d'Eternio]|h|r", -- [64]
+	"|cffffffff|Hitem:2838:0:0:0:0:0:0:1590348672:90:0:0|h[Pietra Pesante]|h|r", -- [65]
+	"|cffffffff|Hitem:7912:0:0:0:0:0:0:1653123968:90:0:0|h[Pietra Solida]|h|r", -- [66]
+	"|cff0070dd|Hitem:52195:0:0:0:0:0:0:1273518592:90:0:0|h[Ambra Pregiata]|h|r", -- [67]
+	"|cffffffff|Hitem:36912:0:0:0:0:0:0:1055681792:90:0:0|h[Minerale di Saronite]|h|r", -- [68]
+	"|cffffffff|Hitem:2835:0:0:0:0:0:0:1303893504:90:0:0|h[Pietra Grezza]|h|r", -- [69]
+	"|cffa335ee|Hitem:102599:4444:0:0:0:0:0:0:90:0:0|h[Granspada del Gladiatore Orgoglioso]|h|r", -- [70]
+	"|cffffffff|Hitem:85688:0:0:0:0:0:0:609358080:90:0:0|h[Missiva dal Ramingo della Sapienza Cho]|h|r", -- [71]
+	"|cffffffff|Hitem:86476:0:0:0:0:0:0:1609971584:90:0:0|h[Lanterna dell'Imperatore Occultista]|h|r", -- [72]
+	"|cffffffff|Hitem:87216:0:0:0:0:0:0:1979347200:90:0:0|h[Incudine Termica]|h|r", -- [73]
+	"|cff0070dd|Hitem:86593:0:0:0:0:0:0:540475264:90:0:0|h[Pallone da Spiaggia degli Hozen]|h|r", -- [74]
+	"|cffffffff|Hitem:85582:0:0:0:0:0:0:641636352:90:0:0|h[Chiave delle Gabbie degli Shao-Tien]|h|r", -- [75]
+	"|cffa335ee|Hitem:94222:0:0:0:0:0:0:1173600256:90:0:0|h[Chiave del Tesoro di Lei Shen]|h|r", -- [76]
+	"|cff0070dd|Hitem:63206:0:0:0:0:0:0:0:90:0:0|h[Mantello dell'Unità]|h|r", -- [77]
+	"|cffffffff|Hitem:83079:0:0:0:0:0:0:0:90:0:0|h[Insegna Tushui]|h|r", -- [78]
+	"|cff1eff00|Hitem:72095:0:0:0:0:0:0:14556416:90:0:0|h[Lingotto di Trillio]|h|r", -- [79]
+	"|cff1eff00|Hitem:72095:0:0:0:0:0:0:1312560384:90:0:0|h[Lingotto di Trillio]|h|r", -- [80]
+	"|cff1eff00|Hitem:72103:0:0:0:0:0:0:1893224832:90:0:0|h[Minerale di Trillio Bianco]|h|r", -- [81]
+	"|cff1eff00|Hitem:72095:0:0:0:0:0:0:1322872192:90:0:0|h[Lingotto di Trillio]|h|r", -- [82]
+	"|cff1eff00|Hitem:72095:0:0:0:0:0:0:1055111552:90:0:0|h[Lingotto di Trillio]|h|r", -- [83]
+	"|cff1eff00|Hitem:72095:0:0:0:0:0:0:1683304192:90:0:0|h[Lingotto di Trillio]|h|r", -- [84]
+	"|cff1eff00|Hitem:72095:0:0:0:0:0:0:1024250624:90:0:0|h[Lingotto di Trillio]|h|r", -- [85]
+	"|cff1eff00|Hitem:72095:0:0:0:0:0:0:2011865856:90:0:0|h[Lingotto di Trillio]|h|r", -- [86]
+	"|cff1eff00|Hitem:72095:0:0:0:0:0:0:273200000:90:0:0|h[Lingotto di Trillio]|h|r", -- [87]
+	"|cff1eff00|Hitem:72095:0:0:0:0:0:0:1024939776:90:0:0|h[Lingotto di Trillio]|h|r", -- [88]
+	"|cff1eff00|Hitem:52183:0:0:0:0:0:0:1372700672:90:0:0|h[Minerale di Pirite]|h|r", -- [89]
+	"|cff1eff00|Hitem:72095:0:0:0:0:0:0:1792618880:90:0:0|h[Lingotto di Trillio]|h|r", -- [90]
+	"|cff1eff00|Hitem:72095:0:0:0:0:0:0:301868160:90:0:0|h[Lingotto di Trillio]|h|r", -- [91]
+	"|cff1eff00|Hitem:72094:0:0:0:0:0:0:727743744:90:0:0|h[Minerale di Trillio Nero]|h|r", -- [92]
+	"|cffffffff|Hitem:72092:0:0:0:0:0:0:783819648:90:0:0|h[Minerale di Ectoferro]|h|r", -- [93]
+	"|cff1eff00|Hitem:72095:0:0:0:0:0:0:801907328:90:0:0|h[Lingotto di Trillio]|h|r", -- [94]
+	"|cff1eff00|Hitem:72095:0:0:0:0:0:0:1223165824:90:0:0|h[Lingotto di Trillio]|h|r", -- [95]
+	"|cff1eff00|Hitem:72095:0:0:0:0:0:0:1477220352:90:0:0|h[Lingotto di Trillio]|h|r", -- [96]
+	"|cffffffff|Hitem:72092:0:0:0:0:0:0:60686720:90:0:0|h[Minerale di Ectoferro]|h|r", -- [97]
+	"|cffffffff|Hitem:72092:0:0:0:0:0:0:1245709312:90:0:0|h[Minerale di Ectoferro]|h|r", -- [98]
+	"|cff1eff00|Hitem:72095:0:0:0:0:0:0:1162463488:90:0:0|h[Lingotto di Trillio]|h|r", -- [99]
+	"|cff1eff00|Hitem:72095:0:0:0:0:0:0:172778240:90:0:0|h[Lingotto di Trillio]|h|r", -- [100]
+	"|cff1eff00|Hitem:72095:0:0:0:0:0:0:1007867264:90:0:0|h[Lingotto di Trillio]|h|r", -- [101]
+	"|cff1eff00|Hitem:72095:0:0:0:0:0:0:1489704192:90:0:0|h[Lingotto di Trillio]|h|r", -- [102]
+	"|cff1eff00|Hitem:72095:0:0:0:0:0:0:731917056:90:0:0|h[Lingotto di Trillio]|h|r", -- [103]
+	"|cffffffff|Hitem:52185:0:0:0:0:0:0:250081152:90:0:0|h[Minerale d'Elementio]|h|r", -- [104]
+	"|cffffffff|Hitem:74721:0:0:0:0:0:0:1435376256:90:0:0|h[Incantamento Guanti - Forza Eccellente]|h|r", -- [105]
+	"|cffffffff|Hitem:74711:0:0:0:0:0:0:1191325824:90:0:0|h[Incantamento Mantello - Protezione Superiore]|h|r", -- [106]
+	"|cff0070dd|Hitem:76061:0:0:0:0:0:0:56379264:90:0:0|h[Spirito dell'Armonia]|h|r", -- [107]
+	"|cff0070dd|Hitem:76061:0:0:0:0:0:0:1599440768:90:0:0|h[Spirito dell'Armonia]|h|r", -- [108]
+	"|cff0070dd|Hitem:68785:0:0:0:0:0:0:554761984:90:0:0|h[Incantamento Bracciali - Forza Maggiore]|h|r", -- [109]
+	"|cff0070dd|Hitem:76061:0:0:0:0:0:0:1920500352:90:0:0|h[Spirito dell'Armonia]|h|r", -- [110]
+	"|cff0070dd|Hitem:76061:0:0:0:0:0:0:878270592:90:0:0|h[Spirito dell'Armonia]|h|r", -- [111]
+	"|cff0070dd|Hitem:76061:0:0:0:0:0:0:110389888:90:0:0|h[Spirito dell'Armonia]|h|r", -- [112]
+	"|cff0070dd|Hitem:76061:0:0:0:0:0:0:325514880:90:0:0|h[Spirito dell'Armonia]|h|r", -- [113]
+	"|cff0070dd|Hitem:76061:0:0:0:0:0:0:296931456:90:0:0|h[Spirito dell'Armonia]|h|r", -- [114]
+	"|cff0070dd|Hitem:76061:0:0:0:0:0:0:1844643328:90:0:0|h[Spirito dell'Armonia]|h|r", -- [115]
+	"|cff0070dd|Hitem:76061:0:0:0:0:0:0:1358862080:90:0:0|h[Spirito dell'Armonia]|h|r", -- [116]
+	"|cff0070dd|Hitem:76061:0:0:0:0:0:0:1863267712:90:0:0|h[Spirito dell'Armonia]|h|r", -- [117]
+	"|cff0070dd|Hitem:76061:0:0:0:0:0:0:2015234432:90:0:0|h[Spirito dell'Armonia]|h|r", -- [118]
+	"|cff0070dd|Hitem:76061:0:0:0:0:0:0:940180736:90:0:0|h[Spirito dell'Armonia]|h|r", -- [119]
+	"|cff0070dd|Hitem:76061:0:0:0:0:0:0:1345450880:90:0:0|h[Spirito dell'Armonia]|h|r", -- [120]
+	"|cff0070dd|Hitem:76061:0:0:0:0:0:0:1839578752:90:0:0|h[Spirito dell'Armonia]|h|r", -- [121]
+	"|cff0070dd|Hitem:76061:0:0:0:0:0:0:294478720:90:0:0|h[Spirito dell'Armonia]|h|r", -- [122]
+	"|cff0070dd|Hitem:76061:0:0:0:0:0:0:49977728:90:0:0|h[Spirito dell'Armonia]|h|r", -- [123]
+	"|cff0070dd|Hitem:76061:0:0:0:0:0:0:487553408:90:0:0|h[Spirito dell'Armonia]|h|r", -- [124]
+	"|cff0070dd|Hitem:76061:0:0:0:0:0:0:519406208:90:0:0|h[Spirito dell'Armonia]|h|r", -- [125]
+	"|cff0070dd|Hitem:76061:0:0:0:0:0:0:2019235072:90:0:0|h[Spirito dell'Armonia]|h|r", -- [126]
+	"|cffffffff|Hitem:19338:0:0:0:0:0:0:271996160:90:0:0|h[Buono per Biglietti Gratis]|h|r", -- [127]
+	"|cffa335ee|Hitem:103321:0:0:0:0:0:0:0:90:0:0|h[Anello con Sigillo dell'Accuratezza del Gladiatore Temibile]|h|r", -- [128]
+	"|cffa335ee|Hitem:43345:0:0:0:0:0:0:-131457536:90:0:0|h[Sacca di Pelle di Drago]|h|r", -- [129]
+	"|cffa335ee|Hitem:62449:4086:4026:0:0:0:0:0:90:126:0|h[Bracciali della Guardia Sabbiosa]|h|r", -- [130]
+	"|cffffffff|Hitem:46006:0:0:0:0:0:0:-1655001772:90:0:0|h[Verme Luminescente]|h|r", -- [131]
+	"|cffa335ee|Hitem:64399:0:0:0:0:0:0:0:90:0:0|h[Stendardo da Battaglia della Coordinazione]|h|r", -- [132]
+	"|cff1eff00|Hitem:86143:0:0:0:0:0:0:115693312:90:0:0|h[Benda per Mascotte da Combattimento]|h|r", -- [133]
+	"|cff0070dd|Hitem:35275:0:0:0:0:0:0:-2058620264:90:0:0|h[Globo dei Sin'dorei]|h|r", -- [134]
+	"|cff1eff00|Hitem:86143:0:0:0:0:0:0:2082401920:90:0:0|h[Benda per Mascotte da Combattimento]|h|r", -- [135]
+	"|cffffffff|Hitem:38280:0:0:0:0:0:0:1459575680:90:0:0|h[Birra Nera di Birranera]|h|r", -- [136]
+	"|cff0070dd|Hitem:52232:0:0:0:0:0:0:1028586176:90:0:0|h[Ambra Pregiata Rapida]|h|r", -- [137]
+	"|cff9d9d9d|Hitem:24368:0:0:0:0:0:0:871023424:90:0:0|h[Armamenti degli Spiraguzza]|h|r", -- [138]
+	"|cffffffff|Hitem:45192:0:0:0:0:0:0:499522688:90:0:0|h[Sigillo dell'Aspirante]|h|r", -- [139]
+	"|cffffffff|Hitem:24401:0:0:0:0:0:0:630646944:90:0:0|h[Esemplari di Piante Sconosciute]|h|r", -- [140]
+	"|cff1eff00|Hitem:29739:0:0:0:0:0:0:993555552:90:0:0|h[Tomo Arcano]|h|r", -- [141]
+	"|cffa335ee|Hitem:647:34:0:0:0:0:0:-1895066356:90:0:0|h[Destino]|h|r", -- [142]
+	"|cffffffff|Hitem:81055:0:0:0:0:0:0:1681708288:90:0:0|h[Buono per la Giostra di Lunacupa]|h|r", -- [143]
+	"|cffffffff|Hitem:6532:0:0:0:0:0:0:0:90:0:0|h[Esche Brillanti]|h|r", -- [144]
+	"|cff0070dd|Hitem:76639:0:0:0:0:0:0:1056339008:90:0:0|h[Cuordifiume Solido]|h|r", -- [145]
+	"|cffffffff|Hitem:91806:0:0:0:0:0:0:1955072896:90:0:0|h[Frammento del Portale Instabile]|h|r", -- [146]
+	"|cff0070dd|Hitem:86594:0:0:0:0:0:0:1685221248:90:0:0|h[Richiamo di Wikky l'Aiutante]|h|r", -- [147]
+	"|cffa335ee|Hitem:49295:0:0:0:0:0:0:-1547275392:90:0:0|h[Zaino di Pelle di Onyxia Ingrandito]|h|r", -- [148]
+	"|cffffffff|Hitem:43641:0:0:0:0:0:0:-1734783488:90:0:0|h[Moneta d'Oro di Anduin Wrynn]|h|r", -- [149]
+	"|cffa335ee|Hitem:94231:0:0:0:0:0:0:389887616:90:0:0|h[Redini del Cornofurente Primordiale di Giada]|h|r", -- [150]
+	"|cff0070dd|Hitem:76696:0:0:0:0:0:0:499506688:90:0:0|h[Rubino Primordiale Ardito]|h|r", -- [151]
+	"|cffffffff|Hitem:71634:0:0:0:0:0:0:1744112896:90:0:0|h[Guida dell'Avventuriero di Lunacupa]|h|r", -- [152]
+	"|cffffffff|Hitem:44012:0:0:0:0:0:0:-1980150016:90:0:0|h[Elisir delle Fogne]|h|r", -- [153]
+	"|cffffffff|Hitem:3823:0:0:0:0:0:0:861784667:90:0:0|h[Pozione Inferiore dell'Invisibilità]|h|r", -- [154]
+	"|cffffffff|Hitem:86479:0:0:0:0:0:0:1347585408:90:0:0|h[Arco dell'Agilità di Subetai]|h|r", -- [155]
+	"|cff0070dd|Hitem:9240:0:0:0:0:0:0:1417773696:90:0:0|h[Martello di Zul'Farrak]|h|r", -- [156]
+	"|cffffffff|Hitem:8827:0:0:0:0:0:0:-1170227323:90:0:0|h[Elisir del Cammino Acquatico]|h|r", -- [157]
+	"|cffa335ee|Hitem:59461:0:0:0:0:0:0:1023246400:90:0:0|h[Furia di Forgiarabbia]|h|r", -- [158]
+	"|cff1eff00|Hitem:101767:0:0:0:0:0:0:1677791744:90:0:0|h[Ricetta: Gelato al Mango]|h|r", -- [159]
+	"|cffffffff|Hitem:85559:0:0:0:0:0:0:1494328576:90:0:0|h[Potenziamento d'Armatura Sha]|h|r", -- [160]
+	"|cff9d9d9d|Hitem:22527:0:0:0:0:0:0:1893324928:90:0:0|h[Nucleo di Elementi]|h|r", -- [161]
+	"|cff1eff00|Hitem:101769:0:0:0:0:0:0:556833920:90:0:0|h[Ricetta: Fungoli Ripieni]|h|r", -- [162]
+	"|cff1eff00|Hitem:102542:0:0:0:0:0:0:617687680:90:0:0|h[Antiche Spezie dei Pandaren]|h|r", -- [163]
+	"|cffa335ee|Hitem:83006:0:0:0:0:0:0:0:90:0:0|h[Iscrizione Superiore della Zanna della Tigre]|h|r", -- [164]
+	"|cffa335ee|Hitem:103328:4419:4646:4647:0:0:0:0:90:154:0|h[Corazza a Piastre del Gladiatore Temibile]|h|r", -- [165]
+	"|cffffffff|Hitem:34498:0:0:0:0:0:0:0:90:0:0|h[Kit per Zeppelin di Carta]|h|r", -- [166]
+	"|cff0070dd|Hitem:86563:0:0:0:0:0:0:561336704:90:0:0|h[Gerride del Terrore]|h|r", -- [167]
+	"|cffa335ee|Hitem:102738:0:0:0:0:0:0:0:90:0:0|h[Medaglione dell'Atrocità del Gladiatore Orgoglioso]|h|r", -- [168]
+	"|cffa335ee|Hitem:99747:0:0:0:0:0:0:779650560:90:0:491|h[Guanti Lunghi del Protettore Maledetto]|h|r", -- [169]
+	"|cffa335ee|Hitem:103332:0:4647:0:0:0:0:0:90:0:0|h[Spallacci a Piastre del Gladiatore Temibile]|h|r", -- [170]
+	"|cffa335ee|Hitem:86140:4444:0:0:0:0:0:925967:90:0:447|h[Spezzastelle]|h|r", -- [171]
+	"|cff0070dd|Hitem:52222:0:0:0:0:0:0:36563104:90:0:0|h[Topazio Ardente Inciso]|h|r", -- [172]
+	"|cffa335ee|Hitem:71445:4099:0:0:0:0:0:980858496:90:152:0|h[Grandascia del Rubateschi]|h|r", -- [173]
+	"|cffffffff|Hitem:90407:0:0:0:0:0:0:1269132672:90:0:0|h[Scheggia Sfavillante]|h|r", -- [174]
+	"|cffffffff|Hitem:95567:0:0:0:0:0:0:643072768:90:0:0|h[Faro del Kirin Tor]|h|r", -- [175]
+	"|cffa335ee|Hitem:104763:0:0:0:0:0:0:1869024256:90:0:491|h[Bracciali dello Scavamuri]|h|r", -- [176]
+	"|cffa335ee|Hitem:104808:4444:4647:0:0:0:0:1300443520:90:159:491|h[Gar'tok, Forza del Fedele]|h|r", -- [177]
+	"|cffa335ee|Hitem:98611:0:4650:4650:4650:0:0:2097857408:90:119:491|h[Cintura di Trillio Benedetto]|h|r", -- [178]
+	"|cff0070dd|Hitem:46349:0:0:0:0:0:0:0:90:0:0|h[Cappello da Chef]|h|r", -- [179]
+	"|cffffffff|Hitem:71968:0:0:0:0:0:0:1826643072:90:0:0|h[Scarto di Carro Giocattolo]|h|r", -- [180]
+	"|cff0070dd|Hitem:76669:0:0:0:0:0:0:1485280384:90:0:0|h[Onice Vermiglio Feroce]|h|r", -- [181]
+	"|cffffffff|Hitem:26043:0:0:0:0:0:0:1824680960:90:0:0|h[Campione di Polvere di Cristallo di Oshu'gun]|h|r", -- [182]
+	"|cffa335ee|Hitem:105135:4444:4647:0:0:0:0:1063795584:90:161:493|h[Lama Furiosa di Kil'ruk]|h|r", -- [183]
+	"|cff0070dd|Hitem:76138:0:0:0:0:0:0:991806016:90:0:0|h[Cuordifiume]|h|r", -- [184]
+	"|cffffffff|Hitem:75014:0:0:0:0:0:0:1384134016:90:0:0|h[Ventre di Crocolisco Crudo]|h|r", -- [185]
+	"|cffffffff|Hitem:5635:0:0:0:0:0:0:1754075776:90:0:0|h[Artiglio Affilato]|h|r", -- [186]
+	"|cffa335ee|Hitem:102699:0:0:0:0:0:0:0:90:0:0|h[Fregio della Vittoria del Gladiatore Orgoglioso]|h|r", -- [187]
+	"|cffffffff|Hitem:25433:0:0:0:0:0:0:1139397120:90:0:0|h[Amuleto di Guerra d'Ossidiana]|h|r", -- [188]
+	"|cffffffff|Hitem:30810:0:0:0:0:0:0:1133170272:90:0:0|h[Anello con Sigillo della Furia del Sole]|h|r", -- [189]
+	"|cffffffff|Hitem:21100:0:0:0:0:0:0:24615364:90:0:0|h[Moneta degli Avi]|h|r", -- [190]
+	"|cffa335ee|Hitem:71617:0:0:0:0:0:0:1949982464:90:0:0|h[Pietra del Fuoco Cristallizzata]|h|r", -- [191]
+	"|cff0070dd|Hitem:37863:0:0:0:0:0:0:2130266146:90:0:0|h[Telecomando di Birranera]|h|r", -- [192]
+	"|cff0070dd|Hitem:86589:0:0:0:0:0:0:1100120960:90:0:0|h[Specchio Celeste di Ai-Li]|h|r", -- [193]
+	"|cffa335ee|Hitem:103262:4411:0:0:0:0:0:0:90:161:0|h[Parabraccia Corazzati dell'Efficienza del Gladiatore Temibile]|h|r", -- [194]
+	"|cffa335ee|Hitem:103259:0:4600:0:0:0:0:0:90:0:0|h[Cinturone dell'Abilità del Gladiatore Temibile]|h|r", -- [195]
+	"|cffa335ee|Hitem:99961:4803:4647:0:0:0:0:0:90:152:0|h[Spallacci a Piastre del Gladiatore Tirannico]|h|r", -- [196]
+}
+AmrEquipedItems = nil
+AmrGold = nil
+AmrRealmName = "Nemesis"
+AmrCharacterName = "Alitfaier"
+AmrIconInfo = {
+}
+AmrCurrencies = {
+}
+AmrProfessions = nil
+AmrSpecializations = {
+}
+AmrRace = nil
+AmrLevel = nil
+AmrFaction = nil
+AmrActiveSpec = nil
+AmrOptions = {
+}
+AmrGlyphs = {
+}
+AmrTalents = {
+}
+AmrBankItemsAndCounts = {
+	{
+		["count"] = 1,
+		["link"] = "|cff1eff00|Hitem:45912:0:0:0:0:0:0:2011459584:90:0:0|h[Libro della Maestria dei Glifi]|h|r",
+	}, -- [1]
+	{
+		["count"] = 2,
+		["link"] = "|cffffffff|Hitem:62251:0:0:0:0:0:0:-2084346624:90:0:0|h[Pergamena Runica della Fermezza II]|h|r",
+	}, -- [2]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:18606:0:0:0:0:0:0:0:90:0:0|h[Stendardo da Battaglia dell'Alleanza]|h|r",
+	}, -- [3]
+	{
+		["count"] = 1,
+		["link"] = "|cff1eff00|Hitem:12360:0:0:0:0:0:0:971627264:90:0:0|h[Lingotto d'Arcanite]|h|r",
+	}, -- [4]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:100397:4429:4647:0:0:0:0:1441339904:90:0:0|h[Stivali da Guerra dell'Atrocità del Gladiatore Temibile]|h|r",
+	}, -- [5]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:103320:0:0:0:0:0:0:0:90:154:0|h[Anello con Sigillo dell'Atrocità del Gladiatore Temibile]|h|r",
+	}, -- [6]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:99959:0:4657:4646:0:0:0:0:90:159:0|h[Elmo a Piastre del Gladiatore Tirannico]|h|r",
+	}, -- [7]
+	{
+		["count"] = 8,
+		["link"] = "|cffa335ee|Hitem:86547:0:0:0:0:0:0:906693888:90:0:0|h[Frammento Celeste]|h|r",
+	}, -- [8]
+	{
+		["count"] = 9,
+		["link"] = "|cff0070dd|Hitem:76661:0:0:0:0:0:0:1043567648:90:0:0|h[Onice Vermiglio Inciso]|h|r",
+	}, -- [9]
+	{
+		["count"] = 1,
+		["link"] = "|cff0070dd|Hitem:52206:0:0:0:0:0:0:1989539968:90:0:0|h[Rubino Infernale Ardito]|h|r",
+	}, -- [10]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:89278:0:0:0:0:0:0:1677282048:90:0:445|h[Spallacci del Protettore Ombroso]|h|r",
+	}, -- [11]
+	{
+		["count"] = 2,
+		["link"] = "|cffffffff|Hitem:43637:0:0:0:0:0:0:1231803840:90:0:0|h[Moneta d'Oro di Brann Barbabronzea]|h|r",
+	}, -- [12]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:103317:0:0:0:0:0:0:0:90:161:0|h[Girocollo dell'Efficienza del Gladiatore Temibile]|h|r",
+	}, -- [13]
+	{
+		["count"] = 1,
+		["link"] = "|cff0070dd|Hitem:76649:0:0:0:0:0:0:1238642432:90:0:0|h[Giada Selvaggia Radiosa]|h|r",
+	}, -- [14]
+	{
+		["count"] = 4,
+		["link"] = "|cffffffff|Hitem:32427:0:0:0:0:0:0:1781209984:90:0:0|h[Cristallo degli Alafatua]|h|r",
+	}, -- [15]
+	{
+		["count"] = 20,
+		["link"] = "|cff0070dd|Hitem:76697:0:0:0:0:0:0:1023671424:90:0:0|h[Radiosità del Sole Liscia]|h|r",
+	}, -- [16]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:77191:4099:0:0:0:0:0:1299644672:90:0:0|h[Gurthalak, Voce delle Profondità]|h|r",
+	}, -- [17]
+	{
+		["count"] = 1,
+		["link"] = "|cff1eff00|Hitem:85568:0:0:0:0:0:0:74828552:90:0:0|h[Protezioni Brutali]|h|r",
+	}, -- [18]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:78883:0:0:0:0:0:0:939246368:90:0:0|h[Corroborante di Lunacupa]|h|r",
+	}, -- [19]
+	{
+		["count"] = 56,
+		["link"] = "|cffffffff|Hitem:87903:0:0:0:0:0:0:68502784:90:0:0|h[Schegge di Ambra del Terrore]|h|r",
+	}, -- [20]
+	{
+		["count"] = 1,
+		["link"] = "|cff0070dd|Hitem:76683:0:0:0:0:0:0:831790720:90:0:0|h[Ametista Imperiale Astiosa]|h|r",
+	}, -- [21]
+	{
+		["count"] = 1,
+		["link"] = "|cff9d9d9d|Hitem:24516:0:0:0:0:0:0:923666368:90:0:0|h[Artiglio di Sferzaroccia Danneggiato]|h|r",
+	}, -- [22]
+	{
+		["count"] = 1,
+		["link"] = "|cff0070dd|Hitem:76693:0:0:0:0:0:0:485465216:90:0:0|h[Rubino Primordiale Preciso]|h|r",
+	}, -- [23]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:95449:0:0:0:0:0:0:0:90:0:0|h[Borsa di Semi di Enigma]|h|r",
+	}, -- [24]
+	{
+		["count"] = 2,
+		["link"] = "|cffffffff|Hitem:44012:0:0:0:0:0:0:1698274944:90:0:0|h[Elisir delle Fogne]|h|r",
+	}, -- [25]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:43638:0:0:0:0:0:0:764027392:90:0:0|h[Moneta d'Oro di Arugal]|h|r",
+	}, -- [26]
+	{
+		["count"] = 1,
+		["link"] = "|cff0070dd|Hitem:11086:0:0:0:0:0:0:1851376768:90:0:0|h[Jang'thraze l'Inflessibile]|h|r",
+	}, -- [27]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:86906:4446:4997:0:0:0:0:1542965504:90:135:447|h[Kilrak, Fauci del Terrore]|h|r",
+	}, -- [28]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:105123:0:4653:0:0:0:0:240059904:90:149:491|h[Martello da Forgiatore dell'Ingegnere d'Assedio]|h|r",
+	}, -- [29]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:95449:0:0:0:0:0:0:0:90:0:0|h[Borsa di Semi di Enigma]|h|r",
+	}, -- [30]
+	{
+		["count"] = 1,
+		["link"] = "|cff0070dd|Hitem:86566:0:0:0:0:0:0:459255936:90:0:0|h[Guanti del Depredatore]|h|r",
+	}, -- [31]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:103315:4424:0:0:0:0:0:0:90:154:0|h[Mantello dell'Alacrità del Gladiatore Temibile]|h|r",
+	}, -- [32]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:43634:0:0:0:0:0:0:1031477632:90:0:0|h[Moneta d'Oro di Dama Katrana Prestor]|h|r",
+	}, -- [33]
+	{
+		["count"] = 8,
+		["link"] = "|cffffffff|Hitem:17202:0:0:0:0:0:0:2062349440:90:0:0|h[Palla di Neve]|h|r",
+	}, -- [34]
+	{
+		["count"] = 1,
+		["link"] = "|cff1eff00|Hitem:8705:0:0:0:0:0:0:1681617408:90:0:0|h[Trasmettitore d'Emergenza di OOX-22/FE]|h|r",
+	}, -- [35]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:40073:0:0:0:0:0:0:219642080:90:0:0|h[Elisir della Forza Vigorosa]|h|r",
+	}, -- [36]
+	{
+		["count"] = 2,
+		["link"] = "|cffffffff|Hitem:43631:0:0:0:0:0:0:1416477312:90:0:0|h[Moneta d'Oro di Teron]|h|r",
+	}, -- [37]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:43640:0:0:0:0:0:0:1840714496:90:0:0|h[Moneta d'Oro di Archimonde]|h|r",
+	}, -- [38]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:77191:4099:0:0:0:0:0:1305806752:90:0:0|h[Gurthalak, Voce delle Profondità]|h|r",
+	}, -- [39]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:95449:0:0:0:0:0:0:0:90:0:0|h[Borsa di Semi di Enigma]|h|r",
+	}, -- [40]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:95449:0:0:0:0:0:0:0:90:0:0|h[Borsa di Semi di Enigma]|h|r",
+	}, -- [41]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:99958:4432:4600:0:0:0:0:0:90:140:0|h[Guanti Lunghi a Piastre del Gladiatore Tirannico]|h|r",
+	}, -- [42]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:49888:0:0:0:0:0:0:2067059712:90:0:0|h[Lama dell'Ombra]|h|r",
+	}, -- [43]
+	{
+		["count"] = 1,
+		["link"] = "|cff0070dd|Hitem:104294:0:0:0:0:0:0:247705225:90:0:0|h[Ballata del Vecchio Marinaio Senza Tempo]|h|r",
+	}, -- [44]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:103331:0:4646:4600:0:0:0:0:90:154:0|h[Gambali Foderati a Piastre del Gladiatore Temibile]|h|r",
+	}, -- [45]
+	{
+		["count"] = 3,
+		["link"] = "|cff1eff00|Hitem:12811:0:0:0:0:0:0:0:90:0:0|h[Globo Virtuoso]|h|r",
+	}, -- [46]
+	{
+		["count"] = 24,
+		["link"] = "|cff1eff00|Hitem:71083:0:0:0:0:0:0:958399232:90:0:0|h[Gettone dei Giochi di Lunacupa]|h|r",
+	}, -- [47]
+	{
+		["count"] = 1,
+		["link"] = "|cff0070dd|Hitem:86580:0:0:0:0:0:0:2040682496:90:0:0|h[Giglio Gigante]|h|r",
+	}, -- [48]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:69210:0:0:0:0:0:0:0:90:0:0|h[Insegna di Gilda Rinomata]|h|r",
+	}, -- [49]
+	{
+		["count"] = 20,
+		["link"] = "|cffffffff|Hitem:72120:0:0:0:0:0:0:1564710656:90:0:0|h[Cuoio Esotico]|h|r",
+	}, -- [50]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:87216:0:0:0:0:0:0:1457828608:90:0:0|h[Incudine Termica]|h|r",
+	}, -- [51]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:95449:0:0:0:0:0:0:0:90:0:0|h[Borsa di Semi di Enigma]|h|r",
+	}, -- [52]
+	{
+		["count"] = 4,
+		["link"] = "|cffffffff|Hitem:2772:0:0:0:0:0:0:701051392:90:0:0|h[Minerale di Ferro]|h|r",
+	}, -- [53]
+	{
+		["count"] = 4,
+		["link"] = "|cffffffff|Hitem:23445:0:0:0:0:0:0:2020990976:90:0:0|h[Lingotto di Vilferro]|h|r",
+	}, -- [54]
+	{
+		["count"] = 3,
+		["link"] = "|cff0070dd|Hitem:76697:0:0:0:0:0:0:839027968:90:0:0|h[Radiosità del Sole Liscia]|h|r",
+	}, -- [55]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:87216:0:0:0:0:0:0:119049344:90:0:0|h[Incudine Termica]|h|r",
+	}, -- [56]
+	{
+		["count"] = 17,
+		["link"] = "|cffffffff|Hitem:72235:0:0:0:0:0:0:1626005760:90:0:0|h[Erbaseta]|h|r",
+	}, -- [57]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:95350:0:0:0:0:0:0:850954240:90:0:0|h[Incanto di Vu]|h|r",
+	}, -- [58]
+	{
+		["count"] = 3,
+		["link"] = "|cff1eff00|Hitem:36910:0:0:0:0:0:0:702146240:90:0:0|h[Minerale di Titanio]|h|r",
+	}, -- [59]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:86477:0:0:0:0:0:0:1775019264:90:0:0|h[Equilibrio di Meng l'Imperatore Folle]|h|r",
+	}, -- [60]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:97982:0:0:0:0:0:0:740595200:90:0:0|h[Fiala di Melma Rossastra]|h|r",
+	}, -- [61]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:97979:0:0:0:0:0:0:1582198400:90:0:0|h[L'Orso e la Fanciulla]|h|r",
+	}, -- [62]
+	{
+		["count"] = 1,
+		["link"] = "|cff0070dd|Hitem:94221:0:0:0:0:0:0:1610471552:90:0:0|h[Pietra Rituale degli Shan'ze]|h|r",
+	}, -- [63]
+	{
+		["count"] = 20,
+		["link"] = "|cff1eff00|Hitem:23427:0:0:0:0:0:0:-1630956416:90:0:0|h[Minerale d'Eternio]|h|r",
+	}, -- [64]
+	{
+		["count"] = 18,
+		["link"] = "|cffffffff|Hitem:2838:0:0:0:0:0:0:1590348672:90:0:0|h[Pietra Pesante]|h|r",
+	}, -- [65]
+	{
+		["count"] = 8,
+		["link"] = "|cffffffff|Hitem:7912:0:0:0:0:0:0:1653123968:90:0:0|h[Pietra Solida]|h|r",
+	}, -- [66]
+	{
+		["count"] = 1,
+		["link"] = "|cff0070dd|Hitem:52195:0:0:0:0:0:0:1273518592:90:0:0|h[Ambra Pregiata]|h|r",
+	}, -- [67]
+	{
+		["count"] = 9,
+		["link"] = "|cffffffff|Hitem:36912:0:0:0:0:0:0:1055681792:90:0:0|h[Minerale di Saronite]|h|r",
+	}, -- [68]
+	{
+		["count"] = 16,
+		["link"] = "|cffffffff|Hitem:2835:0:0:0:0:0:0:1303893504:90:0:0|h[Pietra Grezza]|h|r",
+	}, -- [69]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:102599:4444:0:0:0:0:0:0:90:0:0|h[Granspada del Gladiatore Orgoglioso]|h|r",
+	}, -- [70]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:85688:0:0:0:0:0:0:609358080:90:0:0|h[Missiva dal Ramingo della Sapienza Cho]|h|r",
+	}, -- [71]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:86476:0:0:0:0:0:0:1609971584:90:0:0|h[Lanterna dell'Imperatore Occultista]|h|r",
+	}, -- [72]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:87216:0:0:0:0:0:0:1979347200:90:0:0|h[Incudine Termica]|h|r",
+	}, -- [73]
+	{
+		["count"] = 1,
+		["link"] = "|cff0070dd|Hitem:86593:0:0:0:0:0:0:540475264:90:0:0|h[Pallone da Spiaggia degli Hozen]|h|r",
+	}, -- [74]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:85582:0:0:0:0:0:0:641636352:90:0:0|h[Chiave delle Gabbie degli Shao-Tien]|h|r",
+	}, -- [75]
+	{
+		["count"] = 2,
+		["link"] = "|cffa335ee|Hitem:94222:0:0:0:0:0:0:1173600256:90:0:0|h[Chiave del Tesoro di Lei Shen]|h|r",
+	}, -- [76]
+	{
+		["count"] = 1,
+		["link"] = "|cff0070dd|Hitem:63206:0:0:0:0:0:0:0:90:0:0|h[Mantello dell'Unità]|h|r",
+	}, -- [77]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:83079:0:0:0:0:0:0:0:90:0:0|h[Insegna Tushui]|h|r",
+	}, -- [78]
+	{
+		["count"] = 20,
+		["link"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:14556416:90:0:0|h[Lingotto di Trillio]|h|r",
+	}, -- [79]
+	{
+		["count"] = 20,
+		["link"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:1312560384:90:0:0|h[Lingotto di Trillio]|h|r",
+	}, -- [80]
+	{
+		["count"] = 12,
+		["link"] = "|cff1eff00|Hitem:72103:0:0:0:0:0:0:1893224832:90:0:0|h[Minerale di Trillio Bianco]|h|r",
+	}, -- [81]
+	{
+		["count"] = 20,
+		["link"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:1322872192:90:0:0|h[Lingotto di Trillio]|h|r",
+	}, -- [82]
+	{
+		["count"] = 20,
+		["link"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:1055111552:90:0:0|h[Lingotto di Trillio]|h|r",
+	}, -- [83]
+	{
+		["count"] = 20,
+		["link"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:1683304192:90:0:0|h[Lingotto di Trillio]|h|r",
+	}, -- [84]
+	{
+		["count"] = 20,
+		["link"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:1024250624:90:0:0|h[Lingotto di Trillio]|h|r",
+	}, -- [85]
+	{
+		["count"] = 20,
+		["link"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:2011865856:90:0:0|h[Lingotto di Trillio]|h|r",
+	}, -- [86]
+	{
+		["count"] = 20,
+		["link"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:273200000:90:0:0|h[Lingotto di Trillio]|h|r",
+	}, -- [87]
+	{
+		["count"] = 20,
+		["link"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:1024939776:90:0:0|h[Lingotto di Trillio]|h|r",
+	}, -- [88]
+	{
+		["count"] = 8,
+		["link"] = "|cff1eff00|Hitem:52183:0:0:0:0:0:0:1372700672:90:0:0|h[Minerale di Pirite]|h|r",
+	}, -- [89]
+	{
+		["count"] = 20,
+		["link"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:1792618880:90:0:0|h[Lingotto di Trillio]|h|r",
+	}, -- [90]
+	{
+		["count"] = 2,
+		["link"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:301868160:90:0:0|h[Lingotto di Trillio]|h|r",
+	}, -- [91]
+	{
+		["count"] = 3,
+		["link"] = "|cff1eff00|Hitem:72094:0:0:0:0:0:0:727743744:90:0:0|h[Minerale di Trillio Nero]|h|r",
+	}, -- [92]
+	{
+		["count"] = 3,
+		["link"] = "|cffffffff|Hitem:72092:0:0:0:0:0:0:783819648:90:0:0|h[Minerale di Ectoferro]|h|r",
+	}, -- [93]
+	{
+		["count"] = 20,
+		["link"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:801907328:90:0:0|h[Lingotto di Trillio]|h|r",
+	}, -- [94]
+	{
+		["count"] = 20,
+		["link"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:1223165824:90:0:0|h[Lingotto di Trillio]|h|r",
+	}, -- [95]
+	{
+		["count"] = 20,
+		["link"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:1477220352:90:0:0|h[Lingotto di Trillio]|h|r",
+	}, -- [96]
+	{
+		["count"] = 20,
+		["link"] = "|cffffffff|Hitem:72092:0:0:0:0:0:0:60686720:90:0:0|h[Minerale di Ectoferro]|h|r",
+	}, -- [97]
+	{
+		["count"] = 20,
+		["link"] = "|cffffffff|Hitem:72092:0:0:0:0:0:0:1245709312:90:0:0|h[Minerale di Ectoferro]|h|r",
+	}, -- [98]
+	{
+		["count"] = 20,
+		["link"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:1162463488:90:0:0|h[Lingotto di Trillio]|h|r",
+	}, -- [99]
+	{
+		["count"] = 20,
+		["link"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:172778240:90:0:0|h[Lingotto di Trillio]|h|r",
+	}, -- [100]
+	{
+		["count"] = 20,
+		["link"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:1007867264:90:0:0|h[Lingotto di Trillio]|h|r",
+	}, -- [101]
+	{
+		["count"] = 20,
+		["link"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:1489704192:90:0:0|h[Lingotto di Trillio]|h|r",
+	}, -- [102]
+	{
+		["count"] = 20,
+		["link"] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:731917056:90:0:0|h[Lingotto di Trillio]|h|r",
+	}, -- [103]
+	{
+		["count"] = 5,
+		["link"] = "|cffffffff|Hitem:52185:0:0:0:0:0:0:250081152:90:0:0|h[Minerale d'Elementio]|h|r",
+	}, -- [104]
+	{
+		["count"] = 2,
+		["link"] = "|cffffffff|Hitem:74721:0:0:0:0:0:0:1435376256:90:0:0|h[Incantamento Guanti - Forza Eccellente]|h|r",
+	}, -- [105]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:74711:0:0:0:0:0:0:1191325824:90:0:0|h[Incantamento Mantello - Protezione Superiore]|h|r",
+	}, -- [106]
+	{
+		["count"] = 20,
+		["link"] = "|cff0070dd|Hitem:76061:0:0:0:0:0:0:56379264:90:0:0|h[Spirito dell'Armonia]|h|r",
+	}, -- [107]
+	{
+		["count"] = 20,
+		["link"] = "|cff0070dd|Hitem:76061:0:0:0:0:0:0:1599440768:90:0:0|h[Spirito dell'Armonia]|h|r",
+	}, -- [108]
+	{
+		["count"] = 2,
+		["link"] = "|cff0070dd|Hitem:68785:0:0:0:0:0:0:554761984:90:0:0|h[Incantamento Bracciali - Forza Maggiore]|h|r",
+	}, -- [109]
+	{
+		["count"] = 20,
+		["link"] = "|cff0070dd|Hitem:76061:0:0:0:0:0:0:1920500352:90:0:0|h[Spirito dell'Armonia]|h|r",
+	}, -- [110]
+	{
+		["count"] = 20,
+		["link"] = "|cff0070dd|Hitem:76061:0:0:0:0:0:0:878270592:90:0:0|h[Spirito dell'Armonia]|h|r",
+	}, -- [111]
+	{
+		["count"] = 20,
+		["link"] = "|cff0070dd|Hitem:76061:0:0:0:0:0:0:110389888:90:0:0|h[Spirito dell'Armonia]|h|r",
+	}, -- [112]
+	{
+		["count"] = 20,
+		["link"] = "|cff0070dd|Hitem:76061:0:0:0:0:0:0:325514880:90:0:0|h[Spirito dell'Armonia]|h|r",
+	}, -- [113]
+	{
+		["count"] = 20,
+		["link"] = "|cff0070dd|Hitem:76061:0:0:0:0:0:0:296931456:90:0:0|h[Spirito dell'Armonia]|h|r",
+	}, -- [114]
+	{
+		["count"] = 20,
+		["link"] = "|cff0070dd|Hitem:76061:0:0:0:0:0:0:1844643328:90:0:0|h[Spirito dell'Armonia]|h|r",
+	}, -- [115]
+	{
+		["count"] = 20,
+		["link"] = "|cff0070dd|Hitem:76061:0:0:0:0:0:0:1358862080:90:0:0|h[Spirito dell'Armonia]|h|r",
+	}, -- [116]
+	{
+		["count"] = 20,
+		["link"] = "|cff0070dd|Hitem:76061:0:0:0:0:0:0:1863267712:90:0:0|h[Spirito dell'Armonia]|h|r",
+	}, -- [117]
+	{
+		["count"] = 20,
+		["link"] = "|cff0070dd|Hitem:76061:0:0:0:0:0:0:2015234432:90:0:0|h[Spirito dell'Armonia]|h|r",
+	}, -- [118]
+	{
+		["count"] = 20,
+		["link"] = "|cff0070dd|Hitem:76061:0:0:0:0:0:0:940180736:90:0:0|h[Spirito dell'Armonia]|h|r",
+	}, -- [119]
+	{
+		["count"] = 20,
+		["link"] = "|cff0070dd|Hitem:76061:0:0:0:0:0:0:1345450880:90:0:0|h[Spirito dell'Armonia]|h|r",
+	}, -- [120]
+	{
+		["count"] = 20,
+		["link"] = "|cff0070dd|Hitem:76061:0:0:0:0:0:0:1839578752:90:0:0|h[Spirito dell'Armonia]|h|r",
+	}, -- [121]
+	{
+		["count"] = 20,
+		["link"] = "|cff0070dd|Hitem:76061:0:0:0:0:0:0:294478720:90:0:0|h[Spirito dell'Armonia]|h|r",
+	}, -- [122]
+	{
+		["count"] = 20,
+		["link"] = "|cff0070dd|Hitem:76061:0:0:0:0:0:0:49977728:90:0:0|h[Spirito dell'Armonia]|h|r",
+	}, -- [123]
+	{
+		["count"] = 20,
+		["link"] = "|cff0070dd|Hitem:76061:0:0:0:0:0:0:487553408:90:0:0|h[Spirito dell'Armonia]|h|r",
+	}, -- [124]
+	{
+		["count"] = 20,
+		["link"] = "|cff0070dd|Hitem:76061:0:0:0:0:0:0:519406208:90:0:0|h[Spirito dell'Armonia]|h|r",
+	}, -- [125]
+	{
+		["count"] = 18,
+		["link"] = "|cff0070dd|Hitem:76061:0:0:0:0:0:0:2019235072:90:0:0|h[Spirito dell'Armonia]|h|r",
+	}, -- [126]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:19338:0:0:0:0:0:0:271996160:90:0:0|h[Buono per Biglietti Gratis]|h|r",
+	}, -- [127]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:103321:0:0:0:0:0:0:0:90:0:0|h[Anello con Sigillo dell'Accuratezza del Gladiatore Temibile]|h|r",
+	}, -- [128]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:43345:0:0:0:0:0:0:-131457536:90:0:0|h[Sacca di Pelle di Drago]|h|r",
+	}, -- [129]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:62449:4086:4026:0:0:0:0:0:90:126:0|h[Bracciali della Guardia Sabbiosa]|h|r",
+	}, -- [130]
+	{
+		["count"] = 18,
+		["link"] = "|cffffffff|Hitem:46006:0:0:0:0:0:0:-1655001772:90:0:0|h[Verme Luminescente]|h|r",
+	}, -- [131]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:64399:0:0:0:0:0:0:0:90:0:0|h[Stendardo da Battaglia della Coordinazione]|h|r",
+	}, -- [132]
+	{
+		["count"] = 25,
+		["link"] = "|cff1eff00|Hitem:86143:0:0:0:0:0:0:115693312:90:0:0|h[Benda per Mascotte da Combattimento]|h|r",
+	}, -- [133]
+	{
+		["count"] = 1,
+		["link"] = "|cff0070dd|Hitem:35275:0:0:0:0:0:0:-2058620264:90:0:0|h[Globo dei Sin'dorei]|h|r",
+	}, -- [134]
+	{
+		["count"] = 10,
+		["link"] = "|cff1eff00|Hitem:86143:0:0:0:0:0:0:2082401920:90:0:0|h[Benda per Mascotte da Combattimento]|h|r",
+	}, -- [135]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:38280:0:0:0:0:0:0:1459575680:90:0:0|h[Birra Nera di Birranera]|h|r",
+	}, -- [136]
+	{
+		["count"] = 2,
+		["link"] = "|cff0070dd|Hitem:52232:0:0:0:0:0:0:1028586176:90:0:0|h[Ambra Pregiata Rapida]|h|r",
+	}, -- [137]
+	{
+		["count"] = 9,
+		["link"] = "|cff9d9d9d|Hitem:24368:0:0:0:0:0:0:871023424:90:0:0|h[Armamenti degli Spiraguzza]|h|r",
+	}, -- [138]
+	{
+		["count"] = 5,
+		["link"] = "|cffffffff|Hitem:45192:0:0:0:0:0:0:499522688:90:0:0|h[Sigillo dell'Aspirante]|h|r",
+	}, -- [139]
+	{
+		["count"] = 8,
+		["link"] = "|cffffffff|Hitem:24401:0:0:0:0:0:0:630646944:90:0:0|h[Esemplari di Piante Sconosciute]|h|r",
+	}, -- [140]
+	{
+		["count"] = 1,
+		["link"] = "|cff1eff00|Hitem:29739:0:0:0:0:0:0:993555552:90:0:0|h[Tomo Arcano]|h|r",
+	}, -- [141]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:647:34:0:0:0:0:0:-1895066356:90:0:0|h[Destino]|h|r",
+	}, -- [142]
+	{
+		["count"] = 9,
+		["link"] = "|cffffffff|Hitem:81055:0:0:0:0:0:0:1681708288:90:0:0|h[Buono per la Giostra di Lunacupa]|h|r",
+	}, -- [143]
+	{
+		["count"] = 11,
+		["link"] = "|cffffffff|Hitem:6532:0:0:0:0:0:0:0:90:0:0|h[Esche Brillanti]|h|r",
+	}, -- [144]
+	{
+		["count"] = 1,
+		["link"] = "|cff0070dd|Hitem:76639:0:0:0:0:0:0:1056339008:90:0:0|h[Cuordifiume Solido]|h|r",
+	}, -- [145]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:91806:0:0:0:0:0:0:1955072896:90:0:0|h[Frammento del Portale Instabile]|h|r",
+	}, -- [146]
+	{
+		["count"] = 1,
+		["link"] = "|cff0070dd|Hitem:86594:0:0:0:0:0:0:1685221248:90:0:0|h[Richiamo di Wikky l'Aiutante]|h|r",
+	}, -- [147]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:49295:0:0:0:0:0:0:-1547275392:90:0:0|h[Zaino di Pelle di Onyxia Ingrandito]|h|r",
+	}, -- [148]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:43641:0:0:0:0:0:0:-1734783488:90:0:0|h[Moneta d'Oro di Anduin Wrynn]|h|r",
+	}, -- [149]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:94231:0:0:0:0:0:0:389887616:90:0:0|h[Redini del Cornofurente Primordiale di Giada]|h|r",
+	}, -- [150]
+	{
+		["count"] = 13,
+		["link"] = "|cff0070dd|Hitem:76696:0:0:0:0:0:0:499506688:90:0:0|h[Rubino Primordiale Ardito]|h|r",
+	}, -- [151]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:71634:0:0:0:0:0:0:1744112896:90:0:0|h[Guida dell'Avventuriero di Lunacupa]|h|r",
+	}, -- [152]
+	{
+		["count"] = 20,
+		["link"] = "|cffffffff|Hitem:44012:0:0:0:0:0:0:-1980150016:90:0:0|h[Elisir delle Fogne]|h|r",
+	}, -- [153]
+	{
+		["count"] = 2,
+		["link"] = "|cffffffff|Hitem:3823:0:0:0:0:0:0:861784667:90:0:0|h[Pozione Inferiore dell'Invisibilità]|h|r",
+	}, -- [154]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:86479:0:0:0:0:0:0:1347585408:90:0:0|h[Arco dell'Agilità di Subetai]|h|r",
+	}, -- [155]
+	{
+		["count"] = 1,
+		["link"] = "|cff0070dd|Hitem:9240:0:0:0:0:0:0:1417773696:90:0:0|h[Martello di Zul'Farrak]|h|r",
+	}, -- [156]
+	{
+		["count"] = 8,
+		["link"] = "|cffffffff|Hitem:8827:0:0:0:0:0:0:-1170227323:90:0:0|h[Elisir del Cammino Acquatico]|h|r",
+	}, -- [157]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:59461:0:0:0:0:0:0:1023246400:90:0:0|h[Furia di Forgiarabbia]|h|r",
+	}, -- [158]
+	{
+		["count"] = 1,
+		["link"] = "|cff1eff00|Hitem:101767:0:0:0:0:0:0:1677791744:90:0:0|h[Ricetta: Gelato al Mango]|h|r",
+	}, -- [159]
+	{
+		["count"] = 2,
+		["link"] = "|cffffffff|Hitem:85559:0:0:0:0:0:0:1494328576:90:0:0|h[Potenziamento d'Armatura Sha]|h|r",
+	}, -- [160]
+	{
+		["count"] = 23,
+		["link"] = "|cff9d9d9d|Hitem:22527:0:0:0:0:0:0:1893324928:90:0:0|h[Nucleo di Elementi]|h|r",
+	}, -- [161]
+	{
+		["count"] = 1,
+		["link"] = "|cff1eff00|Hitem:101769:0:0:0:0:0:0:556833920:90:0:0|h[Ricetta: Fungoli Ripieni]|h|r",
+	}, -- [162]
+	{
+		["count"] = 3,
+		["link"] = "|cff1eff00|Hitem:102542:0:0:0:0:0:0:617687680:90:0:0|h[Antiche Spezie dei Pandaren]|h|r",
+	}, -- [163]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:83006:0:0:0:0:0:0:0:90:0:0|h[Iscrizione Superiore della Zanna della Tigre]|h|r",
+	}, -- [164]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:103328:4419:4646:4647:0:0:0:0:90:154:0|h[Corazza a Piastre del Gladiatore Temibile]|h|r",
+	}, -- [165]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:34498:0:0:0:0:0:0:0:90:0:0|h[Kit per Zeppelin di Carta]|h|r",
+	}, -- [166]
+	{
+		["count"] = 1,
+		["link"] = "|cff0070dd|Hitem:86563:0:0:0:0:0:0:561336704:90:0:0|h[Gerride del Terrore]|h|r",
+	}, -- [167]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:102738:0:0:0:0:0:0:0:90:0:0|h[Medaglione dell'Atrocità del Gladiatore Orgoglioso]|h|r",
+	}, -- [168]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:99747:0:0:0:0:0:0:779650560:90:0:491|h[Guanti Lunghi del Protettore Maledetto]|h|r",
+	}, -- [169]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:103332:0:4647:0:0:0:0:0:90:0:0|h[Spallacci a Piastre del Gladiatore Temibile]|h|r",
+	}, -- [170]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:86140:4444:0:0:0:0:0:925967:90:0:447|h[Spezzastelle]|h|r",
+	}, -- [171]
+	{
+		["count"] = 14,
+		["link"] = "|cff0070dd|Hitem:52222:0:0:0:0:0:0:36563104:90:0:0|h[Topazio Ardente Inciso]|h|r",
+	}, -- [172]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:71445:4099:0:0:0:0:0:980858496:90:152:0|h[Grandascia del Rubateschi]|h|r",
+	}, -- [173]
+	{
+		["count"] = 9,
+		["link"] = "|cffffffff|Hitem:90407:0:0:0:0:0:0:1269132672:90:0:0|h[Scheggia Sfavillante]|h|r",
+	}, -- [174]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:95567:0:0:0:0:0:0:643072768:90:0:0|h[Faro del Kirin Tor]|h|r",
+	}, -- [175]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:104763:0:0:0:0:0:0:1869024256:90:0:491|h[Bracciali dello Scavamuri]|h|r",
+	}, -- [176]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:104808:4444:4647:0:0:0:0:1300443520:90:159:491|h[Gar'tok, Forza del Fedele]|h|r",
+	}, -- [177]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:98611:0:4650:4650:4650:0:0:2097857408:90:119:491|h[Cintura di Trillio Benedetto]|h|r",
+	}, -- [178]
+	{
+		["count"] = 1,
+		["link"] = "|cff0070dd|Hitem:46349:0:0:0:0:0:0:0:90:0:0|h[Cappello da Chef]|h|r",
+	}, -- [179]
+	{
+		["count"] = 5,
+		["link"] = "|cffffffff|Hitem:71968:0:0:0:0:0:0:1826643072:90:0:0|h[Scarto di Carro Giocattolo]|h|r",
+	}, -- [180]
+	{
+		["count"] = 1,
+		["link"] = "|cff0070dd|Hitem:76669:0:0:0:0:0:0:1485280384:90:0:0|h[Onice Vermiglio Feroce]|h|r",
+	}, -- [181]
+	{
+		["count"] = 32,
+		["link"] = "|cffffffff|Hitem:26043:0:0:0:0:0:0:1824680960:90:0:0|h[Campione di Polvere di Cristallo di Oshu'gun]|h|r",
+	}, -- [182]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:105135:4444:4647:0:0:0:0:1063795584:90:161:493|h[Lama Furiosa di Kil'ruk]|h|r",
+	}, -- [183]
+	{
+		["count"] = 3,
+		["link"] = "|cff0070dd|Hitem:76138:0:0:0:0:0:0:991806016:90:0:0|h[Cuordifiume]|h|r",
+	}, -- [184]
+	{
+		["count"] = 2,
+		["link"] = "|cffffffff|Hitem:75014:0:0:0:0:0:0:1384134016:90:0:0|h[Ventre di Crocolisco Crudo]|h|r",
+	}, -- [185]
+	{
+		["count"] = 1,
+		["link"] = "|cffffffff|Hitem:5635:0:0:0:0:0:0:1754075776:90:0:0|h[Artiglio Affilato]|h|r",
+	}, -- [186]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:102699:0:0:0:0:0:0:0:90:0:0|h[Fregio della Vittoria del Gladiatore Orgoglioso]|h|r",
+	}, -- [187]
+	{
+		["count"] = 60,
+		["link"] = "|cffffffff|Hitem:25433:0:0:0:0:0:0:1139397120:90:0:0|h[Amuleto di Guerra d'Ossidiana]|h|r",
+	}, -- [188]
+	{
+		["count"] = 2,
+		["link"] = "|cffffffff|Hitem:30810:0:0:0:0:0:0:1133170272:90:0:0|h[Anello con Sigillo della Furia del Sole]|h|r",
+	}, -- [189]
+	{
+		["count"] = 3,
+		["link"] = "|cffffffff|Hitem:21100:0:0:0:0:0:0:24615364:90:0:0|h[Moneta degli Avi]|h|r",
+	}, -- [190]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:71617:0:0:0:0:0:0:1949982464:90:0:0|h[Pietra del Fuoco Cristallizzata]|h|r",
+	}, -- [191]
+	{
+		["count"] = 1,
+		["link"] = "|cff0070dd|Hitem:37863:0:0:0:0:0:0:2130266146:90:0:0|h[Telecomando di Birranera]|h|r",
+	}, -- [192]
+	{
+		["count"] = 1,
+		["link"] = "|cff0070dd|Hitem:86589:0:0:0:0:0:0:1100120960:90:0:0|h[Specchio Celeste di Ai-Li]|h|r",
+	}, -- [193]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:103262:4411:0:0:0:0:0:0:90:161:0|h[Parabraccia Corazzati dell'Efficienza del Gladiatore Temibile]|h|r",
+	}, -- [194]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:103259:0:4600:0:0:0:0:0:90:0:0|h[Cinturone dell'Abilità del Gladiatore Temibile]|h|r",
+	}, -- [195]
+	{
+		["count"] = 1,
+		["link"] = "|cffa335ee|Hitem:99961:4803:4647:0:0:0:0:0:90:152:0|h[Spallacci a Piastre del Gladiatore Tirannico]|h|r",
+	}, -- [196]
+}
+AmrImportString = ""
+AmrImportDate = ""
+AmrSendSettings = {
+	["SendTo"] = "",
+	["SendGems"] = true,
+	["SendEnchants"] = true,
+	["SendEnchantMaterials"] = true,
+	["SendToType"] = "a friend",
+}
+AmrLogData = {
+}

@@ -1,0 +1,99 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 0,
+		["interrupts"] = 0,
+		["damage"] = 53,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "HUNTER",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["ccbreaks"] = 0,
+				["damage"] = 53,
+				["damagespells"] = {
+					["Felino: Sfregio"] = {
+						["min"] = 44,
+						["critical"] = 1,
+						["totalhits"] = 1,
+						["id"] = 16827,
+						["max"] = 44,
+						["damage"] = 44,
+					},
+					["Felino: Attacco"] = {
+						["min"] = 9,
+						["hit"] = 1,
+						["totalhits"] = 1,
+						["id"] = 6603,
+						["max"] = 9,
+						["damage"] = 9,
+					},
+				},
+				["maxhp"] = 154,
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "Player-1316-077A6FF1",
+				["healing"] = 0,
+				["deathlog"] = {
+				},
+				["damagetakenspells"] = {
+				},
+				["power"] = {
+				},
+				["auras"] = {
+				},
+				["name"] = "Asi",
+				["damagetaken"] = 0,
+				["role"] = "NONE",
+				["time"] = 0,
+				["multistrikes"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["Fiera Giovane della Notte"] = {
+				["players"] = {
+					["Asi"] = {
+						["taken"] = 53,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 53,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["mobtaken"] = 53,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["starttime"] = 1435668910,
+		["damagetaken"] = 0,
+		["shielding"] = 0,
+		["name"] = "Totale",
+		["overhealing"] = 0,
+		["mobdone"] = 0,
+		["mobhdone"] = 0,
+		["last_action"] = 1435668910,
+		["multistrikes"] = 0,
+	},
+	["sets"] = {
+	},
+}

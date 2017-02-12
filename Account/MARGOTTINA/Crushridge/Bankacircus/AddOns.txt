@@ -1,0 +1,3 @@
+YorsahjAnnounce: enabled
+DBM-Party-MoP: enabled
+GroupCalendar5: enabled

@@ -1,0 +1,86 @@
+
+AmrDb = {
+	["Talents"] = {
+		"0000000", -- [1]
+	},
+	["LastCharacterImportDate"] = "",
+	["SendSettings"] = {
+		["SendTo"] = "",
+		["SendGems"] = true,
+		["SendEnchants"] = true,
+		["SendEnchantMaterials"] = true,
+		["SendToType"] = "a friend",
+	},
+	["CharacterName"] = "Àiralì",
+	["Race"] = "NightElf",
+	["ActiveSpec"] = 1,
+	["Level"] = 90,
+	["Equipped"] = {
+		{
+			"|cff1eff00|Hitem:117143:0:0:0:0:0:0:0:90:0:0:0|h[Cappuccio della Nebbia Danzante]|h|r", -- [1]
+			"|cff1eff00|Hitem:117147:0:0:0:0:0:0:0:90:0:0:0|h[Collana della Nebbia Danzante]|h|r", -- [2]
+			"|cff1eff00|Hitem:117151:0:0:0:0:0:0:0:90:0:0:0|h[Spallacci della Nebbia Danzante]|h|r", -- [3]
+			nil, -- [4]
+			"|cff1eff00|Hitem:117162:0:0:0:0:0:0:0:90:0:0:0|h[Giaco della Nebbia Danzante]|h|r", -- [5]
+			"|cff1eff00|Hitem:117153:0:0:0:0:0:0:0:90:0:0:0|h[Fusciacca della Nebbia Danzante]|h|r", -- [6]
+			"|cff1eff00|Hitem:117146:0:0:0:0:0:0:0:90:0:0:0|h[Pantaloni della Nebbia Danzante]|h|r", -- [7]
+			"|cff1eff00|Hitem:117141:0:0:0:0:0:0:0:90:0:0:0|h[Stivali della Nebbia Danzante]|h|r", -- [8]
+			"|cff1eff00|Hitem:117154:0:0:0:0:0:0:0:90:0:0:0|h[Manette della Nebbia Danzante]|h|r", -- [9]
+			"|cff1eff00|Hitem:117142:0:0:0:0:0:0:0:90:0:0:0|h[Guanti della Nebbia Danzante]|h|r", -- [10]
+			"|cff1eff00|Hitem:117148:0:0:0:0:0:0:0:90:0:0:0|h[Anello della Saggezza della Nebbia Danzante]|h|r", -- [11]
+			"|cff1eff00|Hitem:117149:0:0:0:0:0:0:0:90:0:0:0|h[Vera della Saggezza della Nebbia Danzante]|h|r", -- [12]
+			"|cff1eff00|Hitem:117145:0:0:0:0:0:0:0:90:0:0:0|h[Idolo della Saggezza della Nebbia Danzante]|h|r", -- [13]
+			"|cff1eff00|Hitem:117150:0:0:0:0:0:0:0:90:0:0:0|h[Pietra della Saggezza della Nebbia Danzante]|h|r", -- [14]
+			"|cff1eff00|Hitem:117144:0:0:0:0:0:0:0:90:0:0:0|h[Mantello della Saggezza della Nebbia Danzante]|h|r", -- [15]
+			"|cff1eff00|Hitem:117152:0:0:0:0:0:0:0:90:0:0:0|h[Bastone della Nebbia Danzante]|h|r", -- [16]
+		}, -- [1]
+	},
+	["Specs"] = {
+		15, -- [1]
+	},
+	["Options"] = {
+	},
+	["Region"] = "EU",
+	["Currencies"] = {
+		[-1] = 1557000,
+	},
+	["Glyphs"] = {
+		{
+		}, -- [1]
+	},
+	["LogData"] = {
+		["_wipes"] = {
+		},
+		["_autoLog"] = {
+			[1228] = "disabled",
+			[1205] = "disabled",
+		},
+		["_lastDiff"] = 0,
+		["_lastZone"] = "Regni Orientali",
+	},
+	["BagItems"] = {
+		"|cffffffff|Hitem:6948:0:0:0:0:0:0:0:90:0:0:0|h[Pietra del Ritorno]|h|r", -- [1]
+	},
+	["BankItems"] = {
+	},
+	["LastCharacterImport"] = "",
+	["Reps"] = {
+		[1269] = 3,
+		[1337] = 3,
+		[1341] = 3,
+		[1375] = 0,
+		[1387] = 4,
+		[1376] = 3,
+		[1435] = 3,
+		[1388] = 0,
+		[1270] = 3,
+	},
+	["Faction"] = "Alliance",
+	["IconInfo"] = {
+		["minimapPos"] = 249.145154945116,
+	},
+	["Professions"] = {
+	},
+	["RealmName"] = "Nemesis",
+	["Class"] = "MONK",
+}

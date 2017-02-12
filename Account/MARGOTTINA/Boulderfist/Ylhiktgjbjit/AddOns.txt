@@ -1,0 +1,2 @@
+_NPCScan.Overlay: enabled
+_NPCScan: enabled

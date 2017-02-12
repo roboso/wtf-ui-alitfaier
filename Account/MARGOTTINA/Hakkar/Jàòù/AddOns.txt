@@ -1,0 +1,9 @@
+AtlasLoot: enabled
+AtlasLoot_BurningCrusade: enabled
+AtlasLoot_Crafting: enabled
+AtlasLoot_Cataclysm: enabled
+AtlasLoot_ClassicWoW: enabled
+AtlasLoot_Loader: enabled
+AtlasLoot_OriginalWoW: enabled
+AtlasLoot_WorldEvents: enabled
+AtlasLoot_WrathoftheLichKing: enabled

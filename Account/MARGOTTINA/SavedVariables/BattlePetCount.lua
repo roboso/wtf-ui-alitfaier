@@ -1,0 +1,38 @@
+
+BattlePetCountDB = {
+	["profileKeys"] = {
+		["Trottorello - Pozzo dell'Eternità"] = "Default",
+		["Ilåria - Pozzo dell'Eternità"] = "Default",
+		["Pàndorella - Nemesis"] = "Default",
+		["Frugolo - Hakkar"] = "Default",
+		["Phjyiyuihnyt - Pozzo dell'Eternità"] = "Default",
+		["Paoul - Pozzo dell'Eternità"] = "Default",
+		["Pøstepay - Crushridge"] = "Default",
+		["Àsià - Nemesis"] = "Default",
+		["Zanzino - Nemesis"] = "Default",
+		["Lorenzino - Hakkar"] = "Default",
+		["Mnnbvm - Dragonmaw"] = "Default",
+		["Alitfaier - Nemesis"] = "Default",
+		["Dulcistella - Pozzo dell'Eternità"] = "Default",
+		["Alitfaier - Pozzo dell'Eternità"] = "Default",
+		["Kjjkglmlòumt - Pozzo dell'Eternità"] = "Default",
+		["Lorenzø - Pozzo dell'Eternità"] = "Default",
+		["Pirolo - Nemesis"] = "Default",
+		["Pingola - Nemesis"] = "Default",
+		["Shèreen - Hakkar"] = "Default",
+		["Pingola - Hakkar"] = "Default",
+		["Bankacircus - Pozzo dell'Eternità"] = "Default",
+		["Bancaferro - Nemesis"] = "Default",
+		["Jlgy - Nemesis"] = "Default",
+		["Løllø - Pozzo dell'Eternità"] = "Default",
+		["Pàndorella - Pozzo dell'Eternità"] = "Default",
+		["Bpgfhltylj - Pozzo dell'Eternità"] = "Default",
+		["Knyrtohjiito - Pozzo dell'Eternità"] = "Default",
+		["Pingola - Pozzo dell'Eternità"] = "Default",
+		["Postepay - Pozzo dell'Eternità"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

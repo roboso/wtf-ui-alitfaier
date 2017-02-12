@@ -1,0 +1,740 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 62,
+		["interrupts"] = 0,
+		["damage"] = 387,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "MAGE",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["damage"] = 387,
+				["damagespells"] = {
+					["Attacco"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 5,
+						["MISS"] = 1,
+						["damage"] = 37,
+						["DEFLECT"] = 0,
+						["id"] = 6603,
+						["max"] = 10,
+						["min"] = 8,
+						["PARRY"] = 0,
+						["critical"] = 0,
+						["hit"] = 4,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Palla di Fuocogelo"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 23,
+						["MISS"] = 5,
+						["damage"] = 350,
+						["DEFLECT"] = 0,
+						["id"] = 44614,
+						["max"] = 21,
+						["min"] = 18,
+						["PARRY"] = 0,
+						["critical"] = 0,
+						["hit"] = 18,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+				},
+				["deaths"] = {
+				},
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "0x0500000005A76F36",
+				["healing"] = 0,
+				["ccbreaks"] = 0,
+				["damagetakenspells"] = {
+					["Attacco"] = {
+						["min"] = 4,
+						["name"] = "Attacco",
+						["id"] = 6603,
+						["max"] = 5,
+						["totalhits"] = 14,
+						["damage"] = 62,
+					},
+				},
+				["maxhp"] = 103,
+				["deathlog"] = {
+					{
+						["ts"] = 1388744610.454,
+						["amount"] = -4,
+						["hp"] = 103,
+						["spellid"] = 88163,
+						["srcname"] = "Fiera Giovane della Notte",
+					}, -- [1]
+					{
+						["ts"] = 1388744612.403,
+						["amount"] = -4,
+						["hp"] = 99,
+						["spellid"] = 88163,
+						["srcname"] = "Fiera Giovane della Notte",
+					}, -- [2]
+					{
+						["ts"] = 1388744614.409,
+						["amount"] = -5,
+						["hp"] = 95,
+						["spellid"] = 88163,
+						["srcname"] = "Fiera Giovane della Notte",
+					}, -- [3]
+					{
+						["ts"] = 1388744616.489,
+						["amount"] = -5,
+						["hp"] = 90,
+						["spellid"] = 88163,
+						["srcname"] = "Fiera Giovane della Notte",
+					}, -- [4]
+					{
+						["ts"] = 1388744618.491,
+						["amount"] = -5,
+						["hp"] = 85,
+						["spellid"] = 88163,
+						["srcname"] = "Fiera Giovane della Notte",
+					}, -- [5]
+					{
+						["ts"] = 1388744620.478,
+						["amount"] = -5,
+						["hp"] = 80,
+						["spellid"] = 88163,
+						["srcname"] = "Fiera Giovane della Notte",
+					}, -- [6]
+					{
+						["ts"] = 1388744622.477,
+						["amount"] = -4,
+						["hp"] = 75,
+						["spellid"] = 88163,
+						["srcname"] = "Fiera Giovane della Notte",
+					}, -- [7]
+					{
+						["ts"] = 1388744624.502,
+						["amount"] = -4,
+						["hp"] = 71,
+						["spellid"] = 88163,
+						["srcname"] = "Fiera Giovane della Notte",
+					}, -- [8]
+					{
+						["ts"] = 1388744654.091,
+						["amount"] = -4,
+						["hp"] = 103,
+						["spellid"] = 88163,
+						["srcname"] = "Fiera Giovane della Notte",
+					}, -- [9]
+					{
+						["ts"] = 1388744677.576,
+						["amount"] = -4,
+						["hp"] = 103,
+						["spellid"] = 88163,
+						["srcname"] = "Fiera Giovane della Notte",
+					}, -- [10]
+					{
+						["ts"] = 1388744679.669,
+						["amount"] = -5,
+						["hp"] = 99,
+						["spellid"] = 88163,
+						["srcname"] = "Fiera Giovane della Notte",
+					}, -- [11]
+					{
+						["ts"] = 1388744681.544,
+						["amount"] = -4,
+						["hp"] = 94,
+						["spellid"] = 88163,
+						["srcname"] = "Fiera Giovane della Notte",
+					}, -- [12]
+					{
+						["ts"] = 1388744683.561,
+						["amount"] = -4,
+						["hp"] = 90,
+						["spellid"] = 88163,
+						["srcname"] = "Fiera Giovane della Notte",
+					}, -- [13]
+					{
+						["ts"] = 1388744685.613,
+						["amount"] = -5,
+						["hp"] = 86,
+						["spellid"] = 88163,
+						["srcname"] = "Fiera Giovane della Notte",
+					}, -- [14]
+					["pos"] = 15,
+				},
+				["name"] = "Ortòwei",
+				["power"] = {
+				},
+				["auras"] = {
+					["Palla di Fuocogelo"] = {
+						["name"] = "Palla di Fuocogelo",
+						["active"] = 0,
+						["id"] = 44614,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 33,
+					},
+				},
+				["damagetaken"] = 62,
+				["time"] = 52,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["damagetaken"] = 62,
+		["shielding"] = 0,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["starttime"] = 1388744591,
+		["mobtaken"] = 387,
+		["name"] = "Totale",
+		["mobs"] = {
+			["Capriolo"] = {
+				["players"] = {
+					["Ortòwei"] = {
+						["taken"] = 20,
+						["done"] = 0,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 20,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Fiera Giovane della Notte"] = {
+				["players"] = {
+					["Ortòwei"] = {
+						["taken"] = 367,
+						["done"] = 62,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 367,
+				["done"] = 62,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["overhealing"] = 0,
+		["mobhdone"] = 0,
+		["last_action"] = 1388744591,
+		["mobdone"] = 62,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 9,
+			["interrupts"] = 0,
+			["damage"] = 99,
+			["players"] = {
+				{
+					["last"] = 1388744698,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Fiera Giovane della Notte"] = 99,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 99,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 5,
+							["MISS"] = 0,
+							["damage"] = 99,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 21,
+							["min"] = 18,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 5,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000005A76F36",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 103,
+					["name"] = "Ortòwei",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 7,
+						},
+					},
+					["damagetaken"] = 0,
+					["first"] = 1388744691,
+					["time"] = 7,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["endtime"] = 1388744699,
+			["healing"] = 0,
+			["mobs"] = {
+				["Fiera Giovane della Notte"] = {
+					["players"] = {
+						["Ortòwei"] = {
+							["taken"] = 99,
+							["done"] = 0,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 99,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1388744690,
+			["mobtaken"] = 99,
+			["name"] = "Fiera Giovane della Notte",
+			["mobname"] = "Fiera Giovane della Notte",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1388744690,
+			["mobdone"] = 0,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 18,
+			["interrupts"] = 0,
+			["damage"] = 88,
+			["players"] = {
+				{
+					["last"] = 1388744673,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Fiera Giovane della Notte"] = 88,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 88,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 10,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 10,
+							["min"] = 10,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 8,
+							["MISS"] = 4,
+							["damage"] = 78,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 21,
+							["min"] = 18,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 4,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000005A76F36",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 4,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 5,
+							["totalhits"] = 5,
+							["damage"] = 22,
+						},
+					},
+					["maxhp"] = 103,
+					["name"] = "Ortòwei",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 13,
+						},
+					},
+					["damagetaken"] = 22,
+					["first"] = 1388744658,
+					["time"] = 15,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 22,
+			["shielding"] = 0,
+			["endtime"] = 1388744675,
+			["healing"] = 0,
+			["mobs"] = {
+				["Fiera Giovane della Notte"] = {
+					["players"] = {
+						["Ortòwei"] = {
+							["taken"] = 88,
+							["done"] = 22,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 88,
+					["done"] = 22,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1388744657,
+			["mobtaken"] = 88,
+			["name"] = "Fiera Giovane della Notte",
+			["mobname"] = "Fiera Giovane della Notte",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1388744657,
+			["mobdone"] = 22,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 11,
+			["interrupts"] = 0,
+			["damage"] = 96,
+			["players"] = {
+				{
+					["last"] = 1388744642,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Fiera Giovane della Notte"] = 96,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 96,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 5,
+							["MISS"] = 0,
+							["damage"] = 96,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 21,
+							["min"] = 18,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 5,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000005A76F36",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 4,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 4,
+							["totalhits"] = 1,
+							["damage"] = 4,
+						},
+					},
+					["maxhp"] = 103,
+					["name"] = "Ortòwei",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 9,
+						},
+					},
+					["damagetaken"] = 4,
+					["first"] = 1388744633,
+					["time"] = 9,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 4,
+			["shielding"] = 0,
+			["endtime"] = 1388744643,
+			["healing"] = 0,
+			["mobs"] = {
+				["Fiera Giovane della Notte"] = {
+					["players"] = {
+						["Ortòwei"] = {
+							["taken"] = 96,
+							["done"] = 4,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 96,
+					["done"] = 4,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1388744632,
+			["mobtaken"] = 96,
+			["name"] = "Fiera Giovane della Notte",
+			["mobname"] = "Fiera Giovane della Notte",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1388744632,
+			["mobdone"] = 4,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 24,
+			["interrupts"] = 0,
+			["damage"] = 84,
+			["players"] = {
+				{
+					["last"] = 1388744613,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Fiera Giovane della Notte"] = 84,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 84,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 4,
+							["MISS"] = 1,
+							["damage"] = 27,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 10,
+							["min"] = 8,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 3,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 4,
+							["MISS"] = 1,
+							["damage"] = 57,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 19,
+							["min"] = 19,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 3,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000005A76F36",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 4,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 5,
+							["totalhits"] = 8,
+							["damage"] = 36,
+						},
+					},
+					["maxhp"] = 103,
+					["name"] = "Ortòwei",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 4,
+						},
+					},
+					["damagetaken"] = 36,
+					["first"] = 1388744592,
+					["time"] = 21,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 36,
+			["shielding"] = 0,
+			["endtime"] = 1388744615,
+			["healing"] = 0,
+			["mobs"] = {
+				["Fiera Giovane della Notte"] = {
+					["players"] = {
+						["Ortòwei"] = {
+							["taken"] = 84,
+							["done"] = 36,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 84,
+					["done"] = 36,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1388744591,
+			["mobtaken"] = 84,
+			["name"] = "Fiera Giovane della Notte",
+			["mobname"] = "Fiera Giovane della Notte",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1388744591,
+			["mobdone"] = 36,
+		}, -- [4]
+	},
+}

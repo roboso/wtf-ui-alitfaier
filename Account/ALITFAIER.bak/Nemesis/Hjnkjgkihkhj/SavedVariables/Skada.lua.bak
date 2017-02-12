@@ -1,0 +1,1364 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 249,
+		["interrupts"] = 0,
+		["damage"] = 2373,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "MAGE",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["ccbreaks"] = 0,
+				["damage"] = 2373,
+				["damagespells"] = {
+					["Gobber: Attacco"] = {
+						["min"] = 1,
+						["critical"] = 5,
+						["hit"] = 50,
+						["totalhits"] = 55,
+						["id"] = 6603,
+						["max"] = 2,
+						["damage"] = 58,
+					},
+					["Asso: Attacco"] = {
+						["min"] = 1,
+						["critical"] = 2,
+						["hit"] = 44,
+						["totalhits"] = 46,
+						["id"] = 6603,
+						["max"] = 2,
+						["damage"] = 47,
+					},
+					["Izzy: Attacco"] = {
+						["min"] = 1,
+						["critical"] = 2,
+						["hit"] = 44,
+						["totalhits"] = 46,
+						["id"] = 6603,
+						["max"] = 1,
+						["damage"] = 46,
+					},
+					["Palla di Fuocogelo"] = {
+						["min"] = 18,
+						["critical"] = 2,
+						["hit"] = 100,
+						["totalhits"] = 102,
+						["id"] = 44614,
+						["max"] = 42,
+						["damage"] = 2222,
+					},
+				},
+				["maxhp"] = 238,
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "Player-1316-073AB965",
+				["healing"] = 0,
+				["deathlog"] = {
+					{
+						["ts"] = 1423673768.982,
+						["amount"] = -2,
+						["hp"] = 237,
+						["spellid"] = 88163,
+						["srcname"] = "Verme Scavatore",
+					}, -- [1]
+					{
+						["ts"] = 1423673770.918,
+						["amount"] = -1,
+						["hp"] = 235,
+						["spellid"] = 88163,
+						["srcname"] = "Verme Scavatore",
+					}, -- [2]
+					{
+						["ts"] = 1423673784.858,
+						["amount"] = -1,
+						["hp"] = 238,
+						["spellid"] = 88163,
+						["srcname"] = "Verme Scavatore",
+					}, -- [3]
+					{
+						["ts"] = 1423673797.017,
+						["amount"] = -1,
+						["hp"] = 237,
+						["spellid"] = 88163,
+						["srcname"] = "Verme Scavatore",
+					}, -- [4]
+					{
+						["ts"] = 1423673799.016,
+						["amount"] = -1,
+						["hp"] = 236,
+						["spellid"] = 88163,
+						["srcname"] = "Verme Scavatore",
+					}, -- [5]
+					{
+						["ts"] = 1423673810.248,
+						["amount"] = -1,
+						["hp"] = 237,
+						["spellid"] = 88163,
+						["srcname"] = "Verme Scavatore",
+					}, -- [6]
+					{
+						["ts"] = 1423673812.247,
+						["amount"] = -1,
+						["hp"] = 236,
+						["spellid"] = 88163,
+						["srcname"] = "Verme Scavatore",
+					}, -- [7]
+					["pos"] = 8,
+				},
+				["damagetakenspells"] = {
+					["Attacco"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["min"] = 1,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Attacco",
+						["blocked"] = 0,
+						["totalhits"] = 7,
+						["resisted"] = 0,
+						["max"] = 2,
+						["damage"] = 8,
+					},
+				},
+				["power"] = {
+				},
+				["auras"] = {
+					["Palla di Fuocogelo"] = {
+						["name"] = "Palla di Fuocogelo",
+						["active"] = 0,
+						["id"] = 44614,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 149,
+					},
+				},
+				["name"] = "Hjnkjgkihkhj",
+				["damagetaken"] = 8,
+				["role"] = "NONE",
+				["time"] = 207,
+				["multistrikes"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["Manichino d'Allenamento"] = {
+				["players"] = {
+					["Izzy"] = {
+						["taken"] = 46,
+						["done"] = 0,
+						["role"] = "NONE",
+					},
+					["Hjnkjgkihkhj"] = {
+						["taken"] = 1962,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "MAGE",
+					},
+					["Asso"] = {
+						["taken"] = 47,
+						["done"] = 0,
+						["role"] = "NONE",
+					},
+					["Gobber"] = {
+						["taken"] = 58,
+						["done"] = 0,
+						["role"] = "NONE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 2113,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Verme Scavatore"] = {
+				["players"] = {
+					["Hjnkjgkihkhj"] = {
+						["taken"] = 260,
+						["done"] = 8,
+						["role"] = "NONE",
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 260,
+				["done"] = 8,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["mobtaken"] = 2373,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["starttime"] = 1423673767,
+		["damagetaken"] = 8,
+		["shielding"] = 0,
+		["name"] = "Totale",
+		["overhealing"] = 0,
+		["mobdone"] = 8,
+		["mobhdone"] = 0,
+		["last_action"] = 1423673767,
+		["multistrikes"] = 0,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 30,
+			["interrupts"] = 0,
+			["endtime"] = 1423675690,
+			["damage"] = 238,
+			["players"] = {
+				{
+					["last"] = 1423675685,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Manichino d'Allenamento"] = 238,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 238,
+					["damagespells"] = {
+						["Gobber: Attacco"] = {
+							["min"] = 1,
+							["critical"] = 1,
+							["hit"] = 10,
+							["totalhits"] = 11,
+							["id"] = 6603,
+							["max"] = 2,
+							["damage"] = 12,
+						},
+						["Asso: Attacco"] = {
+							["min"] = 1,
+							["hit"] = 9,
+							["totalhits"] = 9,
+							["id"] = 6603,
+							["max"] = 1,
+							["damage"] = 9,
+						},
+						["Izzy: Attacco"] = {
+							["min"] = 1,
+							["hit"] = 8,
+							["totalhits"] = 8,
+							["id"] = 6603,
+							["max"] = 1,
+							["damage"] = 8,
+						},
+						["Palla di Fuocogelo"] = {
+							["min"] = 19,
+							["hit"] = 10,
+							["totalhits"] = 10,
+							["id"] = 44614,
+							["max"] = 23,
+							["damage"] = 209,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-073AB965",
+					["healing"] = 0,
+					["maxhp"] = 252,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 15,
+						},
+					},
+					["name"] = "Hjnkjgkihkhj",
+					["damagetaken"] = 0,
+					["first"] = 1423675661,
+					["role"] = "NONE",
+					["time"] = 24,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Manichino d'Allenamento"] = {
+					["players"] = {
+						["Izzy"] = {
+							["taken"] = 8,
+							["done"] = 0,
+							["role"] = "NONE",
+						},
+						["Hjnkjgkihkhj"] = {
+							["taken"] = 209,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "MAGE",
+						},
+						["Asso"] = {
+							["taken"] = 9,
+							["done"] = 0,
+							["role"] = "NONE",
+						},
+						["Gobber"] = {
+							["taken"] = 12,
+							["done"] = 0,
+							["role"] = "NONE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 238,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 238,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1423675660,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Manichino d'Allenamento (6)",
+			["mobname"] = "Manichino d'Allenamento",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1423675660,
+			["multistrikes"] = 0,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 13,
+			["interrupts"] = 0,
+			["endtime"] = 1423675658,
+			["damage"] = 116,
+			["players"] = {
+				{
+					["last"] = 1423675651,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Manichino d'Allenamento"] = 116,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 116,
+					["damagespells"] = {
+						["Gobber: Attacco"] = {
+							["min"] = 1,
+							["critical"] = 1,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["id"] = 6603,
+							["max"] = 2,
+							["damage"] = 4,
+						},
+						["Izzy: Attacco"] = {
+							["min"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 6603,
+							["max"] = 1,
+							["damage"] = 1,
+						},
+						["Palla di Fuocogelo"] = {
+							["min"] = 21,
+							["hit"] = 5,
+							["totalhits"] = 5,
+							["id"] = 44614,
+							["max"] = 24,
+							["damage"] = 111,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-073AB965",
+					["healing"] = 0,
+					["maxhp"] = 252,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 6,
+						},
+					},
+					["name"] = "Hjnkjgkihkhj",
+					["damagetaken"] = 0,
+					["first"] = 1423675645,
+					["role"] = "NONE",
+					["time"] = 6,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Manichino d'Allenamento"] = {
+					["players"] = {
+						["Izzy"] = {
+							["taken"] = 1,
+							["done"] = 0,
+							["role"] = "NONE",
+						},
+						["Hjnkjgkihkhj"] = {
+							["taken"] = 111,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "MAGE",
+						},
+						["Gobber"] = {
+							["taken"] = 4,
+							["done"] = 0,
+							["role"] = "NONE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 116,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 116,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1423675645,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Manichino d'Allenamento (5)",
+			["mobname"] = "Manichino d'Allenamento",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1423675645,
+			["multistrikes"] = 0,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 97,
+			["interrupts"] = 0,
+			["endtime"] = 1423675643,
+			["damage"] = 941,
+			["players"] = {
+				{
+					["last"] = 1423675639,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Manichino d'Allenamento"] = 941,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 941,
+					["damagespells"] = {
+						["Izzy: Attacco"] = {
+							["min"] = 1,
+							["critical"] = 1,
+							["hit"] = 22,
+							["totalhits"] = 23,
+							["id"] = 6603,
+							["max"] = 1,
+							["damage"] = 23,
+						},
+						["Asso: Attacco"] = {
+							["min"] = 1,
+							["critical"] = 1,
+							["hit"] = 23,
+							["totalhits"] = 24,
+							["id"] = 6603,
+							["max"] = 2,
+							["damage"] = 25,
+						},
+						["Gobber: Attacco"] = {
+							["min"] = 1,
+							["critical"] = 2,
+							["hit"] = 26,
+							["totalhits"] = 28,
+							["id"] = 6603,
+							["max"] = 2,
+							["damage"] = 29,
+						},
+						["Palla di Fuocogelo"] = {
+							["min"] = 19,
+							["critical"] = 1,
+							["hit"] = 38,
+							["totalhits"] = 39,
+							["id"] = 44614,
+							["max"] = 40,
+							["damage"] = 864,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-073AB965",
+					["healing"] = 0,
+					["maxhp"] = 252,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 67,
+						},
+					},
+					["name"] = "Hjnkjgkihkhj",
+					["damagetaken"] = 0,
+					["first"] = 1423675547,
+					["role"] = "NONE",
+					["time"] = 92,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Manichino d'Allenamento"] = {
+					["players"] = {
+						["Izzy"] = {
+							["taken"] = 23,
+							["done"] = 0,
+							["role"] = "NONE",
+						},
+						["Hjnkjgkihkhj"] = {
+							["taken"] = 864,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "MAGE",
+						},
+						["Asso"] = {
+							["taken"] = 25,
+							["done"] = 0,
+							["role"] = "NONE",
+						},
+						["Gobber"] = {
+							["taken"] = 29,
+							["done"] = 0,
+							["role"] = "NONE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 941,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 941,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1423675546,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Manichino d'Allenamento (4)",
+			["mobname"] = "Manichino d'Allenamento",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1423675546,
+			["multistrikes"] = 0,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 52,
+			["interrupts"] = 0,
+			["endtime"] = 1423675535,
+			["damage"] = 477,
+			["players"] = {
+				{
+					["last"] = 1423675529,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Manichino d'Allenamento"] = 477,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 477,
+					["damagespells"] = {
+						["Izzy: Attacco"] = {
+							["min"] = 1,
+							["critical"] = 1,
+							["hit"] = 6,
+							["totalhits"] = 7,
+							["id"] = 6603,
+							["max"] = 1,
+							["damage"] = 7,
+						},
+						["Asso: Attacco"] = {
+							["min"] = 1,
+							["hit"] = 5,
+							["totalhits"] = 5,
+							["id"] = 6603,
+							["max"] = 1,
+							["damage"] = 5,
+						},
+						["Gobber: Attacco"] = {
+							["min"] = 1,
+							["hit"] = 7,
+							["totalhits"] = 7,
+							["id"] = 6603,
+							["max"] = 1,
+							["damage"] = 7,
+						},
+						["Palla di Fuocogelo"] = {
+							["min"] = 19,
+							["hit"] = 21,
+							["totalhits"] = 21,
+							["id"] = 44614,
+							["max"] = 24,
+							["damage"] = 458,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-073AB965",
+					["healing"] = 0,
+					["maxhp"] = 252,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 27,
+						},
+					},
+					["name"] = "Hjnkjgkihkhj",
+					["damagetaken"] = 0,
+					["first"] = 1423675483,
+					["role"] = "NONE",
+					["time"] = 46,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Manichino d'Allenamento"] = {
+					["players"] = {
+						["Izzy"] = {
+							["taken"] = 7,
+							["done"] = 0,
+							["role"] = "NONE",
+						},
+						["Hjnkjgkihkhj"] = {
+							["taken"] = 458,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "MAGE",
+						},
+						["Asso"] = {
+							["taken"] = 5,
+							["done"] = 0,
+							["role"] = "NONE",
+						},
+						["Gobber"] = {
+							["taken"] = 7,
+							["done"] = 0,
+							["role"] = "NONE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 477,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 477,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1423675483,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Manichino d'Allenamento (3)",
+			["mobname"] = "Manichino d'Allenamento",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1423675483,
+			["multistrikes"] = 0,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 23,
+			["interrupts"] = 0,
+			["endtime"] = 1423675480,
+			["damage"] = 220,
+			["players"] = {
+				{
+					["last"] = 1423675475,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Manichino d'Allenamento"] = 220,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 220,
+					["damagespells"] = {
+						["Gobber: Attacco"] = {
+							["min"] = 1,
+							["critical"] = 1,
+							["hit"] = 3,
+							["totalhits"] = 4,
+							["id"] = 6603,
+							["max"] = 1,
+							["damage"] = 4,
+						},
+						["Asso: Attacco"] = {
+							["min"] = 1,
+							["hit"] = 5,
+							["totalhits"] = 5,
+							["id"] = 6603,
+							["max"] = 1,
+							["damage"] = 5,
+						},
+						["Izzy: Attacco"] = {
+							["min"] = 1,
+							["hit"] = 5,
+							["totalhits"] = 5,
+							["id"] = 6603,
+							["max"] = 1,
+							["damage"] = 5,
+						},
+						["Palla di Fuocogelo"] = {
+							["min"] = 19,
+							["critical"] = 1,
+							["hit"] = 8,
+							["totalhits"] = 9,
+							["id"] = 44614,
+							["max"] = 42,
+							["damage"] = 206,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-073AB965",
+					["healing"] = 0,
+					["maxhp"] = 252,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 15,
+						},
+					},
+					["name"] = "Hjnkjgkihkhj",
+					["damagetaken"] = 0,
+					["first"] = 1423675457,
+					["role"] = "NONE",
+					["time"] = 18,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Manichino d'Allenamento"] = {
+					["players"] = {
+						["Izzy"] = {
+							["taken"] = 5,
+							["done"] = 0,
+							["role"] = "NONE",
+						},
+						["Hjnkjgkihkhj"] = {
+							["taken"] = 206,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "MAGE",
+						},
+						["Asso"] = {
+							["taken"] = 5,
+							["done"] = 0,
+							["role"] = "NONE",
+						},
+						["Gobber"] = {
+							["taken"] = 4,
+							["done"] = 0,
+							["role"] = "NONE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 220,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 220,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1423675457,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Manichino d'Allenamento (2)",
+			["mobname"] = "Manichino d'Allenamento",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1423675457,
+			["multistrikes"] = 0,
+		}, -- [5]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 13,
+			["interrupts"] = 0,
+			["endtime"] = 1423675453,
+			["damage"] = 121,
+			["players"] = {
+				{
+					["last"] = 1423675447,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Manichino d'Allenamento"] = 121,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 121,
+					["damagespells"] = {
+						["Gobber: Attacco"] = {
+							["min"] = 1,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 6603,
+							["max"] = 1,
+							["damage"] = 2,
+						},
+						["Asso: Attacco"] = {
+							["min"] = 1,
+							["critical"] = 1,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["id"] = 6603,
+							["max"] = 1,
+							["damage"] = 3,
+						},
+						["Izzy: Attacco"] = {
+							["min"] = 1,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 6603,
+							["max"] = 1,
+							["damage"] = 2,
+						},
+						["Palla di Fuocogelo"] = {
+							["min"] = 20,
+							["hit"] = 5,
+							["totalhits"] = 5,
+							["id"] = 44614,
+							["max"] = 24,
+							["damage"] = 114,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-073AB965",
+					["healing"] = 0,
+					["maxhp"] = 252,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 7,
+						},
+					},
+					["name"] = "Hjnkjgkihkhj",
+					["damagetaken"] = 0,
+					["first"] = 1423675441,
+					["role"] = "NONE",
+					["time"] = 6,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Manichino d'Allenamento"] = {
+					["players"] = {
+						["Izzy"] = {
+							["taken"] = 2,
+							["done"] = 0,
+							["role"] = "NONE",
+						},
+						["Hjnkjgkihkhj"] = {
+							["taken"] = 114,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "MAGE",
+						},
+						["Asso"] = {
+							["taken"] = 3,
+							["done"] = 0,
+							["role"] = "NONE",
+						},
+						["Gobber"] = {
+							["taken"] = 2,
+							["done"] = 0,
+							["role"] = "NONE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 121,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 121,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1423675440,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Manichino d'Allenamento",
+			["mobname"] = "Manichino d'Allenamento",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1423675440,
+			["multistrikes"] = 0,
+		}, -- [6]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["endtime"] = 1423673815,
+			["damage"] = 40,
+			["players"] = {
+				{
+					["last"] = 1423673813,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Verme Scavatore"] = 40,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 40,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["min"] = 18,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 44614,
+							["max"] = 22,
+							["damage"] = 40,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-073AB965",
+					["healing"] = 0,
+					["maxhp"] = 238,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 1,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 1,
+							["damage"] = 2,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 2,
+						},
+					},
+					["name"] = "Hjnkjgkihkhj",
+					["damagetaken"] = 2,
+					["first"] = 1423673810,
+					["role"] = "NONE",
+					["time"] = 3,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Verme Scavatore"] = {
+					["players"] = {
+						["Hjnkjgkihkhj"] = {
+							["taken"] = 40,
+							["done"] = 2,
+							["role"] = "NONE",
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 40,
+					["done"] = 2,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 40,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1423673808,
+			["damagetaken"] = 2,
+			["shielding"] = 0,
+			["name"] = "Verme Scavatore (3)",
+			["mobname"] = "Verme Scavatore",
+			["mobdone"] = 2,
+			["mobhdone"] = 0,
+			["last_action"] = 1423673808,
+			["multistrikes"] = 0,
+		}, -- [7]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["endtime"] = 1423673802,
+			["damage"] = 40,
+			["players"] = {
+				{
+					["last"] = 1423673800,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Verme Scavatore"] = 40,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 40,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["min"] = 20,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 44614,
+							["max"] = 20,
+							["damage"] = 40,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-073AB965",
+					["healing"] = 0,
+					["maxhp"] = 238,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 1,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 1,
+							["damage"] = 2,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 2,
+						},
+					},
+					["name"] = "Hjnkjgkihkhj",
+					["damagetaken"] = 2,
+					["first"] = 1423673797,
+					["role"] = "NONE",
+					["time"] = 3,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Verme Scavatore"] = {
+					["players"] = {
+						["Hjnkjgkihkhj"] = {
+							["taken"] = 40,
+							["done"] = 2,
+							["role"] = "NONE",
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 40,
+					["done"] = 2,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 40,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1423673795,
+			["damagetaken"] = 2,
+			["shielding"] = 0,
+			["name"] = "Verme Scavatore (2)",
+			["mobname"] = "Verme Scavatore",
+			["mobdone"] = 2,
+			["mobhdone"] = 0,
+			["last_action"] = 1423673795,
+			["multistrikes"] = 0,
+		}, -- [8]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["endtime"] = 1423673774,
+			["damage"] = 41,
+			["players"] = {
+				{
+					["last"] = 1423673772,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Verme Scavatore"] = 41,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 41,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["min"] = 20,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 44614,
+							["max"] = 21,
+							["damage"] = 41,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-073AB965",
+					["healing"] = 0,
+					["maxhp"] = 238,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 1,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 2,
+							["damage"] = 3,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 2,
+						},
+					},
+					["name"] = "Hjnkjgkihkhj",
+					["damagetaken"] = 3,
+					["first"] = 1423673769,
+					["role"] = "NONE",
+					["time"] = 3,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Verme Scavatore"] = {
+					["players"] = {
+						["Hjnkjgkihkhj"] = {
+							["taken"] = 41,
+							["done"] = 3,
+							["role"] = "NONE",
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 41,
+					["done"] = 3,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 41,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1423673767,
+			["damagetaken"] = 3,
+			["shielding"] = 0,
+			["name"] = "Verme Scavatore",
+			["mobname"] = "Verme Scavatore",
+			["mobdone"] = 3,
+			["mobhdone"] = 0,
+			["last_action"] = 1423673767,
+			["multistrikes"] = 0,
+		}, -- [9]
+	},
+}

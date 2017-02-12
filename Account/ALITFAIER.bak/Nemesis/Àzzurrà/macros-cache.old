@@ -1,0 +1,18 @@
+VER 3 0100000000000003 "CastSymbiosis001" "INV_MISC_QUESTIONMARK"
+#showtooltip Simbiosi
+/cast  Simbiosi
+/script Symbiosis.Click()
+END
+VER 3 0100000000000013 "inchino" "ACHIEVEMENT_GUILDPERK_FASTTRACK_RANK2"
+/inchino
+END
+VER 3 0100000000000012 "sporafelce" "INV_STAFF_21"
+#showtooltip
+/cast [@focus,exists][@target] Ira Silvana
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+R4PH1WM1PH4IR5DM[x]7HR8SR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]5DR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+NPirDraAwîTinLai[x]OlbSwí[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Àzz[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Àzzurrà|Pozzo dell'Eternità|Alliance|100|DRUID", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = "Àzzurrà - Pozzo dell'Eternità",
+	},
+	["profiles"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = {
+		},
+	},
+}

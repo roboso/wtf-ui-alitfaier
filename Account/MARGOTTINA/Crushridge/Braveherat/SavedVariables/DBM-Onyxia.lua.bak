@@ -1,0 +1,31 @@
+
+DBMOnyxia_SavedVars = {
+	["Onyxia"] = {
+		["Enabled"] = true,
+		["Timer4405Onyxia2"] = true,
+		["WarnPhase3Soon"] = true,
+		["WarnWhelpsSoon"] = true,
+		["HealthFrame"] = false,
+		["BlastNovaWarning"] = false,
+		["TimerWhelps"] = true,
+		["SoundBreath"] = true,
+		["Timer4406Onyxia3"] = true,
+		["SoundWTF"] = false,
+		["Phase 2"] = true,
+		["TimerBreath"] = true,
+		["PlaySoundOnBlastNova"] = false,
+		["Phase 3"] = true,
+		["Announce"] = false,
+		["SpecWarnBreath"] = true,
+	},
+}
+DBMOnyxia_SavedStats = {
+	["Onyxia"] = {
+		["kills"] = 1,
+		["heroicKills"] = 0,
+		["heroicPulls"] = 0,
+		["lastTime"] = 223.2400000000016,
+		["bestTime"] = 223.2400000000016,
+		["pulls"] = 1,
+	},
+}

@@ -1,0 +1,452 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 19,
+		["interrupts"] = 0,
+		["damage"] = 29245,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "DRUID",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+					["Rinvigorimento"] = {
+						["shielding"] = 0,
+						["id"] = 774,
+						["healing"] = 0,
+						["min"] = 0,
+						["name"] = "Rinvigorimento",
+						["max"] = 0,
+						["critical"] = 2,
+						["absorbed"] = 0,
+						["overhealing"] = 215455,
+						["hits"] = 11,
+					},
+					["Crescita Rigogliosa"] = {
+						["shielding"] = 0,
+						["id"] = 48438,
+						["healing"] = 0,
+						["min"] = 0,
+						["name"] = "Crescita Rigogliosa",
+						["max"] = 0,
+						["critical"] = 13,
+						["absorbed"] = 0,
+						["overhealing"] = 423872,
+						["hits"] = 103,
+					},
+					["Guarigione Immediata"] = {
+						["shielding"] = 0,
+						["id"] = 18562,
+						["healing"] = 0,
+						["min"] = 0,
+						["name"] = "Guarigione Immediata",
+						["max"] = 0,
+						["critical"] = 1,
+						["absorbed"] = 0,
+						["overhealing"] = 221868,
+						["hits"] = 2,
+					},
+				},
+				["overhealing"] = 861195,
+				["interrupts"] = 0,
+				["damage"] = 29245,
+				["damagespells"] = {
+					["Attacco"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 1,
+						["totalhits"] = 4,
+						["MISS"] = 0,
+						["damage"] = 29245,
+						["DEFLECT"] = 0,
+						["id"] = 6603,
+						["max"] = 10894,
+						["min"] = 3819,
+						["PARRY"] = 0,
+						["critical"] = 2,
+						["hit"] = 1,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+				},
+				["deaths"] = {
+				},
+				["healed"] = {
+					["Origanna"] = {
+						["shielding"] = 0,
+						["amount"] = 0,
+					},
+					["Àzzurrà"] = {
+						["class"] = "DRUID",
+						["shielding"] = 0,
+						["amount"] = 0,
+					},
+					["Plosimo"] = {
+						["shielding"] = 0,
+						["amount"] = 0,
+					},
+					["Riuken"] = {
+						["shielding"] = 0,
+						["amount"] = 0,
+					},
+					["Dao Zappa Dura"] = {
+						["shielding"] = 0,
+						["amount"] = 0,
+					},
+					["Attilauno"] = {
+						["shielding"] = 0,
+						["amount"] = 0,
+					},
+					["Raoshan l'Astuto"] = {
+						["shielding"] = 0,
+						["amount"] = 0,
+					},
+					["Firemaster"] = {
+						["shielding"] = 0,
+						["amount"] = 0,
+					},
+					["Spadasacra"] = {
+						["shielding"] = 0,
+						["amount"] = 0,
+					},
+				},
+				["shielding"] = 0,
+				["id"] = "0x05000000055232D5",
+				["healing"] = 0,
+				["ccbreaks"] = 0,
+				["damagetakenspells"] = {
+				},
+				["maxhp"] = 443469,
+				["deathlog"] = {
+					{
+						["ts"] = 1384723840.065,
+						["amount"] = 0,
+						["hp"] = 443469,
+						["spellid"] = 774,
+						["srcname"] = "Àzzurrà",
+					}, -- [1]
+					{
+						["ts"] = 1384723840.269,
+						["amount"] = 0,
+						["hp"] = 443469,
+						["spellid"] = 48438,
+						["srcname"] = "Àzzurrà",
+					}, -- [2]
+					{
+						["ts"] = 1384723485.605,
+						["amount"] = 0,
+						["hp"] = 443469,
+						["spellid"] = 48438,
+						["srcname"] = "Àzzurrà",
+					}, -- [3]
+					{
+						["ts"] = 1384723486.523,
+						["amount"] = 0,
+						["hp"] = 443469,
+						["spellid"] = 48438,
+						["srcname"] = "Àzzurrà",
+					}, -- [4]
+					{
+						["ts"] = 1384723487.485,
+						["amount"] = 0,
+						["hp"] = 443469,
+						["spellid"] = 48438,
+						["srcname"] = "Àzzurrà",
+					}, -- [5]
+					{
+						["ts"] = 1384723519.498,
+						["amount"] = 0,
+						["hp"] = 443469,
+						["spellid"] = 774,
+						["srcname"] = "Àzzurrà",
+					}, -- [6]
+					{
+						["ts"] = 1384723522.332,
+						["amount"] = 0,
+						["hp"] = 443469,
+						["spellid"] = 774,
+						["srcname"] = "Àzzurrà",
+					}, -- [7]
+					{
+						["ts"] = 1384723834.438,
+						["amount"] = 0,
+						["hp"] = 443469,
+						["spellid"] = 774,
+						["srcname"] = "Àzzurrà",
+					}, -- [8]
+					{
+						["ts"] = 1384723834.615,
+						["amount"] = 0,
+						["hp"] = 443469,
+						["spellid"] = 48438,
+						["srcname"] = "Àzzurrà",
+					}, -- [9]
+					{
+						["ts"] = 1384723835.557,
+						["amount"] = 0,
+						["hp"] = 443469,
+						["spellid"] = 48438,
+						["srcname"] = "Àzzurrà",
+					}, -- [10]
+					{
+						["ts"] = 1384723836.525,
+						["amount"] = 0,
+						["hp"] = 443469,
+						["spellid"] = 48438,
+						["srcname"] = "Àzzurrà",
+					}, -- [11]
+					{
+						["ts"] = 1384723837.325,
+						["amount"] = 0,
+						["hp"] = 443469,
+						["spellid"] = 774,
+						["srcname"] = "Àzzurrà",
+					}, -- [12]
+					{
+						["ts"] = 1384723837.433,
+						["amount"] = 0,
+						["hp"] = 443469,
+						["spellid"] = 48438,
+						["srcname"] = "Àzzurrà",
+					}, -- [13]
+					{
+						["ts"] = 1384723838.417,
+						["amount"] = 0,
+						["hp"] = 443469,
+						["spellid"] = 48438,
+						["srcname"] = "Àzzurrà",
+					}, -- [14]
+					{
+						["ts"] = 1384723839.32,
+						["amount"] = 0,
+						["hp"] = 443469,
+						["spellid"] = 48438,
+						["srcname"] = "Àzzurrà",
+					}, -- [15]
+					["pos"] = 3,
+				},
+				["name"] = "Àzzurrà",
+				["power"] = {
+				},
+				["auras"] = {
+					["Scudo di Sputo dell'Idra"] = {
+						["name"] = "Scudo di Sputo dell'Idra",
+						["active"] = 3,
+						["id"] = 140380,
+						["auratype"] = "BUFF",
+						["uptime"] = 37,
+					},
+					["Armonia"] = {
+						["name"] = "Armonia",
+						["active"] = 2,
+						["id"] = 100977,
+						["auratype"] = "BUFF",
+						["uptime"] = 31,
+					},
+					["Seme Vivente"] = {
+						["name"] = "Seme Vivente",
+						["active"] = 1,
+						["id"] = 48504,
+						["auratype"] = "BUFF",
+						["uptime"] = 31,
+					},
+				},
+				["damagetaken"] = 0,
+				["time"] = 27,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["damagetaken"] = 0,
+		["shielding"] = 0,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["starttime"] = 1384723262,
+		["mobtaken"] = 29245,
+		["name"] = "Totale",
+		["mobs"] = {
+			["Plosimo"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Aspirazione della Vita"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 5560,
+						["hits"] = 2,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Aspirazione della Vita"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 5560,
+						["hits"] = 2,
+					},
+				},
+			},
+			["Manichino d'Allenamento dell'Incursore"] = {
+				["players"] = {
+					["Àzzurrà"] = {
+						["taken"] = 29245,
+						["done"] = 0,
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 29245,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["overhealing"] = 861195,
+		["mobhdone"] = 0,
+		["last_action"] = 1384723262,
+		["mobdone"] = 0,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 19,
+			["interrupts"] = 0,
+			["damage"] = 29245,
+			["players"] = {
+				{
+					["last"] = 1384723521,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Manichino d'Allenamento dell'Incursore"] = 29245,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+						["Rinvigorimento"] = {
+							["shielding"] = 0,
+							["id"] = 774,
+							["healing"] = 0,
+							["min"] = 0,
+							["name"] = "Rinvigorimento",
+							["max"] = 0,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 30944,
+							["hits"] = 2,
+						},
+					},
+					["overhealing"] = 30944,
+					["interrupts"] = 0,
+					["damage"] = 29245,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 1,
+							["totalhits"] = 4,
+							["MISS"] = 0,
+							["damage"] = 29245,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 10894,
+							["min"] = 3819,
+							["PARRY"] = 0,
+							["critical"] = 2,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+						["Àzzurrà"] = {
+							["class"] = "DRUID",
+							["shielding"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["shielding"] = 0,
+					["id"] = "0x05000000055232D5",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 443469,
+					["name"] = "Àzzurrà",
+					["power"] = {
+					},
+					["auras"] = {
+						["Scudo di Sputo dell'Idra"] = {
+							["name"] = "Scudo di Sputo dell'Idra",
+							["active"] = 1,
+							["id"] = 140380,
+							["auratype"] = "BUFF",
+							["uptime"] = 13,
+						},
+					},
+					["damagetaken"] = 0,
+					["first"] = 1384723511,
+					["time"] = 10,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["endtime"] = 1384723528,
+			["healing"] = 0,
+			["mobs"] = {
+				["Manichino d'Allenamento dell'Incursore"] = {
+					["players"] = {
+						["Àzzurrà"] = {
+							["taken"] = 29245,
+							["done"] = 0,
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 29245,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1384723509,
+			["mobtaken"] = 29245,
+			["name"] = "Manichino d'Allenamento dell'Incursore",
+			["mobname"] = "Manichino d'Allenamento dell'Incursore",
+			["overhealing"] = 30944,
+			["mobhdone"] = 0,
+			["last_action"] = 1384723509,
+			["mobdone"] = 0,
+		}, -- [1]
+	},
+}

@@ -1,0 +1,94 @@
+
+DBMDMF_AllSavedVars = {
+	["Àzzurrà-Nemesis"] = {
+		["Gnoll"] = {
+			{
+				["Enabled"] = true,
+				["warnHogger"] = true,
+				["warnGnoll"] = false,
+				["Timer101612active"] = true,
+				["specWarnHogger"] = true,
+				["warnGameOver"] = true,
+				["HealthFrame"] = false,
+				["SpeedKillTimer"] = false,
+				["CountdownFades101612"] = true,
+				["specWarnHoggerSpecialWarningSound"] = 1,
+			}, -- [1]
+		},
+		["Rings"] = {
+			{
+				["Enabled"] = true,
+				["Timer170820active"] = true,
+				["HealthFrame"] = false,
+				["announce170823count"] = false,
+				["SpeedKillTimer"] = false,
+				["CountdownFades170820"] = true,
+			}, -- [1]
+		},
+		["Cannon"] = {
+			{
+				["Enabled"] = true,
+				["CountdownFades102116"] = true,
+				["HealthFrame"] = false,
+				["Timer102116fades"] = true,
+				["SpeedKillTimer"] = false,
+			}, -- [1]
+		},
+		["talent1"] = "Rigenerazione",
+		["Shot"] = {
+			{
+				["Enabled"] = true,
+				["CountdownFades101871"] = true,
+				["HealthFrame"] = false,
+				["Timer101871active"] = true,
+				["SpeedKillTimer"] = false,
+				["SetBubbles"] = true,
+			}, -- [1]
+		},
+		["Rabbit"] = {
+			{
+				["Enabled"] = true,
+				["announceother114078target"] = true,
+				["HealthFrame"] = false,
+				["SpeedKillTimer"] = false,
+				["Yell114078"] = true,
+			}, -- [1]
+		},
+		["Moonfang"] = {
+			{
+				["specWarnMoonfangCurse"] = false,
+				["SpecWarn144702spellSpecialWarningSound"] = 2,
+				["Timer144702next"] = true,
+				["Yell144546"] = true,
+				["SpecWarn144590you"] = true,
+				["SpecWarn144590youSpecialWarningSound"] = 1,
+				["specWarnCallPackSpecialWarningSound"] = 1,
+				["Enabled"] = true,
+				["HealthFrame"] = false,
+				["specWarnMoonfangCurseSpecialWarningSound"] = 1,
+				["announce144590spell"] = true,
+				["specWarnCallPack"] = true,
+				["announce144602spell"] = true,
+				["announce144702spell"] = true,
+				["SpecWarn144702spell"] = true,
+				["SpecWarn144546youSpecialWarningSound"] = 1,
+				["SpecWarn144546you"] = true,
+				["announceother144546target"] = true,
+				["SpeedKillTimer"] = false,
+				["Timer144546cd"] = true,
+			}, -- [1]
+		},
+		["Tonks"] = {
+			{
+				["HealthFrame"] = false,
+				["CountdownFades102178"] = true,
+				["SpecWarn102341run2"] = true,
+				["Timer102178active"] = true,
+				["SpeedKillTimer"] = false,
+				["announce102341spell"] = true,
+				["Enabled"] = true,
+				["SpecWarn102341run2SpecialWarningSound"] = 4,
+			}, -- [1]
+		},
+	},
+}

@@ -1,0 +1,8 @@
+Version: 1
+Frame: DominosFramepet
+FrameLevel: 1
+Anchor: BOTTOM
+X: -417
+Y: 50
+W: 354
+H: 30

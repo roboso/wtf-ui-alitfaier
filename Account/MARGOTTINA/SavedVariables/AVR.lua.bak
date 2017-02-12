@@ -1,0 +1,10 @@
+
+AVR_DB = {
+	["profileKeys"] = {
+		["Alitfaier - Hakkar"] = "Alitfaier - Hakkar",
+	},
+	["profiles"] = {
+		["Alitfaier - Hakkar"] = {
+		},
+	},
+}

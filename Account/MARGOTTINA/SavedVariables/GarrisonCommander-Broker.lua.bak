@@ -1,0 +1,20 @@
+
+dbGACB = {
+	["profileKeys"] = {
+		["Alitfaier - Nemesis"] = "Alitfaier - Nemesis",
+	},
+	["realm"] = {
+		["Nemesis"] = {
+			["missions"] = {
+				"000001424877213. 268.Alitfaier", -- [1]
+				"000001424884416. 384.Alitfaier", -- [2]
+				"000001424884427. 481.Alitfaier", -- [3]
+				"000001424884446. 471.Alitfaier", -- [4]
+				"000001424884763. 131.Alitfaier", -- [5]
+				"000001424884773. 485.Alitfaier", -- [6]
+				"000001424891619. 392.Alitfaier", -- [7]
+				"000001424927639. 337.Alitfaier", -- [8]
+			},
+		},
+	},
+}

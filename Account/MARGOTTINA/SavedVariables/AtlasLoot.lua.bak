@@ -1,0 +1,32 @@
+
+AtlasLootDB = {
+	["namespaces"] = {
+		["DefaultFrame"] = {
+			["profiles"] = {
+				["Postepay - Pozzo dell'Eternità"] = {
+					["NEWpoint"] = {
+						"RIGHT", -- [1]
+						nil, -- [2]
+						"RIGHT", -- [3]
+						-237.4826350779625, -- [4]
+						122.5298611855297, -- [5]
+					},
+				},
+			},
+		},
+		["AtlasLootPanel"] = {
+		},
+		["WishList"] = {
+		},
+		["Filter"] = {
+		},
+	},
+	["showWarning"] = true,
+	["profileKeys"] = {
+		["Postepay - Pozzo dell'Eternità"] = "Postepay - Pozzo dell'Eternità",
+	},
+	["profiles"] = {
+		["Postepay - Pozzo dell'Eternità"] = {
+		},
+	},
+}

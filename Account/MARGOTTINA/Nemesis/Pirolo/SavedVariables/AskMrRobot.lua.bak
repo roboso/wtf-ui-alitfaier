@@ -1,0 +1,71 @@
+
+AmrDb = {
+	["Talents"] = {
+	},
+	["LastCharacterImportDate"] = "",
+	["SendSettings"] = {
+		["SendTo"] = "",
+		["SendGems"] = true,
+		["SendEnchants"] = true,
+		["SendEnchantMaterials"] = true,
+		["SendToType"] = "a friend",
+	},
+	["CharacterName"] = "Pirolo",
+	["Race"] = "Dwarf",
+	["ActiveSpec"] = 1,
+	["Level"] = 90,
+	["Equipped"] = {
+		{
+			"|cff1eff00|Hitem:117200:0:0:0:0:0:0:0:90:0:0:0|h[Elmo Foderato dell'Anima Luminosa]|h|r", -- [1]
+			"|cff1eff00|Hitem:117202:0:0:0:0:0:0:0:90:0:0:0|h[Amuleto dell'Anima Luminosa]|h|r", -- [2]
+			"|cff1eff00|Hitem:117207:0:0:0:0:0:0:0:90:0:0:0|h[Spallacci Foderati dell'Anima Luminosa]|h|r", -- [3]
+			nil, -- [4]
+			"|cff1eff00|Hitem:117196:0:0:0:0:0:0:0:90:0:0:0|h[Corazza Foderata dell'Anima Luminosa]|h|r", -- [5]
+			"|cff1eff00|Hitem:117208:0:0:0:0:0:0:0:90:0:0:0|h[Fusciacca dell'Anima Luminosa]|h|r", -- [6]
+			"|cff1eff00|Hitem:117201:0:0:0:0:0:0:0:90:0:0:0|h[Gambali Foderati dell'Anima Luminosa]|h|r", -- [7]
+			"|cff1eff00|Hitem:117198:0:0:0:0:0:0:0:90:0:0:0|h[Schinieri dell'Anima Luminosa]|h|r", -- [8]
+			"|cff1eff00|Hitem:117209:0:0:0:0:0:0:0:90:0:0:0|h[Bracciali Foderati dell'Anima Luminosa]|h|r", -- [9]
+			"|cff1eff00|Hitem:117199:0:0:0:0:0:0:0:90:0:0:0|h[Guardamani Foderati dell'Anima Luminosa]|h|r", -- [10]
+			"|cff1eff00|Hitem:117204:0:0:0:0:0:0:0:90:0:0:0|h[Anello dello Stoicismo dell'Anima Luminosa]|h|r", -- [11]
+			"|cff1eff00|Hitem:117205:0:0:0:0:0:0:0:90:0:0:0|h[Vera dello Stoicismo dell'Anima Luminosa]|h|r", -- [12]
+			"|cff1eff00|Hitem:117203:0:0:0:0:0:0:0:90:0:0:0|h[Idolo della Difesa dell'Anima Luminosa]|h|r", -- [13]
+			"|cff1eff00|Hitem:117206:0:0:0:0:0:0:0:90:0:0:0|h[Pietra della Difesa dell'Anima Luminosa]|h|r", -- [14]
+			"|cff1eff00|Hitem:117197:0:0:0:0:0:0:0:90:0:0:0|h[Mantello dello Stoicismo dell'Anima Luminosa]|h|r", -- [15]
+			"|cff1eff00|Hitem:117187:0:0:0:0:0:0:0:90:0:0:0|h[Spada dell'Anima Luminosa]|h|r", -- [16]
+			"|cff1eff00|Hitem:117188:0:0:0:0:0:0:0:90:0:0:0|h[Scudo Barricata dell'Anima Luminosa]|h|r", -- [17]
+		}, -- [1]
+	},
+	["Specs"] = {
+	},
+	["Options"] = {
+	},
+	["Region"] = "EU",
+	["Currencies"] = {
+	},
+	["Glyphs"] = {
+	},
+	["LogData"] = {
+		["_wipes"] = {
+		},
+		["_autoLog"] = {
+			[1228] = "disabled",
+			[1205] = "disabled",
+		},
+		["_lastDiff"] = 0,
+		["_lastZone"] = "Intro Giungla di Tanaan",
+	},
+	["BagItems"] = {
+	},
+	["BankItems"] = {
+	},
+	["LastCharacterImport"] = "",
+	["Reps"] = {
+	},
+	["Faction"] = "Alliance",
+	["IconInfo"] = {
+	},
+	["Professions"] = {
+	},
+	["RealmName"] = "Nemesis",
+	["Class"] = "PALADIN",
+}

@@ -1,0 +1,20 @@
+
+ZygorGuidesViewerSettings = {
+	["char"] = {
+		["Pingola - Nemesis"] = {
+			["maint_fetchitemdata"] = true,
+			["maint_fetchquestdata"] = true,
+		},
+	},
+	["profileKeys"] = {
+		["Pingola - Nemesis"] = "Pingola - Nemesis",
+	},
+	["profiles"] = {
+		["Pingola - Nemesis"] = {
+			["tmp__was_sheened"] = true,
+			["visible"] = false,
+			["magickey_bind"] = "",
+			["skipauxsteps"] = true,
+		},
+	},
+}

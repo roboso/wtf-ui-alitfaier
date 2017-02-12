@@ -1,0 +1,61 @@
+
+SlamAndAweDBPC = {
+	["profileKeys"] = {
+		["Alitfaier - Pozzo dell'Eternità"] = "char",
+	},
+	["char"] = {
+		["Alitfaier - Pozzo dell'Eternità"] = {
+			["yOffset"] = -160.17106628418,
+			["TFBPercent"] = 1,
+			["enableFurySpec"] = false,
+			["rageshow"] = false,
+			["immuneTargets"] = {
+			},
+			["currentspec"] = "Protection",
+			["fWidth"] = 140,
+			["bbshow"] = false,
+			["warning"] = {
+				["interrupt"] = false,
+				["show"] = false,
+			},
+			["showicons"] = false,
+			["RAGEPercent"] = 1,
+			["csshow"] = false,
+			["bcshow"] = false,
+			["ragecap"] = 100,
+			["uptime"] = {
+				["show"] = false,
+			},
+			["BCLen"] = 5,
+			["tfbshow"] = false,
+			["gcdshow"] = false,
+			["commandingshoutshow"] = false,
+			["BBPercent"] = 1,
+			["CSPercent"] = 1,
+			["SBlPercent"] = 1,
+			["avashow"] = false,
+			["BCPercent"] = 1,
+			["talAvatar"] = true,
+			["LSPercent"] = 1,
+			["DSPercent"] = 1,
+			["DRPercent"] = 1,
+			["AVAPercent"] = 1,
+			["SWPercent"] = 1,
+			["fHeight"] = 100,
+			["AVALen"] = 20,
+			["drshow"] = false,
+			["enableArmsSpec"] = false,
+			["priority"] = {
+				["previous"] = "shs",
+				["groupnumber"] = 2,
+				["next"] = "shs",
+				["prOption"] = {
+				},
+				["show"] = false,
+				["showcooldown"] = false,
+			},
+			["CSHPercent"] = 1,
+			["IPPercent"] = 1,
+		},
+	},
+}

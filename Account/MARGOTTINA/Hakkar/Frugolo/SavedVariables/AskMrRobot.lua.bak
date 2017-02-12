@@ -1,0 +1,69 @@
+
+AmrDb = {
+	["Talents"] = {
+	},
+	["LastCharacterImportDate"] = "",
+	["SendSettings"] = {
+		["SendTo"] = "",
+		["SendGems"] = true,
+		["SendEnchants"] = true,
+		["SendEnchantMaterials"] = true,
+		["SendToType"] = "a friend",
+	},
+	["CharacterName"] = "Frugolo",
+	["Race"] = "NightElf",
+	["ActiveSpec"] = 1,
+	["Level"] = 41,
+	["Equipped"] = {
+		{
+			"|cff1eff00|Hitem:61527:0:0:0:0:0:0:1454246656:41:0:0:0|h[Elmetto del Lucertolone]|h|r", -- [1]
+			nil, -- [2]
+			"|cffe6cc80|Hitem:42952:0:0:0:0:0:0:0:41:0:0:0|h[Guardaspalle Macchiati del Creatore d'Ombra]|h|r", -- [3]
+			nil, -- [4]
+			"|cffe6cc80|Hitem:48689:0:0:0:0:0:0:0:41:0:0:0|h[Giubba Macchiata del Creatore d'Ombra]|h|r", -- [5]
+			"|cff0070dd|Hitem:51964:0:0:0:0:0:-80:703266826:41:0:0:0|h[Cintura Vigorosa delle Terre Selvagge]|h|r", -- [6]
+			"|cff1eff00|Hitem:61544:0:0:0:0:0:0:1647759104:41:0:0:0|h[Gambiere con Macchie Misteriose]|h|r", -- [7]
+			"|cff0070dd|Hitem:61550:0:0:0:0:0:0:1415448704:41:0:0:0|h[Stivali dell'Avventato]|h|r", -- [8]
+			"|cff1eff00|Hitem:62150:0:0:0:0:0:0:1949983872:41:0:0:0|h[Bracciali dell'Eliminazione]|h|r", -- [9]
+			"|cff0070dd|Hitem:888:0:0:0:0:0:0:806760598:41:0:0:0|h[Guanti da Battaglia dei Naga]|h|r", -- [10]
+			"|cff1eff00|Hitem:56622:0:0:0:0:0:0:382287456:41:0:0:0|h[Anello del Cardo]|h|r", -- [11]
+			"|cff1eff00|Hitem:62164:0:0:0:0:0:0:1048055808:41:0:0:0|h[Vera di Pugnoprode]|h|r", -- [12]
+			"|cffe6cc80|Hitem:42991:0:0:0:0:0:0:0:41:0:0:0|h[Rapida Mano della Giustizia]|h|r", -- [13]
+			nil, -- [14]
+			"|cff1eff00|Hitem:62172:0:0:0:0:0:0:791499520:41:0:0:0|h[Mantello Verde della Foresta]|h|r", -- [15]
+			"|cffe6cc80|Hitem:48716:0:0:0:0:0:0:0:41:0:0:0|h[Mazza Venerabile di McGowan]|h|r", -- [16]
+		}, -- [1]
+	},
+	["Specs"] = {
+	},
+	["Options"] = {
+	},
+	["Region"] = "EU",
+	["Currencies"] = {
+	},
+	["Glyphs"] = {
+	},
+	["LogData"] = {
+		["_wipes"] = {
+		},
+		["_autoLog"] = {
+			[1136] = "disabled",
+		},
+		["_lastDiff"] = 0,
+		["_lastZone"] = "Regni Orientali",
+	},
+	["BagItems"] = {
+	},
+	["BankItems"] = {
+	},
+	["LastCharacterImport"] = "",
+	["Reps"] = {
+	},
+	["Faction"] = "Alliance",
+	["IconInfo"] = {
+	},
+	["Professions"] = {
+	},
+	["RealmName"] = "Hakkar",
+	["Class"] = "DRUID",
+}

@@ -1,0 +1,614 @@
+
+TradeSkillMasterDB = {
+	["p@Default@inventoryTooltipFormat"] = "full",
+	["p@Default@tooltipPriceFormat"] = "text",
+	["g@ @customPriceSources"] = {
+	},
+	["f@Alliance - Pozzo dell'Eternità@pendingMail"] = {
+		["Àzzurrà"] = {
+		},
+	},
+	["p@Default@detailedDestroyTooltip"] = false,
+	["p@Default@pricePerUnit"] = true,
+	["p@Default@tooltipShowModifier"] = "none",
+	["p@Default@exportSubGroups"] = false,
+	["p@Default@operationTooltips"] = {
+	},
+	["p@Default@minimapIcon"] = {
+		["minimapPos"] = 144.29247682112,
+		["radius"] = 80,
+		["hide"] = false,
+	},
+	["p@Default@vendorBuyTooltip"] = true,
+	["f@Alliance - Pozzo dell'Eternità@characters"] = {
+		["Àzzurrà"] = "DRUID",
+	},
+	["g@ @auctionSaleSound"] = "TSM_NO_SOUND",
+	["f@Alliance - Pozzo dell'Eternità@accountKey"] = "Pozzo dell'Eternità107202065",
+	["p@Default@exportOperations"] = false,
+	["g@ @pendingAddonUpdate"] = {
+	},
+	["g@ @infoMessagesShown"] = {
+		["resetDesign"] = true,
+	},
+	["p@Default@defaultGroupTab"] = 2,
+	["c@Àzzurrà - Pozzo dell'Eternità@auctionMessages"] = {
+	},
+	["c@Àzzurrà - Pozzo dell'Eternità@auctionPrices"] = {
+	},
+	["p@Default@protectAH"] = false,
+	["f@Alliance - Pozzo dell'Eternità@ignoreGuilds"] = {
+	},
+	["p@Default@cleanReagentBank"] = false,
+	["p@Default@groupTreeSelectedGroupStatus"] = {
+	},
+	["f@Alliance - Pozzo dell'Eternità@bankUIBankFramePosition"] = {
+		100, -- [1]
+		300, -- [2]
+	},
+	["p@Default@design"] = {
+		["fonts"] = {
+			["content"] = "Fonts\\ARIALN.TTF",
+			["bold"] = "Interface\\Addons\\TradeSkillMaster\\Media\\DroidSans-Bold.ttf",
+		},
+		["edgeSize"] = 1.5,
+		["textColors"] = {
+			["iconRegion"] = {
+				["enabled"] = {
+					249, -- [1]
+					255, -- [2]
+					247, -- [3]
+					1, -- [4]
+				},
+			},
+			["title"] = {
+				["enabled"] = {
+					132, -- [1]
+					219, -- [2]
+					9, -- [3]
+					1, -- [4]
+				},
+			},
+			["label"] = {
+				["enabled"] = {
+					216, -- [1]
+					225, -- [2]
+					211, -- [3]
+					1, -- [4]
+				},
+				["disabled"] = {
+					150, -- [1]
+					148, -- [2]
+					140, -- [3]
+					1, -- [4]
+				},
+			},
+			["text"] = {
+				["enabled"] = {
+					255, -- [1]
+					254, -- [2]
+					250, -- [3]
+					1, -- [4]
+				},
+				["disabled"] = {
+					147, -- [1]
+					151, -- [2]
+					139, -- [3]
+					1, -- [4]
+				},
+			},
+			["link"] = {
+				["enabled"] = {
+					49, -- [1]
+					56, -- [2]
+					133, -- [3]
+					1, -- [4]
+				},
+			},
+		},
+		["fontSizes"] = {
+			["normal"] = 15,
+			["small"] = 12,
+			["medium"] = 13,
+		},
+		["frameColors"] = {
+			["frameBG"] = {
+				["backdrop"] = {
+					24, -- [1]
+					24, -- [2]
+					24, -- [3]
+					0.93, -- [4]
+				},
+				["border"] = {
+					50, -- [1]
+					50, -- [2]
+					50, -- [3]
+					1, -- [4]
+				},
+			},
+			["content"] = {
+				["backdrop"] = {
+					45, -- [1]
+					45, -- [2]
+					45, -- [3]
+					1, -- [4]
+				},
+				["border"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					0, -- [4]
+				},
+			},
+			["frame"] = {
+				["backdrop"] = {
+					24, -- [1]
+					24, -- [2]
+					24, -- [3]
+					1, -- [4]
+				},
+				["border"] = {
+					100, -- [1]
+					100, -- [2]
+					100, -- [3]
+					0.3, -- [4]
+				},
+			},
+		},
+		["inlineColors"] = {
+			["link"] = {
+				153, -- [1]
+				255, -- [2]
+				255, -- [3]
+				1, -- [4]
+			},
+			["link2"] = {
+				153, -- [1]
+				255, -- [2]
+				255, -- [3]
+				1, -- [4]
+			},
+			["tooltip"] = {
+				130, -- [1]
+				130, -- [2]
+				250, -- [3]
+				1, -- [4]
+			},
+			["category"] = {
+				36, -- [1]
+				106, -- [2]
+				36, -- [3]
+				1, -- [4]
+			},
+			["category2"] = {
+				85, -- [1]
+				180, -- [2]
+				8, -- [3]
+				1, -- [4]
+			},
+		},
+	},
+	["p@Default@customPriceSourceTreeStatus"] = {
+	},
+	["g@ @bankUITab"] = "Warehousing",
+	["f@Alliance - Pozzo dell'Eternità@guildVaults"] = {
+		["Lux et Tenebrä"] = {
+		},
+	},
+	["p@Default@embeddedTooltip"] = true,
+	["p@Default@defaultAuctionTab"] = "Shopping",
+	["g@ @operations"] = {
+	},
+	["p@Default@importParentOnly"] = false,
+	["p@Default@cleanBags"] = false,
+	["p@Default@destroyValueSource"] = "dbmarket",
+	["p@Default@deTooltip"] = true,
+	["p@Default@keepInParent"] = true,
+	["p@Default@operations"] = {
+		["Mailing"] = {
+		},
+		["TradeSkillMaster"] = {
+		},
+		["Shopping"] = {
+		},
+		["Crafting"] = {
+		},
+	},
+	["g@ @optionsTreeStatus"] = {
+	},
+	["p@Default@gotoNewGroup"] = true,
+	["p@Default@items"] = {
+	},
+	["p@Default@gotoNewCustomPriceSource"] = true,
+	["p@Default@moveImportedItems"] = false,
+	["f@Alliance - Pozzo dell'Eternità@characterGuilds"] = {
+		["Àzzurrà"] = "Lux et Tenebrä",
+	},
+	["g@ @auctionSaleEnabled"] = true,
+	["g@ @moveDelay"] = 0,
+	["g@ @tsmItemTweetEnabled"] = true,
+	["p@Default@cleanBank"] = false,
+	["p@Default@inventoryViewerPriceSource"] = "dbmarket",
+	["_version"] = 5,
+	["g@ @chatFrame"] = "",
+	["g@ @customPriceTooltips"] = {
+	},
+	["f@Alliance - Pozzo dell'Eternità@syncAccounts"] = {
+	},
+	["p@Default@vendorSellTooltip"] = true,
+	["g@ @frameStatus"] = {
+		["TSMCraftingGatherFrame"] = {
+			["y"] = 300,
+			["x"] = 100,
+			["height"] = 400,
+			["defaults"] = {
+				["y"] = 300,
+				["x"] = 100,
+				["height"] = 400,
+				["scale"] = 1,
+				["width"] = 500,
+			},
+			["scale"] = 1,
+			["width"] = 500,
+		},
+	},
+	["_scopeKeys"] = {
+		["char"] = {
+			"Àzzurrà - Pozzo dell'Eternità", -- [1]
+		},
+		["realm"] = {
+			"Pozzo dell'Eternità", -- [1]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["factionrealm"] = {
+			"Alliance - Pozzo dell'Eternità", -- [1]
+		},
+	},
+	["g@ @vendorItems"] = {
+		["i:17194"] = 10,
+		["i:44854"] = 25,
+		["i:49908"] = 1500000,
+		["i:159"] = 25,
+		["i:27860"] = 6400,
+		["i:8343"] = 2000,
+		["i:10647"] = 2000,
+		["i:90146"] = 20000,
+		["i:4291"] = 500,
+		["i:30183"] = 700000,
+		["i:39354"] = 15,
+		["i:83092"] = 200000000,
+		["i:4340"] = 350,
+		["i:74854"] = 7000,
+		["i:39684"] = 9000,
+		["i:79740"] = 23,
+		["i:2594"] = 1500,
+		["i:17202"] = 10,
+		["i:40533"] = 50000,
+		["i:30817"] = 25,
+		["i:11291"] = 4500,
+		["i:4342"] = 2500,
+		["i:74832"] = 12000,
+		["i:58278"] = 16000,
+		["i:102539"] = 5000,
+		["i:2325"] = 1000,
+		["i:2604"] = 50,
+		["i:47556"] = 1250000,
+		["i:4399"] = 200,
+		["i:6260"] = 50,
+		["i:85583"] = 12000,
+		["i:102540"] = 5000,
+		["i:4537"] = 125,
+		["i:80433"] = 2000000,
+		["i:44499"] = 30000000,
+		["i:35948"] = 16000,
+		["i:62323"] = 60000,
+		["i:74852"] = 16000,
+		["i:67335"] = 445561,
+		["i:58265"] = 20000,
+		["i:46784"] = 25,
+		["i:44855"] = 25,
+		["i:45087"] = 1000000,
+		["i:2596"] = 120,
+		["i:5956"] = 18,
+		["i:7005"] = 82,
+		["i:4470"] = 38,
+		["i:35949"] = 8500,
+		["i:44501"] = 10000000,
+		["i:44500"] = 15000000,
+		["i:65892"] = 50000000,
+		["i:34412"] = 1000,
+		["i:38426"] = 30000,
+		["i:44853"] = 25,
+		["i:2324"] = 25,
+		["i:67319"] = 328990,
+		["i:6530"] = 100,
+		["i:46797"] = 25,
+		["i:85584"] = 17000,
+		["i:65893"] = 30000000,
+		["i:52188"] = 15000,
+		["i:85585"] = 27000,
+		["i:74659"] = 30000,
+		["i:10290"] = 2500,
+		["i:4341"] = 500,
+		["i:74845"] = 35000,
+		["i:4400"] = 2000,
+		["i:74851"] = 14000,
+		["i:2321"] = 100,
+		["i:2593"] = 150,
+		["i:23572"] = 500000,
+		["i:17196"] = 50,
+		["i:6261"] = 1000,
+		["i:14341"] = 5000,
+		["i:4289"] = 50,
+		["i:1179"] = 125,
+		["i:18567"] = 30000,
+		["i:2901"] = 81,
+		["i:2320"] = 10,
+		["i:74660"] = 15000,
+		["i:2595"] = 2000,
+		["i:2678"] = 10,
+		["i:3466"] = 2000,
+		["i:2605"] = 100,
+		["i:3857"] = 500,
+		["i:3371"] = 100,
+		["i:46796"] = 25,
+		["i:6217"] = 124,
+		["i:2880"] = 100,
+		["i:34249"] = 1000000,
+		["i:46793"] = 25,
+		["i:44835"] = 10,
+		["i:43102"] = 750000,
+	},
+	["g@ @ignoreRandomEnchants"] = false,
+	["g@ @moduleOperationsTreeStatus"] = {
+	},
+	["g@ @globalOperations"] = false,
+	["p@Default@groupOperationTooltip"] = true,
+	["g@ @appMessageId"] = 0,
+	["g@ @moduleOperationTabs"] = {
+	},
+	["p@Default@prospectTooltip"] = true,
+	["g@ @auctionBuyEnabled"] = true,
+	["p@Default@auctionFrameMovable"] = true,
+	["p@Default@groups"] = {
+	},
+	["f@Alliance - Pozzo dell'Eternità@bankUIGBankFramePosition"] = {
+		100, -- [1]
+		300, -- [2]
+	},
+	["f@Alliance - Pozzo dell'Eternità@syncMetadata"] = {
+		["TSM_INVENTORY"] = {
+			["Àzzurrà"] = {
+				["lastUpdate"] = 1469305844,
+				["owner"] = "Pozzo dell'Eternità107202065",
+			},
+		},
+		["TSM_CHARACTERS"] = {
+			["Àzzurrà"] = {
+				["lastUpdate"] = 1469305830,
+				["owner"] = "Pozzo dell'Eternità107202065",
+			},
+		},
+		["CRAFTING_PROFESSIONS"] = {
+			["Àzzurrà"] = {
+				["lastUpdate"] = 1469305843,
+				["owner"] = "Pozzo dell'Eternità107202065",
+			},
+		},
+	},
+	["_hash"] = 8163356,
+	["p@Default@groupFilterPrice"] = "dbmarket",
+	["p@Default@auctionFrameScale"] = 1,
+	["p@Default@tooltipOptions"] = {
+		["AuctionDB"] = {
+			["regionMinBuyout"] = false,
+			["regionHistorical"] = false,
+			["historical"] = false,
+			["regionSalePercent"] = true,
+			["minBuyout"] = true,
+			["regionMarketValue"] = true,
+			["regionSale"] = true,
+			["globalSale"] = false,
+			["globalHistorical"] = false,
+			["regionSoldPerDay"] = true,
+			["globalMinBuyout"] = false,
+			["globalMarketValue"] = false,
+			["_version"] = 2,
+			["marketValue"] = true,
+		},
+		["Accounting"] = {
+			["sale"] = true,
+			["expiredAuctions"] = false,
+			["cancelledAuctions"] = false,
+			["purchase"] = true,
+			["saleRate"] = false,
+		},
+		["Shopping"] = {
+			["maxPrice"] = false,
+		},
+		["Crafting"] = {
+			["matPrice"] = false,
+			["detailedMats"] = false,
+			["craftingCost"] = true,
+		},
+	},
+	["f@Alliance - Pozzo dell'Eternità@inventory"] = {
+		["Àzzurrà"] = {
+			["reagentBank"] = {
+				["i:108996"] = 117,
+				["i:115504"] = 1,
+				["i:52988"] = 1,
+				["i:21877"] = 200,
+				["i:52325"] = 81,
+				["i:49908"] = 1,
+				["i:114781"] = 9,
+				["i:36906"] = 4,
+				["i:52986"] = 25,
+				["i:113264"] = 51,
+				["i:72237"] = 2,
+				["i:109125"] = 1423,
+				["i:109693"] = 4,
+				["i:72234"] = 19,
+				["i:22445"] = 4,
+				["i:113588"] = 18,
+				["i:111245"] = 33,
+				["i:36908"] = 2,
+				["i:3371"] = 65,
+				["i:76136"] = 111,
+				["i:37702"] = 13,
+				["i:120945"] = 2244,
+				["i:72092"] = 3,
+				["i:72095"] = 2,
+				["i:109126"] = 400,
+				["i:109119"] = 971,
+				["i:109118"] = 1278,
+				["i:53038"] = 7,
+				["i:113263"] = 17,
+				["i:53010"] = 122,
+				["i:52186"] = 17,
+				["i:52327"] = 866,
+				["i:72988"] = 49,
+				["i:52985"] = 7,
+				["i:2453"] = 1,
+				["i:79011"] = 51,
+				["i:4625"] = 12,
+				["i:110609"] = 494,
+				["i:113262"] = 195,
+				["i:33470"] = 189,
+				["i:36901"] = 4,
+				["i:22577"] = 4,
+				["i:109124"] = 2,
+				["i:111557"] = 24,
+				["i:52983"] = 51,
+				["i:40195"] = 18,
+				["i:87399"] = 26,
+				["i:37705"] = 18,
+				["i:23438"] = 2,
+				["i:113261"] = 275,
+				["i:69237"] = 1,
+				["i:118472"] = 1,
+				["i:52987"] = 23,
+				["i:37701"] = 4,
+				["i:52984"] = 358,
+				["i:45087"] = 5,
+			},
+			["bag"] = {
+				["i:124572"] = 1,
+				["i:71634"] = 1,
+				["i:109262"] = 1,
+				["i:113984"] = 1,
+				["i:126033"] = 1,
+				["i:68789"] = 1,
+				["i:127989"] = 1,
+				["i:129928"] = 1,
+				["i:58088"] = 8,
+				["i:122576"] = 3,
+				["i:56358"] = 1,
+				["i:124635"] = 1,
+				["i:58087"] = 8,
+				["i:109126"] = 24,
+				["i:116415"] = 8,
+				["i:113681"] = 7,
+				["i:118632"] = 39,
+				["i:109127"] = 21,
+				["i:52185"] = 20,
+				["i:113262"] = 47,
+				["i:118006"] = 3,
+				["i:113962"] = 1,
+				["i:55838"] = 1,
+				["i:141000"] = 1,
+				["i:21886"] = 6,
+				["i:128502"] = 1,
+				["i:87399"] = 3,
+				["i:116205"] = 1,
+				["i:117384"] = 1,
+				["i:140999"] = 1,
+				["i:52984"] = 240,
+				["i:109885"] = 1,
+				["i:108996"] = 71,
+				["i:115504"] = 24,
+				["i:52988"] = 216,
+				["i:113264"] = 1,
+				["i:120945"] = 27,
+				["i:58480"] = 7,
+				["i:52985"] = 130,
+				["i:118100"] = 1,
+				["i:52986"] = 6,
+				["i:109119"] = 19,
+				["i:52367"] = 1,
+				["i:52329"] = 149,
+				["i:52327"] = 108,
+				["i:55833"] = 1,
+				["i:122590"] = 9,
+				["i:124279"] = 1,
+				["i:124139"] = 1,
+				["i:113261"] = 3,
+				["i:118099"] = 14,
+				["i:124212"] = 1,
+				["i:32405"] = 1,
+				["i:89112"] = 7,
+				["i:52328"] = 7,
+				["i:93195"] = 1,
+				["i:110560"] = 1,
+				["i:116053"] = 4,
+				["i:52326"] = 47,
+				["i:72095"] = 383,
+				["i:122618"] = 4,
+				["i:108439"] = 6,
+				["i:112994"] = 1,
+				["i:69820"] = 1,
+				["i:52183"] = 7,
+				["i:113263"] = 40,
+				["i:53010"] = 170,
+				["i:56363"] = 1,
+				["i:55835"] = 1,
+				["i:56850"] = 11,
+				["i:55830"] = 1,
+				["i:22456"] = 6,
+				["i:124251"] = 1,
+				["i:109184"] = 1,
+				["i:65891"] = 1,
+				["i:114120"] = 17,
+				["i:109155"] = 16,
+				["i:113872"] = 1,
+				["i:71716"] = 1,
+				["i:124228"] = 1,
+				["i:112320"] = 1,
+				["i:52983"] = 318,
+				["i:113975"] = 1,
+				["i:109584"] = 2,
+				["i:68729"] = 1,
+				["i:129747"] = 1,
+				["i:127783"] = 1,
+				["i:114116"] = 6,
+				["i:133378"] = 1,
+				["i:52987"] = 6,
+				["i:64395"] = 1,
+				["i:88567"] = 1,
+				["i:6948"] = 1,
+			},
+			["mail"] = {
+			},
+			["auction"] = {
+			},
+			["bank"] = {
+			},
+		},
+	},
+	["p@Default@openAllBags"] = true,
+	["p@Default@groupTreeCollapsedStatus"] = {
+	},
+	["p@Default@groupTreeStatus"] = {
+	},
+	["p@Default@savedThemes"] = {
+	},
+	["p@Default@auctionResultRows"] = 16,
+	["p@Default@millTooltip"] = true,
+	["p@Default@isBankui"] = true,
+	["_currentProfile"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = "Default",
+	},
+	["p@Default@transformTooltip"] = true,
+}

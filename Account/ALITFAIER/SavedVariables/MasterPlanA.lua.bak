@@ -1,0 +1,9 @@
+
+MasterPlanAG = {
+	["Pozzo dell'Eternità"] = {
+		["Àzzurrà"] = {
+			["class"] = "DRUID",
+			["faction"] = "Alliance",
+		},
+	},
+}

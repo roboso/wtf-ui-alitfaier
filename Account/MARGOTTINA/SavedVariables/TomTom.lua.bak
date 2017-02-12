@@ -1,0 +1,19 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Braveherat - Hakkar"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+TomTomWaypoints = {
+	["profileKeys"] = {
+		["Braveherat - Hakkar"] = "Braveherat - Hakkar",
+	},
+	["profiles"] = {
+		["Braveherat - Hakkar"] = {
+		},
+	},
+}

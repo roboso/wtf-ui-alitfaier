@@ -1,0 +1,10 @@
+
+BrokerAuditorDB = {
+	["profileKeys"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = "Àzzurrà - Pozzo dell'Eternità",
+	},
+	["profiles"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = {
+		},
+	},
+}

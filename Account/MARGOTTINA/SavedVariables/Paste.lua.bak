@@ -1,0 +1,11 @@
+
+PasteDB = {
+	["profileKeys"] = {
+		["Alitfaier - Nemesis"] = "Alitfaier - Nemesis",
+	},
+	["profiles"] = {
+		["Alitfaier - Nemesis"] = {
+			["loaded"] = true,
+		},
+	},
+}

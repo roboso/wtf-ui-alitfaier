@@ -1,0 +1,69 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["time"] = 1473592850,
+	["scrollback"] = {
+		["ChatFrame1"] = {
+			{
+				"|cff979797[13:20:11]|r|c00000000|r Missione \"Prendersi cura degli affari\" accettata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [1]
+			{
+				"|cff979797[13:20:42]|r|c00000000|r Missione \"Prendersi cura degli affari\" completata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [2]
+			{
+				"|cff979797[13:20:42]|r|c00000000|r Esperienza guadagnata: 10.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [3]
+			{
+				"|cff979797[13:20:47]|r|c00000000|r Missione \"Problemi nelle miniere\" accettata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [4]
+			{
+				"|cff979797[13:20:50]|r|c00000000|r Missione \"Non è facile trovare un aiuto valido\" accettata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [5]
+		},
+	},
+}

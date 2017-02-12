@@ -1,0 +1,12 @@
+MACRO 16777218 "tunder + shout" Ability_ThunderClap
+  /castsequence reset=3 thunder Clap, demoralizing shout, demoralizing shout/stopcasting
+END
+MACRO 16777219 "VuhDoDCShieldData" Ability_Hunter_FerociousInspiration
+P1MR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1WM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+MACRO 16777220 "VuhDoDCShieldNames" Ability_Hunter_FerociousInspiration
+NGra[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ali[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+MACRO 16777217 "wst " INV_Misc_QuestionMark
+/2 wts Namlak's Supernumerary Sticker
+END

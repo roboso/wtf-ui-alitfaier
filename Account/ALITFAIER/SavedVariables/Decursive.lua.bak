@@ -1,0 +1,31 @@
+
+DecursiveDB = {
+	["profileKeys"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = "Default",
+	},
+	["class"] = {
+		["DRUID"] = {
+			["CureOrder"] = {
+				-13, -- [1]
+				-15, -- [2]
+				nil, -- [3]
+				1, -- [4]
+				[8] = 2,
+				[16] = -14,
+				[32] = -16,
+			},
+		},
+	},
+	["global"] = {
+		["LastVersionAnnounce"] = 1469219055,
+		["TocExpiredDetection"] = 1469219045,
+	},
+	["profiles"] = {
+		["Default"] = {
+			["DebuffsFrameContainer_y"] = 494.933293613533,
+			["MainBarX"] = 682.6666802822,
+			["MainBarY"] = -95.9999957158016,
+			["DebuffsFrameContainer_x"] = 1024.0000204233,
+		},
+	},
+}

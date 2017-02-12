@@ -1,0 +1,2 @@
+
+GMTDBPerChar = nil

@@ -1,0 +1,3045 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 1109,
+		["interrupts"] = 0,
+		["damage"] = 15632,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "MAGE",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["damage"] = 15632,
+				["damagespells"] = {
+					["Izzy: Attacco"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 2,
+						["totalhits"] = 68,
+						["MISS"] = 0,
+						["damage"] = 134,
+						["DEFLECT"] = 0,
+						["id"] = 6603,
+						["max"] = 4,
+						["min"] = 1,
+						["PARRY"] = 0,
+						["critical"] = 6,
+						["hit"] = 60,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Esplosione Gelida"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 14,
+						["MISS"] = 0,
+						["damage"] = 224,
+						["DEFLECT"] = 0,
+						["id"] = 122,
+						["max"] = 22,
+						["min"] = 14,
+						["PARRY"] = 0,
+						["critical"] = 0,
+						["hit"] = 14,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Palla di Fuocogelo"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 306,
+						["MISS"] = 7,
+						["damage"] = 13635,
+						["DEFLECT"] = 0,
+						["id"] = 44614,
+						["max"] = 112,
+						["min"] = 21,
+						["PARRY"] = 0,
+						["critical"] = 19,
+						["hit"] = 274,
+						["EVADE"] = 6,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Gobber: Attacco"] = {
+						["DODGE"] = 2,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 4,
+						["totalhits"] = 67,
+						["MISS"] = 1,
+						["damage"] = 115,
+						["DEFLECT"] = 0,
+						["id"] = 6603,
+						["max"] = 3,
+						["min"] = 1,
+						["PARRY"] = 0,
+						["critical"] = 2,
+						["hit"] = 58,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Asso: Attacco"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 3,
+						["totalhits"] = 66,
+						["MISS"] = 0,
+						["damage"] = 126,
+						["DEFLECT"] = 0,
+						["id"] = 6603,
+						["max"] = 4,
+						["min"] = 1,
+						["PARRY"] = 0,
+						["critical"] = 5,
+						["hit"] = 58,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Detonazione di Fuoco"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 21,
+						["MISS"] = 0,
+						["damage"] = 980,
+						["DEFLECT"] = 0,
+						["id"] = 2136,
+						["max"] = 52,
+						["min"] = 47,
+						["PARRY"] = 0,
+						["critical"] = 0,
+						["hit"] = 20,
+						["EVADE"] = 1,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Attacco"] = {
+						["DODGE"] = 2,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 3,
+						["totalhits"] = 45,
+						["MISS"] = 0,
+						["damage"] = 418,
+						["DEFLECT"] = 0,
+						["id"] = 6603,
+						["max"] = 20,
+						["min"] = 7,
+						["PARRY"] = 0,
+						["critical"] = 3,
+						["hit"] = 37,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+				},
+				["deaths"] = {
+					{
+						["log"] = {
+							{
+								["ts"] = 1406042432.594,
+								["amount"] = -15,
+								["hp"] = 111,
+								["spellid"] = 88163,
+								["srcname"] = "Scimmia Minatrice Arguta",
+							}, -- [1]
+							{
+								["ts"] = 1406042433.325,
+								["amount"] = -15,
+								["hp"] = 81,
+								["spellid"] = 38560,
+								["srcname"] = "Scimmia Minatrice Arguta",
+							}, -- [2]
+							{
+								["ts"] = 1406042433.543,
+								["amount"] = -8,
+								["hp"] = 81,
+								["spellid"] = 88163,
+								["srcname"] = "Scimmia Minatrice Arguta",
+							}, -- [3]
+							{
+								["ts"] = 1406042434.601,
+								["amount"] = -17,
+								["hp"] = 73,
+								["spellid"] = 88163,
+								["srcname"] = "Scimmia Minatrice Arguta",
+							}, -- [4]
+							{
+								["ts"] = 1406042435.014,
+								["amount"] = -9,
+								["hp"] = 73,
+								["spellid"] = 88163,
+								["srcname"] = "Scimmia Minatrice Arguta",
+							}, -- [5]
+							{
+								["ts"] = 1406042435.014,
+								["amount"] = -15,
+								["hp"] = 73,
+								["spellid"] = 88163,
+								["srcname"] = "Scimmia Minatrice Arguta",
+							}, -- [6]
+							{
+								["ts"] = 1406042436.553,
+								["amount"] = -20,
+								["hp"] = 12,
+								["spellid"] = 38560,
+								["srcname"] = "Scimmia Minatrice Arguta",
+							}, -- [7]
+							{
+								["ts"] = 1406042437.031,
+								["amount"] = -7,
+								["hp"] = 12,
+								["spellid"] = 88163,
+								["srcname"] = "Scimmia Minatrice Arguta",
+							}, -- [8]
+							{
+								["ts"] = 1406042437.031,
+								["amount"] = -17,
+								["hp"] = 12,
+								["spellid"] = 88163,
+								["srcname"] = "Scimmia Minatrice Arguta",
+							}, -- [9]
+							{
+								["ts"] = 1406042437.547,
+								["amount"] = 0,
+								["spellname"] = "Hcbqajd muore",
+								["hp"] = 0,
+								["spellid"] = 5384,
+							}, -- [10]
+							{
+								["ts"] = 1406042429.279,
+								["amount"] = -17,
+								["hp"] = 178,
+								["spellid"] = 88163,
+								["srcname"] = "Scimmia Minatrice Arguta",
+							}, -- [11]
+							{
+								["ts"] = 1406042429.521,
+								["amount"] = -8,
+								["hp"] = 178,
+								["spellid"] = 88163,
+								["srcname"] = "Scimmia Minatrice Arguta",
+							}, -- [12]
+							{
+								["ts"] = 1406042430.601,
+								["amount"] = -16,
+								["hp"] = 144,
+								["spellid"] = 88163,
+								["srcname"] = "Scimmia Minatrice Arguta",
+							}, -- [13]
+							{
+								["ts"] = 1406042431.288,
+								["amount"] = -9,
+								["hp"] = 128,
+								["spellid"] = 88163,
+								["srcname"] = "Scimmia Minatrice Arguta",
+							}, -- [14]
+							{
+								["ts"] = 1406042431.523,
+								["amount"] = -8,
+								["hp"] = 128,
+								["spellid"] = 88163,
+								["srcname"] = "Scimmia Minatrice Arguta",
+							}, -- [15]
+						},
+						["ts"] = 1406042437.547,
+					}, -- [1]
+					{
+						["log"] = {
+							{
+								["ts"] = 1406041848.239,
+								["amount"] = -18,
+								["hp"] = 60,
+								["spellid"] = 88163,
+								["srcname"] = "Cucciolo di Teraptor",
+							}, -- [1]
+							{
+								["ts"] = 1406041850.273,
+								["amount"] = -18,
+								["hp"] = 42,
+								["spellid"] = 88163,
+								["srcname"] = "Cucciolo di Teraptor",
+							}, -- [2]
+							{
+								["ts"] = 1406041852.254,
+								["amount"] = -16,
+								["hp"] = 24,
+								["spellid"] = 88163,
+								["srcname"] = "Cucciolo di Teraptor",
+							}, -- [3]
+							{
+								["ts"] = 1406041854.266,
+								["amount"] = -17,
+								["hp"] = 8,
+								["spellid"] = 88163,
+								["srcname"] = "Cucciolo di Teraptor",
+							}, -- [4]
+							{
+								["ts"] = 1406041854.973,
+								["amount"] = 0,
+								["spellname"] = "Hcbqajd muore",
+								["hp"] = 0,
+								["spellid"] = 5384,
+							}, -- [5]
+							{
+								["ts"] = 1406041823.72,
+								["amount"] = -17,
+								["hp"] = 226,
+								["spellid"] = 88163,
+								["srcname"] = "Cucciolo di Teraptor",
+							}, -- [6]
+							{
+								["ts"] = 1406041830.251,
+								["amount"] = -19,
+								["hp"] = 209,
+								["spellid"] = 88163,
+								["srcname"] = "Cucciolo di Teraptor",
+							}, -- [7]
+							{
+								["ts"] = 1406041832.168,
+								["amount"] = -19,
+								["hp"] = 190,
+								["spellid"] = 88163,
+								["srcname"] = "Cucciolo di Teraptor",
+							}, -- [8]
+							{
+								["ts"] = 1406041834.265,
+								["amount"] = -16,
+								["hp"] = 171,
+								["spellid"] = 88163,
+								["srcname"] = "Cucciolo di Teraptor",
+							}, -- [9]
+							{
+								["ts"] = 1406041836.223,
+								["amount"] = -15,
+								["hp"] = 155,
+								["spellid"] = 88163,
+								["srcname"] = "Cucciolo di Teraptor",
+							}, -- [10]
+							{
+								["ts"] = 1406041838.229,
+								["amount"] = -16,
+								["hp"] = 140,
+								["spellid"] = 88163,
+								["srcname"] = "Cucciolo di Teraptor",
+							}, -- [11]
+							{
+								["ts"] = 1406041840.192,
+								["amount"] = -16,
+								["hp"] = 124,
+								["spellid"] = 88163,
+								["srcname"] = "Cucciolo di Teraptor",
+							}, -- [12]
+							{
+								["ts"] = 1406041842.19,
+								["amount"] = -16,
+								["hp"] = 108,
+								["spellid"] = 88163,
+								["srcname"] = "Cucciolo di Teraptor",
+							}, -- [13]
+							{
+								["ts"] = 1406041844.206,
+								["amount"] = -16,
+								["hp"] = 92,
+								["spellid"] = 88163,
+								["srcname"] = "Cucciolo di Teraptor",
+							}, -- [14]
+							{
+								["ts"] = 1406041846.227,
+								["amount"] = -16,
+								["hp"] = 76,
+								["spellid"] = 88163,
+								["srcname"] = "Cucciolo di Teraptor",
+							}, -- [15]
+						},
+						["ts"] = 1406041854.973,
+					}, -- [2]
+					{
+						["log"] = {
+							{
+								["ts"] = 1406041273.907,
+								["amount"] = -16,
+								["hp"] = 58,
+								["spellid"] = 88163,
+								["srcname"] = "Marinaio dell'Alleanza",
+							}, -- [1]
+							{
+								["ts"] = 1406041273.907,
+								["amount"] = -17,
+								["hp"] = 58,
+								["spellid"] = 88163,
+								["srcname"] = "Marinaio dell'Alleanza",
+							}, -- [2]
+							{
+								["ts"] = 1406041274.156,
+								["amount"] = -15,
+								["hp"] = 58,
+								["spellid"] = 88163,
+								["srcname"] = "Marinaia dell'Alleanza",
+							}, -- [3]
+							{
+								["ts"] = 1406041274.156,
+								["amount"] = -19,
+								["hp"] = 58,
+								["spellid"] = 88163,
+								["srcname"] = "Marinaio dell'Alleanza",
+							}, -- [4]
+							{
+								["ts"] = 1406041274.156,
+								["amount"] = -23,
+								["hp"] = 58,
+								["spellid"] = 88163,
+								["srcname"] = "Marinaia dell'Alleanza",
+							}, -- [5]
+							{
+								["ts"] = 1406041274.156,
+								["amount"] = -17,
+								["hp"] = 58,
+								["spellid"] = 88163,
+								["srcname"] = "Marinaio dell'Alleanza",
+							}, -- [6]
+							{
+								["ts"] = 1406041275.031,
+								["amount"] = 0,
+								["spellname"] = "Hcbqajd muore",
+								["hp"] = 0,
+								["spellid"] = 5384,
+							}, -- [7]
+							{
+								["ts"] = 1406041272.132,
+								["amount"] = -15,
+								["hp"] = 273,
+								["spellid"] = 88163,
+								["srcname"] = "Marinaia dell'Alleanza",
+							}, -- [8]
+							{
+								["ts"] = 1406041272.132,
+								["amount"] = -22,
+								["hp"] = 273,
+								["spellid"] = 88163,
+								["srcname"] = "Marinaio dell'Alleanza",
+							}, -- [9]
+							{
+								["ts"] = 1406041272.132,
+								["amount"] = -18,
+								["hp"] = 273,
+								["spellid"] = 88163,
+								["srcname"] = "Marinaio dell'Alleanza",
+							}, -- [10]
+							{
+								["ts"] = 1406041272.132,
+								["amount"] = -23,
+								["hp"] = 250,
+								["spellid"] = 83622,
+								["srcname"] = "Marinaio dell'Alleanza",
+							}, -- [11]
+							{
+								["ts"] = 1406041272.132,
+								["amount"] = -20,
+								["hp"] = 230,
+								["spellid"] = 83622,
+								["srcname"] = "Marinaio dell'Alleanza",
+							}, -- [12]
+							{
+								["ts"] = 1406041272.32,
+								["amount"] = -19,
+								["hp"] = 211,
+								["spellid"] = 83622,
+								["srcname"] = "Marinaia dell'Alleanza",
+							}, -- [13]
+							{
+								["ts"] = 1406041272.428,
+								["amount"] = -19,
+								["hp"] = 192,
+								["spellid"] = 83622,
+								["srcname"] = "Marinaio dell'Alleanza",
+							}, -- [14]
+							{
+								["ts"] = 1406041272.428,
+								["amount"] = -17,
+								["hp"] = 175,
+								["spellid"] = 83622,
+								["srcname"] = "Marinaio dell'Alleanza",
+							}, -- [15]
+						},
+						["ts"] = 1406041275.031,
+					}, -- [3]
+					{
+						["log"] = {
+							{
+								["ts"] = 1406040394.81,
+								["amount"] = -10,
+								["hp"] = 43,
+								["spellid"] = 88163,
+								["srcname"] = "Cinghiale Nasofine",
+							}, -- [1]
+							{
+								["ts"] = 1406040394.81,
+								["amount"] = -11,
+								["hp"] = 43,
+								["spellid"] = 88163,
+								["srcname"] = "Cinghiale Nasofine",
+							}, -- [2]
+							{
+								["ts"] = 1406040395.631,
+								["amount"] = -12,
+								["hp"] = 22,
+								["spellid"] = 88163,
+								["srcname"] = "Buttafuori della Villa",
+							}, -- [3]
+							{
+								["ts"] = 1406040396.011,
+								["amount"] = -10,
+								["hp"] = 22,
+								["spellid"] = 88163,
+								["srcname"] = "Buttafuori della Villa",
+							}, -- [4]
+							{
+								["ts"] = 1406040396.806,
+								["amount"] = 0,
+								["spellname"] = "Hcbqajd muore",
+								["hp"] = 0,
+								["spellid"] = 5384,
+							}, -- [5]
+							{
+								["ts"] = 1406040386.793,
+								["amount"] = -10,
+								["hp"] = 157,
+								["spellid"] = 88163,
+								["srcname"] = "Cinghiale Nasofine",
+							}, -- [6]
+							{
+								["ts"] = 1406040387.562,
+								["amount"] = -13,
+								["hp"] = 147,
+								["spellid"] = 88163,
+								["srcname"] = "Buttafuori della Villa",
+							}, -- [7]
+							{
+								["ts"] = 1406040388.866,
+								["amount"] = -9,
+								["hp"] = 134,
+								["spellid"] = 88163,
+								["srcname"] = "Cinghiale Nasofine",
+							}, -- [8]
+							{
+								["ts"] = 1406040389.564,
+								["amount"] = -12,
+								["hp"] = 125,
+								["spellid"] = 88163,
+								["srcname"] = "Buttafuori della Villa",
+							}, -- [9]
+							{
+								["ts"] = 1406040390.785,
+								["amount"] = -10,
+								["hp"] = 113,
+								["spellid"] = 88163,
+								["srcname"] = "Cinghiale Nasofine",
+							}, -- [10]
+							{
+								["ts"] = 1406040391.593,
+								["amount"] = -13,
+								["hp"] = 103,
+								["spellid"] = 88163,
+								["srcname"] = "Buttafuori della Villa",
+							}, -- [11]
+							{
+								["ts"] = 1406040392.793,
+								["amount"] = -11,
+								["hp"] = 90,
+								["spellid"] = 88163,
+								["srcname"] = "Cinghiale Nasofine",
+							}, -- [12]
+							{
+								["ts"] = 1406040392.891,
+								["amount"] = -15,
+								["hp"] = 90,
+								["spellid"] = 88163,
+								["srcname"] = "Cinghiale Nasofine",
+							}, -- [13]
+							{
+								["ts"] = 1406040393.646,
+								["amount"] = -12,
+								["hp"] = 64,
+								["spellid"] = 88163,
+								["srcname"] = "Buttafuori della Villa",
+							}, -- [14]
+							{
+								["ts"] = 1406040394.008,
+								["amount"] = -9,
+								["hp"] = 64,
+								["spellid"] = 88163,
+								["srcname"] = "Buttafuori della Villa",
+							}, -- [15]
+						},
+						["ts"] = 1406040396.806,
+					}, -- [4]
+					{
+						["log"] = {
+							{
+								["ts"] = 1406040223.641,
+								["amount"] = -9,
+								["hp"] = 93,
+								["spellid"] = 88163,
+								["srcname"] = "Buttafuori della Villa",
+							}, -- [1]
+							{
+								["ts"] = 1406040224.794,
+								["amount"] = -9,
+								["hp"] = 74,
+								["spellid"] = 88163,
+								["srcname"] = "Buttafuori della Villa",
+							}, -- [2]
+							{
+								["ts"] = 1406040225.634,
+								["amount"] = -9,
+								["hp"] = 65,
+								["spellid"] = 88163,
+								["srcname"] = "Buttafuori della Villa",
+							}, -- [3]
+							{
+								["ts"] = 1406040226.797,
+								["amount"] = -9,
+								["hp"] = 56,
+								["spellid"] = 88163,
+								["srcname"] = "Buttafuori della Villa",
+							}, -- [4]
+							{
+								["ts"] = 1406040227.294,
+								["amount"] = -9,
+								["hp"] = 47,
+								["spellid"] = 88163,
+								["srcname"] = "Cinghiale Nasofine",
+							}, -- [5]
+							{
+								["ts"] = 1406040227.66,
+								["amount"] = -8,
+								["hp"] = 47,
+								["spellid"] = 88163,
+								["srcname"] = "Buttafuori della Villa",
+							}, -- [6]
+							{
+								["ts"] = 1406040229.263,
+								["amount"] = -10,
+								["hp"] = 30,
+								["spellid"] = 88163,
+								["srcname"] = "Cinghiale Nasofine",
+							}, -- [7]
+							{
+								["ts"] = 1406040229.668,
+								["amount"] = -9,
+								["hp"] = 30,
+								["spellid"] = 88163,
+								["srcname"] = "Buttafuori della Villa",
+							}, -- [8]
+							{
+								["ts"] = 1406040231.271,
+								["amount"] = -10,
+								["hp"] = 11,
+								["spellid"] = 88163,
+								["srcname"] = "Cinghiale Nasofine",
+							}, -- [9]
+							{
+								["ts"] = 1406040231.641,
+								["amount"] = -10,
+								["hp"] = 11,
+								["spellid"] = 88163,
+								["srcname"] = "Buttafuori della Villa",
+							}, -- [10]
+							{
+								["ts"] = 1406040232.513,
+								["amount"] = 0,
+								["spellname"] = "Hcbqajd muore",
+								["hp"] = 0,
+								["spellid"] = 5384,
+							}, -- [11]
+							{
+								["ts"] = 1406040222.663,
+								["amount"] = -5,
+								["hp"] = 108,
+								["spellid"] = 76137,
+								["srcname"] = "Buttafuori della Villa",
+							}, -- [12]
+							{
+								["ts"] = 1406040222.804,
+								["amount"] = -10,
+								["hp"] = 108,
+								["spellid"] = 88163,
+								["srcname"] = "Buttafuori della Villa",
+							}, -- [13]
+							{
+								["ts"] = 1406040223.216,
+								["amount"] = -10,
+								["hp"] = 98,
+								["spellid"] = 88163,
+								["srcname"] = "Cinghiale Nasofine",
+							}, -- [14]
+							{
+								["ts"] = 1406040223.641,
+								["amount"] = -5,
+								["hp"] = 93,
+								["spellid"] = 76137,
+								["srcname"] = "Buttafuori della Villa",
+							}, -- [15]
+						},
+						["ts"] = 1406040232.513,
+					}, -- [5]
+				},
+				["healed"] = {
+				},
+				["deathlog"] = {
+					{
+						["ts"] = 1406042744.599,
+						["amount"] = -7,
+						["hp"] = 211,
+						["spellid"] = 88163,
+						["srcname"] = "Scimmia Minatrice Arguta",
+					}, -- [1]
+					{
+						["ts"] = 1406042745.594,
+						["amount"] = -13,
+						["hp"] = 204,
+						["spellid"] = 88163,
+						["srcname"] = "Scimmia Minatrice Arguta",
+					}, -- [2]
+					{
+						["ts"] = 1406042746.525,
+						["amount"] = -7,
+						["hp"] = 191,
+						["spellid"] = 88163,
+						["srcname"] = "Scimmia Minatrice Arguta",
+					}, -- [3]
+					{
+						["ts"] = 1406042748.535,
+						["amount"] = -15,
+						["hp"] = 169,
+						["spellid"] = 38560,
+						["srcname"] = "Scimmia Minatrice Arguta",
+					}, -- [4]
+					{
+						["ts"] = 1406042752.442,
+						["amount"] = -12,
+						["hp"] = 169,
+						["spellid"] = 88163,
+						["srcname"] = "Scimmia Minatrice Arguta",
+					}, -- [5]
+					{
+						["ts"] = 1406042752.442,
+						["amount"] = -7,
+						["hp"] = 169,
+						["spellid"] = 88163,
+						["srcname"] = "Scimmia Minatrice Arguta",
+					}, -- [6]
+					{
+						["ts"] = 1406042754.38,
+						["amount"] = -12,
+						["hp"] = 150,
+						["spellid"] = 88163,
+						["srcname"] = "Scimmia Minatrice Arguta",
+					}, -- [7]
+					{
+						["ts"] = 1406042754.38,
+						["amount"] = -6,
+						["hp"] = 150,
+						["spellid"] = 88163,
+						["srcname"] = "Scimmia Minatrice Arguta",
+					}, -- [8]
+					{
+						["ts"] = 1406042836.88,
+						["amount"] = -18,
+						["hp"] = 248,
+						["spellid"] = 38560,
+						["srcname"] = "Scimmia Minatrice Arguta",
+					}, -- [9]
+					{
+						["ts"] = 1406042838.426,
+						["amount"] = -18,
+						["hp"] = 248,
+						["spellid"] = 88163,
+						["srcname"] = "Scimmia Minatrice Arguta",
+					}, -- [10]
+					{
+						["ts"] = 1406042840.415,
+						["amount"] = -18,
+						["hp"] = 230,
+						["spellid"] = 88163,
+						["srcname"] = "Scimmia Minatrice Arguta",
+					}, -- [11]
+					{
+						["ts"] = 1406042842.385,
+						["amount"] = -19,
+						["hp"] = 212,
+						["spellid"] = 88163,
+						["srcname"] = "Scimmia Minatrice Arguta",
+					}, -- [12]
+					{
+						["ts"] = 1406042845.168,
+						["amount"] = -20,
+						["hp"] = 173,
+						["spellid"] = 38560,
+						["srcname"] = "Scimmia Minatrice Arguta",
+					}, -- [13]
+					{
+						["ts"] = 1406042741.618,
+						["amount"] = -14,
+						["hp"] = 231,
+						["spellid"] = 88163,
+						["srcname"] = "Scimmia Minatrice Arguta",
+					}, -- [14]
+					{
+						["ts"] = 1406042742.598,
+						["amount"] = -6,
+						["hp"] = 217,
+						["spellid"] = 88163,
+						["srcname"] = "Scimmia Minatrice Arguta",
+					}, -- [15]
+					["pos"] = 14,
+				},
+				["id"] = "0x05000000066263DA",
+				["healing"] = 0,
+				["damagetakenspells"] = {
+					["Arma Bruciante"] = {
+						["min"] = 4,
+						["name"] = "Arma Bruciante",
+						["id"] = 75772,
+						["max"] = 4,
+						["totalhits"] = 2,
+						["damage"] = 8,
+					},
+					["Lancio Ingranaggi"] = {
+						["min"] = 3,
+						["name"] = "Lancio Ingranaggi",
+						["id"] = 75775,
+						["max"] = 5,
+						["totalhits"] = 2,
+						["damage"] = 8,
+					},
+					["Morso Selvaggio"] = {
+						["min"] = 1,
+						["name"] = "Morso Selvaggio",
+						["id"] = 69203,
+						["max"] = 2,
+						["totalhits"] = 4,
+						["damage"] = 5,
+					},
+					["Detonazione di Bolle"] = {
+						["min"] = 6,
+						["name"] = "Detonazione di Bolle",
+						["id"] = 75761,
+						["max"] = 6,
+						["totalhits"] = 1,
+						["damage"] = 6,
+					},
+					["Lancio"] = {
+						["min"] = 12,
+						["name"] = "Lancio",
+						["id"] = 38560,
+						["max"] = 21,
+						["totalhits"] = 22,
+						["damage"] = 368,
+					},
+					["Taglio Spaccone"] = {
+						["min"] = 8,
+						["name"] = "Taglio Spaccone",
+						["id"] = 75361,
+						["max"] = 13,
+						["totalhits"] = 5,
+						["damage"] = 55,
+					},
+					["Fendente Guizzante"] = {
+						["min"] = 15,
+						["name"] = "Fendente Guizzante",
+						["id"] = 83622,
+						["max"] = 23,
+						["totalhits"] = 8,
+						["damage"] = 151,
+					},
+					["Attacco"] = {
+						["min"] = 4,
+						["name"] = "Attacco",
+						["id"] = 6603,
+						["max"] = 24,
+						["totalhits"] = 419,
+						["damage"] = 4799,
+					},
+					["Sudore Acre"] = {
+						["min"] = 5,
+						["name"] = "Sudore Acre",
+						["id"] = 76137,
+						["max"] = 5,
+						["totalhits"] = 4,
+						["damage"] = 20,
+					},
+					["Lancio Torcia"] = {
+						["min"] = 1,
+						["name"] = "Lancio Torcia",
+						["id"] = 6257,
+						["max"] = 7,
+						["totalhits"] = 14,
+						["damage"] = 58,
+					},
+				},
+				["auras"] = {
+					["Esplosione Gelida"] = {
+						["name"] = "Esplosione Gelida",
+						["active"] = 0,
+						["id"] = 122,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 48,
+					},
+					["Palla di Fuocogelo"] = {
+						["name"] = "Palla di Fuocogelo",
+						["active"] = 1,
+						["id"] = 44614,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 891,
+					},
+				},
+				["ccbreaks"] = 0,
+				["name"] = "Hcbqajd",
+				["time"] = 941,
+				["damagetaken"] = 5478,
+				["power"] = {
+				},
+				["maxhp"] = 163,
+				["shielding"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 5,
+		["damagetaken"] = 5478,
+		["shielding"] = 0,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["starttime"] = 1406036291,
+		["mobtaken"] = 15632,
+		["name"] = "Totale",
+		["mobs"] = {
+			["Verme Scavatore"] = {
+				["players"] = {
+					["Hcbqajd"] = {
+						["taken"] = 532,
+						["done"] = 142,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 532,
+				["done"] = 142,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Jack il Martello"] = {
+				["players"] = {
+					["Izzy"] = {
+						["taken"] = 15,
+						["done"] = 0,
+					},
+					["Asso"] = {
+						["taken"] = 17,
+						["done"] = 0,
+					},
+					["Gobber"] = {
+						["taken"] = 14,
+						["done"] = 0,
+					},
+					["Hcbqajd"] = {
+						["taken"] = 260,
+						["done"] = 41,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 306,
+				["done"] = 41,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Saccheggiatrice Assoldata"] = {
+				["players"] = {
+					["Hcbqajd"] = {
+						["taken"] = 468,
+						["done"] = 87,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 468,
+				["done"] = 87,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Frankie Slittaruote"] = {
+				["players"] = {
+					["Izzy"] = {
+						["taken"] = 12,
+						["done"] = 0,
+					},
+					["Asso"] = {
+						["taken"] = 14,
+						["done"] = 0,
+					},
+					["Gobber"] = {
+						["taken"] = 8,
+						["done"] = 0,
+					},
+					["Hcbqajd"] = {
+						["taken"] = 284,
+						["done"] = 42,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 318,
+				["done"] = 42,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Rana"] = {
+				["players"] = {
+					["Hcbqajd"] = {
+						["taken"] = 85,
+						["done"] = 33,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 85,
+				["done"] = 33,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Cinghiale Nasofine"] = {
+				["players"] = {
+					["Hcbqajd"] = {
+						["taken"] = 265,
+						["done"] = 332,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 265,
+				["done"] = 332,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Blatta"] = {
+				["players"] = {
+					["Izzy"] = {
+						["taken"] = 3,
+						["done"] = 0,
+					},
+					["Gobber"] = {
+						["taken"] = 2,
+						["done"] = 0,
+					},
+					["Hcbqajd"] = {
+						["taken"] = 30,
+						["done"] = 45,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 35,
+				["done"] = 45,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Pterrordattilo Saprofago"] = {
+				["players"] = {
+					["Hcbqajd"] = {
+						["taken"] = 270,
+						["done"] = 139,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 270,
+				["done"] = 139,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Saccheggiatore Assoldato"] = {
+				["players"] = {
+					["Hcbqajd"] = {
+						["taken"] = 1588,
+						["done"] = 120,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1588,
+				["done"] = 120,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Conigliobot"] = {
+				["players"] = {
+					["Hcbqajd"] = {
+						["taken"] = 34,
+						["done"] = 0,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 34,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Troll Ribelle"] = {
+				["players"] = {
+					["Hcbqajd"] = {
+						["taken"] = 1342,
+						["done"] = 244,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1342,
+				["done"] = 244,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Marinaia dell'Alleanza"] = {
+				["players"] = {
+					["Hcbqajd"] = {
+						["taken"] = 0,
+						["done"] = 106,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 106,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Buttafuori della Villa"] = {
+				["players"] = {
+					["Hcbqajd"] = {
+						["taken"] = 492,
+						["done"] = 495,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 492,
+				["done"] = 495,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Squalo Dentefine"] = {
+				["players"] = {
+					["Hcbqajd"] = {
+						["taken"] = 532,
+						["done"] = 245,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 532,
+				["done"] = 245,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Cucciolo di Teraptor"] = {
+				["players"] = {
+					["Hcbqajd"] = {
+						["taken"] = 1943,
+						["done"] = 898,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1943,
+				["done"] = 898,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Agente Operativo dell'IR:7"] = {
+				["players"] = {
+					["Hcbqajd"] = {
+						["taken"] = 282,
+						["done"] = 220,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 282,
+				["done"] = 220,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Ratto"] = {
+				["players"] = {
+					["Hcbqajd"] = {
+						["taken"] = 48,
+						["done"] = 0,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 48,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Piratessa Imbucata"] = {
+				["players"] = {
+					["Hcbqajd"] = {
+						["taken"] = 589,
+						["done"] = 81,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 589,
+				["done"] = 81,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Sudsy Magoo"] = {
+				["players"] = {
+					["Izzy"] = {
+						["taken"] = 11,
+						["done"] = 0,
+					},
+					["Asso"] = {
+						["taken"] = 12,
+						["done"] = 0,
+					},
+					["Gobber"] = {
+						["taken"] = 11,
+						["done"] = 0,
+					},
+					["Hcbqajd"] = {
+						["taken"] = 277,
+						["done"] = 55,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 311,
+				["done"] = 55,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Pirata Imbucato"] = {
+				["players"] = {
+					["Hcbqajd"] = {
+						["taken"] = 1794,
+						["done"] = 314,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1794,
+				["done"] = 314,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Manichino d'Allenamento"] = {
+				["players"] = {
+					["Izzy"] = {
+						["taken"] = 73,
+						["done"] = 0,
+					},
+					["Asso"] = {
+						["taken"] = 67,
+						["done"] = 0,
+					},
+					["Gobber"] = {
+						["taken"] = 63,
+						["done"] = 0,
+					},
+					["Hcbqajd"] = {
+						["taken"] = 1397,
+						["done"] = 0,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1600,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Scimmia Minatrice Arguta"] = {
+				["players"] = {
+					["Hcbqajd"] = {
+						["taken"] = 2452,
+						["done"] = 1502,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 2452,
+				["done"] = 1502,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Marinaio dell'Alleanza"] = {
+				["players"] = {
+					["Hcbqajd"] = {
+						["taken"] = 60,
+						["done"] = 269,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 60,
+				["done"] = 269,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Bruno Tardafiamma"] = {
+				["players"] = {
+					["Izzy"] = {
+						["taken"] = 20,
+						["done"] = 0,
+					},
+					["Asso"] = {
+						["taken"] = 16,
+						["done"] = 0,
+					},
+					["Gobber"] = {
+						["taken"] = 17,
+						["done"] = 0,
+					},
+					["Hcbqajd"] = {
+						["taken"] = 233,
+						["done"] = 68,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 286,
+				["done"] = 68,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["overhealing"] = 0,
+		["mobhdone"] = 0,
+		["last_action"] = 1406036291,
+		["mobdone"] = 5478,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 13,
+			["interrupts"] = 0,
+			["damage"] = 282,
+			["players"] = {
+				{
+					["last"] = 1406042840,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Scimmia Minatrice Arguta"] = 282,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 282,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 9,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 9,
+							["min"] = 9,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 4,
+							["MISS"] = 0,
+							["damage"] = 273,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 112,
+							["min"] = 51,
+							["PARRY"] = 0,
+							["critical"] = 1,
+							["hit"] = 3,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x05000000066263DA",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Lancio"] = {
+							["min"] = 18,
+							["name"] = "Lancio",
+							["id"] = 38560,
+							["max"] = 20,
+							["totalhits"] = 2,
+							["damage"] = 38,
+						},
+						["Attacco"] = {
+							["min"] = 18,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 19,
+							["totalhits"] = 3,
+							["damage"] = 55,
+						},
+					},
+					["maxhp"] = 266,
+					["name"] = "Hcbqajd",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 6,
+						},
+					},
+					["damagetaken"] = 93,
+					["first"] = 1406042830,
+					["time"] = 10,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 93,
+			["shielding"] = 0,
+			["endtime"] = 1406042841,
+			["healing"] = 0,
+			["mobs"] = {
+				["Scimmia Minatrice Arguta"] = {
+					["players"] = {
+						["Hcbqajd"] = {
+							["taken"] = 282,
+							["done"] = 93,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 282,
+					["done"] = 93,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1406042828,
+			["mobtaken"] = 282,
+			["name"] = "Scimmia Minatrice Arguta",
+			["mobname"] = "Scimmia Minatrice Arguta",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1406042828,
+			["mobdone"] = 93,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 20,
+			["interrupts"] = 0,
+			["damage"] = 225,
+			["players"] = {
+				{
+					["last"] = 1406042748,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Scimmia Minatrice Arguta"] = 225,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 225,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 8,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 8,
+							["min"] = 8,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 4,
+							["MISS"] = 0,
+							["damage"] = 217,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 57,
+							["min"] = 52,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 4,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x05000000066263DA",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Lancio"] = {
+							["min"] = 14,
+							["name"] = "Lancio",
+							["id"] = 38560,
+							["max"] = 15,
+							["totalhits"] = 2,
+							["damage"] = 29,
+						},
+						["Attacco"] = {
+							["min"] = 6,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 14,
+							["totalhits"] = 11,
+							["damage"] = 105,
+						},
+					},
+					["maxhp"] = 266,
+					["name"] = "Hcbqajd",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 6,
+						},
+					},
+					["damagetaken"] = 134,
+					["first"] = 1406042731,
+					["time"] = 17,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 134,
+			["shielding"] = 0,
+			["endtime"] = 1406042749,
+			["healing"] = 0,
+			["mobs"] = {
+				["Scimmia Minatrice Arguta"] = {
+					["players"] = {
+						["Hcbqajd"] = {
+							["taken"] = 225,
+							["done"] = 134,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 225,
+					["done"] = 134,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1406042729,
+			["mobtaken"] = 225,
+			["name"] = "Scimmia Minatrice Arguta",
+			["mobname"] = "Scimmia Minatrice Arguta",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1406042729,
+			["mobdone"] = 134,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 19,
+			["interrupts"] = 0,
+			["damage"] = 277,
+			["players"] = {
+				{
+					["last"] = 1406042721,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Scimmia Minatrice Arguta"] = 277,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 277,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 1,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 8,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 8,
+							["min"] = 8,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 0,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Detonazione di Fuoco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 50,
+							["DEFLECT"] = 0,
+							["id"] = 2136,
+							["max"] = 50,
+							["min"] = 50,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 3,
+							["MISS"] = 0,
+							["damage"] = 219,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 106,
+							["min"] = 56,
+							["PARRY"] = 0,
+							["critical"] = 1,
+							["hit"] = 2,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x05000000066263DA",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Lancio"] = {
+							["min"] = 19,
+							["name"] = "Lancio",
+							["id"] = 38560,
+							["max"] = 20,
+							["totalhits"] = 2,
+							["damage"] = 39,
+						},
+						["Attacco"] = {
+							["min"] = 7,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 17,
+							["totalhits"] = 12,
+							["damage"] = 144,
+						},
+					},
+					["maxhp"] = 266,
+					["name"] = "Hcbqajd",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 9,
+						},
+					},
+					["damagetaken"] = 183,
+					["first"] = 1406042705,
+					["time"] = 16,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 183,
+			["shielding"] = 0,
+			["endtime"] = 1406042722,
+			["healing"] = 0,
+			["mobs"] = {
+				["Scimmia Minatrice Arguta"] = {
+					["players"] = {
+						["Hcbqajd"] = {
+							["taken"] = 277,
+							["done"] = 183,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 277,
+					["done"] = 183,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1406042703,
+			["mobtaken"] = 277,
+			["name"] = "Scimmia Minatrice Arguta",
+			["mobname"] = "Scimmia Minatrice Arguta",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1406042703,
+			["mobdone"] = 183,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 26,
+			["interrupts"] = 0,
+			["damage"] = 289,
+			["players"] = {
+				{
+					["last"] = 1406042687,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Scimmia Minatrice Arguta"] = 289,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 289,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 3,
+							["MISS"] = 0,
+							["damage"] = 25,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 9,
+							["min"] = 8,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 3,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 5,
+							["MISS"] = 0,
+							["damage"] = 264,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 56,
+							["min"] = 51,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 5,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x05000000066263DA",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Lancio"] = {
+							["min"] = 17,
+							["name"] = "Lancio",
+							["id"] = 38560,
+							["max"] = 17,
+							["totalhits"] = 3,
+							["damage"] = 51,
+						},
+						["Attacco"] = {
+							["min"] = 8,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 19,
+							["totalhits"] = 9,
+							["damage"] = 112,
+						},
+					},
+					["maxhp"] = 266,
+					["name"] = "Hcbqajd",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 11,
+						},
+					},
+					["damagetaken"] = 163,
+					["first"] = 1406042664,
+					["time"] = 23,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 163,
+			["shielding"] = 0,
+			["endtime"] = 1406042688,
+			["healing"] = 0,
+			["mobs"] = {
+				["Scimmia Minatrice Arguta"] = {
+					["players"] = {
+						["Hcbqajd"] = {
+							["taken"] = 289,
+							["done"] = 163,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 289,
+					["done"] = 163,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1406042662,
+			["mobtaken"] = 289,
+			["name"] = "Scimmia Minatrice Arguta",
+			["mobname"] = "Scimmia Minatrice Arguta",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1406042662,
+			["mobdone"] = 163,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 24,
+			["interrupts"] = 0,
+			["damage"] = 248,
+			["players"] = {
+				{
+					["last"] = 1406042631,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Scimmia Minatrice Arguta"] = 248,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 248,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 3,
+							["MISS"] = 0,
+							["damage"] = 36,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 18,
+							["min"] = 8,
+							["PARRY"] = 0,
+							["critical"] = 1,
+							["hit"] = 2,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 4,
+							["MISS"] = 0,
+							["damage"] = 212,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 55,
+							["min"] = 52,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 4,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x05000000066263DA",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Lancio"] = {
+							["min"] = 16,
+							["name"] = "Lancio",
+							["id"] = 38560,
+							["max"] = 21,
+							["totalhits"] = 2,
+							["damage"] = 37,
+						},
+						["Attacco"] = {
+							["min"] = 7,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 19,
+							["totalhits"] = 14,
+							["damage"] = 173,
+						},
+					},
+					["maxhp"] = 266,
+					["name"] = "Hcbqajd",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 9,
+						},
+					},
+					["damagetaken"] = 210,
+					["first"] = 1406042611,
+					["time"] = 20,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 210,
+			["shielding"] = 0,
+			["endtime"] = 1406042633,
+			["healing"] = 0,
+			["mobs"] = {
+				["Scimmia Minatrice Arguta"] = {
+					["players"] = {
+						["Hcbqajd"] = {
+							["taken"] = 248,
+							["done"] = 210,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 248,
+					["done"] = 210,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1406042609,
+			["mobtaken"] = 248,
+			["name"] = "Scimmia Minatrice Arguta",
+			["mobname"] = "Scimmia Minatrice Arguta",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1406042609,
+			["mobdone"] = 210,
+		}, -- [5]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 18,
+			["interrupts"] = 0,
+			["damage"] = 280,
+			["players"] = {
+				{
+					["last"] = 1406042597,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Scimmia Minatrice Arguta"] = 280,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 280,
+					["damagespells"] = {
+						["Detonazione di Fuoco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 47,
+							["DEFLECT"] = 0,
+							["id"] = 2136,
+							["max"] = 47,
+							["min"] = 47,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 8,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 8,
+							["min"] = 8,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 4,
+							["MISS"] = 0,
+							["damage"] = 225,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 57,
+							["min"] = 55,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 4,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x05000000066263DA",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Lancio"] = {
+							["min"] = 18,
+							["name"] = "Lancio",
+							["id"] = 38560,
+							["max"] = 21,
+							["totalhits"] = 2,
+							["damage"] = 39,
+						},
+						["Attacco"] = {
+							["min"] = 7,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 18,
+							["totalhits"] = 10,
+							["damage"] = 124,
+						},
+					},
+					["maxhp"] = 266,
+					["name"] = "Hcbqajd",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 6,
+						},
+					},
+					["damagetaken"] = 163,
+					["first"] = 1406042583,
+					["time"] = 14,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 163,
+			["shielding"] = 0,
+			["endtime"] = 1406042599,
+			["healing"] = 0,
+			["mobs"] = {
+				["Scimmia Minatrice Arguta"] = {
+					["players"] = {
+						["Hcbqajd"] = {
+							["taken"] = 280,
+							["done"] = 163,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 280,
+					["done"] = 163,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1406042581,
+			["mobtaken"] = 280,
+			["name"] = "Scimmia Minatrice Arguta",
+			["mobname"] = "Scimmia Minatrice Arguta",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1406042581,
+			["mobdone"] = 163,
+		}, -- [6]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 19,
+			["interrupts"] = 0,
+			["damage"] = 284,
+			["players"] = {
+				{
+					["last"] = 1406042572,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Scimmia Minatrice Arguta"] = 284,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 284,
+					["damagespells"] = {
+						["Detonazione di Fuoco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 49,
+							["DEFLECT"] = 0,
+							["id"] = 2136,
+							["max"] = 49,
+							["min"] = 49,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 2,
+							["MISS"] = 0,
+							["damage"] = 19,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 10,
+							["min"] = 9,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 2,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 4,
+							["MISS"] = 0,
+							["damage"] = 216,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 56,
+							["min"] = 51,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 4,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x05000000066263DA",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 7,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 18,
+							["totalhits"] = 6,
+							["damage"] = 73,
+						},
+					},
+					["maxhp"] = 266,
+					["name"] = "Hcbqajd",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 6,
+						},
+					},
+					["damagetaken"] = 73,
+					["first"] = 1406042558,
+					["time"] = 14,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 73,
+			["shielding"] = 0,
+			["endtime"] = 1406042574,
+			["healing"] = 0,
+			["mobs"] = {
+				["Scimmia Minatrice Arguta"] = {
+					["players"] = {
+						["Hcbqajd"] = {
+							["taken"] = 284,
+							["done"] = 73,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 284,
+					["done"] = 73,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1406042555,
+			["mobtaken"] = 284,
+			["name"] = "Scimmia Minatrice Arguta",
+			["mobname"] = "Scimmia Minatrice Arguta",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1406042555,
+			["mobdone"] = 73,
+		}, -- [7]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 18,
+			["interrupts"] = 0,
+			["damage"] = 224,
+			["players"] = {
+				{
+					["last"] = 1406042521,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Scimmia Minatrice Arguta"] = 224,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 224,
+					["damagespells"] = {
+						["Detonazione di Fuoco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 51,
+							["DEFLECT"] = 0,
+							["id"] = 2136,
+							["max"] = 51,
+							["min"] = 51,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 9,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 9,
+							["min"] = 9,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 3,
+							["MISS"] = 0,
+							["damage"] = 164,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 56,
+							["min"] = 54,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 3,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x05000000066263DA",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Lancio"] = {
+							["min"] = 12,
+							["name"] = "Lancio",
+							["id"] = 38560,
+							["max"] = 12,
+							["totalhits"] = 2,
+							["damage"] = 24,
+						},
+						["Attacco"] = {
+							["min"] = 6,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 13,
+							["totalhits"] = 8,
+							["damage"] = 74,
+						},
+					},
+					["maxhp"] = 266,
+					["name"] = "Hcbqajd",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 7,
+						},
+					},
+					["damagetaken"] = 98,
+					["first"] = 1406042506,
+					["time"] = 15,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 98,
+			["shielding"] = 0,
+			["endtime"] = 1406042522,
+			["healing"] = 0,
+			["mobs"] = {
+				["Scimmia Minatrice Arguta"] = {
+					["players"] = {
+						["Hcbqajd"] = {
+							["taken"] = 224,
+							["done"] = 98,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 224,
+					["done"] = 98,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1406042504,
+			["mobtaken"] = 224,
+			["name"] = "Scimmia Minatrice Arguta",
+			["mobname"] = "Scimmia Minatrice Arguta",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1406042504,
+			["mobdone"] = 98,
+		}, -- [8]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 23,
+			["interrupts"] = 0,
+			["damage"] = 112,
+			["players"] = {
+				{
+					["last"] = 1406042432,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Scimmia Minatrice Arguta"] = 112,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 112,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 8,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 8,
+							["min"] = 8,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 2,
+							["MISS"] = 0,
+							["damage"] = 104,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 53,
+							["min"] = 51,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 2,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["deaths"] = {
+						{
+							["log"] = {
+								{
+									["ts"] = 1406042434.601,
+									["amount"] = -17,
+									["hp"] = 73,
+									["spellid"] = 88163,
+									["srcname"] = "Scimmia Minatrice Arguta",
+								}, -- [1]
+								{
+									["ts"] = 1406042435.014,
+									["amount"] = -9,
+									["hp"] = 73,
+									["spellid"] = 88163,
+									["srcname"] = "Scimmia Minatrice Arguta",
+								}, -- [2]
+								{
+									["ts"] = 1406042435.014,
+									["amount"] = -15,
+									["hp"] = 73,
+									["spellid"] = 88163,
+									["srcname"] = "Scimmia Minatrice Arguta",
+								}, -- [3]
+								{
+									["ts"] = 1406042436.553,
+									["amount"] = -20,
+									["hp"] = 12,
+									["spellid"] = 38560,
+									["srcname"] = "Scimmia Minatrice Arguta",
+								}, -- [4]
+								{
+									["ts"] = 1406042437.031,
+									["amount"] = -7,
+									["hp"] = 12,
+									["spellid"] = 88163,
+									["srcname"] = "Scimmia Minatrice Arguta",
+								}, -- [5]
+								{
+									["ts"] = 1406042437.031,
+									["amount"] = -17,
+									["hp"] = 12,
+									["spellid"] = 88163,
+									["srcname"] = "Scimmia Minatrice Arguta",
+								}, -- [6]
+								{
+									["ts"] = 1406042437.547,
+									["amount"] = 0,
+									["spellname"] = "Hcbqajd muore",
+									["hp"] = 0,
+									["spellid"] = 5384,
+								}, -- [7]
+								{
+									["ts"] = 1406042429.279,
+									["amount"] = -17,
+									["hp"] = 178,
+									["spellid"] = 88163,
+									["srcname"] = "Scimmia Minatrice Arguta",
+								}, -- [8]
+								{
+									["ts"] = 1406042429.521,
+									["amount"] = -8,
+									["hp"] = 178,
+									["spellid"] = 88163,
+									["srcname"] = "Scimmia Minatrice Arguta",
+								}, -- [9]
+								{
+									["ts"] = 1406042430.601,
+									["amount"] = -16,
+									["hp"] = 144,
+									["spellid"] = 88163,
+									["srcname"] = "Scimmia Minatrice Arguta",
+								}, -- [10]
+								{
+									["ts"] = 1406042431.288,
+									["amount"] = -9,
+									["hp"] = 128,
+									["spellid"] = 88163,
+									["srcname"] = "Scimmia Minatrice Arguta",
+								}, -- [11]
+								{
+									["ts"] = 1406042431.523,
+									["amount"] = -8,
+									["hp"] = 128,
+									["spellid"] = 88163,
+									["srcname"] = "Scimmia Minatrice Arguta",
+								}, -- [12]
+								{
+									["ts"] = 1406042432.594,
+									["amount"] = -15,
+									["hp"] = 111,
+									["spellid"] = 88163,
+									["srcname"] = "Scimmia Minatrice Arguta",
+								}, -- [13]
+								{
+									["ts"] = 1406042433.325,
+									["amount"] = -15,
+									["hp"] = 81,
+									["spellid"] = 38560,
+									["srcname"] = "Scimmia Minatrice Arguta",
+								}, -- [14]
+								{
+									["ts"] = 1406042433.543,
+									["amount"] = -8,
+									["hp"] = 81,
+									["spellid"] = 88163,
+									["srcname"] = "Scimmia Minatrice Arguta",
+								}, -- [15]
+							},
+							["ts"] = 1406042437.547,
+						}, -- [1]
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x05000000066263DA",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Lancio"] = {
+							["min"] = 15,
+							["name"] = "Lancio",
+							["id"] = 38560,
+							["max"] = 20,
+							["totalhits"] = 5,
+							["damage"] = 82,
+						},
+						["Attacco"] = {
+							["min"] = 7,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 18,
+							["totalhits"] = 16,
+							["damage"] = 196,
+						},
+					},
+					["maxhp"] = 266,
+					["name"] = "Hcbqajd",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 5,
+						},
+					},
+					["damagetaken"] = 278,
+					["first"] = 1406042411,
+					["time"] = 21,
+				}, -- [1]
+			},
+			["deaths"] = 1,
+			["damagetaken"] = 278,
+			["shielding"] = 0,
+			["endtime"] = 1406042432,
+			["healing"] = 0,
+			["mobs"] = {
+				["Scimmia Minatrice Arguta"] = {
+					["players"] = {
+						["Hcbqajd"] = {
+							["taken"] = 112,
+							["done"] = 278,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 112,
+					["done"] = 278,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1406042409,
+			["mobtaken"] = 112,
+			["name"] = "Scimmia Minatrice Arguta",
+			["mobname"] = "Scimmia Minatrice Arguta",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1406042409,
+			["mobdone"] = 278,
+		}, -- [9]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 17,
+			["interrupts"] = 0,
+			["damage"] = 231,
+			["players"] = {
+				{
+					["last"] = 1406042353,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Scimmia Minatrice Arguta"] = 231,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 231,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 2,
+							["MISS"] = 0,
+							["damage"] = 19,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 10,
+							["min"] = 9,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 2,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 4,
+							["MISS"] = 0,
+							["damage"] = 212,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 56,
+							["min"] = 51,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 4,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x05000000066263DA",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Lancio"] = {
+							["min"] = 14,
+							["name"] = "Lancio",
+							["id"] = 38560,
+							["max"] = 15,
+							["totalhits"] = 2,
+							["damage"] = 29,
+						},
+						["Attacco"] = {
+							["min"] = 6,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 14,
+							["totalhits"] = 7,
+							["damage"] = 78,
+						},
+					},
+					["maxhp"] = 266,
+					["name"] = "Hcbqajd",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 6,
+						},
+					},
+					["damagetaken"] = 107,
+					["first"] = 1406042340,
+					["time"] = 13,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 107,
+			["shielding"] = 0,
+			["endtime"] = 1406042355,
+			["healing"] = 0,
+			["mobs"] = {
+				["Scimmia Minatrice Arguta"] = {
+					["players"] = {
+						["Hcbqajd"] = {
+							["taken"] = 231,
+							["done"] = 107,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 231,
+					["done"] = 107,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1406042338,
+			["mobtaken"] = 231,
+			["name"] = "Scimmia Minatrice Arguta",
+			["mobname"] = "Scimmia Minatrice Arguta",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1406042338,
+			["mobdone"] = 107,
+		}, -- [10]
+	},
+}

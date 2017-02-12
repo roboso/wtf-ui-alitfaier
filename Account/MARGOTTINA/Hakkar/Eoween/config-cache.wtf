@@ -1,0 +1,6 @@
+SET cameraSavedDistance "36.137039"
+SET cameraSavedVehicleDistance "50.000000"
+SET cameraSavedPitch "7.408333"
+SET showKeyring "1"
+SET playerStatLeftDropdown "PLAYERSTAT_BASE_STATS"
+SET playerStatRightDropdown "PLAYERSTAT_MELEE_COMBAT"

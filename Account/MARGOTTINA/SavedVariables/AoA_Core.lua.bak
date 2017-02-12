@@ -1,0 +1,28 @@
+
+AoACoreDB = {
+	["profileKeys"] = {
+		["Alitfaier - Hakkar"] = "Alitfaier - Hakkar",
+	},
+	["global"] = {
+		["version"] = "3.0",
+	},
+	["profiles"] = {
+		["Alitfaier - Hakkar"] = {
+			["version"] = "3.0",
+		},
+	},
+}
+AoAWMapDB = {
+	["profileKeys"] = {
+		["Alitfaier - Hakkar"] = "Alitfaier - Hakkar",
+	},
+	["global"] = {
+		["version"] = "3.0",
+	},
+	["profiles"] = {
+		["Alitfaier - Hakkar"] = {
+			["version"] = "3.0",
+		},
+	},
+}
+AoAWMapOverlaysDB = nil

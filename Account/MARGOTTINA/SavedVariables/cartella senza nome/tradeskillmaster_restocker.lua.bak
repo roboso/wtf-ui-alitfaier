@@ -1,0 +1,12 @@
+
+TradeSkillMaster_RestockerDB = {
+	["profileKeys"] = {
+		["Pingola - Nemesis"] = "Default",
+	},
+	["global"] = {
+		["framePosition"] = {
+			1167.761108398438, -- [1]
+			630.3926391601563, -- [2]
+		},
+	},
+}

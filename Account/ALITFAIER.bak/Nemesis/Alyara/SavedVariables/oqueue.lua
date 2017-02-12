@@ -1,0 +1,68 @@
+
+OQ_toon = {
+	["stats"] = {
+		["bg"] = {
+			["nGames"] = 0,
+			["nWins"] = 0,
+			["nLosses"] = 0,
+		},
+		["rbg"] = {
+			["nGames"] = 0,
+			["nWins"] = 0,
+			["nLosses"] = 0,
+		},
+	},
+	["waitlist"] = {
+	},
+	["player_wallet"] = {
+		["mmr"] = 0,
+		["Gilneas"] = 4213,
+		["dkp"] = 5,
+		["Forze dell'Alleanza"] = 0,
+		["Punti Onore"] = 207,
+		["Roccavento"] = 8705,
+		["Mists of Pandaria"] = 0,
+		["Punti Conquista"] = 0,
+		["Lega di Arathor"] = 144,
+		["Accademia di Shang Xi"] = 17510,
+		["Pandaren Tushui"] = 5663,
+		["Gilda"] = 0,
+		["Anàthema"] = 2612,
+		["Classiche"] = 0,
+		["money"] = 78658,
+		["Personaggio vs Personaggio"] = 0,
+		["xp"] = 5556,
+		["Alleanza"] = 5863,
+		["Gnomeregan"] = 5663,
+		["hks"] = "76",
+		["Sentinelle Alargentea"] = 70,
+		["maxxp"] = 16600,
+		["Forgiardente"] = 5663,
+		["leader_dkp"] = 0,
+		["Exodar"] = 5563,
+		["Darnassus"] = 5663,
+	},
+	["shout_kbs"] = 1,
+	["who_popped_lust"] = 1,
+	["shout_ragequits"] = 1,
+	["raid"] = {
+	},
+	["MinimapPos"] = 33.48482271703191,
+	["my_toons"] = {
+	},
+	["player_role"] = 4,
+	["last_tm"] = 1396008628,
+	["shout_caps"] = 1,
+	["my_group"] = 0,
+	["my_slot"] = 0,
+	["reports"] = {
+	},
+	["marquee_hide"] = true,
+	["say_sapped"] = 1,
+	["class_portrait"] = 1,
+	["auto_role"] = 1,
+	["marquee_y"] = 89.86292475399932,
+	["_idata"] = {
+	},
+	["marquee_x"] = 972.9099132842965,
+}

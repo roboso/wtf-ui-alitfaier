@@ -1,0 +1,50 @@
+
+Prat3HighCPUPerCharDB = {
+	["time"] = 1402645974,
+	["scrollback"] = {
+		["ChatFrame1"] = {
+			{
+				"|cff979797[09:50:27]|r|c00000000|r |Hchannel:channel:2|h[2] |h Connessione al canale: |Hchannel:2|h[2. Generale - Forgiardente]|h", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				70, -- [5]
+			}, -- [1]
+			{
+				"|cff979797[09:50:27]|r|c00000000|r |Hchannel:channel:3|h[3] |h Connessione al canale: |Hchannel:3|h[3. Commercio - Città]|h", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				71, -- [5]
+			}, -- [2]
+			{
+				"|cff979797[09:50:27]|r|c00000000|r |Hchannel:channel:4|h[4] |h Connessione al canale: |Hchannel:4|h[4. DifesaLocale - Forgiardente]|h", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				72, -- [5]
+			}, -- [3]
+			{
+				"|cff979797[09:50:27]|r|c00000000|r |Hchannel:channel:5|h[5] |h Connessione al canale: |Hchannel:5|h[5. CercaGruppo]|h", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				73, -- [5]
+			}, -- [4]
+			{
+				"|cff979797[09:52:16]|r|c00000000|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Klancy:1638:CHANNEL:3|h|cfffff468Klancy|r|h|cffd8d8d8]|r: cerco LW e Alchemy", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				71, -- [5]
+			}, -- [5]
+			{
+				"|cff979797[09:52:54]|r|c00000000|r |Hchannel:channel:3|h[3] |h|cffd8d8d8[|r|Hplayer:Bobocop:1693:CHANNEL:3|h|cffaad372Bobocop|r|h|cffd8d8d8]|r: VENDO boost 2v2 100g/win", -- [1]
+				1.000000059138984, -- [2]
+				0.752941220998764, -- [3]
+				0.752941220998764, -- [4]
+				71, -- [5]
+			}, -- [6]
+		},
+	},
+}

@@ -1,0 +1,17 @@
+
+SkadaDB = {
+	["profileKeys"] = {
+		["Àzzurrà - Nemesis"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["windows"] = {
+				{
+					["point"] = "BOTTOMRIGHT",
+					["x"] = -24.41015625,
+					["y"] = 50.97431182861328,
+				}, -- [1]
+			},
+		},
+	},
+}

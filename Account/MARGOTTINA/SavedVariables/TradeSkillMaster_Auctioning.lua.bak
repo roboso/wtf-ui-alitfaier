@@ -1,0 +1,17 @@
+
+TradeSkillMaster_AuctioningDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Pingola - Nemesis"] = "Default",
+	},
+	["factionrealm"] = {
+		["Alliance - Nemesis"] = {
+			["player"] = {
+				["Pingola"] = true,
+			},
+		},
+	},
+}

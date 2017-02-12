@@ -1,0 +1,11 @@
+VER 3 0100000000000003 "CastSymbiosis001" "INV_MISC_QUESTIONMARK"
+#showtooltip Simbiosi
+/cast  Simbiosi
+/script Symbiosis.Click()
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P1MR1LR1WT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1DM0__0__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+NGnoLocDie[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]ÀsiEleRup[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

@@ -1,0 +1,17 @@
+
+_NPCScanOverlayOptions = {
+	["Modules"] = {
+		["AlphaMap"] = true,
+		["WorldMap"] = true,
+		["BattlefieldMinimap"] = true,
+		["Minimap"] = true,
+	},
+	["MinimapRangeRing"] = true,
+	["Version"] = "3.2.0.4",
+	["ModulesAlpha"] = {
+		["AlphaMap"] = 0.800000011920929,
+		["WorldMap"] = 0.550000011920929,
+		["BattlefieldMinimap"] = 0.800000011920929,
+		["Minimap"] = 0.550000011920929,
+	},
+}

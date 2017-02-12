@@ -1,0 +1,1385 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 20,
+		["interrupts"] = 0,
+		["damage"] = 728,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "MONK",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+					["Nebbia Crescente"] = {
+						["shielding"] = 0,
+						["id"] = 116995,
+						["healing"] = 1302,
+						["min"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Nebbia Crescente",
+						["max"] = 1302,
+						["critical"] = 1,
+						["absorbed"] = 0,
+						["overhealing"] = 3906,
+						["hits"] = 3,
+					},
+					["Nebbia del Sollievo"] = {
+						["shielding"] = 0,
+						["id"] = 115175,
+						["healing"] = 12775,
+						["min"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Nebbia del Sollievo",
+						["max"] = 2734,
+						["critical"] = 4,
+						["absorbed"] = 0,
+						["overhealing"] = 13202,
+						["hits"] = 15,
+					},
+				},
+				["overhealing"] = 17108,
+				["interrupts"] = 0,
+				["damage"] = 728,
+				["damagespells"] = {
+					["Fulmine di Giada Crepitante"] = {
+						["min"] = 104,
+						["critical"] = 1,
+						["hit"] = 5,
+						["totalhits"] = 6,
+						["id"] = 117952,
+						["max"] = 208,
+						["damage"] = 728,
+					},
+				},
+				["ccbreaks"] = 0,
+				["healed"] = {
+					["Player-1316-071D0123"] = {
+						["shielding"] = 0,
+						["class"] = "MONK",
+						["name"] = "Àiralì",
+						["amount"] = 14077,
+					},
+				},
+				["shielding"] = 0,
+				["id"] = "Player-1316-071D0123",
+				["healing"] = 14077,
+				["maxhp"] = 43022,
+				["damagetakenspells"] = {
+					["Attacco"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["min"] = 1168,
+						["absorbed"] = 0,
+						["critical"] = 2,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Attacco",
+						["blocked"] = 0,
+						["totalhits"] = 21,
+						["resisted"] = 0,
+						["max"] = 3333,
+						["damage"] = 35890,
+					},
+					["Tiro della Marcia di Ferro"] = {
+						["crushing"] = 0,
+						["id"] = 159949,
+						["min"] = 1000,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Tiro della Marcia di Ferro",
+						["blocked"] = 0,
+						["totalhits"] = 3,
+						["resisted"] = 0,
+						["max"] = 1603,
+						["damage"] = 4119,
+					},
+					["Colpo dello Schermagliatore"] = {
+						["crushing"] = 0,
+						["id"] = 159770,
+						["min"] = 2278,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Colpo dello Schermagliatore",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 2278,
+						["damage"] = 2278,
+					},
+					["Spallata"] = {
+						["crushing"] = 0,
+						["id"] = 157843,
+						["min"] = 1353,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Spallata",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 1353,
+						["damage"] = 1353,
+					},
+					["Avanzata di Ferro"] = {
+						["crushing"] = 0,
+						["id"] = 159857,
+						["min"] = 2183,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Avanzata di Ferro",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 2183,
+						["damage"] = 2183,
+					},
+				},
+				["deathlog"] = {
+					{
+						["hp"] = 36512,
+						["amount"] = -1194,
+						["ts"] = 1418769644.959,
+						["spellid"] = 88163,
+						["srcname"] = "Grunt della Marcia di Ferro",
+					}, -- [1]
+					{
+						["hp"] = 33802,
+						["amount"] = -1516,
+						["ts"] = 1418769649.544,
+						["spellid"] = 159949,
+						["srcname"] = "Carnefice della Marcia di Ferro",
+					}, -- [2]
+					{
+						["hp"] = 33802,
+						["amount"] = -1481,
+						["ts"] = 1418769651.372,
+						["spellid"] = 88163,
+						["srcname"] = "Grunt della Marcia di Ferro",
+					}, -- [3]
+					{
+						["ts"] = 1418769651.723,
+						["amount"] = -1000,
+						["hp"] = 32802,
+						["spellid"] = 159949,
+						["srcname"] = "Spezzapiombo della Marcia di Ferro",
+					}, -- [4]
+					{
+						["hp"] = 31321,
+						["amount"] = -1521,
+						["ts"] = 1418769654.996,
+						["spellid"] = 88163,
+						["srcname"] = "Grunt della Marcia di Ferro",
+					}, -- [5]
+					{
+						["hp"] = 29800,
+						["amount"] = -1371,
+						["ts"] = 1418769655.972,
+						["spellid"] = 88163,
+						["srcname"] = "Grunt della Marcia di Ferro",
+					}, -- [6]
+					{
+						["hp"] = 28429,
+						["amount"] = -2015,
+						["ts"] = 1418769658.03,
+						["spellid"] = 88163,
+						["srcname"] = "Grunt della Marcia di Ferro",
+					}, -- [7]
+					{
+						["ts"] = 1418769658.964,
+						["amount"] = -1795,
+						["hp"] = 26414,
+						["spellid"] = 88163,
+						["srcname"] = "Grunt della Marcia di Ferro",
+					}, -- [8]
+					{
+						["hp"] = 24619,
+						["amount"] = -1374,
+						["ts"] = 1418769658.964,
+						["spellid"] = 88163,
+						["srcname"] = "Grunt della Marcia di Ferro",
+					}, -- [9]
+					{
+						["hp"] = 23245,
+						["amount"] = -3333,
+						["ts"] = 1418769661.457,
+						["spellid"] = 88163,
+						["srcname"] = "Grunt della Marcia di Ferro",
+					}, -- [10]
+					{
+						["ts"] = 1418769661.98,
+						["amount"] = -1403,
+						["hp"] = 19912,
+						["spellid"] = 88163,
+						["srcname"] = "Grunt della Marcia di Ferro",
+					}, -- [11]
+					{
+						["ts"] = 1418769661.98,
+						["amount"] = -1700,
+						["hp"] = 19912,
+						["spellid"] = 88163,
+						["srcname"] = "Grunt della Marcia di Ferro",
+					}, -- [12]
+					{
+						["ts"] = 1418769662.473,
+						["amount"] = -2278,
+						["hp"] = 14531,
+						["spellid"] = 159770,
+						["srcname"] = "Grunt della Marcia di Ferro",
+					}, -- [13]
+					{
+						["hp"] = 14531,
+						["amount"] = -1428,
+						["ts"] = 1418769664.514,
+						["spellid"] = 88163,
+						["srcname"] = "Grunt della Marcia di Ferro",
+					}, -- [14]
+					{
+						["ts"] = 1418769665.029,
+						["amount"] = -1827,
+						["hp"] = 13103,
+						["spellid"] = 88163,
+						["srcname"] = "Grunt della Marcia di Ferro",
+					}, -- [15]
+					["pos"] = 1,
+				},
+				["power"] = {
+					[12] = {
+						["amount"] = 3,
+						["spells"] = {
+							[116694] = 3,
+						},
+					},
+					[0] = {
+						["amount"] = 758,
+						["spells"] = {
+							[126467] = 758,
+						},
+					},
+				},
+				["name"] = "Àiralì",
+				["auras"] = {
+					["Fulmine di Giada Crepitante"] = {
+						["name"] = "Fulmine di Giada Crepitante",
+						["active"] = 0,
+						["id"] = 117952,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 5,
+					},
+					["Nebbia del Sollievo"] = {
+						["name"] = "Nebbia del Sollievo",
+						["active"] = 2,
+						["id"] = 115175,
+						["auratype"] = "BUFF",
+						["uptime"] = 68,
+					},
+					["Fondersi nelle Ombre"] = {
+						["name"] = "Fondersi nelle Ombre",
+						["active"] = 1,
+						["id"] = 58984,
+						["auratype"] = "BUFF",
+						["uptime"] = 1,
+					},
+				},
+				["damagetaken"] = 45823,
+				["time"] = 65,
+				["multistrikes"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["Lupas"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Alleviamento"] = {
+						["min"] = 2566,
+						["crits"] = 0,
+						["max"] = 2566,
+						["healing"] = 2566,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 2566,
+				["hdonespell"] = {
+				},
+			},
+			["Durphorn l'Ostinato"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Alleviamento"] = {
+						["min"] = 2296,
+						["crits"] = 0,
+						["max"] = 2296,
+						["healing"] = 2296,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 2296,
+				["hdonespell"] = {
+				},
+			},
+			["Carnefice della Marcia di Ferro"] = {
+				["players"] = {
+					["Àiralì"] = {
+						["taken"] = 0,
+						["done"] = 3119,
+						["class"] = "MONK",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 3119,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Anruin"] = {
+				["players"] = {
+				},
+				["hdone"] = 5600,
+				["htakenspell"] = {
+					["Alleviamento"] = {
+						["min"] = 2287,
+						["crits"] = 0,
+						["max"] = 2287,
+						["healing"] = 2287,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+					["Armatura Vile"] = {
+						["min"] = 1400,
+						["crits"] = 0,
+						["max"] = 1400,
+						["healing"] = 5600,
+						["overhealing"] = 0,
+						["hits"] = 4,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 7887,
+				["hdonespell"] = {
+					["Armatura Vile"] = {
+						["min"] = 1400,
+						["crits"] = 0,
+						["max"] = 1400,
+						["healing"] = 5600,
+						["overhealing"] = 0,
+						["hits"] = 4,
+					},
+				},
+			},
+			["Pazo Zoccolo di Pietra"] = {
+				["players"] = {
+				},
+				["hdone"] = 6256,
+				["htakenspell"] = {
+					["Alleviamento"] = {
+						["min"] = 2186,
+						["crits"] = 0,
+						["max"] = 2186,
+						["healing"] = 2186,
+						["overhealing"] = 178,
+						["hits"] = 1,
+					},
+					["Sete di Sangue"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 876,
+						["healing"] = 6256,
+						["overhealing"] = 2495,
+						["hits"] = 10,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 8442,
+				["hdonespell"] = {
+					["Sete di Sangue"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 876,
+						["healing"] = 6256,
+						["overhealing"] = 2495,
+						["hits"] = 10,
+					},
+				},
+			},
+			["Legionario della Marcia di Ferro"] = {
+				["players"] = {
+					["Àiralì"] = {
+						["taken"] = 0,
+						["done"] = 2724,
+						["class"] = "MONK",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 2724,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Turkina"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Alleviamento"] = {
+						["min"] = 2524,
+						["crits"] = 0,
+						["max"] = 2524,
+						["healing"] = 2524,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 2524,
+				["hdonespell"] = {
+				},
+			},
+			["Thrend"] = {
+				["players"] = {
+				},
+				["hdone"] = 4059,
+				["htakenspell"] = {
+					["Scudo di Terra"] = {
+						["min"] = 644,
+						["crits"] = 0,
+						["max"] = 720,
+						["healing"] = 4059,
+						["overhealing"] = 0,
+						["hits"] = 6,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 4059,
+				["hdonespell"] = {
+					["Scudo di Terra"] = {
+						["min"] = 644,
+						["crits"] = 0,
+						["max"] = 720,
+						["healing"] = 4059,
+						["overhealing"] = 0,
+						["hits"] = 6,
+					},
+				},
+			},
+			["Monocolpo"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Alleviamento"] = {
+						["min"] = 2550,
+						["crits"] = 0,
+						["max"] = 2550,
+						["healing"] = 2550,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 2550,
+				["hdonespell"] = {
+				},
+			},
+			["Johnny Oshimo"] = {
+				["players"] = {
+				},
+				["hdone"] = 4375,
+				["htakenspell"] = {
+					["Alleviamento"] = {
+						["min"] = 2736,
+						["crits"] = 0,
+						["max"] = 2736,
+						["healing"] = 2736,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+					["Sete di Sangue"] = {
+						["min"] = 875,
+						["crits"] = 0,
+						["max"] = 875,
+						["healing"] = 4375,
+						["overhealing"] = 0,
+						["hits"] = 5,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 7111,
+				["hdonespell"] = {
+					["Sete di Sangue"] = {
+						["min"] = 875,
+						["crits"] = 0,
+						["max"] = 875,
+						["healing"] = 4375,
+						["overhealing"] = 0,
+						["hits"] = 5,
+					},
+				},
+			},
+			["Archon"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Alleviamento"] = {
+						["min"] = 2313,
+						["crits"] = 0,
+						["max"] = 2313,
+						["healing"] = 2313,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 2313,
+				["hdonespell"] = {
+				},
+			},
+			["Ryii la Spudorata"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Alleviamento"] = {
+						["min"] = 2618,
+						["crits"] = 0,
+						["max"] = 2618,
+						["healing"] = 2618,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 2618,
+				["hdonespell"] = {
+				},
+			},
+			["Miserain Piangistelle"] = {
+				["players"] = {
+				},
+				["hdone"] = 37901,
+				["htakenspell"] = {
+					["Alleviamento"] = {
+						["min"] = 2559,
+						["crits"] = 0,
+						["max"] = 2559,
+						["healing"] = 2559,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 2559,
+				["hdonespell"] = {
+					["Alleviamento"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 2779,
+						["healing"] = 37901,
+						["overhealing"] = 2872,
+						["hits"] = 16,
+					},
+				},
+			},
+			["Imp Servitore"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Alleviamento"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 2694,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Spezzapiombo della Marcia di Ferro"] = {
+				["players"] = {
+					["Àiralì"] = {
+						["taken"] = 0,
+						["done"] = 1000,
+						["class"] = "MONK",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 1000,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Grunt della Marcia di Ferro"] = {
+				["players"] = {
+					["Àiralì"] = {
+						["taken"] = 0,
+						["done"] = 24903,
+						["class"] = "MONK",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 24903,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Barbery la Gattara"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Alleviamento"] = {
+						["min"] = 2779,
+						["crits"] = 0,
+						["max"] = 2779,
+						["healing"] = 2779,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 2779,
+				["hdonespell"] = {
+				},
+			},
+			["Nevo"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Alleviamento"] = {
+						["min"] = 2592,
+						["crits"] = 0,
+						["max"] = 2592,
+						["healing"] = 2592,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 2592,
+				["hdonespell"] = {
+				},
+			},
+			["Grunt di Ferro"] = {
+				["players"] = {
+					["Àiralì"] = {
+						["taken"] = 728,
+						["done"] = 14077,
+						["class"] = "MONK",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 728,
+				["done"] = 14077,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Yoori"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Alleviamento"] = {
+						["min"] = 2550,
+						["crits"] = 0,
+						["max"] = 2550,
+						["healing"] = 2550,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 2550,
+				["hdonespell"] = {
+				},
+			},
+			["Invocatore delle Stelle Astrylian"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Alleviamento"] = {
+						["min"] = 2651,
+						["crits"] = 0,
+						["max"] = 2651,
+						["healing"] = 2651,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 2651,
+				["hdonespell"] = {
+				},
+			},
+			["Futz il Salmastro"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Alleviamento"] = {
+						["min"] = 2694,
+						["crits"] = 0,
+						["max"] = 2694,
+						["healing"] = 2694,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 2694,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["mobtaken"] = 728,
+		["healing"] = 14077,
+		["power"] = {
+			[12] = 3,
+			[0] = 758,
+		},
+		["starttime"] = 1418769279,
+		["damagetaken"] = 45823,
+		["shielding"] = 0,
+		["name"] = "Totale",
+		["overhealing"] = 17108,
+		["mobdone"] = 45823,
+		["mobhdone"] = 58191,
+		["last_action"] = 1418769279,
+		["multistrikes"] = 0,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 20,
+			["interrupts"] = 0,
+			["endtime"] = 1418769312,
+			["damage"] = 624,
+			["players"] = {
+				{
+					["last"] = 1418769312,
+					["healingabsorbed"] = 0,
+					["class"] = "MONK",
+					["damaged"] = {
+						["Grunt di Ferro"] = 624,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+						["Nebbia Crescente"] = {
+							["shielding"] = 0,
+							["id"] = 116995,
+							["healing"] = 1302,
+							["min"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Nebbia Crescente",
+							["max"] = 1302,
+							["critical"] = 1,
+							["absorbed"] = 0,
+							["overhealing"] = 2604,
+							["hits"] = 2,
+						},
+						["Nebbia del Sollievo"] = {
+							["shielding"] = 0,
+							["id"] = 115175,
+							["healing"] = 12775,
+							["min"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Nebbia del Sollievo",
+							["max"] = 2734,
+							["critical"] = 4,
+							["absorbed"] = 0,
+							["overhealing"] = 10467,
+							["hits"] = 13,
+						},
+					},
+					["overhealing"] = 13071,
+					["interrupts"] = 0,
+					["damage"] = 624,
+					["damagespells"] = {
+						["Fulmine di Giada Crepitante"] = {
+							["min"] = 104,
+							["critical"] = 1,
+							["hit"] = 4,
+							["totalhits"] = 5,
+							["id"] = 117952,
+							["max"] = 208,
+							["damage"] = 624,
+						},
+					},
+					["healed"] = {
+						["Player-1316-071D0123"] = {
+							["shielding"] = 0,
+							["class"] = "MONK",
+							["name"] = "Àiralì",
+							["amount"] = 14077,
+						},
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-071D0123",
+					["healing"] = 14077,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 1168,
+							["absorbed"] = 0,
+							["critical"] = 1,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 8,
+							["resisted"] = 0,
+							["max"] = 3030,
+							["damage"] = 12724,
+						},
+						["Spallata"] = {
+							["crushing"] = 0,
+							["id"] = 157843,
+							["min"] = 1353,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Spallata",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 1353,
+							["damage"] = 1353,
+						},
+					},
+					["maxhp"] = 43022,
+					["power"] = {
+						[12] = {
+							["amount"] = 2,
+							["spells"] = {
+								[116694] = 2,
+							},
+						},
+					},
+					["name"] = "Àiralì",
+					["auras"] = {
+						["Fulmine di Giada Crepitante"] = {
+							["name"] = "Fulmine di Giada Crepitante",
+							["active"] = 0,
+							["id"] = 117952,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 5,
+						},
+						["Nebbia del Sollievo"] = {
+							["name"] = "Nebbia del Sollievo",
+							["active"] = 1,
+							["id"] = 115175,
+							["auratype"] = "BUFF",
+							["uptime"] = 14,
+						},
+					},
+					["damagetaken"] = 14077,
+					["first"] = 1418769293,
+					["time"] = 19,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Lupas"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Alleviamento"] = {
+							["min"] = 2566,
+							["crits"] = 0,
+							["max"] = 2566,
+							["healing"] = 2566,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2566,
+					["hdonespell"] = {
+					},
+				},
+				["Durphorn l'Ostinato"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Alleviamento"] = {
+							["min"] = 2296,
+							["crits"] = 0,
+							["max"] = 2296,
+							["healing"] = 2296,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2296,
+					["hdonespell"] = {
+					},
+				},
+				["Anruin"] = {
+					["players"] = {
+					},
+					["hdone"] = 5600,
+					["htakenspell"] = {
+						["Alleviamento"] = {
+							["min"] = 2287,
+							["crits"] = 0,
+							["max"] = 2287,
+							["healing"] = 2287,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+						["Armatura Vile"] = {
+							["min"] = 1400,
+							["crits"] = 0,
+							["max"] = 1400,
+							["healing"] = 5600,
+							["overhealing"] = 0,
+							["hits"] = 4,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 7887,
+					["hdonespell"] = {
+						["Armatura Vile"] = {
+							["min"] = 1400,
+							["crits"] = 0,
+							["max"] = 1400,
+							["healing"] = 5600,
+							["overhealing"] = 0,
+							["hits"] = 4,
+						},
+					},
+				},
+				["Pazo Zoccolo di Pietra"] = {
+					["players"] = {
+					},
+					["hdone"] = 5380,
+					["htakenspell"] = {
+						["Alleviamento"] = {
+							["min"] = 2186,
+							["crits"] = 0,
+							["max"] = 2186,
+							["healing"] = 2186,
+							["overhealing"] = 178,
+							["hits"] = 1,
+						},
+						["Sete di Sangue"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 875,
+							["healing"] = 5380,
+							["overhealing"] = 2495,
+							["hits"] = 9,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 7566,
+					["hdonespell"] = {
+						["Sete di Sangue"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 875,
+							["healing"] = 5380,
+							["overhealing"] = 2495,
+							["hits"] = 9,
+						},
+					},
+				},
+				["Turkina"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Alleviamento"] = {
+							["min"] = 2524,
+							["crits"] = 0,
+							["max"] = 2524,
+							["healing"] = 2524,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2524,
+					["hdonespell"] = {
+					},
+				},
+				["Thrend"] = {
+					["players"] = {
+					},
+					["hdone"] = 3339,
+					["htakenspell"] = {
+						["Scudo di Terra"] = {
+							["min"] = 644,
+							["crits"] = 0,
+							["max"] = 686,
+							["healing"] = 3339,
+							["overhealing"] = 0,
+							["hits"] = 5,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 3339,
+					["hdonespell"] = {
+						["Scudo di Terra"] = {
+							["min"] = 644,
+							["crits"] = 0,
+							["max"] = 686,
+							["healing"] = 3339,
+							["overhealing"] = 0,
+							["hits"] = 5,
+						},
+					},
+				},
+				["Monocolpo"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Alleviamento"] = {
+							["min"] = 2550,
+							["crits"] = 0,
+							["max"] = 2550,
+							["healing"] = 2550,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2550,
+					["hdonespell"] = {
+					},
+				},
+				["Johnny Oshimo"] = {
+					["players"] = {
+					},
+					["hdone"] = 4375,
+					["htakenspell"] = {
+						["Alleviamento"] = {
+							["min"] = 2736,
+							["crits"] = 0,
+							["max"] = 2736,
+							["healing"] = 2736,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+						["Sete di Sangue"] = {
+							["min"] = 875,
+							["crits"] = 0,
+							["max"] = 875,
+							["healing"] = 4375,
+							["overhealing"] = 0,
+							["hits"] = 5,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 7111,
+					["hdonespell"] = {
+						["Sete di Sangue"] = {
+							["min"] = 875,
+							["crits"] = 0,
+							["max"] = 875,
+							["healing"] = 4375,
+							["overhealing"] = 0,
+							["hits"] = 5,
+						},
+					},
+				},
+				["Archon"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Alleviamento"] = {
+							["min"] = 2313,
+							["crits"] = 0,
+							["max"] = 2313,
+							["healing"] = 2313,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2313,
+					["hdonespell"] = {
+					},
+				},
+				["Ryii la Spudorata"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Alleviamento"] = {
+							["min"] = 2618,
+							["crits"] = 0,
+							["max"] = 2618,
+							["healing"] = 2618,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2618,
+					["hdonespell"] = {
+					},
+				},
+				["Miserain Piangistelle"] = {
+					["players"] = {
+					},
+					["hdone"] = 37901,
+					["htakenspell"] = {
+						["Alleviamento"] = {
+							["min"] = 2559,
+							["crits"] = 0,
+							["max"] = 2559,
+							["healing"] = 2559,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2559,
+					["hdonespell"] = {
+						["Alleviamento"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 2779,
+							["healing"] = 37901,
+							["overhealing"] = 2872,
+							["hits"] = 16,
+						},
+					},
+				},
+				["Imp Servitore"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Alleviamento"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 2694,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Barbery la Gattara"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Alleviamento"] = {
+							["min"] = 2779,
+							["crits"] = 0,
+							["max"] = 2779,
+							["healing"] = 2779,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2779,
+					["hdonespell"] = {
+					},
+				},
+				["Nevo"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Alleviamento"] = {
+							["min"] = 2592,
+							["crits"] = 0,
+							["max"] = 2592,
+							["healing"] = 2592,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2592,
+					["hdonespell"] = {
+					},
+				},
+				["Grunt di Ferro"] = {
+					["players"] = {
+						["Àiralì"] = {
+							["taken"] = 624,
+							["done"] = 14077,
+							["class"] = "MONK",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 624,
+					["done"] = 14077,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Yoori"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Alleviamento"] = {
+							["min"] = 2550,
+							["crits"] = 0,
+							["max"] = 2550,
+							["healing"] = 2550,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2550,
+					["hdonespell"] = {
+					},
+				},
+				["Invocatore delle Stelle Astrylian"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Alleviamento"] = {
+							["min"] = 2651,
+							["crits"] = 0,
+							["max"] = 2651,
+							["healing"] = 2651,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2651,
+					["hdonespell"] = {
+					},
+				},
+				["Futz il Salmastro"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Alleviamento"] = {
+							["min"] = 2694,
+							["crits"] = 0,
+							["max"] = 2694,
+							["healing"] = 2694,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 2694,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 624,
+			["overhealing"] = 13071,
+			["healing"] = 14077,
+			["power"] = {
+				[12] = 2,
+			},
+			["starttime"] = 1418769292,
+			["damagetaken"] = 14077,
+			["shielding"] = 0,
+			["name"] = "Grunt di Ferro",
+			["mobname"] = "Grunt di Ferro",
+			["mobdone"] = 14077,
+			["mobhdone"] = 56595,
+			["last_action"] = 1418769292,
+			["multistrikes"] = 0,
+		}, -- [1]
+	},
+}

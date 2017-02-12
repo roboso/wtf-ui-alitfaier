@@ -1,0 +1,11 @@
+
+GottaGoFastDB = {
+	["profileKeys"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["Version"] = 26200,
+		},
+	},
+}

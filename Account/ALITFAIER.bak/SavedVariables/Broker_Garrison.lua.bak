@@ -1,0 +1,1047 @@
+
+Broker_GarrisonDB = {
+	["profileKeys"] = {
+		["Àzzurrà - Nemesis"] = "Default",
+	},
+	["global"] = {
+		["data"] = {
+			["Nemesis"] = {
+				["Àzzurrà"] = {
+					["lootedToday"] = {
+					},
+					["configVersion"] = 2,
+					["missions"] = {
+						[628] = {
+							["type"] = "Addestramento Navale",
+							["timeLeftCalc"] = 0,
+							["missionState"] = 0,
+							["id"] = 628,
+							["duration"] = 14400,
+							["rewards"] = {
+								[1033] = {
+									["title"] = "Bonus PE",
+									["followerXP"] = 500,
+									["tooltip"] = "+500 PE",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+500 PE",
+								},
+							},
+							["followerTypeID"] = 2,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "Profondità d'apprendimento",
+							["followers"] = {
+								{
+									["name"] = "Affondo di Thaurissan",
+									["id"] = "0x00000000011E30EA",
+									["abilities"] = {
+										{
+											["id"] = 263,
+											["name"] = "Fregata",
+											["icon"] = "Interface\\ICONS\\Ships_ABILITY_DepthCharges.blp",
+										}, -- [1]
+										{
+											["id"] = 288,
+											["name"] = "Equipaggio: Elfi della Notte",
+											["icon"] = "Interface\\ICONS\\Achievement_Character_Nightelf_Male.blp",
+										}, -- [2]
+										{
+											["id"] = 279,
+											["name"] = "Amplificatore Sonico",
+											["icon"] = "Interface\\ICONS\\Ability_Vehicle_SonicShockwave.blp",
+										}, -- [3]
+									},
+									["classIcon"] = "Ships_GalleonA-List",
+									["iconId"] = 0,
+								}, -- [1]
+							},
+							["start"] = 0,
+							["level"] = 100,
+							["timeLeft"] = "0 s",
+							["typeAtlas"] = "ShipMissionIcon-Training-Mission",
+						},
+						[312] = {
+							["type"] = "Combattimento",
+							["timeLeftCalc"] = 0,
+							["missionState"] = 0,
+							["id"] = 312,
+							["duration"] = 21600,
+							["rewards"] = {
+								[752] = {
+									["title"] = "Ricompensa in valuta",
+									["quantity"] = 300,
+									["icon"] = "Interface\\Icons\\inv_garrison_resource",
+									["currencyID"] = 824,
+								},
+							},
+							["followerTypeID"] = 1,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "Magia e vegetali",
+							["followers"] = {
+								{
+									["name"] = "Delvar Pugnoferreo",
+									["id"] = "0x0000000000109DD4",
+									["abilities"] = {
+										{
+											["id"] = 231,
+											["name"] = "Guardia del Corpo",
+											["icon"] = "Interface\\ICONS\\Ability_HanzandFranz_ChestBump.blp",
+										}, -- [1]
+										{
+											["id"] = 115,
+											["name"] = "Scudo d'Ossa",
+											["icon"] = "Interface\\ICONS\\ability_deathknight_boneshield.blp",
+										}, -- [2]
+										{
+											["id"] = 69,
+											["name"] = "Intesa: Pandaren",
+											["icon"] = "Interface\\ICONS\\Achievement_Character_Pandaren_Female.blp",
+										}, -- [3]
+										{
+											["id"] = 117,
+											["name"] = "Gelo Mentale",
+											["icon"] = "Interface\\ICONS\\Spell_DeathKnight_MindFreeze.blp",
+										}, -- [4]
+										{
+											["id"] = 36,
+											["name"] = "Sterminio: Demoni",
+											["icon"] = "Interface\\ICONS\\Achievement_Boss_PrinceMalchezaar_02.blp",
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+									["iconId"] = 1066337,
+								}, -- [1]
+								{
+									["name"] = "Ammiraglio Taylor",
+									["id"] = "0x00000000003360CE",
+									["abilities"] = {
+										{
+											["id"] = 122,
+											["name"] = "Avventatezza",
+											["icon"] = "Interface\\ICONS\\warrior_skullbanner.blp",
+										}, -- [1]
+										{
+											["id"] = 58,
+											["name"] = "Runografia",
+											["icon"] = "Interface\\ICONS\\INV_Inscription_Tradeskill01.blp",
+										}, -- [2]
+										{
+											["id"] = 66,
+											["name"] = "Intesa: Elfi della Notte",
+											["icon"] = "Interface\\ICONS\\Achievement_Character_Nightelf_Male.blp",
+										}, -- [3]
+										{
+											["id"] = 120,
+											["name"] = "Fendente",
+											["icon"] = "Interface\\ICONS\\Ability_Warrior_Cleave.blp",
+										}, -- [4]
+										{
+											["id"] = 37,
+											["name"] = "Sterminio: Bestie",
+											["icon"] = "Interface\\ICONS\\Achievement_Boss_kingdred.blp",
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+									["iconId"] = 1066531,
+								}, -- [2]
+								{
+									["name"] = "Filark il Sempreverde",
+									["id"] = "0x0000000000B77090",
+									["abilities"] = {
+										{
+											["id"] = 228,
+											["name"] = "Sempreverde",
+											["icon"] = "Interface\\ICONS\\Ability_Druid_ManaTree.blp",
+										}, -- [1]
+										{
+											["id"] = 134,
+											["name"] = "Radici Avvolgenti",
+											["icon"] = "Interface\\ICONS\\Spell_Nature_StrangleVines.blp",
+										}, -- [2]
+										{
+											["id"] = 48,
+											["name"] = "Familiarità: Paludi",
+											["icon"] = "Interface\\ICONS\\Achievement_Zone_Sholazar_03.blp",
+										}, -- [3]
+										{
+											["id"] = 136,
+											["name"] = "Cura della Natura",
+											["icon"] = "Interface\\ICONS\\Ability_Shaman_CleanseSpirit.blp",
+										}, -- [4]
+										{
+											["id"] = 43,
+											["name"] = "Sterminio: Arakkoa",
+											["icon"] = "INTERFACE\\ICONS\\INV_RavenLordPet.blp",
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Druid",
+									["iconId"] = 1066276,
+								}, -- [3]
+							},
+							["start"] = 0,
+							["level"] = 100,
+							["timeLeft"] = "0 s",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[683] = {
+							["type"] = "Combattimento",
+							["timeLeftCalc"] = 0,
+							["missionState"] = 0,
+							["id"] = 683,
+							["duration"] = 43200,
+							["rewards"] = {
+								[1135] = {
+									["itemID"] = 128314,
+									["quantity"] = 1,
+								},
+							},
+							["followerTypeID"] = 1,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "Ritrovo tempestoso",
+							["followers"] = {
+								{
+									["name"] = "Vincolatrice d'Anime Tuulani",
+									["id"] = "0x000000000018C16F",
+									["abilities"] = {
+										{
+											["id"] = 11,
+											["name"] = "Preghiera di Cura",
+											["icon"] = "Interface\\ICONS\\Spell_Holy_PrayerOfHealing02.blp",
+										}, -- [1]
+										{
+											["id"] = 63,
+											["name"] = "Intesa: Gnomi",
+											["icon"] = "Interface\\ICONS\\Achievement_Character_Gnome_Male.blp",
+										}, -- [2]
+										{
+											["id"] = 43,
+											["name"] = "Sterminio: Arakkoa",
+											["icon"] = "INTERFACE\\ICONS\\INV_RavenLordPet.blp",
+										}, -- [3]
+										{
+											["id"] = 10,
+											["name"] = "Balzo della Fede",
+											["icon"] = "Interface\\ICONS\\Priest_spell_leapoffaith_a.blp",
+										}, -- [4]
+										{
+											["id"] = 49,
+											["name"] = "Familiarità: Pianure",
+											["icon"] = "Interface\\ICONS\\Achievement_Zone_ArathiHighlands_01.blp",
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+									["iconId"] = 1066103,
+								}, -- [1]
+								{
+									["name"] = "Chierico Maluuf",
+									["id"] = "0x0000000000355BD9",
+									["abilities"] = {
+										{
+											["id"] = 11,
+											["name"] = "Preghiera di Cura",
+											["icon"] = "Interface\\ICONS\\Spell_Holy_PrayerOfHealing02.blp",
+										}, -- [1]
+										{
+											["id"] = 59,
+											["name"] = "Oreficeria",
+											["icon"] = "Interface\\ICONS\\INV_Misc_Gem_01.blp",
+										}, -- [2]
+										{
+											["id"] = 236,
+											["name"] = "Esperto di Hearthstone",
+											["icon"] = "Interface\\ICONS\\Item_Hearthstone_Card.blp",
+										}, -- [3]
+										{
+											["id"] = 148,
+											["name"] = "Dissoluzione Magica",
+											["icon"] = "Interface\\ICONS\\SPELL_HOLY_DISPELMAGIC.BLP",
+										}, -- [4]
+										{
+											["id"] = 4,
+											["name"] = "Sterminio: Orchi",
+											["icon"] = "Interface\\ICONS\\Achievement_Boss_General_Nazgrim.blp",
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+									["iconId"] = 1080910,
+								}, -- [2]
+								{
+									["name"] = "Leeroy Jenkins",
+									["id"] = "0x0000000000771BE4",
+									["abilities"] = {
+										{
+											["id"] = 130,
+											["name"] = "Tempesta Divina",
+											["icon"] = "Interface\\ICONS\\ABILITY_PALADIN_DIVINESTORM.BLP",
+										}, -- [1]
+										{
+											["id"] = 126,
+											["name"] = "Predica",
+											["icon"] = "Interface\\ICONS\\Spell_Holy_Rebuke.blp",
+										}, -- [2]
+										{
+											["id"] = 62,
+											["name"] = "Scuoiatura",
+											["icon"] = "Interface\\ICONS\\INV_Misc_Pelt_Wolf_01.blp",
+										}, -- [3]
+										{
+											["id"] = 76,
+											["name"] = "Tempra Indomita",
+											["icon"] = "Interface\\ICONS\\Spell_Holy_WordFortitude.blp",
+										}, -- [4]
+										{
+											["id"] = 79,
+											["name"] = "Recupero delle Risorse",
+											["icon"] = "Interface\\ICONS\\ACHIEVEMENT_GUILDPERK_BOUNTIFULBAGS.BLP",
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Paladin",
+									["iconId"] = 1066162,
+								}, -- [3]
+							},
+							["start"] = 0,
+							["level"] = 100,
+							["timeLeft"] = "0 s",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[336] = {
+							["type"] = "Combattimento",
+							["timeLeftCalc"] = 0,
+							["missionState"] = 0,
+							["id"] = 336,
+							["duration"] = 36000,
+							["rewards"] = {
+								[692] = {
+									["title"] = "Ricompensa in valuta",
+									["quantity"] = 1000,
+									["icon"] = "Interface\\Icons\\inv_apexis_draenor",
+									["currencyID"] = 823,
+								},
+								[693] = {
+									["title"] = "Bonus PE seguace",
+									["followerXP"] = 20000,
+									["tooltip"] = "+20.000 PE",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+20.000 PE",
+								},
+							},
+							["followerTypeID"] = 1,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "La liberazione di Shattrath",
+							["followers"] = {
+								{
+									["name"] = "Miall",
+									["id"] = "0x000000000017EE0F",
+									["abilities"] = {
+										{
+											["id"] = 6,
+											["name"] = "Muro di Scudi",
+											["icon"] = "Interface\\ICONS\\Ability_Warrior_ShieldWall.blp",
+										}, -- [1]
+										{
+											["id"] = 48,
+											["name"] = "Familiarità: Paludi",
+											["icon"] = "Interface\\ICONS\\Achievement_Zone_Sholazar_03.blp",
+										}, -- [2]
+										{
+											["id"] = 63,
+											["name"] = "Intesa: Gnomi",
+											["icon"] = "Interface\\ICONS\\Achievement_Character_Gnome_Male.blp",
+										}, -- [3]
+										{
+											["id"] = 122,
+											["name"] = "Avventatezza",
+											["icon"] = "Interface\\ICONS\\warrior_skullbanner.blp",
+										}, -- [4]
+										{
+											["id"] = 69,
+											["name"] = "Intesa: Pandaren",
+											["icon"] = "Interface\\ICONS\\Achievement_Character_Pandaren_Female.blp",
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+									["iconId"] = 1066108,
+								}, -- [1]
+								{
+									["name"] = "Abu'gar",
+									["id"] = "0x00000000004FCF74",
+									["abilities"] = {
+										{
+											["id"] = 114,
+											["name"] = "Comando Oscuro",
+											["icon"] = "Interface\\ICONS\\Spell_Nature_ShamanRage.blp",
+										}, -- [1]
+										{
+											["id"] = 117,
+											["name"] = "Gelo Mentale",
+											["icon"] = "Interface\\ICONS\\Spell_DeathKnight_MindFreeze.blp",
+										}, -- [2]
+										{
+											["id"] = 49,
+											["name"] = "Familiarità: Pianure",
+											["icon"] = "Interface\\ICONS\\Achievement_Zone_ArathiHighlands_01.blp",
+										}, -- [3]
+										{
+											["id"] = 69,
+											["name"] = "Intesa: Pandaren",
+											["icon"] = "Interface\\ICONS\\Achievement_Character_Pandaren_Female.blp",
+										}, -- [4]
+										{
+											["id"] = 37,
+											["name"] = "Sterminio: Bestie",
+											["icon"] = "Interface\\ICONS\\Achievement_Boss_kingdred.blp",
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-DeathKnight",
+									["iconId"] = 1066167,
+								}, -- [2]
+								{
+									["name"] = "Millhouse Manalampo",
+									["id"] = "0x00000000005CFF04",
+									["abilities"] = {
+										{
+											["id"] = 172,
+											["name"] = "Metamorfosi",
+											["icon"] = "Interface\\ICONS\\Spell_Nature_Polymorph.blp",
+										}, -- [1]
+										{
+											["id"] = 170,
+											["name"] = "Traslazione",
+											["icon"] = "Interface\\ICONS\\Spell_Arcane_Blink.blp",
+										}, -- [2]
+										{
+											["id"] = 77,
+											["name"] = "Scarica di Potere",
+											["icon"] = "Interface\\ICONS\\Spell_Nature_ShamanRage.blp",
+										}, -- [3]
+										{
+											["id"] = 69,
+											["name"] = "Intesa: Pandaren",
+											["icon"] = "Interface\\ICONS\\Achievement_Character_Pandaren_Female.blp",
+										}, -- [4]
+										{
+											["id"] = 66,
+											["name"] = "Intesa: Elfi della Notte",
+											["icon"] = "Interface\\ICONS\\Achievement_Character_Nightelf_Male.blp",
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Mage",
+									["iconId"] = 1066529,
+								}, -- [3]
+							},
+							["start"] = 0,
+							["level"] = 100,
+							["timeLeft"] = "0 s",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[663] = {
+							["type"] = "Combattimento",
+							["timeLeftCalc"] = 0,
+							["missionState"] = 0,
+							["id"] = 663,
+							["duration"] = 14400,
+							["rewards"] = {
+								[1115] = {
+									["title"] = "Ricompensa in valuta",
+									["quantity"] = 25,
+									["icon"] = "Interface\\Icons\\garrison_oil",
+									["currencyID"] = 1101,
+								},
+							},
+							["followerTypeID"] = 1,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "Miele di Ardipaludi",
+							["followers"] = {
+								{
+									["name"] = "Combattente delle Fosse Vaandaam",
+									["id"] = "0x00000000000CB4DA",
+									["abilities"] = {
+										{
+											["id"] = 140,
+											["name"] = "Istigazione",
+											["icon"] = "Interface\\ICONS\\Ability_Monk_Provoke.blp",
+										}, -- [1]
+										{
+											["id"] = 143,
+											["name"] = "Capriola",
+											["icon"] = "Interface\\ICONS\\ability_monk_roll.blp",
+										}, -- [2]
+										{
+											["id"] = 64,
+											["name"] = "Intesa: Umani",
+											["icon"] = "Interface\\ICONS\\Achievement_Character_Human_Female.blp",
+										}, -- [3]
+										{
+											["id"] = 221,
+											["name"] = "Cavalcatura Epica",
+											["icon"] = "Interface\\ICONS\\MountJournalPortrait.blp",
+										}, -- [4]
+										{
+											["id"] = 37,
+											["name"] = "Sterminio: Bestie",
+											["icon"] = "Interface\\ICONS\\Achievement_Boss_kingdred.blp",
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Monk",
+									["iconId"] = 1066113,
+								}, -- [1]
+								{
+									["name"] = "Bridgette Hicks",
+									["id"] = "0x000000000108900B",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "Cacciatore di Tesori",
+											["icon"] = "Interface\\ICONS\\Ability_Racial_PackHobgoblin.blp",
+										}, -- [1]
+										{
+											["id"] = 121,
+											["name"] = "Pugno Diversivo",
+											["icon"] = "Interface\\ICONS\\INV_Gauntlets_04.blp",
+										}, -- [2]
+										{
+											["id"] = 67,
+											["name"] = "Intesa: Draenei",
+											["icon"] = "Interface\\ICONS\\Achievement_Character_Draenei_Male.blp",
+										}, -- [3]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warrior",
+									["iconId"] = 1066420,
+								}, -- [2]
+								{
+									["name"] = "Rabdomante Granscossa",
+									["id"] = "0x00000000011EED5D",
+									["abilities"] = {
+										{
+											["id"] = 314,
+											["name"] = "Macchinista",
+											["icon"] = "Interface\\ICONS\\Ability_Vehicle_OilJets.blp",
+										}, -- [1]
+										{
+											["id"] = 11,
+											["name"] = "Preghiera di Cura",
+											["icon"] = "Interface\\ICONS\\Spell_Holy_PrayerOfHealing02.blp",
+										}, -- [2]
+										{
+											["id"] = 221,
+											["name"] = "Cavalcatura Epica",
+											["icon"] = "Interface\\ICONS\\MountJournalPortrait.blp",
+										}, -- [3]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Priest",
+									["iconId"] = 1240380,
+								}, -- [3]
+							},
+							["start"] = 0,
+							["level"] = 100,
+							["timeLeft"] = "0 s",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[303] = {
+							["type"] = "Combattimento",
+							["timeLeftCalc"] = 0,
+							["missionState"] = 0,
+							["id"] = 303,
+							["duration"] = 21600,
+							["rewards"] = {
+								[669] = {
+									["title"] = "Ricompensa in oro",
+									["quantity"] = 1000000,
+									["icon"] = "Interface\\Icons\\inv_misc_coin_01",
+									["currencyID"] = 0,
+								},
+							},
+							["followerTypeID"] = 1,
+							["statusComplete"] = true,
+							["notification"] = 1,
+							["name"] = "Hai da accendere?",
+							["followers"] = {
+								{
+									["name"] = "Kimzee Brillabotti",
+									["id"] = "0x00000000001AAB34",
+									["abilities"] = {
+										{
+											["id"] = 160,
+											["name"] = "Scatto",
+											["icon"] = "Interface\\ICONS\\Ability_Rogue_Sprint.blp",
+										}, -- [1]
+										{
+											["id"] = 57,
+											["name"] = "Ingegneria",
+											["icon"] = "Interface\\ICONS\\Trade_Engineering.blp",
+										}, -- [2]
+										{
+											["id"] = 4,
+											["name"] = "Sterminio: Orchi",
+											["icon"] = "Interface\\ICONS\\Achievement_Boss_General_Nazgrim.blp",
+										}, -- [3]
+										{
+											["id"] = 162,
+											["name"] = "Marchio della Morte",
+											["icon"] = "Interface\\ICONS\\Achievement_BG_killingblow_berserker.blp",
+										}, -- [4]
+										{
+											["id"] = 69,
+											["name"] = "Intesa: Pandaren",
+											["icon"] = "Interface\\ICONS\\Achievement_Character_Pandaren_Female.blp",
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+									["iconId"] = 1066120,
+								}, -- [1]
+								{
+									["name"] = "Harrison Jones",
+									["id"] = "0x0000000001004C22",
+									["abilities"] = {
+										{
+											["id"] = 248,
+											["name"] = "Mentore",
+											["icon"] = "Interface\\ICONS\\TRADE_ARCHAEOLOGY_DRAENEI_TOME.BLP",
+										}, -- [1]
+										{
+											["id"] = 256,
+											["name"] = "Cacciatore di Tesori",
+											["icon"] = "Interface\\ICONS\\Ability_Racial_PackHobgoblin.blp",
+										}, -- [2]
+										{
+											["id"] = 104,
+											["name"] = "Tramortimento",
+											["icon"] = "Interface\\ICONS\\ABILITY_SAP.BLP",
+										}, -- [3]
+										{
+											["id"] = 159,
+											["name"] = "Evasione",
+											["icon"] = "Interface\\ICONS\\Spell_Shadow_ShadowWard.blp",
+										}, -- [4]
+										{
+											["id"] = 39,
+											["name"] = "Sterminio: Primordiali",
+											["icon"] = "Interface\\ICONS\\Achievement_Boss_YoggSaron_01.blp",
+										}, -- [5]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Rogue",
+									["iconId"] = 1108816,
+								}, -- [2]
+								{
+									["name"] = "Edmund Fendivespro",
+									["id"] = "0x00000000010E2638",
+									["abilities"] = {
+										{
+											["id"] = 256,
+											["name"] = "Cacciatore di Tesori",
+											["icon"] = "Interface\\ICONS\\Ability_Racial_PackHobgoblin.blp",
+										}, -- [1]
+										{
+											["id"] = 175,
+											["name"] = "Risucchio di Vita",
+											["icon"] = "Interface\\ICONS\\Spell_Shadow_LifeDrain02.blp",
+										}, -- [2]
+									},
+									["classIcon"] = "GarrMission_ClassIcon-Warlock",
+									["iconId"] = 1066497,
+								}, -- [3]
+							},
+							["start"] = 0,
+							["level"] = 100,
+							["timeLeft"] = "0 s",
+							["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+						},
+						[591] = {
+							["type"] = "Combattimento Navale",
+							["rewards"] = {
+								[995] = {
+									["title"] = "Bonus PE",
+									["followerXP"] = 5000,
+									["tooltip"] = "+5.000 PE",
+									["icon"] = "Interface\\Icons\\XPBonus_Icon",
+									["name"] = "+5.000 PE",
+								},
+							},
+							["id"] = 591,
+							["duration"] = 28800,
+							["missionState"] = 1,
+							["followerTypeID"] = 2,
+							["timeLeftCalc"] = 108303,
+							["notification"] = 0,
+							["name"] = "Il piacere della pancetta",
+							["followers"] = {
+								{
+									["name"] = "Comando di Yrel",
+									["id"] = "0x000000000119BA68",
+									["abilities"] = {
+										{
+											["id"] = 263,
+											["name"] = "Fregata",
+											["icon"] = "Interface\\ICONS\\Ships_ABILITY_DepthCharges.blp",
+										}, -- [1]
+										{
+											["id"] = 265,
+											["name"] = "Rompighiaccio",
+											["icon"] = "Interface\\ICONS\\Ability_Siege_Engineer_Superheated.blp",
+										}, -- [2]
+										{
+											["id"] = 283,
+											["name"] = "Equipaggio: Nani",
+											["icon"] = "Interface\\ICONS\\Achievement_Character_Dwarf_Female.blp",
+										}, -- [3]
+									},
+									["classIcon"] = "Ships_GalleonA-List",
+									["iconId"] = 0,
+								}, -- [1]
+								{
+									["name"] = "Fulmine di Ra-Den",
+									["id"] = "0x00000000011E316B",
+									["abilities"] = {
+										{
+											["id"] = 263,
+											["name"] = "Fregata",
+											["icon"] = "Interface\\ICONS\\Ships_ABILITY_DepthCharges.blp",
+										}, -- [1]
+										{
+											["id"] = 266,
+											["name"] = "Pompa di Sentina",
+											["icon"] = "interface\\ICONS\\INV_Eng_Gizmo2.blp",
+										}, -- [2]
+										{
+											["id"] = 280,
+											["name"] = "Cabine Aggiuntive",
+											["icon"] = "Interface\\ICONS\\INV_Gizmo_AdamantiteFrame.blp",
+										}, -- [3]
+										{
+											["id"] = 292,
+											["name"] = "Equipaggio: Umani",
+											["icon"] = "Interface\\ICONS\\Achievement_Character_Human_Female.blp",
+										}, -- [4]
+									},
+									["classIcon"] = "Ships_GalleonA-List",
+									["iconId"] = 0,
+								}, -- [2]
+							},
+							["start"] = 1435923928,
+							["level"] = 100,
+							["timeLeft"] = "1 |4giorno:giorni; 7 |4ora:ore;",
+							["typeAtlas"] = "ShipMissionIcon-Combat-Mission",
+						},
+					},
+					["order"] = 5,
+					["currencySealOfTemperedFateAmount"] = 5,
+					["invasion"] = {
+						["available"] = false,
+					},
+					["buildingsExpanded"] = true,
+					["buildings"] = {
+						[24] = {
+							["hasFollowerSlot"] = true,
+							["buildingState"] = 0,
+							["follower"] = {
+								["garrFollowerID"] = "0x00000000000000C1",
+								["portraitIconID"] = 1066145,
+								["displayID"] = 57173,
+								["followerID"] = "0x000000000051EDB4",
+								["status"] = "Al lavoro",
+								["level"] = 100,
+								["quality"] = 4,
+								["followerName"] = "Tormmok",
+							},
+							["shipment"] = {
+							},
+							["id"] = 28,
+							["plotID"] = 24,
+							["plotSize"] = 3,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "Caserma",
+							["timeStart"] = 1420845260,
+							["texPrefix"] = "GarrBuilding_Barracks_3_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\Garrison_Building_Barracks.blp",
+							["rank"] = 3,
+						},
+						[63] = {
+							["hasFollowerSlot"] = true,
+							["buildingState"] = 0,
+							["follower"] = {
+							},
+							["shipment"] = {
+								["shipmentsAvailable"] = 0,
+								["itemName"] = "Giardino",
+								["duration"] = 14400,
+								["shipmentsReadyEstimate"] = 11,
+								["notification"] = 1,
+								["creationTime"] = 1435841002,
+								["shipmentsReady"] = 11,
+								["texture"] = "Interface\\ICONS\\INV_Misc_Herb_SansamRoot.blp",
+								["notificationValue"] = 11,
+								["shipmentsInProgress"] = 10,
+								["notificationDismissed"] = false,
+								["timeleftString"] = "3 |4ora:ore; 3 min",
+								["shipmentsTotal"] = 21,
+								["itemID"] = 116054,
+								["itemQuality"] = 1,
+								["name"] = "Giardino d'Erbalismo",
+								["shipmentCapacity"] = 21,
+							},
+							["id"] = 137,
+							["plotID"] = 63,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "Giardino d'Erbalismo",
+							["timeStart"] = 1418904826,
+							["texPrefix"] = "GarrBuilding_Farm_1_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\INV_Misc_Herb_SansamRoot.blp",
+							["rank"] = 3,
+						},
+						[81] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["shipment"] = {
+							},
+							["id"] = 42,
+							["plotID"] = 81,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "Serraglio",
+							["timeStart"] = 1427022309,
+							["texPrefix"] = "GarrBuilding_PetStable_1_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\Garrison_Building_Menagerie.blp",
+							["rank"] = 1,
+						},
+						[67] = {
+							["hasFollowerSlot"] = true,
+							["buildingState"] = 0,
+							["follower"] = {
+							},
+							["shipment"] = {
+							},
+							["id"] = 134,
+							["plotID"] = 67,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "Capanno da Pesca",
+							["timeStart"] = 1416095807,
+							["texPrefix"] = "GarrBuilding_Fishing_2_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\Trade_Fishing.blp",
+							["rank"] = 2,
+						},
+						[98] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["id"] = 205,
+							["plotID"] = 98,
+							["shipment"] = {
+								["name"] = "Cantiere Navale di Calaluna",
+								["shipmentCapacity"] = 1,
+								["texture"] = "Interface\\ICONS\\INV_Garrison_Cargoship.blp",
+							},
+							["buildTime"] = 0,
+							["canActivate"] = false,
+							["name"] = "Cantiere Navale di Calaluna",
+							["timeStart"] = 1435163140,
+							["texPrefix"] = "GarrBuilding_Armory_1_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\INV_Garrison_Cargoship.blp",
+							["rank"] = 1,
+						},
+						[18] = {
+							["hasFollowerSlot"] = true,
+							["buildingState"] = 0,
+							["follower"] = {
+								["garrFollowerID"] = "0x00000000000000D0",
+								["portraitIconID"] = 1066532,
+								["displayID"] = 60860,
+								["followerID"] = "0x0000000000E36A1D",
+								["status"] = "Al lavoro",
+								["level"] = 100,
+								["quality"] = 4,
+								["followerName"] = "Ahm",
+							},
+							["shipment"] = {
+								["name"] = "Studio d'Incantamento",
+								["shipmentCapacity"] = 21,
+								["texture"] = "Interface\\ICONS\\Trade_Engraving.blp",
+							},
+							["id"] = 126,
+							["plotID"] = 18,
+							["plotSize"] = 1,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "Studio d'Incantamento",
+							["timeStart"] = 1428346614,
+							["texPrefix"] = "GarrBuilding_Enchanting_3_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\Trade_Engraving.blp",
+							["rank"] = 3,
+						},
+						[19] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["shipment"] = {
+							},
+							["id"] = 141,
+							["plotID"] = 19,
+							["plotSize"] = 1,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "Centro di Riciclaggio",
+							["timeStart"] = 1418904754,
+							["texPrefix"] = "GarrBuilding_SalvageYard_1_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\Garrison_Building_SalvageYard.blp",
+							["rank"] = 3,
+						},
+						[20] = {
+							["hasFollowerSlot"] = true,
+							["buildingState"] = 0,
+							["follower"] = {
+							},
+							["shipment"] = {
+								["name"] = "Laboratorio Alchemico",
+								["shipmentCapacity"] = 21,
+								["texture"] = "Interface\\ICONS\\Trade_Alchemy.blp",
+							},
+							["id"] = 120,
+							["plotID"] = 20,
+							["plotSize"] = 1,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "Laboratorio Alchemico",
+							["timeStart"] = 1419801331,
+							["texPrefix"] = "GarrBuilding_Alchemy_3_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\Trade_Alchemy.blp",
+							["rank"] = 3,
+						},
+						[59] = {
+							["hasFollowerSlot"] = true,
+							["buildingState"] = 0,
+							["follower"] = {
+								["garrFollowerID"] = "0x000000000000010A",
+								["portraitIconID"] = 1066279,
+								["displayID"] = 58434,
+								["followerID"] = "0x0000000000477C07",
+								["status"] = "Al lavoro",
+								["level"] = 100,
+								["quality"] = 4,
+								["followerName"] = "Thaal'kos Odetonante",
+							},
+							["shipment"] = {
+								["name"] = "Scavi di Calaluna",
+								["shipmentCapacity"] = 21,
+								["texture"] = "Interface\\ICONS\\Trade_Mining.blp",
+							},
+							["id"] = 63,
+							["plotID"] = 59,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "Scavi di Calaluna",
+							["timeStart"] = 1424510773,
+							["texPrefix"] = "GarrBuilding_Mine_1_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\Trade_Mining.blp",
+							["rank"] = 3,
+						},
+						[22] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["shipment"] = {
+							},
+							["id"] = 36,
+							["plotID"] = 22,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "Locanda di Calaluna",
+							["timeStart"] = 1433448798,
+							["texPrefix"] = "GarrBuilding_Inn_3_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\INV_MISC_RUNE_01.BLP",
+							["rank"] = 3,
+						},
+						[23] = {
+							["hasFollowerSlot"] = false,
+							["buildingState"] = 0,
+							["shipment"] = {
+								["name"] = "Fortilizio dei Nani",
+								["shipmentCapacity"] = 14,
+								["texture"] = "Interface\\ICONS\\Garrison_Building_Armory.blp",
+							},
+							["id"] = 9,
+							["plotID"] = 23,
+							["plotSize"] = 3,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "Fortilizio dei Nani",
+							["timeStart"] = 1417347381,
+							["texPrefix"] = "GarrBuilding_Armory_2_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\Garrison_Building_Armory.blp",
+							["rank"] = 2,
+						},
+						[25] = {
+							["hasFollowerSlot"] = true,
+							["buildingState"] = 0,
+							["follower"] = {
+							},
+							["shipment"] = {
+								["name"] = "Segheria",
+								["shipmentCapacity"] = 21,
+								["texture"] = "Interface\\ICONS\\Garrison_Building_Lumbermill.blp",
+							},
+							["id"] = 138,
+							["plotID"] = 25,
+							["plotSize"] = 2,
+							["buildTime"] = 3600,
+							["canActivate"] = false,
+							["name"] = "Segheria",
+							["timeStart"] = 1418409773,
+							["texPrefix"] = "GarrBuilding_LumberMill_3_A",
+							["isBuilding"] = false,
+							["icon"] = "Interface\\ICONS\\Garrison_Building_Lumbermill.blp",
+							["rank"] = 3,
+						},
+					},
+					["cacheSize"] = 1000,
+					["trackWeekly"] = {
+						["BONUS_ROLL_QUESTS"] = 0,
+						["WARMILL_SOTF"] = false,
+					},
+					["currencyApexisAmount"] = 49827,
+					["weeklyNextReset"] = 1436317204,
+					["lootedNextReset"] = 1435885204,
+					["tooltipEnabled"] = true,
+					["currencyOil"] = 4195,
+					["currencySealOfInevitableFateAmount"] = 4,
+					["info"] = {
+						["bonusEnabled"] = true,
+						["playerClass"] = "DRUID",
+						["realmName"] = "Nemesis",
+						["playerName"] = "Àzzurrà",
+						["playerFaction"] = "Alliance",
+					},
+					["trackDaily"] = {
+						["WARMILL_IRONSCRAPS"] = false,
+					},
+					["notificationEnabled"] = true,
+					["ldbEnabled"] = true,
+					["currencyAmount"] = 8011,
+					["missionsExpanded"] = true,
+				},
+			},
+		},
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

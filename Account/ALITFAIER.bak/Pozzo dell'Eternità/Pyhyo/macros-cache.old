@@ -1,0 +1,4 @@
+VER 3 0100000000000036 "ZGVMacro2" "0"
+/target Forsaken Invader
+/run ZGV:MRM()
+END

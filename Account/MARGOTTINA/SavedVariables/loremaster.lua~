@@ -1,0 +1,17 @@
+
+LoremasterDB = {
+	["profileKeys"] = {
+		["Braveherat - Hakkar"] = "char",
+		["Alitfaier - Hakkar"] = "char",
+	},
+	["char"] = {
+		["Braveherat - Hakkar"] = {
+		},
+		["Alitfaier - Hakkar"] = {
+			["settings"] = {
+				["version"] = 1.2,
+				["faction"] = "Alliance",
+			},
+		},
+	},
+}

@@ -1,0 +1,25 @@
+
+SkadaDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["hasUpgraded"] = true,
+	["profileKeys"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["icon"] = {
+				["minimapPos"] = 126.113837959772,
+			},
+			["windows"] = {
+				{
+					["y"] = 77.2309188842774,
+					["point"] = "BOTTOMRIGHT",
+					["x"] = 0,
+				}, -- [1]
+			},
+		},
+	},
+}

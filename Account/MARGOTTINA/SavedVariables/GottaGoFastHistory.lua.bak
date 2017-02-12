@@ -1,0 +1,84 @@
+
+GottaGoFastHistoryDB = {
+	["profileKeys"] = {
+		["Alitfaier - Pozzo dell'Eternità"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["History"] = {
+				[1466] = {
+					["runs"] = {
+						{
+							["corrupt"] = false,
+							["deaths"] = 5,
+							["affixes"] = {
+								{
+									["name"] = "Esubero",
+									["desc"] = "Le sovracure vengono convertite in effetti di assorbimento dei danni subiti.",
+								}, -- [1]
+								[8] = {
+									["name"] = "Rosso Sangue",
+									["desc"] = "Quando un nemico che non è un boss muore, lascia una pozza di icore che cura i propri alleati e infligge danni ai personaggi.",
+								},
+							},
+							["active"] = false,
+							["endTime"] = 15778.623,
+							["timeStamp"] = {
+								["day"] = 11,
+								["month"] = 11,
+								["hours"] = 18,
+								["mins"] = 7,
+								["year"] = 2016,
+							},
+							["players"] = {
+								{
+									["class"] = "Cacciatore di Demoni",
+									["name"] = "Actarys",
+									["role"] = "TANK",
+								}, -- [1]
+								{
+									["class"] = "Sacerdote",
+									["name"] = "Littlejacky",
+									["role"] = "DAMAGER",
+								}, -- [2]
+								{
+									["class"] = "Druida",
+									["name"] = "Ocelocie (*)",
+									["role"] = "HEALER",
+								}, -- [3]
+								{
+									["class"] = "Maga",
+									["name"] = "Wujeksamozuo (*)",
+									["role"] = "DAMAGER",
+								}, -- [4]
+								{
+									["class"] = "Guerriero",
+									["name"] = "Alitfaier",
+									["role"] = "DAMAGER",
+								}, -- [5]
+							},
+							["level"] = 7,
+							["objectiveTimes"] = {
+								"08:54.503", -- [1]
+								"18:01.117", -- [2]
+								"22:32.822", -- [3]
+								"36:05.676", -- [4]
+								"27:05.067", -- [5]
+							},
+							["startTime"] = 13637.47,
+						}, -- [1]
+					},
+					["name"] = "Boschetto Cuortetro",
+					["zoneID"] = 1466,
+					["objectives"] = {
+						"Arcidruido Glaidalis", -- [1]
+						"Cuorquercia", -- [2]
+						"Dresaron", -- [3]
+						"Ombra di Xavius", -- [4]
+						"Forze nemiche", -- [5]
+					},
+				},
+			},
+		},
+	},
+}

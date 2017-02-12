@@ -1,0 +1,57 @@
+
+Prat3HighCPUPerCharDB = {
+	["time"] = 1416658435,
+	["scrollback"] = {
+		["ChatFrame1"] = {
+			{
+				"|cff979797[13:08:19]|r|c00000000|r |Hchannel:channel:1|h[1] |h Cambio di canale: |Hchannel:1|h[1. Generale - Teldrassil]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				69, -- [5]
+			}, -- [1]
+			{
+				"|cff979797[13:08:19]|r|c00000000|r |Hchannel:channel:3|h[3] |h Cambio di canale: |Hchannel:3|h[3. DifesaLocale - Teldrassil]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				71, -- [5]
+			}, -- [2]
+			{
+				"|cff979797[13:08:43]|r|c00000000|r |cffd8d8d8[|r|Hplayer:Jaburax:424:GUILD|h|cffff7c0aJaburax|r|h|cffd8d8d8]|r ha compiuto l'impresa |cffffff00|Hachievement:9095:Player-1316-04EE1485:1:11:22:14:4294967295:4294967295:4294967295:4294967295|h[Costruttore]|h|r!", -- [1]
+				0.250980406999588, -- [2]
+				1, -- [3]
+				0.250980406999588, -- [4]
+				48, -- [5]
+			}, -- [3]
+			{
+				"|cff979797[13:12:19]|r|c00000000|r |cffd8d8d8[|r|Hplayer:Awp:425:GUILD|h|cffaad372Awp|r|h|cffd8d8d8]|r ha compiuto l'impresa |cffffff00|Hachievement:9138:Player-1316-04A2ED19:1:11:22:14:4294967295:4294967295:4294967295:4294967295|h[Un sacco di missioni]|h|r!", -- [1]
+				0.250980406999588, -- [2]
+				1, -- [3]
+				0.250980406999588, -- [4]
+				48, -- [5]
+			}, -- [4]
+			{
+				"|cff979797[13:12:33]|r|c00000000|r |cffd8d8d8[|r|Hplayer:Palygally:426|h|cffa5a5a5Palygally|r|h|cffd8d8d8]|r è ora online.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [5]
+			{
+				"|cff979797[13:12:55]|r|c00000000|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Palygally:427:GUILD|h|cfff48cbaPalygally|r|h|cffd8d8d8]|r: giorno a tutti", -- [1]
+				0.250980406999588, -- [2]
+				1, -- [3]
+				0.250980406999588, -- [4]
+				5, -- [5]
+			}, -- [6]
+			{
+				"|cff979797[13:13:55]|r|c00000000|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Àzzurrà:428:GUILD|h|cffff7c0aÀzzurrà|r|h|cffd8d8d8]|r: giorno", -- [1]
+				0.250980406999588, -- [2]
+				1, -- [3]
+				0.250980406999588, -- [4]
+				5, -- [5]
+			}, -- [7]
+		},
+	},
+}

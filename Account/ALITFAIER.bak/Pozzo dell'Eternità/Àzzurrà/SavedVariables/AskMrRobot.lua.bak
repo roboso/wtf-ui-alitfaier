@@ -1,0 +1,36 @@
+
+AmrBagItems = nil
+AmrBankItems = {
+}
+AmrEquipedItems = nil
+AmrGold = nil
+AmrRealmName = "Nemesis"
+AmrCharacterName = "Àzzurrà"
+AmrIconInfo = {
+}
+AmrCurrencies = {
+}
+AmrProfessions = nil
+AmrSpecializations = {
+}
+AmrRace = nil
+AmrLevel = nil
+AmrFaction = nil
+AmrActiveSpec = nil
+AmrOptions = {
+}
+AmrGlyphs = {
+}
+AmrTalents = {
+}
+AmrBankItemsAndCounts = {
+}
+AmrImportString = "region=EU;realm=Nemesis;name=Àzzurrà;faction=Alliance;spec=105;talents=213221;glyphs=114338,17076,54825,145529,114301,125047;race=Worgen;professions=Alchemy:600,Herbalism:600;item=6:101783:-478:491:r:4637:76686:4826:148;item=2:89342:0:445:y:4596:76645:4806:141;item=8:95642:0:465:0:0:0:4414:145;item=14:101800:-351:491:0:0:0:4423:0;item=16:104697:0:491:b:4589:76638:4434:154;item=4:101786:-468:491:b:4589:76638:4418:0;item=7:104969:0:491:y:4602:76651:4429:145;item=15:95774:0:465:r,p:4637,0:76686,0:4442:162;item=1:95964:0:465:r:4589:76638:0:134;item=5:105002:0:491:r,b,p:4637,4589,4589:76686,76638,76638:0:147;item=0:104978:0:491:m,b:4660,4589:76888,76638:0:167;item=9:101784:-351:491:0:0:0:4430:0;item=13:95712:0:465:0:0:0:0:0;item=10:95139:0:465:0:0:0:0:154;item=11:95659:0:465:0:0:0:0:0;item=12:103688:0:491:0:0:0:0:0;"
+AmrImportDate = "11/20/13 00:13:33"
+AmrSendSettings = {
+	["SendTo"] = "ilàrià",
+	["SendGems"] = true,
+	["SendEnchants"] = true,
+	["SendEnchantMaterials"] = true,
+	["SendToType"] = "mail",
+}

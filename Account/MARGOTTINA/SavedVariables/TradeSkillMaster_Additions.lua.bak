@@ -1,0 +1,717 @@
+
+TradeSkillMaster_AdditionsDB = {
+	["char"] = {
+		["Pingola - Nemesis"] = {
+			["auctionMessages"] = {
+				["È stato trovato un compratore per la tua asta di Guanti Lunghi Nevosi del Veggente."] = "|cff1eff00|Hitem:82178:0:0:0:0:0:-37:100336342:3:0:0|h[Guanti Lunghi Nevosi del Veggente]|h|r",
+				["È stato trovato un compratore per la tua asta di Mitene Reticolate dell'Occultista."] = "|cff1eff00|Hitem:82196:0:0:0:0:0:-36:1146290996:3:0:0|h[Mitene Reticolate dell'Occultista]|h|r",
+				["È stato trovato un compratore per la tua asta di Giaco della Radice della Scimmia."] = "|cff1eff00|Hitem:82207:0:0:0:0:0:-5:1507001424:3:0:0|h[Giaco della Radice della Scimmia]|h|r",
+				["È stato trovato un compratore per la tua asta di Spalletti della Cascata della Febbre."] = "|cff1eff00|Hitem:82255:0:0:0:0:0:-138:203817886:3:0:0|h[Spalletti della Cascata della Febbre]|h|r",
+				["È stato trovato un compratore per la tua asta di Bacchetta Immacolata del Lampovivace."] = "|cff1eff00|Hitem:82286:0:0:0:0:0:-130:1494155798:3:0:0|h[Bacchetta Immacolata del Lampovivace]|h|r",
+				["È stato trovato un compratore per la tua asta di Essenza Misteriosa."] = "|cff1eff00|Hitem:74250:0:0:0:0:0:0:449295232:3:0:0|h[Essenza Misteriosa]|h|r",
+				["È stato trovato un compratore per la tua asta di Spalletti Reticolati della Balena."] = "|cff1eff00|Hitem:82200:0:0:0:0:0:-8:1760035636:3:0:0|h[Spalletti Reticolati della Balena]|h|r",
+				["È stato trovato un compratore per la tua asta di Giaco della Vite del Bandito."] = "|cff1eff00|Hitem:82262:0:0:0:0:0:-40:166331614:3:0:0|h[Giaco della Vite del Bandito]|h|r",
+				["È stato trovato un compratore per la tua asta di Gambiere Reticolate del Fuocobrado."] = "|cff1eff00|Hitem:82197:0:0:0:0:0:-129:761005136:3:0:0|h[Gambiere Reticolate del Fuocobrado]|h|r",
+				["È stato trovato un compratore per la tua asta di Spalletti della Cascata dell'Aquila."] = "|cff1eff00|Hitem:82255:0:0:0:0:0:-6:214172574:3:0:0|h[Spalletti della Cascata dell'Aquila]|h|r",
+				["È stato trovato un compratore per la tua asta di Mitene della Cascata del Veggente."] = "|cff1eff00|Hitem:82251:0:0:0:0:0:-37:1570440094:3:0:0|h[Mitene della Cascata del Veggente]|h|r",
+				["È stato trovato un compratore per la tua asta di Pasticcio di Pesce."] = "|cffffffff|Hitem:74641:0:0:0:0:0:0:1831275520:3:0:0|h[Pasticcio di Pesce]|h|r",
+				["È stato trovato un compratore per la tua asta di Gambali Corazzati del Tempio del Soldato."] = "|cff1eff00|Hitem:82291:0:0:0:0:0:-43:1470039262:3:0:0|h[Gambali Corazzati del Tempio del Soldato]|h|r",
+				["È stato trovato un compratore per la tua asta di Bracciali di Yak del Tiratore."] = "|cff1eff00|Hitem:82242:0:0:0:0:0:-91:561971894:3:0:0|h[Bracciali di Yak del Tiratore]|h|r",
+				["È stato trovato un compratore per la tua asta di Grancalzari della Cascata del Veggente."] = "|cff1eff00|Hitem:82254:0:0:0:0:0:-37:2087388062:3:0:0|h[Grancalzari della Cascata del Veggente]|h|r",
+				["È stato trovato un compratore per la tua asta di Lingotto di Trillio."] = "|cff1eff00|Hitem:72095:0:0:0:0:0:0:387675776:3:0:0|h[Lingotto di Trillio]|h|r",
+				["È stato trovato un compratore per la tua asta di Giaco della Radice del Tiratore."] = "|cff1eff00|Hitem:82207:0:0:0:0:0:-91:2143618128:3:0:0|h[Giaco della Radice del Tiratore]|h|r",
+				["È stato trovato un compratore per la tua asta di Gambali Corazzati di Granvetta del Mercenario."] = "|cff1eff00|Hitem:82236:0:0:0:0:0:-139:2015429712:3:0:0|h[Gambali Corazzati di Granvetta del Mercenario]|h|r",
+				["È stato trovato un compratore per la tua asta di Cintura di Yak della Scimmia."] = "|cff1eff00|Hitem:82241:0:0:0:0:0:-5:84738974:3:0:0|h[Cintura di Yak della Scimmia]|h|r",
+				["È stato trovato un compratore per la tua asta di Mitene della Cascata del Lampovivace."] = "|cff1eff00|Hitem:82251:0:0:0:0:0:-130:284033950:3:0:0|h[Mitene della Cascata del Lampovivace]|h|r",
+				["È stato trovato un compratore per la tua asta di Scudo Nevoso dell'Avo."] = "|cff1eff00|Hitem:82184:0:0:0:0:0:-42:792068641:3:0:0|h[Scudo Nevoso dell'Avo]|h|r",
+				["È stato trovato un compratore per la tua asta di Bacchetta Ingioiellata della Balena."] = "|cff1eff00|Hitem:82231:0:0:0:0:0:-8:880607705:3:0:0|h[Bacchetta Ingioiellata della Balena]|h|r",
+				["È stato trovato un compratore per la tua asta di Gambiere dell'Infestazione di Gaarn."] = "|cffa335ee|Hitem:90725:0:0:0:0:0:0:238303872:3:0:0|h[Gambiere dell'Infestazione di Gaarn]|h|r",
+				["È stato trovato un compratore per la tua asta di Guanti Lunghi del Tempio della Frattura."] = "|cff1eff00|Hitem:82288:0:0:0:0:0:-118:2132149150:3:0:0|h[Guanti Lunghi del Tempio della Frattura]|h|r",
+				["È stato trovato un compratore per la tua asta di Mitene della Cascata dell'Aquila."] = "|cff1eff00|Hitem:82251:0:0:0:0:0:-6:468517790:3:0:0|h[Mitene della Cascata dell'Aquila]|h|r",
+				["È stato trovato un compratore per la tua asta di Manette della Vite della Scimmia."] = "|cff1eff00|Hitem:82257:0:0:0:0:0:-5:1942225590:3:0:0|h[Manette della Vite della Scimmia]|h|r",
+				["È stato trovato un compratore per la tua asta di Mitene Reticolate dell'Invocatore."] = "|cff1eff00|Hitem:82196:0:0:0:0:0:-39:413926196:3:0:0|h[Mitene Reticolate dell'Invocatore]|h|r",
+				["È stato trovato un compratore per la tua asta di Mitene Reticolate della Febbre."] = "|cff1eff00|Hitem:82196:0:0:0:0:0:-138:1589117748:3:0:0|h[Mitene Reticolate della Febbre]|h|r",
+				["È stato trovato un compratore per la tua asta di Paraspalle di Granvetta della Crestonda."] = "|cff1eff00|Hitem:82237:0:0:0:0:0:-132:1620181812:3:0:0|h[Paraspalle di Granvetta della Crestonda]|h|r",
+				["È stato trovato un compratore per la tua asta di Gambiere della Cascata del Fuocobrado."] = "|cff1eff00|Hitem:82252:0:0:0:0:0:-129:1101137118:3:0:0|h[Gambiere della Cascata del Fuocobrado]|h|r",
+				["È stato trovato un compratore per la tua asta di Rotolo di Telaria."] = "|cffffffff|Hitem:82441:0:0:0:0:0:0:1864466688:3:0:0|h[Rotolo di Telaria]|h|r",
+				["È stato trovato un compratore per la tua asta di Bacchetta Ingioiellata della Febbre."] = "|cff1eff00|Hitem:82231:0:0:0:0:0:-138:1913651673:3:0:0|h[Bacchetta Ingioiellata della Febbre]|h|r",
+				["È stato trovato un compratore per la tua asta di Spallacci della Vite della Scimmia."] = "|cff1eff00|Hitem:82263:0:0:0:0:0:-5:838206366:3:0:0|h[Spallacci della Vite della Scimmia]|h|r",
+				["È stato trovato un compratore per la tua asta di Grancalzari della Cascata dell'Aquila."] = "|cff1eff00|Hitem:82254:0:0:0:0:0:-6:1208550302:3:0:0|h[Grancalzari della Cascata dell'Aquila]|h|r",
+				["È stato trovato un compratore per la tua asta di Copricapo della Cascata dell'Invocatore."] = "|cff1eff00|Hitem:82250:0:0:0:0:0:-39:560792798:3:0:0|h[Copricapo della Cascata dell'Invocatore]|h|r",
+				["È stato trovato un compratore per la tua asta di Bracciali di Yak della Crestonda."] = "|cff1eff00|Hitem:82242:0:0:0:0:0:-132:2113536694:3:0:0|h[Bracciali di Yak della Crestonda]|h|r",
+				["È stato trovato un compratore per la tua asta di Paraspalle di Granvetta della Risacca."] = "|cff1eff00|Hitem:82237:0:0:0:0:0:-131:1685652276:3:0:0|h[Paraspalle di Granvetta della Risacca]|h|r",
+				["È stato trovato un compratore per la tua asta di Cinturone del Tempio dell'Occultista."] = "|cff1eff00|Hitem:82289:0:0:0:0:0:-36:56624030:3:0:0|h[Cinturone del Tempio dell'Occultista]|h|r",
+				["È stato trovato un compratore per la tua asta di Gambali Corazzati di Yak della Scimmia."] = "|cff1eff00|Hitem:82246:0:0:0:0:0:-5:1496843486:3:0:0|h[Gambali Corazzati di Yak della Scimmia]|h|r",
+				["È stato trovato un compratore per la tua asta di Gambali Foderati della Montagna della Crestonda."] = "|cff1eff00|Hitem:82191:0:0:0:0:0:-132:696190032:3:0:0|h[Gambali Foderati della Montagna della Crestonda]|h|r",
+				["È stato trovato un compratore per la tua asta di Pettorale Corazzato del Tempio del Soldato."] = "|cff1eff00|Hitem:82287:0:0:0:0:0:-43:361170142:3:0:0|h[Pettorale Corazzato del Tempio del Soldato]|h|r",
+				["È stato trovato un compratore per la tua asta di Mitene della Cascata dell'Invocatore."] = "|cff1eff00|Hitem:82251:0:0:0:0:0:-39:1950352286:3:0:0|h[Mitene della Cascata dell'Invocatore]|h|r",
+				["È stato trovato un compratore per la tua asta di Guanti Lunghi della Montagna della Scimmia."] = "|cff1eff00|Hitem:82188:0:0:0:0:0:-5:888406836:3:0:0|h[Guanti Lunghi della Montagna della Scimmia]|h|r",
+				["È stato trovato un compratore per la tua asta di Guanti Lunghi del Tempio dell'Invocatore."] = "|cff1eff00|Hitem:82288:0:0:0:0:0:-39:901776286:3:0:0|h[Guanti Lunghi del Tempio dell'Invocatore]|h|r",
+				["È stato trovato un compratore per la tua asta di Mitene Reticolate dell'Aquila."] = "|cff1eff00|Hitem:82196:0:0:0:0:0:-6:941097780:3:0:0|h[Mitene Reticolate dell'Aquila]|h|r",
+				["È stato trovato un compratore per la tua asta di Scudo del Tempio dello Spezzaterra."] = "|cff1eff00|Hitem:82294:0:0:0:0:0:-123:1666712246:3:0:0|h[Scudo del Tempio dello Spezzaterra]|h|r",
+				["È stato trovato un compratore per la tua asta di Bacchetta Immacolata dell'Aquila."] = "|cff1eff00|Hitem:82286:0:0:0:0:0:-6:1624506902:3:0:0|h[Bacchetta Immacolata dell'Aquila]|h|r",
+				["È stato trovato un compratore per la tua asta di Guanti della Vite della Scimmia."] = "|cff1eff00|Hitem:82260:0:0:0:0:0:-5:531432350:3:0:0|h[Guanti della Vite della Scimmia]|h|r",
+				["È stato trovato un compratore per la tua asta di Fascione della Cascata della Risacca."] = "|cff1eff00|Hitem:82249:0:0:0:0:0:-131:1025049502:3:0:0|h[Fascione della Cascata della Risacca]|h|r",
+				["È stato trovato un compratore per la tua asta di Spalletti Reticolati del Veggente."] = "|cff1eff00|Hitem:82200:0:0:0:0:0:-37:1250493236:3:0:0|h[Spalletti Reticolati del Veggente]|h|r",
+				["È stato trovato un compratore per la tua asta di Guanti Lunghi di Yak del Tiratore."] = "|cff1eff00|Hitem:82243:0:0:0:0:0:-91:568001438:3:0:0|h[Guanti Lunghi di Yak del Tiratore]|h|r",
+				["È stato trovato un compratore per la tua asta di Giubba di Yak della Scimmia."] = "|cff1eff00|Hitem:82248:0:0:0:0:0:-5:1547437278:3:0:0|h[Giubba di Yak della Scimmia]|h|r",
+				["È stato trovato un compratore per la tua asta di Guardaspalle della Montagna del Bandito."] = "|cff1eff00|Hitem:82192:0:0:0:0:0:-40:629867316:3:0:0|h[Guardaspalle della Montagna del Bandito]|h|r",
+				["È stato trovato un compratore per la tua asta di Giaco della Vite della Scimmia."] = "|cff1eff00|Hitem:82262:0:0:0:0:0:-5:2076706014:3:0:0|h[Giaco della Vite della Scimmia]|h|r",
+				["È stato trovato un compratore per la tua asta di Barriera Artigianale del Gladiatore Malevolo."] = "|cff0070dd|Hitem:98776:0:0:0:0:0:0:553137664:3:0:0|h[Barriera Artigianale del Gladiatore Malevolo]|h|r",
+				["È stato trovato un compratore per la tua asta di Gambali Foderati della Montagna del Bandito."] = "|cff1eff00|Hitem:82191:0:0:0:0:0:-40:1580139600:3:0:0|h[Gambali Foderati della Montagna del Bandito]|h|r",
+				["È stato trovato un compratore per la tua asta di Bracciali Leggeri Reticolati della Fiammardente."] = "|cff1eff00|Hitem:82201:0:0:0:0:0:-114:1070858855:3:0:0|h[Bracciali Leggeri Reticolati della Fiammardente]|h|r",
+				["È stato trovato un compratore per la tua asta di Cappuccio di Raso Artigianale del Gladiatore Truce."] = "|cff0070dd|Hitem:93556:0:0:0:0:0:0:1560730880:3:0:0|h[Cappuccio di Raso Artigianale del Gladiatore Truce]|h|r",
+				["È stato trovato un compratore per la tua asta di Cintura della Montagna del Bandito."] = "|cff1eff00|Hitem:82186:0:0:0:0:0:-40:479068980:3:0:0|h[Cintura della Montagna del Bandito]|h|r",
+				["È stato trovato un compratore per la tua asta di Mitene Reticolate della Fiammardente."] = "|cff1eff00|Hitem:82196:0:0:0:0:0:-114:1615659828:3:0:0|h[Mitene Reticolate della Fiammardente]|h|r",
+				["È stato trovato un compratore per la tua asta di Gambiere Reticolate della Bestia."] = "|cff1eff00|Hitem:82197:0:0:0:0:0:-41:705430608:3:0:0|h[Gambiere Reticolate della Bestia]|h|r",
+				["È stato trovato un compratore per la tua asta di Bracciali Leggeri Reticolati dell'Aquila."] = "|cff1eff00|Hitem:82201:0:0:0:0:0:-6:2130444903:3:0:0|h[Bracciali Leggeri Reticolati dell'Aquila]|h|r",
+				["È stato trovato un compratore per la tua asta di Pantaloni della Radice del Bandito."] = "|cff1eff00|Hitem:82204:0:0:0:0:0:-40:1980695632:3:0:0|h[Pantaloni della Radice del Bandito]|h|r",
+				["È stato trovato un compratore per la tua asta di Mitene della Cascata dell'Occultista."] = "|cff1eff00|Hitem:82251:0:0:0:0:0:-36:1270678430:3:0:0|h[Mitene della Cascata dell'Occultista]|h|r",
+				["È stato trovato un compratore per la tua asta di Copricapo della Cascata dell'Aquila."] = "|cff1eff00|Hitem:82250:0:0:0:0:0:-6:1840121054:3:0:0|h[Copricapo della Cascata dell'Aquila]|h|r",
+				["È stato trovato un compratore per la tua asta di Grancalzari Reticolati del Fuocobrado."] = "|cff1eff00|Hitem:82199:0:0:0:0:0:-129:399246132:3:0:0|h[Grancalzari Reticolati del Fuocobrado]|h|r",
+				["È stato trovato un compratore per la tua asta di Manette della Vite del Tiratore."] = "|cff1eff00|Hitem:82257:0:0:0:0:0:-91:1614545590:3:0:0|h[Manette della Vite del Tiratore]|h|r",
+				["È stato trovato un compratore per la tua asta di Mitene della Cascata della Febbre."] = "|cff1eff00|Hitem:82251:0:0:0:0:0:-138:370869150:3:0:0|h[Mitene della Cascata della Febbre]|h|r",
+				["È stato trovato un compratore per la tua asta di Pettorale Corazzato del Tempio della Tigre."] = "|cff1eff00|Hitem:82287:0:0:0:0:0:-14:1360659678:3:0:0|h[Pettorale Corazzato del Tempio della Tigre]|h|r",
+				["È stato trovato un compratore per la tua asta di Bacchetta Ingioiellata della Bestia."] = "|cff1eff00|Hitem:82231:0:0:0:0:0:-41:407372249:3:0:0|h[Bacchetta Ingioiellata della Bestia]|h|r",
+				["È stato trovato un compratore per la tua asta di Bracciali Leggeri della Cascata dell'Aquila."] = "|cff1eff00|Hitem:82256:0:0:0:0:0:-6:1513292470:3:0:0|h[Bracciali Leggeri della Cascata dell'Aquila]|h|r",
+				["È stato trovato un compratore per la tua asta di Copricapo Reticolato della Crestonda."] = "|cff1eff00|Hitem:82195:0:0:0:0:0:-132:1470235728:3:0:0|h[Copricapo Reticolato della Crestonda]|h|r",
+				["È stato trovato un compratore per la tua asta di Grancalzari Reticolati della Bestia."] = "|cff1eff00|Hitem:82199:0:0:0:0:0:-41:843449140:3:0:0|h[Grancalzari Reticolati della Bestia]|h|r",
+				["È stato trovato un compratore per la tua asta di Tonaca della Cascata dell'Invocatore."] = "|cff1eff00|Hitem:82253:0:0:0:0:0:-39:1774060766:3:0:0|h[Tonaca della Cascata dell'Invocatore]|h|r",
+				["È stato trovato un compratore per la tua asta di Manette della Radice della Scimmia."] = "|cff1eff00|Hitem:82202:0:0:0:0:0:-5:2020213351:3:0:0|h[Manette della Radice della Scimmia]|h|r",
+				["È stato trovato un compratore per la tua asta di Guanti Lunghi di Granvetta del Mercenario."] = "|cff1eff00|Hitem:82233:0:0:0:0:0:-139:2113078068:3:0:0|h[Guanti Lunghi di Granvetta del Mercenario]|h|r",
+				["È stato trovato un compratore per la tua asta di Guanti della Radice del Bandito."] = "|cff1eff00|Hitem:82205:0:0:0:0:0:-40:822149940:3:0:0|h[Guanti della Radice del Bandito]|h|r",
+				["È stato trovato un compratore per la tua asta di Fascione della Cascata dell'Occultista."] = "|cff1eff00|Hitem:82249:0:0:0:0:0:-36:698942366:3:0:0|h[Fascione della Cascata dell'Occultista]|h|r",
+				["È stato trovato un compratore per la tua asta di Cintura di Yak del Bandito."] = "|cff1eff00|Hitem:82241:0:0:0:0:0:-40:2087650206:3:0:0|h[Cintura di Yak del Bandito]|h|r",
+				["È stato trovato un compratore per la tua asta di Grancalzari Reticolati dell'Occultista."] = "|cff1eff00|Hitem:82199:0:0:0:0:0:-36:1634861876:3:0:0|h[Grancalzari Reticolati dell'Occultista]|h|r",
+				["È stato trovato un compratore per la tua asta di Fusciacca della Radice della Scimmia."] = "|cff1eff00|Hitem:82209:0:0:0:0:0:-5:1042547508:3:0:0|h[Fusciacca della Radice della Scimmia]|h|r",
+				["È stato trovato un compratore per la tua asta di Elmo del Tempio della Valanga."] = "|cff1eff00|Hitem:82290:0:0:0:0:0:-121:1915815134:3:0:0|h[Elmo del Tempio della Valanga]|h|r",
+				["È stato trovato un compratore per la tua asta di Spalletti Reticolati dell'Occultista."] = "|cff1eff00|Hitem:82200:0:0:0:0:0:-36:1469449012:3:0:0|h[Spalletti Reticolati dell'Occultista]|h|r",
+				["È stato trovato un compratore per la tua asta di Pelle Magnifica."] = "|cff0070dd|Hitem:72163:0:0:0:0:0:0:1681132160:3:0:0|h[Pelle Magnifica]|h|r",
+				["È stato trovato un compratore per la tua asta di Gambali Corazzati del Tempio del Mercenario."] = "|cff1eff00|Hitem:82291:0:0:0:0:0:-139:1289815262:3:0:0|h[Gambali Corazzati del Tempio del Mercenario]|h|r",
+				["È stato trovato un compratore per la tua asta di Fusciacca della Radice della Raffica."] = "|cff1eff00|Hitem:82209:0:0:0:0:0:-135:1201079092:3:0:0|h[Fusciacca della Radice della Raffica]|h|r",
+				["È stato trovato un compratore per la tua asta di Calzari di Granvetta dello Scuotiterra."] = "|cff1eff00|Hitem:82238:0:0:0:0:0:-120:1442644788:3:0:0|h[Calzari di Granvetta dello Scuotiterra]|h|r",
+				["È stato trovato un compratore per la tua asta di Fusciacca della Vite del Tiratore."] = "|cff1eff00|Hitem:82264:0:0:0:0:0:-91:1833108382:3:0:0|h[Fusciacca della Vite del Tiratore]|h|r",
+				["È stato trovato un compratore per la tua asta di Bracciali Leggeri Reticolati della Balena."] = "|cff1eff00|Hitem:82201:0:0:0:0:0:-8:467731047:3:0:0|h[Bracciali Leggeri Reticolati della Balena]|h|r",
+				["È stato trovato un compratore per la tua asta di Spallacci della Vite del Bandito."] = "|cff1eff00|Hitem:82263:0:0:0:0:0:-40:1104479134:3:0:0|h[Spallacci della Vite del Bandito]|h|r",
+				["È stato trovato un compratore per la tua asta di Tonaca della Cascata dell'Occultista."] = "|cff1eff00|Hitem:82253:0:0:0:0:0:-36:2063795422:3:0:0|h[Tonaca della Cascata dell'Occultista]|h|r",
+				["È stato trovato un compratore per la tua asta di Tonaca della Cascata del Veggente."] = "|cff1eff00|Hitem:82253:0:0:0:0:0:-37:2030830814:3:0:0|h[Tonaca della Cascata del Veggente]|h|r",
+				["È stato trovato un compratore per la tua asta di Bacchetta Immacolata della Crestonda."] = "|cff1eff00|Hitem:82286:0:0:0:0:0:-132:1660027414:3:0:0|h[Bacchetta Immacolata della Crestonda]|h|r",
+				["È stato trovato un compratore per la tua asta di Bacchetta Ingioiellata dell'Aquila."] = "|cff1eff00|Hitem:82231:0:0:0:0:0:-6:47907289:3:0:0|h[Bacchetta Ingioiellata dell'Aquila]|h|r",
+				["È stato trovato un compratore per la tua asta di Elmo di Yak della Scimmia."] = "|cff1eff00|Hitem:82245:0:0:0:0:0:-5:367002846:3:0:0|h[Elmo di Yak della Scimmia]|h|r",
+				["È stato trovato un compratore per la tua asta di Giubba di Yak della Risacca."] = "|cff1eff00|Hitem:82248:0:0:0:0:0:-131:648414430:3:0:0|h[Giubba di Yak della Risacca]|h|r",
+				["È stato trovato un compratore per la tua asta di Scudo di Granvetta dell'Avo."] = "|cff1eff00|Hitem:82239:0:0:0:0:0:-42:731775591:3:0:0|h[Scudo di Granvetta dell'Avo]|h|r",
+				["È stato trovato un compratore per la tua asta di Amuleto Ingioiellato della Valanga."] = "|cff1eff00|Hitem:82225:0:0:0:0:0:-121:1861419623:3:0:0|h[Amuleto Ingioiellato della Valanga]|h|r",
+				["È stato trovato un compratore per la tua asta di Guanti Lunghi Granitici della Risacca."] = "|cff1eff00|Hitem:82068:0:0:0:0:0:-131:2077688378:3:0:0|h[Guanti Lunghi Granitici della Risacca]|h|r",
+				["È stato trovato un compratore per la tua asta di Pantaloni della Radice dello Zefiro."] = "|cff1eff00|Hitem:82204:0:0:0:0:0:-136:1777337424:3:0:0|h[Pantaloni della Radice dello Zefiro]|h|r",
+				["È stato trovato un compratore per la tua asta di Fascione della Cascata della Balena."] = "|cff1eff00|Hitem:82249:0:0:0:0:0:-8:2010710942:3:0:0|h[Fascione della Cascata della Balena]|h|r",
+				["È stato trovato un compratore per la tua asta di Gambiere della Cascata dell'Aquila."] = "|cff1eff00|Hitem:82252:0:0:0:0:0:-6:2023490782:3:0:0|h[Gambiere della Cascata dell'Aquila]|h|r",
+				["È stato trovato un compratore per la tua asta di Cinturone del Tempio della Bestia."] = "|cff1eff00|Hitem:82289:0:0:0:0:0:-41:1466893214:3:0:0|h[Cinturone del Tempio della Bestia]|h|r",
+				["È stato trovato un compratore per la tua asta di Gambali Foderati della Montagna del Tiratore."] = "|cff1eff00|Hitem:82191:0:0:0:0:0:-91:1489044560:3:0:0|h[Gambali Foderati della Montagna del Tiratore]|h|r",
+				["È stato trovato un compratore per la tua asta di Paraspalle del Tempio del Soldato."] = "|cff1eff00|Hitem:82292:0:0:0:0:0:-43:131138462:3:0:0|h[Paraspalle del Tempio del Soldato]|h|r",
+				["È stato trovato un compratore per la tua asta di Guanti Lunghi di Yak della Scimmia."] = "|cff1eff00|Hitem:82243:0:0:0:0:0:-5:269288350:3:0:0|h[Guanti Lunghi di Yak della Scimmia]|h|r",
+				["È stato trovato un compratore per la tua asta di Guanti Lunghi della Montagna della Burrasca."] = "|cff1eff00|Hitem:82188:0:0:0:0:0:-134:1293943604:3:0:0|h[Guanti Lunghi della Montagna della Burrasca]|h|r",
+				["È stato trovato un compratore per la tua asta di Fusciacca del Sospiro della Crestonda."] = "|cff1eff00|Hitem:82044:0:0:0:0:0:-132:1246757434:3:0:0|h[Fusciacca del Sospiro della Crestonda]|h|r",
+				["È stato trovato un compratore per la tua asta di Gambiere della Cascata del Lampovivace."] = "|cff1eff00|Hitem:82252:0:0:0:0:0:-130:1034683614:3:0:0|h[Gambiere della Cascata del Lampovivace]|h|r",
+				["È stato trovato un compratore per la tua asta di Spalletti Reticolati dell'Aquila."] = "|cff1eff00|Hitem:82200:0:0:0:0:0:-6:262406964:3:0:0|h[Spalletti Reticolati dell'Aquila]|h|r",
+				["È stato trovato un compratore per la tua asta di Bracciali Leggeri della Cascata della Febbre."] = "|cff1eff00|Hitem:82256:0:0:0:0:0:-138:1169490614:3:0:0|h[Bracciali Leggeri della Cascata della Febbre]|h|r",
+				["È stato trovato un compratore per la tua asta di Spallacci della Radice della Scimmia."] = "|cff1eff00|Hitem:82208:0:0:0:0:0:-5:843973428:3:0:0|h[Spallacci della Radice della Scimmia]|h|r",
+				["È stato trovato un compratore per la tua asta di Guanti Lunghi della Montagna del Tiratore."] = "|cff1eff00|Hitem:82188:0:0:0:0:0:-91:711263028:3:0:0|h[Guanti Lunghi della Montagna del Tiratore]|h|r",
+				["È stato trovato un compratore per la tua asta di Cintura di Salice del Tiratore."] = "|cff1eff00|Hitem:82131:0:0:0:0:0:-91:427426518:3:0:0|h[Cintura di Salice del Tiratore]|h|r",
+				["È stato trovato un compratore per la tua asta di Manette della Vite della Burrasca."] = "|cff1eff00|Hitem:82257:0:0:0:0:0:-134:2029847222:3:0:0|h[Manette della Vite della Burrasca]|h|r",
+				["È stato trovato un compratore per la tua asta di Pantaloni della Radice della Raffica."] = "|cff1eff00|Hitem:82204:0:0:0:0:0:-135:1044841552:3:0:0|h[Pantaloni della Radice della Raffica]|h|r",
+				["È stato trovato un compratore per la tua asta di Pantaloni della Radice del Tiratore."] = "|cff1eff00|Hitem:82204:0:0:0:0:0:-91:1889600592:3:0:0|h[Pantaloni della Radice del Tiratore]|h|r",
+				["È stato trovato un compratore per la tua asta di Amuleto Immacolato del Campione."] = "|cff1eff00|Hitem:82280:0:0:0:0:0:-45:1517421238:3:0:0|h[Amuleto Immacolato del Campione]|h|r",
+				["È stato trovato un compratore per la tua asta di Bracciali di Yak della Scimmia."] = "|cff1eff00|Hitem:82242:0:0:0:0:0:-5:2026832566:3:0:0|h[Bracciali di Yak della Scimmia]|h|r",
+				["È stato trovato un compratore per la tua asta di Pettorale Corazzato del Tempio della Frattura."] = "|cff1eff00|Hitem:82287:0:0:0:0:0:-118:1619985630:3:0:0|h[Pettorale Corazzato del Tempio della Frattura]|h|r",
+				["È stato trovato un compratore per la tua asta di Grancalzari Reticolati dell'Invocatore."] = "|cff1eff00|Hitem:82199:0:0:0:0:0:-39:1814561588:3:0:0|h[Grancalzari Reticolati dell'Invocatore]|h|r",
+				["È stato trovato un compratore per la tua asta di Spallacci della Radice della Burrasca."] = "|cff1eff00|Hitem:82208:0:0:0:0:0:-134:248185652:3:0:0|h[Spallacci della Radice della Burrasca]|h|r",
+				["È stato trovato un compratore per la tua asta di Gambali Corazzati del Tempio del Finimondo."] = "|cff1eff00|Hitem:82291:0:0:0:0:0:-122:402916574:3:0:0|h[Gambali Corazzati del Tempio del Finimondo]|h|r",
+				["È stato trovato un compratore per la tua asta di Mitene della Cascata della Bestia."] = "|cff1eff00|Hitem:82251:0:0:0:0:0:-41:2072380318:3:0:0|h[Mitene della Cascata della Bestia]|h|r",
+				["È stato trovato un compratore per la tua asta di Copricapo della Cascata del Veggente."] = "|cff1eff00|Hitem:82250:0:0:0:0:0:-37:137626846:3:0:0|h[Copricapo della Cascata del Veggente]|h|r",
+				["È stato trovato un compratore per la tua asta di Gambiere Reticolate della Febbre."] = "|cff1eff00|Hitem:82197:0:0:0:0:0:-138:2128544848:3:0:0|h[Gambiere Reticolate della Febbre]|h|r",
+				["È stato trovato un compratore per la tua asta di Fascione Reticolato della Balena."] = "|cff1eff00|Hitem:82194:0:0:0:0:0:-8:1975780148:3:0:0|h[Fascione Reticolato della Balena]|h|r",
+				["È stato trovato un compratore per la tua asta di Mantello Ingioiellato del Soldato."] = "|cff1eff00|Hitem:82226:0:0:0:0:0:-43:2134245991:3:0:0|h[Mantello Ingioiellato del Soldato]|h|r",
+				["È stato trovato un compratore per la tua asta di Avambracci del Tempio della Bestia."] = "|cff1eff00|Hitem:82295:0:0:0:0:0:-41:1946550966:3:0:0|h[Avambracci del Tempio della Bestia]|h|r",
+				["È stato trovato un compratore per la tua asta di Gambiere Reticolate della Crestonda."] = "|cff1eff00|Hitem:82197:0:0:0:0:0:-132:1251673168:3:0:0|h[Gambiere Reticolate della Crestonda]|h|r",
+				["È stato trovato un compratore per la tua asta di Pantaloni della Vite dello Zefiro."] = "|cff1eff00|Hitem:82259:0:0:0:0:0:-136:453444830:3:0:0|h[Pantaloni della Vite dello Zefiro]|h|r",
+				["È stato trovato un compratore per la tua asta di Cintura della Montagna della Crestonda."] = "|cff1eff00|Hitem:82186:0:0:0:0:0:-132:983040820:3:0:0|h[Cintura della Montagna della Crestonda]|h|r",
+				["È stato trovato un compratore per la tua asta di Bracciali di Yak della Tempesta."] = "|cff1eff00|Hitem:82242:0:0:0:0:0:-137:1703281334:3:0:0|h[Bracciali di Yak della Tempesta]|h|r",
+				["È stato trovato un compratore per la tua asta di Schinieri della Meditazione Artigianali del Gladiatore Malevolo."] = "|cff0070dd|Hitem:98851:0:0:0:0:0:0:1468469888:3:0:0|h[Schinieri della Meditazione Artigianali del Gladiatore Malevolo]|h|r",
+				["È stato trovato un compratore per la tua asta di Bracciali Leggeri Reticolati della Febbre."] = "|cff1eff00|Hitem:82201:0:0:0:0:0:-138:1432289895:3:0:0|h[Bracciali Leggeri Reticolati della Febbre]|h|r",
+				["È stato trovato un compratore per la tua asta di Guanti Lunghi di Granvetta della Bestia."] = "|cff1eff00|Hitem:82233:0:0:0:0:0:-41:690029364:3:0:0|h[Guanti Lunghi di Granvetta della Bestia]|h|r",
+				["È stato trovato un compratore per la tua asta di Frammento Etereo."] = "|cff0070dd|Hitem:74247:0:0:0:0:0:0:2082611328:3:0:0|h[Frammento Etereo]|h|r",
+				["È stato trovato un compratore per la tua asta di Grancalzari Reticolati della Crestonda."] = "|cff1eff00|Hitem:82199:0:0:0:0:0:-132:2111439668:3:0:0|h[Grancalzari Reticolati della Crestonda]|h|r",
+				["È stato trovato un compratore per la tua asta di Gambali Corazzati di Yak del Bandito."] = "|cff1eff00|Hitem:82246:0:0:0:0:0:-40:261883102:3:0:0|h[Gambali Corazzati di Yak del Bandito]|h|r",
+				["È stato trovato un compratore per la tua asta di Cintura di Yak della Raffica."] = "|cff1eff00|Hitem:82241:0:0:0:0:0:-135:997655454:3:0:0|h[Cintura di Yak della Raffica]|h|r",
+				["È stato trovato un compratore per la tua asta di Pantaloni della Vite del Detonatuono."] = "|cff1eff00|Hitem:82259:0:0:0:0:0:-133:2085881054:3:0:0|h[Pantaloni della Vite del Detonatuono]|h|r",
+				["È stato trovato un compratore per la tua asta di Guanti Lunghi di Yak del Bandito."] = "|cff1eff00|Hitem:82243:0:0:0:0:0:-40:196674462:3:0:0|h[Guanti Lunghi di Yak del Bandito]|h|r",
+				["È stato trovato un compratore per la tua asta di Manette della Radice del Bandito."] = "|cff1eff00|Hitem:82202:0:0:0:0:0:-40:640877159:3:0:0|h[Manette della Radice del Bandito]|h|r",
+				["È stato trovato un compratore per la tua asta di Tonaca della Cascata della Balena."] = "|cff1eff00|Hitem:82253:0:0:0:0:0:-8:1641743582:3:0:0|h[Tonaca della Cascata della Balena]|h|r",
+				["È stato trovato un compratore per la tua asta di Fascione Reticolato dell'Occultista."] = "|cff1eff00|Hitem:82194:0:0:0:0:0:-36:646251316:3:0:0|h[Fascione Reticolato dell'Occultista]|h|r",
+				["È stato trovato un compratore per la tua asta di Bacchetta Ingioiellata dell'Avo."] = "|cff1eff00|Hitem:82231:0:0:0:0:0:-42:1759117785:3:0:0|h[Bacchetta Ingioiellata dell'Avo]|h|r",
+				["È stato trovato un compratore per la tua asta di Scudo del Tempio della Balena."] = "|cff1eff00|Hitem:82294:0:0:0:0:0:-8:1228800694:3:0:0|h[Scudo del Tempio della Balena]|h|r",
+				["È stato trovato un compratore per la tua asta di Mitene Reticolate del Veggente."] = "|cff1eff00|Hitem:82196:0:0:0:0:0:-37:284033844:3:0:0|h[Mitene Reticolate del Veggente]|h|r",
+				["È stato trovato un compratore per la tua asta di Scudo di Granvetta dell'Invocatore."] = "|cff1eff00|Hitem:82239:0:0:0:0:0:-39:803996263:3:0:0|h[Scudo di Granvetta dell'Invocatore]|h|r",
+				["È stato trovato un compratore per la tua asta di Spallacci della Vite dello Zefiro."] = "|cff1eff00|Hitem:82263:0:0:0:0:0:-136:517014430:3:0:0|h[Spallacci della Vite dello Zefiro]|h|r",
+			},
+			["auctionPrices"] = {
+				["|cff1eff00|Hitem:82251:0:0:0:0:0:-41:2072380318:3:0:0|h[Mitene della Cascata della Bestia]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82204:0:0:0:0:0:-135:1044841552:3:0:0|h[Pantaloni della Radice della Raffica]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82231:0:0:0:0:0:-138:1913651673:3:0:0|h[Bacchetta Ingioiellata della Febbre]|h|r"] = {
+					861834, -- [1]
+				},
+				["|cff1eff00|Hitem:82257:0:0:0:0:0:-91:1614545590:3:0:0|h[Manette della Vite del Tiratore]|h|r"] = {
+					1277933, -- [1]
+				},
+				["|cff1eff00|Hitem:82257:0:0:0:0:0:-5:1327825590:3:0:0|h[Manette della Vite della Scimmia]|h|r"] = {
+					1277933, -- [1]
+				},
+				["|cffffffff|Hitem:82441:0:0:0:0:0:0:514977920:3:0:0|h[Rotolo di Telaria]|h|r"] = {
+					2992340, -- [1]
+				},
+				["|cff1eff00|Hitem:82184:0:0:0:0:0:-42:792068641:3:0:0|h[Scudo Nevoso dell'Avo]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82209:0:0:0:0:0:-5:2015888180:3:0:0|h[Fusciacca della Radice della Scimmia]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82201:0:0:0:0:0:-6:2130444903:3:0:0|h[Bracciali Leggeri Reticolati dell'Aquila]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82242:0:0:0:0:0:-91:1930298038:3:0:0|h[Bracciali di Yak del Tiratore]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82254:0:0:0:0:0:-6:1208550302:3:0:0|h[Grancalzari della Cascata dell'Aquila]|h|r"] = {
+					1507394, -- [1]
+				},
+				["|cff1eff00|Hitem:82196:0:0:0:0:0:-37:284033844:3:0:0|h[Mitene Reticolate del Veggente]|h|r"] = {
+					1304499, -- [1]
+				},
+				["|cff1eff00|Hitem:82196:0:0:0:0:0:-36:2036138804:3:0:0|h[Mitene Reticolate dell'Occultista]|h|r"] = {
+					1125348, -- [1]
+				},
+				["|cff1eff00|Hitem:82231:0:0:0:0:0:-138:801833433:3:0:0|h[Bacchetta Ingioiellata della Febbre]|h|r"] = {
+					861834, -- [1]
+				},
+				["|cff1eff00|Hitem:82195:0:0:0:0:0:-132:1470235728:3:0:0|h[Copricapo Reticolato della Crestonda]|h|r"] = {
+					957361, -- [1]
+				},
+				["|cff1eff00|Hitem:82262:0:0:0:0:0:-5:2076706014:3:0:0|h[Giaco della Vite della Scimmia]|h|r"] = {
+					1304806, -- [1]
+				},
+				["|cff1eff00|Hitem:82243:0:0:0:0:0:-40:196674462:3:0:0|h[Guanti Lunghi di Yak del Bandito]|h|r"] = {
+					1057842, -- [1]
+				},
+				["|cff1eff00|Hitem:82199:0:0:0:0:0:-41:843449140:3:0:0|h[Grancalzari Reticolati della Bestia]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82256:0:0:0:0:0:-6:1514078902:3:0:0|h[Bracciali Leggeri della Cascata dell'Aquila]|h|r"] = {
+					1277933, -- [1]
+				},
+				["|cff1eff00|Hitem:82255:0:0:0:0:0:-138:1039991710:3:0:0|h[Spalletti della Cascata della Febbre]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82199:0:0:0:0:0:-39:1814561588:3:0:0|h[Grancalzari Reticolati dell'Invocatore]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82207:0:0:0:0:0:-91:2143618128:3:0:0|h[Giaco della Radice del Tiratore]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82194:0:0:0:0:0:-8:1975780148:3:0:0|h[Fascione Reticolato della Balena]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82287:0:0:0:0:0:-43:361170142:3:0:0|h[Pettorale Corazzato del Tempio del Soldato]|h|r"] = {
+					1214490, -- [1]
+				},
+				["|cff1eff00|Hitem:82292:0:0:0:0:0:-43:131138462:3:0:0|h[Paraspalle del Tempio del Soldato]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82263:0:0:0:0:0:-136:517014430:3:0:0|h[Spallacci della Vite dello Zefiro]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82255:0:0:0:0:0:-138:203817886:3:0:0|h[Spalletti della Cascata della Febbre]|h|r"] = {
+					1001491, -- [1]
+				},
+				["|cff1eff00|Hitem:82202:0:0:0:0:0:-5:2020213351:3:0:0|h[Manette della Radice della Scimmia]|h|r"] = {
+					1153528, -- [1]
+				},
+				["|cff1eff00|Hitem:82196:0:0:0:0:0:-39:448135988:3:0:0|h[Mitene Reticolate dell'Invocatore]|h|r"] = {
+					1304499, -- [1]
+				},
+				["|cff1eff00|Hitem:82287:0:0:0:0:0:-14:999490782:3:0:0|h[Pettorale Corazzato del Tempio della Tigre]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82250:0:0:0:0:0:-6:1840121054:3:0:0|h[Copricapo della Cascata dell'Aquila]|h|r"] = {
+					1305654, -- [1]
+				},
+				["|cff1eff00|Hitem:82202:0:0:0:0:0:-40:640877159:3:0:0|h[Manette della Radice del Bandito]|h|r"] = {
+					1153528, -- [1]
+				},
+				["|cff1eff00|Hitem:82191:0:0:0:0:0:-132:696190032:3:0:0|h[Gambali Foderati della Montagna della Crestonda]|h|r"] = {
+					1302411, -- [1]
+				},
+				["|cff1eff00|Hitem:82291:0:0:0:0:0:-43:1470039262:3:0:0|h[Gambali Corazzati del Tempio del Soldato]|h|r"] = {
+					1309998, -- [1]
+				},
+				["|cff1eff00|Hitem:82263:0:0:0:0:0:-5:838206366:3:0:0|h[Spallacci della Vite della Scimmia]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82295:0:0:0:0:0:-41:535233206:3:0:0|h[Avambracci del Tempio della Bestia]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82195:0:0:0:0:0:-132:1583875152:3:0:0|h[Copricapo Reticolato della Crestonda]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82209:0:0:0:0:0:-5:1042547508:3:0:0|h[Fusciacca della Radice della Scimmia]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82246:0:0:0:0:0:-5:1528366302:3:0:0|h[Gambali Corazzati di Yak della Scimmia]|h|r"] = {
+					1305250, -- [1]
+				},
+				["|cff1eff00|Hitem:82262:0:0:0:0:0:-40:166331614:3:0:0|h[Giaco della Vite del Bandito]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82131:0:0:0:0:0:-91:427426518:3:0:0|h[Cintura di Salice del Tiratore]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82200:0:0:0:0:0:-6:262406964:3:0:0|h[Spalletti Reticolati dell'Aquila]|h|r"] = {
+					1121777, -- [1]
+				},
+				["|cff0070dd|Hitem:74247:0:0:0:0:0:0:2082611328:3:0:0|h[Frammento Etereo]|h|r"] = {
+					204575, -- [1]
+					204575, -- [2]
+					204575, -- [3]
+					204575, -- [4]
+					204575, -- [5]
+					204575, -- [6]
+				},
+				["|cff1eff00|Hitem:82251:0:0:0:0:0:-37:1570440094:3:0:0|h[Mitene della Cascata del Veggente]|h|r"] = {
+					1057842, -- [1]
+				},
+				["|cff1eff00|Hitem:82242:0:0:0:0:0:-132:2113536694:3:0:0|h[Bracciali di Yak della Crestonda]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82251:0:0:0:0:0:-36:1270678430:3:0:0|h[Mitene della Cascata dell'Occultista]|h|r"] = {
+					1057842, -- [1]
+				},
+				["|cff1eff00|Hitem:82241:0:0:0:0:0:-135:997655454:3:0:0|h[Cintura di Yak della Raffica]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82197:0:0:0:0:0:-129:761005136:3:0:0|h[Gambiere Reticolate del Fuocobrado]|h|r"] = {
+					1309998, -- [1]
+				},
+				["|cff1eff00|Hitem:82192:0:0:0:0:0:-40:629867316:3:0:0|h[Guardaspalle della Montagna del Bandito]|h|r"] = {
+					1121777, -- [1]
+				},
+				["|cff1eff00|Hitem:82226:0:0:0:0:0:-43:2134245991:3:0:0|h[Mantello Ingioiellato del Soldato]|h|r"] = {
+					703528, -- [1]
+				},
+				["|cffffffff|Hitem:82441:0:0:0:0:0:0:1211269120:3:0:0|h[Rotolo di Telaria]|h|r"] = {
+					2992340, -- [1]
+				},
+				["|cff1eff00|Hitem:82196:0:0:0:0:0:-39:1365246772:3:0:0|h[Mitene Reticolate dell'Invocatore]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82200:0:0:0:0:0:-37:1250493236:3:0:0|h[Spalletti Reticolati del Veggente]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82259:0:0:0:0:0:-136:453444830:3:0:0|h[Pantaloni della Vite dello Zefiro]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82251:0:0:0:0:0:-6:468517790:3:0:0|h[Mitene della Cascata dell'Aquila]|h|r"] = {
+					1057842, -- [1]
+				},
+				["|cffffffff|Hitem:74641:0:0:0:0:0:0:1831275520:3:0:0|h[Pasticcio di Pesce]|h|r"] = {
+					279585, -- [1]
+					279585, -- [2]
+					279585, -- [3]
+				},
+				["|cff1eff00|Hitem:82243:0:0:0:0:0:-91:568001438:3:0:0|h[Guanti Lunghi di Yak del Tiratore]|h|r"] = {
+					1309999, -- [1]
+				},
+				["|cff1eff00|Hitem:82246:0:0:0:0:0:-40:1899889886:3:0:0|h[Gambali Corazzati di Yak del Bandito]|h|r"] = {
+					1305250, -- [1]
+				},
+				["|cff1eff00|Hitem:74250:0:0:0:0:0:0:449295232:3:0:0|h[Essenza Misteriosa]|h|r"] = {
+					505350, -- [1]
+					505350, -- [2]
+					505350, -- [3]
+					505350, -- [4]
+					505350, -- [5]
+					505350, -- [6]
+					505350, -- [7]
+					505350, -- [8]
+				},
+				["|cff1eff00|Hitem:82068:0:0:0:0:0:-131:2077688378:3:0:0|h[Guanti Lunghi Granitici della Risacca]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82291:0:0:0:0:0:-122:402916574:3:0:0|h[Gambali Corazzati del Tempio del Finimondo]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82251:0:0:0:0:0:-138:370869150:3:0:0|h[Mitene della Cascata della Febbre]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82289:0:0:0:0:0:-36:56624030:3:0:0|h[Cinturone del Tempio dell'Occultista]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82231:0:0:0:0:0:-41:407372249:3:0:0|h[Bacchetta Ingioiellata della Bestia]|h|r"] = {
+					861834, -- [1]
+				},
+				["|cff1eff00|Hitem:82250:0:0:0:0:0:-37:137626846:3:0:0|h[Copricapo della Cascata del Veggente]|h|r"] = {
+					864930, -- [1]
+				},
+				["|cff1eff00|Hitem:82295:0:0:0:0:0:-41:1946550966:3:0:0|h[Avambracci del Tempio della Bestia]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82294:0:0:0:0:0:-123:1666712246:3:0:0|h[Scudo del Tempio dello Spezzaterra]|h|r"] = {
+					1504230, -- [1]
+				},
+				["|cff1eff00|Hitem:82245:0:0:0:0:0:-5:367002846:3:0:0|h[Elmo di Yak della Scimmia]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82287:0:0:0:0:0:-118:1843987678:3:0:0|h[Pettorale Corazzato del Tempio della Frattura]|h|r"] = {
+					1500000, -- [1]
+				},
+				["|cff1eff00|Hitem:82207:0:0:0:0:0:-5:1507001424:3:0:0|h[Giaco della Radice della Scimmia]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82196:0:0:0:0:0:-138:1589117748:3:0:0|h[Mitene Reticolate della Febbre]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82287:0:0:0:0:0:-14:1360659678:3:0:0|h[Pettorale Corazzato del Tempio della Tigre]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82249:0:0:0:0:0:-36:448463774:3:0:0|h[Fascione della Cascata dell'Occultista]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82196:0:0:0:0:0:-6:941097780:3:0:0|h[Mitene Reticolate dell'Aquila]|h|r"] = {
+					1304499, -- [1]
+				},
+				["|cff1eff00|Hitem:82238:0:0:0:0:0:-120:1442644788:3:0:0|h[Calzari di Granvetta dello Scuotiterra]|h|r"] = {
+					1305760, -- [1]
+				},
+				["|cff1eff00|Hitem:82208:0:0:0:0:0:-134:248185652:3:0:0|h[Spallacci della Radice della Burrasca]|h|r"] = {
+					1121777, -- [1]
+				},
+				["|cff1eff00|Hitem:82249:0:0:0:0:0:-36:698942366:3:0:0|h[Fascione della Cascata dell'Occultista]|h|r"] = {
+					1309601, -- [1]
+				},
+				["|cff0070dd|Hitem:98851:0:0:0:0:0:0:1468469888:3:0:0|h[Schinieri della Meditazione Artigianali del Gladiatore Malevolo]|h|r"] = {
+					3001000, -- [1]
+				},
+				["|cff0070dd|Hitem:93556:0:0:0:0:0:0:640087552:3:0:0|h[Cappuccio di Raso Artigianale del Gladiatore Truce]|h|r"] = {
+					3998840, -- [1]
+				},
+				["|cff1eff00|Hitem:72095:0:0:0:0:0:0:1603149824:3:0:0|h[Lingotto di Trillio]|h|r"] = {
+					11004900, -- [1]
+				},
+				["|cff1eff00|Hitem:82286:0:0:0:0:0:-132:1660027414:3:0:0|h[Bacchetta Immacolata della Crestonda]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82246:0:0:0:0:0:-40:501613790:3:0:0|h[Gambali Corazzati di Yak del Bandito]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82209:0:0:0:0:0:-135:1201079092:3:0:0|h[Fusciacca della Radice della Raffica]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82241:0:0:0:0:0:-40:2087650206:3:0:0|h[Cintura di Yak del Bandito]|h|r"] = {
+					1221776, -- [1]
+				},
+				["|cff1eff00|Hitem:82249:0:0:0:0:0:-131:1025049502:3:0:0|h[Fascione della Cascata della Risacca]|h|r"] = {
+					1309601, -- [1]
+				},
+				["|cff1eff00|Hitem:82196:0:0:0:0:0:-114:1615659828:3:0:0|h[Mitene Reticolate della Fiammardente]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82259:0:0:0:0:0:-133:2085881054:3:0:0|h[Pantaloni della Vite del Detonatuono]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82288:0:0:0:0:0:-39:901776286:3:0:0|h[Guanti Lunghi del Tempio dell'Invocatore]|h|r"] = {
+					1057842, -- [1]
+				},
+				["|cff1eff00|Hitem:72095:0:0:0:0:0:0:387675776:3:0:0|h[Lingotto di Trillio]|h|r"] = {
+					11004900, -- [1]
+				},
+				["|cff1eff00|Hitem:82194:0:0:0:0:0:-36:646251316:3:0:0|h[Fascione Reticolato dell'Occultista]|h|r"] = {
+					1431533, -- [1]
+				},
+				["|cff1eff00|Hitem:82231:0:0:0:0:0:-8:880607705:3:0:0|h[Bacchetta Ingioiellata della Balena]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82191:0:0:0:0:0:-91:1489044560:3:0:0|h[Gambali Foderati della Montagna del Tiratore]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82255:0:0:0:0:0:-6:214172574:3:0:0|h[Spalletti della Cascata dell'Aquila]|h|r"] = {
+					1001491, -- [1]
+				},
+				["|cff1eff00|Hitem:82199:0:0:0:0:0:-129:399246132:3:0:0|h[Grancalzari Reticolati del Fuocobrado]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82237:0:0:0:0:0:-132:1620181812:3:0:0|h[Paraspalle di Granvetta della Crestonda]|h|r"] = {
+					1121777, -- [1]
+				},
+				["|cff1eff00|Hitem:82254:0:0:0:0:0:-37:2087388062:3:0:0|h[Grancalzari della Cascata del Veggente]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82251:0:0:0:0:0:-130:284033950:3:0:0|h[Mitene della Cascata del Lampovivace]|h|r"] = {
+					1057842, -- [1]
+				},
+				["|cff1eff00|Hitem:82253:0:0:0:0:0:-36:2063795422:3:0:0|h[Tonaca della Cascata dell'Occultista]|h|r"] = {
+					1230470, -- [1]
+				},
+				["|cff1eff00|Hitem:82251:0:0:0:0:0:-39:1950352286:3:0:0|h[Mitene della Cascata dell'Invocatore]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82253:0:0:0:0:0:-37:2030830814:3:0:0|h[Tonaca della Cascata del Veggente]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82196:0:0:0:0:0:-39:413926196:3:0:0|h[Mitene Reticolate dell'Invocatore]|h|r"] = {
+					1304499, -- [1]
+				},
+				["|cff1eff00|Hitem:82196:0:0:0:0:0:-36:1146290996:3:0:0|h[Mitene Reticolate dell'Occultista]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82250:0:0:0:0:0:-39:560792798:3:0:0|h[Copricapo della Cascata dell'Invocatore]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82263:0:0:0:0:0:-40:1104479134:3:0:0|h[Spallacci della Vite del Bandito]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82207:0:0:0:0:0:-5:603587664:3:0:0|h[Giaco della Radice della Scimmia]|h|r"] = {
+					1301096, -- [1]
+				},
+				["|cff1eff00|Hitem:82237:0:0:0:0:0:-131:1685652276:3:0:0|h[Paraspalle di Granvetta della Risacca]|h|r"] = {
+					1121777, -- [1]
+				},
+				["|cff1eff00|Hitem:82253:0:0:0:0:0:-8:1134560478:3:0:0|h[Tonaca della Cascata della Balena]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82257:0:0:0:0:0:-5:1942225590:3:0:0|h[Manette della Vite della Scimmia]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82253:0:0:0:0:0:-8:1641743582:3:0:0|h[Tonaca della Cascata della Balena]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82236:0:0:0:0:0:-139:2015429712:3:0:0|h[Gambali Corazzati di Granvetta del Mercenario]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82197:0:0:0:0:0:-138:2128544848:3:0:0|h[Gambiere Reticolate della Febbre]|h|r"] = {
+					1309998, -- [1]
+				},
+				["|cffa335ee|Hitem:90725:0:0:0:0:0:0:238303872:3:0:0|h[Gambiere dell'Infestazione di Gaarn]|h|r"] = {
+					2389999, -- [1]
+				},
+				["|cff1eff00|Hitem:82242:0:0:0:0:0:-137:1703281334:3:0:0|h[Bracciali di Yak della Tempesta]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82246:0:0:0:0:0:-40:261883102:3:0:0|h[Gambali Corazzati di Yak del Bandito]|h|r"] = {
+					1305250, -- [1]
+				},
+				["|cff1eff00|Hitem:82231:0:0:0:0:0:-6:47907289:3:0:0|h[Bacchetta Ingioiellata dell'Aquila]|h|r"] = {
+					1302418, -- [1]
+				},
+				["|cff1eff00|Hitem:82242:0:0:0:0:0:-91:561971894:3:0:0|h[Bracciali di Yak del Tiratore]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82246:0:0:0:0:0:-5:1496843486:3:0:0|h[Gambali Corazzati di Yak della Scimmia]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82253:0:0:0:0:0:-39:1774060766:3:0:0|h[Tonaca della Cascata dell'Invocatore]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82231:0:0:0:0:0:-42:1759117785:3:0:0|h[Bacchetta Ingioiellata dell'Avo]|h|r"] = {
+					861834, -- [1]
+				},
+				["|cff1eff00|Hitem:82241:0:0:0:0:0:-5:84738974:3:0:0|h[Cintura di Yak della Scimmia]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82288:0:0:0:0:0:-118:2132149150:3:0:0|h[Guanti Lunghi del Tempio della Frattura]|h|r"] = {
+					1057842, -- [1]
+				},
+				["|cff1eff00|Hitem:82260:0:0:0:0:0:-5:531432350:3:0:0|h[Guanti della Vite della Scimmia]|h|r"] = {
+					1308440, -- [1]
+				},
+				["|cff1eff00|Hitem:82248:0:0:0:0:0:-5:1547437278:3:0:0|h[Giubba di Yak della Scimmia]|h|r"] = {
+					1500000, -- [1]
+				},
+				["|cff1eff00|Hitem:82204:0:0:0:0:0:-136:1777337424:3:0:0|h[Pantaloni della Radice dello Zefiro]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82287:0:0:0:0:0:-118:1619985630:3:0:0|h[Pettorale Corazzato del Tempio della Frattura]|h|r"] = {
+					1214490, -- [1]
+				},
+				["|cff1eff00|Hitem:82239:0:0:0:0:0:-39:803996263:3:0:0|h[Scudo di Granvetta dell'Invocatore]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82252:0:0:0:0:0:-6:680002782:3:0:0|h[Gambiere della Cascata dell'Aquila]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82286:0:0:0:0:0:-130:1494155798:3:0:0|h[Bacchetta Immacolata del Lampovivace]|h|r"] = {
+					1082379, -- [1]
+				},
+				["|cff1eff00|Hitem:82289:0:0:0:0:0:-41:1466893214:3:0:0|h[Cinturone del Tempio della Bestia]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82264:0:0:0:0:0:-91:1833108382:3:0:0|h[Fusciacca della Vite del Tiratore]|h|r"] = {
+					1309999, -- [1]
+				},
+				["|cff1eff00|Hitem:82191:0:0:0:0:0:-91:740557904:3:0:0|h[Gambali Foderati della Montagna del Tiratore]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82252:0:0:0:0:0:-129:1101137118:3:0:0|h[Gambiere della Cascata del Fuocobrado]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82188:0:0:0:0:0:-5:888406836:3:0:0|h[Guanti Lunghi della Montagna della Scimmia]|h|r"] = {
+					1276369, -- [1]
+				},
+				["|cff1eff00|Hitem:82191:0:0:0:0:0:-40:1580139600:3:0:0|h[Gambali Foderati della Montagna del Bandito]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82252:0:0:0:0:0:-6:2023490782:3:0:0|h[Gambiere della Cascata dell'Aquila]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82242:0:0:0:0:0:-5:2026832566:3:0:0|h[Bracciali di Yak della Scimmia]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82252:0:0:0:0:0:-130:1034683614:3:0:0|h[Gambiere della Cascata del Lampovivace]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82188:0:0:0:0:0:-134:1293943604:3:0:0|h[Guanti Lunghi della Montagna della Burrasca]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82201:0:0:0:0:0:-138:1432289895:3:0:0|h[Bracciali Leggeri Reticolati della Febbre]|h|r"] = {
+					1309999, -- [1]
+				},
+				["|cff1eff00|Hitem:82233:0:0:0:0:0:-139:2113078068:3:0:0|h[Guanti Lunghi di Granvetta del Mercenario]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cffffffff|Hitem:82441:0:0:0:0:0:0:1864466688:3:0:0|h[Rotolo di Telaria]|h|r"] = {
+					2992340, -- [1]
+				},
+				["|cff1eff00|Hitem:82243:0:0:0:0:0:-5:269288350:3:0:0|h[Guanti Lunghi di Yak della Scimmia]|h|r"] = {
+					1057842, -- [1]
+				},
+				["|cff1eff00|Hitem:82256:0:0:0:0:0:-138:1169490614:3:0:0|h[Bracciali Leggeri della Cascata della Febbre]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82208:0:0:0:0:0:-5:843973428:3:0:0|h[Spallacci della Radice della Scimmia]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82188:0:0:0:0:0:-91:711263028:3:0:0|h[Guanti Lunghi della Montagna del Tiratore]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82200:0:0:0:0:0:-8:1760035636:3:0:0|h[Spalletti Reticolati della Balena]|h|r"] = {
+					1121777, -- [1]
+				},
+				["|cff1eff00|Hitem:82044:0:0:0:0:0:-132:1246757434:3:0:0|h[Fusciacca del Sospiro della Crestonda]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82233:0:0:0:0:0:-41:690029364:3:0:0|h[Guanti Lunghi di Granvetta della Bestia]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82280:0:0:0:0:0:-45:1517421238:3:0:0|h[Amuleto Immacolato del Campione]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82197:0:0:0:0:0:-132:1251673168:3:0:0|h[Gambiere Reticolate della Crestonda]|h|r"] = {
+					1309998, -- [1]
+				},
+				["|cff1eff00|Hitem:82178:0:0:0:0:0:-37:100336342:3:0:0|h[Guanti Lunghi Nevosi del Veggente]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82239:0:0:0:0:0:-42:731775591:3:0:0|h[Scudo di Granvetta dell'Avo]|h|r"] = {
+					1120831, -- [1]
+				},
+				["|cff1eff00|Hitem:82204:0:0:0:0:0:-40:1980695632:3:0:0|h[Pantaloni della Radice del Bandito]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82286:0:0:0:0:0:-6:1624506902:3:0:0|h[Bacchetta Immacolata dell'Aquila]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82243:0:0:0:0:0:-5:1620509598:3:0:0|h[Guanti Lunghi di Yak della Scimmia]|h|r"] = {
+					1057842, -- [1]
+				},
+				["|cff1eff00|Hitem:82225:0:0:0:0:0:-121:1861419623:3:0:0|h[Amuleto Ingioiellato della Valanga]|h|r"] = {
+					1299998, -- [1]
+				},
+				["|cff1eff00|Hitem:82248:0:0:0:0:0:-131:648414430:3:0:0|h[Giubba di Yak della Risacca]|h|r"] = {
+					1309999, -- [1]
+				},
+				["|cff1eff00|Hitem:82201:0:0:0:0:0:-8:467731047:3:0:0|h[Bracciali Leggeri Reticolati della Balena]|h|r"] = {
+					1153528, -- [1]
+				},
+				["|cff1eff00|Hitem:82257:0:0:0:0:0:-134:2029847222:3:0:0|h[Manette della Vite della Burrasca]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82249:0:0:0:0:0:-8:2010710942:3:0:0|h[Fascione della Cascata della Balena]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82186:0:0:0:0:0:-40:479068980:3:0:0|h[Cintura della Montagna del Bandito]|h|r"] = {
+					1329239, -- [1]
+				},
+				["|cff1eff00|Hitem:82291:0:0:0:0:0:-139:1289815262:3:0:0|h[Gambali Corazzati del Tempio del Mercenario]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff0070dd|Hitem:98776:0:0:0:0:0:0:553137664:3:0:0|h[Barriera Artigianale del Gladiatore Malevolo]|h|r"] = {
+					3564874, -- [1]
+				},
+				["|cff0070dd|Hitem:93556:0:0:0:0:0:0:1560730880:3:0:0|h[Cappuccio di Raso Artigianale del Gladiatore Truce]|h|r"] = {
+					3998840, -- [1]
+				},
+				["|cff1eff00|Hitem:82204:0:0:0:0:0:-91:1889600592:3:0:0|h[Pantaloni della Radice del Tiratore]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82199:0:0:0:0:0:-36:1634861876:3:0:0|h[Grancalzari Reticolati dell'Occultista]|h|r"] = {
+					1305760, -- [1]
+				},
+				["|cff1eff00|Hitem:82201:0:0:0:0:0:-114:1070858855:3:0:0|h[Bracciali Leggeri Reticolati della Fiammardente]|h|r"] = {
+					1309999, -- [1]
+				},
+				["|cff1eff00|Hitem:82197:0:0:0:0:0:-41:705430608:3:0:0|h[Gambiere Reticolate della Bestia]|h|r"] = {
+					1309998, -- [1]
+				},
+				["|cff1eff00|Hitem:82186:0:0:0:0:0:-132:983040820:3:0:0|h[Cintura della Montagna della Crestonda]|h|r"] = {
+					1329239, -- [1]
+				},
+				["|cff1eff00|Hitem:82256:0:0:0:0:0:-6:1513292470:3:0:0|h[Bracciali Leggeri della Cascata dell'Aquila]|h|r"] = {
+					1277933, -- [1]
+				},
+				["|cff1eff00|Hitem:82199:0:0:0:0:0:-132:2111439668:3:0:0|h[Grancalzari Reticolati della Crestonda]|h|r"] = {
+					1300000, -- [1]
+				},
+				["|cff1eff00|Hitem:82205:0:0:0:0:0:-40:822149940:3:0:0|h[Guanti della Radice del Bandito]|h|r"] = {
+					1272686, -- [1]
+				},
+				["|cff0070dd|Hitem:72163:0:0:0:0:0:0:1681132160:3:0:0|h[Pelle Magnifica]|h|r"] = {
+					3439510, -- [1]
+					3439510, -- [2]
+					3439510, -- [3]
+					3439510, -- [4]
+					3439510, -- [5]
+					3439510, -- [6]
+					4009510, -- [7]
+					4009510, -- [8]
+					4009510, -- [9]
+					4009510, -- [10]
+					4009510, -- [11]
+					4009510, -- [12]
+				},
+				["|cff1eff00|Hitem:82294:0:0:0:0:0:-8:1228800694:3:0:0|h[Scudo del Tempio della Balena]|h|r"] = {
+					2455255, -- [1]
+				},
+				["|cff1eff00|Hitem:82200:0:0:0:0:0:-36:1469449012:3:0:0|h[Spalletti Reticolati dell'Occultista]|h|r"] = {
+					1121777, -- [1]
+				},
+				["|cff1eff00|Hitem:82290:0:0:0:0:0:-121:1915815134:3:0:0|h[Elmo del Tempio della Valanga]|h|r"] = {
+					1300000, -- [1]
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Pingola - Nemesis"] = "Default",
+	},
+}

@@ -1,0 +1,17 @@
+
+AucScanData = {
+	["Version"] = 1.3,
+	["scans"] = {
+		["Pozzo dell'Eternità"] = {
+			["Horde"] = {
+				["scanstats"] = {
+					["ImageUpdated"] = 1385343304,
+				},
+				["image"] = "rope",
+				["ropes"] = {
+					"return {}", -- [1]
+				},
+			},
+		},
+	},
+}

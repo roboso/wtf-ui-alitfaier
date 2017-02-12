@@ -1,0 +1,9 @@
+
+DungeonDiFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

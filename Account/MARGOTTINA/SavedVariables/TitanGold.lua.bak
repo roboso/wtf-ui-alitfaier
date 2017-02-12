@@ -1,0 +1,8 @@
+
+GoldSave = {
+	["Alitfaier_Hakkar::Alliance"] = {
+		["show"] = true,
+		["name"] = "Alitfaier",
+		["gold"] = 509018323,
+	},
+}

@@ -1,0 +1,246 @@
+
+DominosDB = {
+	["profileKeys"] = {
+		["Alitfaier - Hakkar"] = "Alitfaier",
+	},
+	["profiles"] = {
+		["Alitfaier"] = {
+			["showgrid"] = false,
+			["frames"] = {
+				{
+					["point"] = "BOTTOMLEFT",
+					["anchor"] = "2TC",
+					["numButtons"] = 12,
+					["y"] = 80.00002808987692,
+					["x"] = 345.3658085896249,
+					["showstates"] = "berserker stance",
+					["spacing"] = 4,
+					["padH"] = 2,
+					["padW"] = 2,
+					["pages"] = {
+						["WARRIOR"] = {
+							["[bar:2]"] = 1,
+							["[bar:4]"] = 3,
+							["[bonusbar:2]"] = 0,
+							["[bonusbar:3]"] = 8,
+							["[bar:6]"] = 5,
+							["[bar:3]"] = 2,
+							["[bar:5]"] = 4,
+							["[bonusbar:1]"] = 6,
+						},
+					},
+				}, -- [1]
+				{
+					["point"] = "BOTTOMLEFT",
+					["anchor"] = "3TC",
+					["y"] = 40.00001404493846,
+					["x"] = 345.3658085896249,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["padW"] = 2,
+					["pages"] = {
+						["WARRIOR"] = {
+							["[bonusbar:2]"] = 0,
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [2]
+				{
+					["point"] = "BOTTOMLEFT",
+					["y"] = 0,
+					["x"] = 345.3658085896249,
+					["numButtons"] = 12,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["padW"] = 2,
+					["pages"] = {
+						["WARRIOR"] = {
+							["[bonusbar:2]"] = 0,
+						},
+					},
+				}, -- [3]
+				{
+					["point"] = "TOPRIGHT",
+					["hidden"] = true,
+					["numButtons"] = 12,
+					["y"] = -333.6582996235728,
+					["x"] = -161.036460278586,
+					["columns"] = 4,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["padW"] = 2,
+					["pages"] = {
+						["WARRIOR"] = {
+						},
+					},
+				}, -- [4]
+				{
+					["columns"] = 4,
+					["anchor"] = "1LT",
+					["numButtons"] = 12,
+					["y"] = 0,
+					["x"] = 185.3657914914389,
+					["point"] = "BOTTOMLEFT",
+					["spacing"] = 4,
+					["padH"] = 2,
+					["padW"] = 2,
+					["pages"] = {
+						["WARRIOR"] = {
+							["[bonusbar:2]"] = 0,
+						},
+					},
+				}, -- [5]
+				{
+					["point"] = "BOTTOMRIGHT",
+					["anchor"] = "1RT",
+					["numButtons"] = 12,
+					["y"] = 4.468166992231107e-005,
+					["x"] = -185.3657524098711,
+					["columns"] = 4,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["padW"] = 2,
+					["pages"] = {
+						["WARRIOR"] = {
+							["[bonusbar:2]"] = 0,
+						},
+					},
+				}, -- [6]
+				{
+					["point"] = "TOPRIGHT",
+					["hidden"] = true,
+					["y"] = -234.9386890347578,
+					["x"] = -323.414668945916,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["WARRIOR"] = {
+						},
+					},
+					["padW"] = 2,
+				}, -- [7]
+				{
+					["columns"] = 4,
+					["point"] = "BOTTOMLEFT",
+					["anchor"] = "5LB",
+					["scale"] = 0.57,
+					["y"] = 0,
+					["x"] = 25.36577439325293,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["padW"] = 2,
+					["pages"] = {
+						["WARRIOR"] = {
+						},
+					},
+					["numButtons"] = 12,
+				}, -- [8]
+				{
+					["point"] = "TOPRIGHT",
+					["hidden"] = true,
+					["y"] = -388.0487820404929,
+					["x"] = -341.707109448618,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["WARRIOR"] = {
+							["[bonusbar:2]"] = 0,
+						},
+					},
+					["padW"] = 2,
+				}, -- [9]
+				{
+					["columns"] = 4,
+					["point"] = "BOTTOMLEFT",
+					["anchor"] = "8LB",
+					["scale"] = 0.58,
+					["y"] = 0,
+					["x"] = 6.651525917682157,
+					["spacing"] = 4,
+					["padH"] = 2,
+					["numButtons"] = 12,
+					["pages"] = {
+						["WARRIOR"] = {
+						},
+					},
+					["padW"] = 2,
+				}, -- [10]
+				["cast"] = {
+					["point"] = "BOTTOMRIGHT",
+					["scale"] = 1.05,
+					["y"] = 142.8571804557048,
+					["x"] = -177.4913077915005,
+					["showText"] = 1,
+					["anchor"] = "petTR",
+					["padH"] = 2,
+					["padW"] = 2,
+				},
+				["class"] = {
+					["y"] = 120.0000421348154,
+					["x"] = 345.3658085896249,
+					["point"] = "BOTTOMLEFT",
+					["spacing"] = 2,
+					["anchor"] = "1TL",
+					["numButtons"] = 3,
+				},
+				["menu"] = {
+					["y"] = -0,
+					["x"] = -37.93522733908344,
+					["point"] = "BOTTOMRIGHT",
+					["spacing"] = 0,
+					["columns"] = 2,
+				},
+				["pet"] = {
+					["y"] = 120.0000421348154,
+					["x"] = -186.3659278952706,
+					["point"] = "BOTTOMRIGHT",
+					["spacing"] = 6,
+					["anchor"] = "vehicleRC",
+					["showstates"] = "[target=pet,exists,nobonusbar:5]",
+				},
+				["bags"] = {
+					["point"] = "BOTTOMRIGHT",
+					["scale"] = 1.18,
+					["y"] = -0,
+					["x"] = -9.899747987410365,
+					["spacing"] = 2,
+					["anchor"] = "menuRT",
+					["numButtons"] = 6,
+					["columns"] = 1,
+				},
+				["vehicle"] = {
+					["y"] = 120.0000421348154,
+					["x"] = 540.365831870637,
+					["point"] = "BOTTOMLEFT",
+					["anchor"] = "1TC",
+					["numButtons"] = 3,
+					["showstates"] = "[target=vehicle,exists]",
+				},
+				["xp"] = {
+					["alwaysShowXP"] = false,
+					["point"] = "BOTTOMLEFT",
+					["scale"] = 0.94,
+					["width"] = 0.16,
+					["y"] = 74.04256089606707,
+					["x"] = 1.452968271797039,
+					["anchor"] = "10TL",
+					["height"] = 10,
+					["alwaysShowText"] = true,
+					["texture"] = "blizzard",
+				},
+				["roll"] = {
+					["y"] = -259.7926902965123,
+					["x"] = -0,
+					["columns"] = 1,
+					["spacing"] = 2,
+					["point"] = "TOPLEFT",
+					["hidden"] = true,
+					["numButtons"] = 4,
+				},
+			},
+		},
+	},
+}
+DominosVersion = "1.12.1"

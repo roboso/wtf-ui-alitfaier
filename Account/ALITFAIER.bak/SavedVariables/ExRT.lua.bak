@@ -1,0 +1,308 @@
+
+VExRT = {
+	["Timers"] = {
+	},
+	["ProfileKeys"] = {
+		["Àzzurrà-Nemesis"] = "default",
+	},
+	["Arrow"] = {
+	},
+	["Encounter"] = {
+		["names"] = {
+			[1713] = "Kromog, Leggenda della Montagna",
+			[1690] = "Altoforno",
+		},
+		["list"] = {
+			["Àzzurrà"] = {
+				"6B1E14340553281CA114Shamanorama", -- [1]
+				"69AE14340571670D4014Razile", -- [2]
+				"69AE143405739000D014", -- [3]
+				"69AE14340578380CC014Razile", -- [4]
+				"69AE14340583220C7014Venusmoon", -- [5]
+				"69AE143405882816B014Narbèleth", -- [6]
+				"69AE14340594411A4014Shamanorama", -- [7]
+				"69AE1434059872010014Shamanorama", -- [8]
+			},
+		},
+	},
+	["Marks"] = {
+		["list"] = {
+		},
+	},
+	["Coins"] = {
+		["list"] = {
+			"3177516Narbèleth1434055807", -- [1]
+			"!3119321Narbèleth1434055807:1:570", -- [2]
+			"7177516Shamanorama1434055820", -- [3]
+			"2177516Shelléy1434055824", -- [4]
+			"!2113927Shelléy1434055824:1:566", -- [5]
+			"6177516Nhøva1434055827", -- [6]
+			"1177516Lofty1434055856", -- [7]
+			"!1113927Lofty1434055856:1:566", -- [8]
+		},
+	},
+	["ExCD2"] = {
+		["default_userDuration"] = {
+		},
+		["gnGUIDs"] = {
+			["Indifferens"] = 72,
+			["Àzzurrà"] = 105,
+			["Shelléy"] = 70,
+			["Ðiablevert"] = 256,
+			["Venusmoon"] = 105,
+			["Lofty"] = 71,
+			["Maxél"] = 63,
+			["Nhøva"] = 252,
+			["Narbèleth"] = 253,
+			["Mastrix"] = 63,
+			["Shamanorama"] = 264,
+			["Marìo"] = 66,
+			["Alitfaier"] = 72,
+			["Razile"] = 73,
+		},
+		["NoRaid"] = true,
+		["CDECol"] = {
+		},
+		["default_userCD"] = {
+		},
+		["Save"] = {
+		},
+		["colSet"] = {
+			{
+				["enabled"] = true,
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [1]
+			{
+				["enabled"] = true,
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [2]
+			{
+				["enabled"] = true,
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [3]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [4]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [5]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [6]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [7]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [8]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [9]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [10]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [11]
+		},
+		["Priority"] = {
+		},
+		["CDE"] = {
+		},
+		["userDB"] = {
+		},
+	},
+	["Bossmods"] = {
+		["ThogarTop"] = 1083.0771484375,
+		["ThogarLeft"] = 1633.07800292969,
+		["Kromog"] = {
+			"Nhøva", -- [1]
+			"Indifferens", -- [2]
+			"Lofty", -- [3]
+			"Razile", -- [4]
+			"Mastrix", -- [5]
+			"Maxél", -- [6]
+			"Narbèleth", -- [7]
+			"Alitfaier", -- [8]
+			"Shamanorama", -- [9]
+			"Marìo", -- [10]
+			"Venusmoon", -- [11]
+			"Ðiablevert", -- [12]
+			"Shelléy", -- [13]
+			"Àzzurrà", -- [14]
+			["sync"] = true,
+			["time"] = 1434055280,
+			["name"] = "Alitfaier-Nemesis",
+		},
+	},
+	["RaidCheck"] = {
+		["FlaskExp"] = 1,
+		["ReadyCheckFrameTimerFade"] = 4,
+	},
+	["Addon"] = {
+		["Version"] = 3440,
+		["PreVersion"] = 0,
+		["IconMiniMapTop"] = -50.815680294395,
+		["Timer"] = 0.1,
+		["IconMiniMapLeft"] = -61.7880784311815,
+	},
+	["Profiles"] = {
+	},
+	["BossWatcher"] = {
+		["fightsNum"] = 2,
+		["autoSegments"] = {
+		},
+	},
+	["Profile"] = "default",
+	["LootLink"] = {
+	},
+	["BattleRes"] = {
+	},
+	["Note"] = {
+		["BlackNames"] = {
+		},
+		["FontSize"] = 12,
+		["Black"] = {
+			"", -- [1]
+			"", -- [2]
+			"", -- [3]
+		},
+		["Height"] = 100,
+		["Width"] = 200,
+	},
+	["Logging"] = {
+	},
+	["MarksBar"] = {
+		["Show"] = {
+			true, -- [1]
+			true, -- [2]
+			true, -- [3]
+			true, -- [4]
+		},
+		["pulltimer"] = 10,
+	},
+	["InviteTool"] = {
+		["Words"] = "инв inv byd штм 123",
+		["InvByChat"] = true,
+		["RaidDiff"] = 16,
+		["PromoteRank"] = 3,
+		["LootThreshold"] = 2,
+		["MasterLooters"] = "",
+		["LootMethod"] = "group",
+		["PromoteNames"] = "",
+		["OnlyGuild"] = true,
+		["Rank"] = 1,
+	},
+	["InspectViewer"] = {
+	},
+}

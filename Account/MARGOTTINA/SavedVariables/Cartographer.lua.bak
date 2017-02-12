@@ -1,0 +1,280 @@
+
+CartographerDB = {
+	["namespaces"] = {
+		["POI"] = {
+			["profiles"] = {
+				["Default"] = {
+					["pois"] = {
+						["version"] = 3,
+						["Dragonblight"] = {
+							[10972664] = {
+								["title"] = "Wintergrasp Fortress Tower (SE)",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[29845985] = {
+								["title"] = "Flamewatch Tower",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[7871912] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[7891824] = {
+								["title"] = "Wintergrasp Fortress Tower (NW)",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[5401574] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[32623830] = {
+								["title"] = "Westspark Vehicle Workshop",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[7872190] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[7882265] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[12651556] = {
+								["title"] = "West Workshop Graveyard",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[7342014] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[7902472] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[16913896] = {
+								["title"] = "East Vehicle Workshop",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[27222728] = {
+								["title"] = "Shadowsight Tower",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[55618474] = {
+								["title"] = "Stars' Rest",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[11062341] = {
+								["title"] = "Wintergrasp Fortress Tower (SW)",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[48002576] = {
+								["title"] = "Wintergarde Keep",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[8522420] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[8542090] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[7302255] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[16412074] = {
+								["title"] = "West Vehicle Workshop",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[54251404] = {
+								["title"] = "Wyrmrest Temple",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[4952126] = {
+								["title"] = "Fortress Vehicle Workshop (E)",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[5102034] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[6532430] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[46648312] = {
+								["title"] = "Agmar's Hammer",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[4921647] = {
+								["title"] = "Fortress Vehicle Workshop (W)",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[6501685] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[6192145] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[74732372] = {
+								["title"] = "Moa'ki Harbor",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[33595533] = {
+								["title"] = "Southeast Graveyard",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[31474581] = {
+								["title"] = "Winter's Edge Tower",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[7912117] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[4821883] = {
+								["title"] = "Wintergrasp Fortress",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[33124012] = {
+								["title"] = "Southwest Graveyard",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[6191899] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[62433944] = {
+								["title"] = "Venomspite",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[981404] = {
+								["title"] = "Fortress Graveyard",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[5041783] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[5402316] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[9602196] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[11002577] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[11032504] = {
+								["title"] = "Wintergrasp Fortress Gate",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[9622529] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[7911990] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[11042431] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[7902564] = {
+								["title"] = "Wintergrasp Fortress Tower (NE)",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[32485521] = {
+								["title"] = "Eastspark Vehicle Workshop",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[7902398] = {
+								["title"] = "Wintergrasp Fortress Wall",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+							[12553620] = {
+								["title"] = "East Workshop Graveyard",
+								["titleCol"] = 16744448,
+								["icon"] = "POI",
+							},
+						},
+					},
+				},
+			},
+		},
+		["Professions"] = {
+			["profiles"] = {
+				["Default"] = {
+					["profs"] = {
+						["Engineering"] = "With Profession",
+					},
+				},
+			},
+		},
+		["Notes"] = {
+			["account"] = {
+				["pois"] = {
+					["version"] = 3,
+				},
+			},
+		},
+	},
+	["account"] = {
+		["firstTimeWoW21"] = true,
+	},
+}

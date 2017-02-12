@@ -1,0 +1,24 @@
+
+AskMrRobotDb3 = {
+	["char"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = {
+			["Talents"] = {
+				"0000000", -- [1]
+			},
+			["Logging"] = {
+				["LastZone"] = "Regni Orientali",
+				["LastDiff"] = 0,
+			},
+		},
+	},
+	["global"] = {
+		["Region"] = "EU",
+	},
+	["profileKeys"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = "Àzzurrà - Pozzo dell'Eternità",
+	},
+	["profiles"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = {
+		},
+	},
+}

@@ -1,0 +1,7 @@
+
+DailyGlobalCheck_PluginData = {
+	["Instance Lockouts"] = {
+		["active"] = true,
+	},
+	["last_selected"] = "Instance Lockouts",
+}

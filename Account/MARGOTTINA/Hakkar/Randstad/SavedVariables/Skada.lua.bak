@@ -1,0 +1,161 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["dispells"] = 0,
+		["absorbs"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 0,
+		["interrupts"] = 0,
+		["damage"] = 168,
+		["players"] = {
+			{
+				["class"] = "ROGUE",
+				["damaged"] = {
+				},
+				["auras"] = {
+				},
+				["absorbs"] = {
+				},
+				["ccbreaks"] = 0,
+				["time"] = 8,
+				["interrupts"] = 0,
+				["power"] = {
+				},
+				["damage"] = 168,
+				["damagespells"] = {
+					["Eviscerate"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 2,
+						["MISS"] = 0,
+						["damage"] = 63,
+						["DEFLECT"] = 0,
+						["id"] = 2098,
+						["max"] = 33,
+						["min"] = 30,
+						["PARRY"] = 0,
+						["critical"] = 0,
+						["hit"] = 2,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Sinister Strike"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 6,
+						["MISS"] = 0,
+						["damage"] = 53,
+						["DEFLECT"] = 0,
+						["id"] = 1752,
+						["max"] = 9,
+						["min"] = 8,
+						["PARRY"] = 0,
+						["critical"] = 0,
+						["hit"] = 6,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Attack"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 8,
+						["MISS"] = 2,
+						["damage"] = 52,
+						["DEFLECT"] = 0,
+						["id"] = 6603,
+						["max"] = 19,
+						["min"] = 4,
+						["PARRY"] = 0,
+						["critical"] = 1,
+						["hit"] = 5,
+						["EVADE"] = 0,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+				},
+				["deaths"] = {
+				},
+				["damagetaken"] = 19,
+				["deathlog"] = {
+					{
+						["ts"] = 1331405096.075,
+						["amount"] = -4,
+						["spellname"] = "Young Nightsaber's Attack",
+						["spellid"] = 6603,
+						["hp"] = 102,
+					}, -- [1]
+					{
+						["ts"] = 1331405086.286,
+						["amount"] = -4,
+						["spellname"] = "Young Nightsaber's Attack",
+						["spellid"] = 6603,
+						["hp"] = 106,
+					}, -- [2]
+					{
+						["ts"] = 1331405074.25,
+						["amount"] = -5,
+						["spellname"] = "Young Thistle Boar's Attack",
+						["spellid"] = 6603,
+						["hp"] = 100,
+					}, -- [3]
+					{
+						["ts"] = 1331405072.167,
+						["amount"] = -6,
+						["spellname"] = "Young Thistle Boar's Attack",
+						["spellid"] = 6603,
+						["hp"] = 106,
+					}, -- [4]
+				},
+				["totalabsorbs"] = 0,
+				["overhealing"] = 0,
+				["damagetakenspells"] = {
+					["Attack"] = {
+						["id"] = 6603,
+						["name"] = "Attack",
+						["damage"] = 19,
+					},
+				},
+				["healingspells"] = {
+				},
+				["healing"] = 0,
+				["name"] = "Randstad",
+				["healed"] = {
+				},
+				["dispells"] = 0,
+				["maxhp"] = 106,
+				["id"] = "0x048000000382B298",
+				["absorbspells"] = {
+				},
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+		},
+		["mobtaken"] = 0,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["name"] = "Total",
+		["overhealing"] = 0,
+		["starttime"] = 1331405044,
+		["damagetaken"] = 19,
+		["last_action"] = 1331405044,
+		["mobdone"] = 0,
+	},
+	["sets"] = {
+	},
+}

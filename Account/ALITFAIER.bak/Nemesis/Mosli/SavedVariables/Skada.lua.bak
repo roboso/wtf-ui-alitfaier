@@ -1,0 +1,125 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 0,
+		["interrupts"] = 0,
+		["damage"] = 295,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "HUNTER",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["ccbreaks"] = 0,
+				["damage"] = 295,
+				["damagespells"] = {
+					["Tiro Arcano"] = {
+						["min"] = 18,
+						["critical"] = 1,
+						["hit"] = 3,
+						["totalhits"] = 4,
+						["id"] = 3044,
+						["max"] = 41,
+						["damage"] = 98,
+					},
+					["Granchio: Attacco"] = {
+						["min"] = 8,
+						["critical"] = 2,
+						["hit"] = 3,
+						["totalhits"] = 5,
+						["id"] = 6603,
+						["max"] = 21,
+						["damage"] = 65,
+					},
+					["Tiro Automatico"] = {
+						["min"] = 14,
+						["critical"] = 2,
+						["hit"] = 3,
+						["totalhits"] = 5,
+						["id"] = 75,
+						["max"] = 27,
+						["damage"] = 97,
+					},
+					["Granchio: Sfregio"] = {
+						["min"] = 17,
+						["hit"] = 2,
+						["totalhits"] = 2,
+						["id"] = 16827,
+						["max"] = 18,
+						["damage"] = 35,
+					},
+				},
+				["maxhp"] = 238,
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "Player-1316-07706FD3",
+				["healing"] = 0,
+				["deathlog"] = {
+				},
+				["damagetakenspells"] = {
+				},
+				["power"] = {
+				},
+				["auras"] = {
+					["Granchio: Ringhio"] = {
+						["name"] = "Granchio: Ringhio",
+						["active"] = 0,
+						["id"] = 2649,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 2,
+					},
+				},
+				["name"] = "Mosli",
+				["damagetaken"] = 0,
+				["role"] = "NONE",
+				["time"] = 7,
+				["multistrikes"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["Verme Scavatore"] = {
+				["players"] = {
+					["Mosli"] = {
+						["taken"] = 295,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 295,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["mobtaken"] = 295,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["starttime"] = 1434192021,
+		["damagetaken"] = 0,
+		["shielding"] = 0,
+		["name"] = "Totale",
+		["overhealing"] = 0,
+		["mobdone"] = 0,
+		["mobhdone"] = 0,
+		["last_action"] = 1434192021,
+		["multistrikes"] = 0,
+	},
+	["sets"] = {
+	},
+}

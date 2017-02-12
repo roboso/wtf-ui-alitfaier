@@ -1,0 +1,12 @@
+
+RazerNagaDB = {
+	["profileKeys"] = {
+		["Alitfaier - Nemesis"] = "Guerriero",
+	},
+	["profiles"] = {
+		["Guerriero"] = {
+			["bindingSet"] = "Advanced",
+		},
+	},
+}
+RazerNagaVersion = "2.8.4"

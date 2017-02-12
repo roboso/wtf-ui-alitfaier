@@ -1,0 +1,11 @@
+
+AtlasLootCharDB = {
+	["namespaces"] = {
+		["WishList"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Lorenzø - Crushridge"] = "Lorenzø - Crushridge",
+	},
+	["AtlasLootVersion"] = "60500",
+}

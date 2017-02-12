@@ -1,0 +1,20 @@
+
+TradeSkillMaster_CraftingSniperDB = {
+	["global"] = {
+		["TrackUndercuts"] = false,
+	},
+	["profileKeys"] = {
+		["Pingola - Nemesis"] = "Default",
+	},
+	["factionrealm"] = {
+		["Alliance - Nemesis"] = {
+			["ReportingEnabled"] = {
+				["Pingola"] = true,
+			},
+			["MyToons"] = {
+				["Pingola"] = {
+				},
+			},
+		},
+	},
+}

@@ -1,0 +1,11 @@
+
+AtlasLootCharDB = {
+	["namespaces"] = {
+		["WishList"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Lorenzø - Pozzo dell'Eternità"] = "Lorenzø - Pozzo dell'Eternità",
+	},
+	["AtlasLootVersion"] = "70301",
+}

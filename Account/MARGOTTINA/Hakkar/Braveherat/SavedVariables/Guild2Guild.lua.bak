@@ -1,0 +1,40 @@
+
+Guild2Guild_Vars = {
+	["log"] = {
+	},
+	["ShowNewRelayMessages"] = true,
+	["Active"] = true,
+	["color"] = "|cff40ff40",
+	["Passive"] = false,
+	["Startdelay"] = 15,
+	["NewAddonDefault"] = false,
+	["Debug"] = false,
+	["RelayAddonMessages"] = true,
+	["debugStack"] = {
+	},
+	["chatTypes"] = {
+		["G2G"] = {
+			true, -- [1]
+			["b"] = 0.250980406999588,
+			["g"] = 1.000000059138984,
+			["r"] = 0.250980406999588,
+		},
+	},
+	["GuildMemberNotify"] = "1",
+	["logsize"] = 0,
+	["Channel"] = "g2gdefault",
+	["logging"] = false,
+	["EchoGuild"] = true,
+	["EchoOfficer"] = true,
+	["addons"] = {
+		["Thr"] = true,
+		["GathX"] = true,
+		["Armory"] = false,
+		["AucAdvAskPrice"] = false,
+		["WIM"] = true,
+		["GUILDMAP"] = false,
+		["LGP"] = false,
+		["CGP"] = false,
+		["CaN"] = true,
+	},
+}

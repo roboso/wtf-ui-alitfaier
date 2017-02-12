@@ -1,0 +1,243 @@
+
+DBMKarazhan_AllSavedVars = {
+	["Àzzurrà-Nemesis"] = {
+		["TerestianIllhoof"] = {
+			{
+				["SpecWarn30115youSpecialWarningSound"] = 1,
+				["Timer30115next"] = true,
+				["HealthFrame"] = false,
+				["announceother30115target"] = true,
+				["Timer30065active"] = true,
+				["Timer30115target"] = true,
+				["timer_berserk"] = true,
+				["Enabled"] = true,
+				["SpecWarn30115you"] = true,
+				["announce30066spell"] = true,
+				["announceother30065target"] = true,
+				["SpeedKillTimer"] = false,
+			}, -- [1]
+		},
+		["RomuloAndJulianne"] = {
+			{
+				["Enabled"] = true,
+				["announceother30830stack"] = true,
+				["announce30878cast"] = true,
+				["HealthFrame"] = false,
+				["announce2phase"] = true,
+				["announce3phase"] = true,
+				["Timer30887target"] = true,
+				["timer_combat"] = true,
+				["Timer30841target"] = true,
+				["Timer30878cast"] = true,
+				["announceother30841target"] = true,
+				["SpeedKillTimer"] = false,
+				["announceother30887target"] = true,
+			}, -- [1]
+		},
+		["Hyakiss"] = {
+			{
+				["Enabled"] = true,
+				["SpeedKillTimer"] = false,
+				["HealthFrame"] = false,
+			}, -- [1]
+		},
+		["Chess"] = {
+			{
+				["Enabled"] = true,
+				["Timer37472active"] = true,
+				["Timer30529fades"] = true,
+				["HealthFrame"] = false,
+				["timerCheat"] = true,
+				["SpeedKillTimer"] = false,
+				["Timer37471active"] = true,
+			}, -- [1]
+		},
+		["talent1"] = "Rigenerazione",
+		["Aran"] = {
+			{
+				["HealthFrame"] = false,
+				["Timer29973cast"] = true,
+				["DBM_ARAN_DO_NOT_MOVE"] = true,
+				["announceother29946target"] = true,
+				["WreathIcons"] = true,
+				["announce29969spell"] = true,
+				["ElementalIcons"] = true,
+				["SpecWarn29973runSpecialWarningSound"] = 4,
+				["announce30004cast"] = true,
+				["Enabled"] = true,
+				["Timer29946active"] = true,
+				["timerSpecial"] = true,
+				["timer_berserk"] = true,
+				["SpecWarn29973run"] = true,
+				["Timer29991target"] = true,
+				["Timer37053active"] = true,
+				["Timer29951active"] = true,
+				["Timer30004cast"] = true,
+				["SpecWarn29951moveSpecialWarningSound"] = 1,
+				["announce37053spell"] = true,
+				["SpecWarn29951move"] = true,
+				["announceother29991target"] = true,
+				["DBM_ARAN_DO_NOT_MOVESpecialWarningSound"] = 1,
+				["SpeedKillTimer"] = false,
+				["announce29973cast"] = true,
+			}, -- [1]
+		},
+		["Moroes"] = {
+			{
+				["Enabled"] = true,
+				["announceother34694target"] = true,
+				["Timer29572target"] = true,
+				["announceother37066target"] = true,
+				["HealthFrame"] = false,
+				["announce29562cast"] = true,
+				["Timer29425target"] = true,
+				["Timer29448cd"] = true,
+				["announce37023spell"] = true,
+				["announce29405cast"] = true,
+				["Timer34694target"] = true,
+				["announceother29572target"] = true,
+				["announce29448spell"] = true,
+				["announce35096cast"] = true,
+				["SpeedKillTimer"] = false,
+				["announceother29425target"] = true,
+			}, -- [1]
+		},
+		["Prince"] = {
+			{
+				["Timer30852next"] = true,
+				["Timer37277cd"] = true,
+				["announce37277spell"] = true,
+				["announce2phase"] = true,
+				["announce3phase"] = true,
+				["Timer30843next"] = true,
+				["announceother30898target"] = false,
+				["Enabled"] = true,
+				["announce30852cast"] = true,
+				["announceother39095target"] = true,
+				["Timer30843fades"] = true,
+				["HealthFrame"] = false,
+				["announceother30843target"] = true,
+				["SpecWarn37277you"] = true,
+				["SpecWarn37277youSpecialWarningSound"] = 1,
+				["SpecWarn30852runSpecialWarningSound"] = 1,
+				["SpeedKillTimer"] = false,
+				["SpecWarn30852run"] = false,
+			}, -- [1]
+		},
+		["Rokad"] = {
+			{
+				["Enabled"] = true,
+				["SpeedKillTimer"] = false,
+				["HealthFrame"] = false,
+			}, -- [1]
+		},
+		["Curator"] = {
+			{
+				["Enabled"] = true,
+				["HealthFrame"] = false,
+				["Timer30254active"] = true,
+				["Timer30254next"] = true,
+				["timer_berserk"] = true,
+				["announce30403spell"] = true,
+				["RangeFrame"] = true,
+				["announce30254spell"] = true,
+				["warnAdd"] = true,
+				["SpeedKillTimer"] = false,
+			}, -- [1]
+		},
+		["Attumen"] = {
+			{
+				["Enabled"] = true,
+				["announce29711spell"] = true,
+				["Timer43127cd"] = true,
+				["announce29833spell"] = true,
+				["HealthFrame"] = false,
+				["announce2phase"] = true,
+				["SpeedKillTimer"] = false,
+			}, -- [1]
+		},
+		["Netherspite"] = {
+			{
+				["Enabled"] = true,
+				["warningPortal"] = true,
+				["timerPortalPhase"] = true,
+				["warningBanish"] = true,
+				["Timer38523cast"] = true,
+				["timerBanishPhase"] = true,
+				["announce38523cast"] = true,
+				["timer_berserk"] = true,
+				["SpecWarn30533moveSpecialWarningSound"] = 1,
+				["SpecWarn30533move"] = true,
+				["announce37063spell"] = true,
+				["SpeedKillTimer"] = false,
+				["HealthFrame"] = false,
+			}, -- [1]
+		},
+		["Maiden"] = {
+			{
+				["Enabled"] = true,
+				["announce29511spell"] = true,
+				["Timer29511cd"] = true,
+				["HealthFrame"] = false,
+				["announceother29522target"] = true,
+				["Timer29511active"] = true,
+				["RangeFrame"] = true,
+				["SpeedKillTimer"] = false,
+				["Timer29522target"] = true,
+			}, -- [1]
+		},
+		["Nightbane"] = {
+			{
+				["Enabled"] = true,
+				["HealthFrame"] = false,
+				["Timer37098active"] = true,
+				["SpecWarn30129move"] = true,
+				["announceother30130target"] = false,
+				["Timer36922cd"] = true,
+				["DBM_NB_AIR_WARN"] = true,
+				["timer_combat"] = true,
+				["announce36922spell"] = true,
+				["timerAirPhase"] = true,
+				["SpecWarn30129moveSpecialWarningSound"] = 1,
+				["SpeedKillTimer"] = false,
+				["announce37098spell"] = true,
+			}, -- [1]
+		},
+		["BigBadWolf"] = {
+			{
+				["Enabled"] = true,
+				["announceother30753target"] = true,
+				["RRHIcon"] = true,
+				["SpecWarn30753you"] = true,
+				["SpecWarn30753youSpecialWarningSound"] = 1,
+				["Timer30753target"] = true,
+				["Timer30753next"] = true,
+				["announce30752spell"] = true,
+				["Timer30752next"] = true,
+				["SpeedKillTimer"] = false,
+				["HealthFrame"] = false,
+			}, -- [1]
+		},
+		["Oz"] = {
+			{
+				["Enabled"] = true,
+				["announceother31046target"] = true,
+				["HealthFrame"] = false,
+				["announce31013spell"] = true,
+				["DBM_OZ_OPTION_1"] = true,
+				["Timer31013cd"] = true,
+				["ShowBossTimers"] = true,
+				["AnnounceBosses"] = true,
+				["SpeedKillTimer"] = false,
+				["announce32337spell"] = true,
+			}, -- [1]
+		},
+		["Shadikith"] = {
+			{
+				["Enabled"] = true,
+				["SpeedKillTimer"] = false,
+				["HealthFrame"] = false,
+			}, -- [1]
+		},
+	},
+}

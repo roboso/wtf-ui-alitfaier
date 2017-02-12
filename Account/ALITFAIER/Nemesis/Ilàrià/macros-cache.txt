@@ -1,0 +1,18 @@
+VER 3 0100000000000004 "bollaaaaaa" "SPELL_HOLY_SEALOFPROTECTION"
+/lancia [@Powerwood] Imposizione della Protezione
+END
+VER 3 0100000000000005 "pestatura" "133616"
+/cast Pestatura
+/use Orchidea di Talador
+/use Fogliaspina di Nagrand
+/use Erba del Fuoco
+/use Fogliaspina di Nagrand
+/use Stellaria
+/use Acchiappamosche di Gorgrond
+END
+VER 3 0100000000000006 "VuhDoDCShieldData" "Ability_Repair"
+P1RM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1PT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000007 "VuhDoDCShieldNames" "Ability_Repair"
+NAri[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Ilà[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

@@ -1,0 +1,33 @@
+
+BestInSlotDB = {
+	["char"] = {
+		["Enchàntrix - Pozzo dell'Eternità"] = {
+			["windowpos"] = {
+				["relativeTo"] = "UIParent",
+				["point"] = "TOPLEFT",
+				["relativePoint"] = "TOPLEFT",
+				["xOffset"] = 200,
+				["yOffset"] = -250.000015258789,
+			},
+			["selected"] = {
+				"Legion", -- [1]
+				70011, -- [2]
+				"NH", -- [3]
+				[5] = 3,
+				[6] = 62,
+			},
+			["tutorials"] = {
+				["BiS manager"] = {
+					true, -- [1]
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Enchàntrix - Pozzo dell'Eternità"] = "Enchàntrix - Pozzo dell'Eternità",
+	},
+	["profiles"] = {
+		["Enchàntrix - Pozzo dell'Eternità"] = {
+		},
+	},
+}

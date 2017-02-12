@@ -1,0 +1,65 @@
+
+gGroupCalendar_Settings = {
+	["ShowEventsInLocalTime"] = false,
+	["StartOnMonday"] = false,
+	["Debug"] = false,
+	["TwentyFourHourTime"] = false,
+	["PlayerSettings"] = {
+		["Hakkar_Alitfaier"] = {
+			["UI"] = {
+				["LockWindow"] = false,
+			},
+			["Channel"] = {
+			},
+			["SavedTemplates"] = {
+			},
+			["Security"] = {
+				["Player"] = {
+				},
+				["MinTrustedRank"] = 1,
+			},
+		},
+	},
+	["Format"] = 3,
+	["DebugSettings"] = {
+	},
+	["RealmSettings"] = {
+		["Hakkar"] = {
+			["GuildRanks"] = {
+				["The Dreamers"] = {
+					"Top Level", -- [1]
+					"Professional", -- [2]
+					"Manutentore", -- [3]
+					"Svezzato", -- [4]
+					"Garzone", -- [5]
+					"Sgobbino", -- [6]
+					"Torsolodimela", -- [7]
+					"Gay In Castigo", -- [8]
+					[0] = "GM",
+				},
+			},
+		},
+	},
+}
+gGroupCalendar_Database = {
+	["Format"] = 19,
+	["Backups"] = {
+	},
+	["Databases"] = {
+		["Hakkar_Alitfaier"] = {
+			["PlayerClassCode"] = "W",
+			["Guild"] = "The Dreamers",
+			["PlayerLevel"] = 80,
+			["IsPlayerOwned"] = true,
+			["UserName"] = "Alitfaier",
+			["LocalUsers"] = {
+			},
+			["Events"] = {
+			},
+			["Faction"] = "Alliance",
+			["PlayerRaceCode"] = "N",
+			["CurrentEventID"] = 0,
+			["Realm"] = "Hakkar",
+		},
+	},
+}

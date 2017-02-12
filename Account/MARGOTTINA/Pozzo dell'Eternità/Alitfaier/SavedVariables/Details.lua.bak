@@ -1,0 +1,3171 @@
+
+_detalhes_database = {
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["announce_prepots"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["active_profile"] = "Alitfaier-Pozzo dell'Eternità",
+	["last_realversion"] = 116,
+	["ignore_nicktag"] = false,
+	["combat_counter"] = 12,
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["updatespeed"] = 1,
+			["useclasscolors"] = false,
+			["animate"] = false,
+			["useplayercolor"] = false,
+			["showamount"] = false,
+			["author"] = "Details! Team",
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["enabled"] = true,
+		},
+		["DETAILS_PLUGIN_TIME_ATTACK"] = {
+			["enabled"] = true,
+			["realm_last_shown"] = 40,
+			["saved_as_anonymous"] = true,
+			["recently_as_anonymous"] = true,
+			["dps"] = 0,
+			["disable_sharing"] = false,
+			["history"] = {
+			},
+			["time"] = 40,
+			["history_lastindex"] = 0,
+			["realm_lastamt"] = 0,
+			["realm_history"] = {
+			},
+			["author"] = "Details! Team",
+		},
+		["DETAILS_PLUGIN_DAMAGE_RANK"] = {
+			["lasttry"] = {
+			},
+			["annouce"] = true,
+			["dpshistory"] = {
+			},
+			["dps"] = 0,
+			["author"] = "Details! Team",
+			["level"] = 1,
+			["enabled"] = true,
+		},
+		["DETAILS_PLUGIN_VANGUARD"] = {
+			["enabled"] = true,
+			["tank_block_texture"] = "Details Serenity",
+			["tank_block_color"] = {
+				0.24705882, -- [1]
+				0.0039215, -- [2]
+				0, -- [3]
+				0.8, -- [4]
+			},
+			["show_inc_bars"] = false,
+			["author"] = "Details! Team",
+			["first_run"] = false,
+			["tank_block_size"] = 150,
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["author"] = "Details! Team",
+			["window_scale"] = 1,
+			["hide_on_combat"] = false,
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["encounter_timers_dbm"] = {
+			},
+		},
+		["DETAILS_PLUGIN_DPS_TUNING"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+			["SpellBarsShowType"] = 1,
+		},
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
+			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
+			["author"] = "Details! Team",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
+		},
+		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["is_first_run"] = false,
+			["arrow_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["main_frame_size"] = {
+				299.999938964844, -- [1]
+				499.999908447266, -- [2]
+			},
+			["minimap"] = {
+				["minimapPos"] = 160,
+				["radius"] = 160,
+				["hide"] = false,
+			},
+			["arrow_anchor_x"] = 0,
+			["row_texture"] = "Details Serenity",
+			["scale"] = 1,
+			["point"] = "CENTER",
+			["y"] = -4.577636718750e-005,
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["author"] = "Details! Team",
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["main_frame_strata"] = "LOW",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["row_height"] = 20,
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 6.1035156250e-005,
+				["x"] = -6.1035156250e-005,
+				["update_speed"] = 0.05,
+				["size"] = 32,
+				["attribute_type"] = 1,
+			},
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["arrow_anchor_y"] = 0,
+			["use_spark"] = true,
+			["main_frame_locked"] = false,
+			["font_size"] = 10,
+		},
+	},
+	["savedbuffs"] = {
+	},
+	["character_data"] = {
+		["logons"] = 1,
+	},
+	["force_font_outline"] = "",
+	["tabela_historico"] = {
+		["tabelas"] = {
+			{
+				{
+					["combatId"] = 7,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["damage_from"] = {
+								["Cacciatore Foranebbie"] = true,
+							},
+							["targets"] = {
+							},
+							["on_hold"] = false,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002361,
+							["spec"] = 72,
+							["dps_started"] = false,
+							["total"] = 0.002361,
+							["classe"] = "WARRIOR",
+							["serial"] = "Player-1309-07FA29F4",
+							["nome"] = "Alitfaier",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["end_time"] = 1486744228,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 76566.002361,
+							["start_time"] = 1486744228,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 7,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 7,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 7,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 72,
+							["grupo"] = true,
+							["buff_uptime"] = 42,
+							["nome"] = "Alitfaier",
+							["pets"] = {
+							},
+							["last_event"] = 1486744228,
+							["classe"] = "WARRIOR",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[186406] = {
+										["uptime"] = 14,
+										["activedamt"] = 1,
+										["id"] = 186406,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[227723] = {
+										["uptime"] = 14,
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[118089] = {
+										["uptime"] = 14,
+										["activedamt"] = 1,
+										["id"] = 118089,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-1309-07FA29F4",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 7,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Alitfaier"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["enemy"] = "Cacciatore Foranebbie",
+				["combat_counter"] = 12,
+				["playing_solo"] = true,
+				["totals"] = {
+					-0.0591570001650662, -- [1]
+					-0.0088240000186488, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = -0.00499999999999545,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Alitfaier"] = 0.002361,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 21095.241,
+				["combat_id"] = 7,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Cacciatore Foranebbie"] = 1,
+				},
+				["data_fim"] = "17:30:28",
+				["data_inicio"] = "17:30:14",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					0, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 21081.526,
+				["contra"] = "Cacciatore Foranebbie",
+				["TimeData"] = {
+				},
+			}, -- [1]
+			{
+				{
+					["combatId"] = 6,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["damage_from"] = {
+								["Cacciatore Foranebbie"] = true,
+							},
+							["targets"] = {
+								["Cacciatore Foranebbie"] = 2383621,
+							},
+							["pets"] = {
+								"Dvalen Runaferrea <Alitfaier>", -- [1]
+							},
+							["total"] = 2383621.006593,
+							["on_hold"] = false,
+							["classe"] = "WARRIOR",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 2199751.006593,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1486744187,
+							["friendlyfire_total"] = 0,
+							["spec"] = 72,
+							["nome"] = "Alitfaier",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 203284,
+										["g_amt"] = 0,
+										["n_max"] = 38856,
+										["targets"] = {
+											["Cacciatore Foranebbie"] = 280263,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 76979,
+										["n_min"] = 38123,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 280263,
+										["c_max"] = 106242,
+										["MISS"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 38963,
+									}, -- [1]
+									[191259] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 132323,
+										["targets"] = {
+											["Cacciatore Foranebbie"] = 227476,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 227476,
+										["n_min"] = 95153,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 227476,
+										["c_max"] = 0,
+										["id"] = 191259,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[163558] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 102363,
+										["targets"] = {
+											["Cacciatore Foranebbie"] = 102363,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 102363,
+										["n_min"] = 102363,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 102363,
+										["c_max"] = 0,
+										["id"] = 163558,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[44949] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 18104,
+										["g_amt"] = 0,
+										["n_max"] = 9333,
+										["targets"] = {
+											["Cacciatore Foranebbie"] = 61833,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 43729,
+										["n_min"] = 8406,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 61833,
+										["c_max"] = 18104,
+										["id"] = 44949,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["r_amt"] = 0,
+										["c_min"] = 18104,
+									},
+									[85384] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 93034,
+										["targets"] = {
+											["Cacciatore Foranebbie"] = 93034,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 93034,
+										["n_min"] = 93034,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 93034,
+										["c_max"] = 0,
+										["id"] = 85384,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[221770] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 14617,
+										["targets"] = {
+											["Cacciatore Foranebbie"] = 14617,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 14617,
+										["n_min"] = 14617,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 14617,
+										["c_max"] = 0,
+										["id"] = 221770,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[23881] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 236712,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Cacciatore Foranebbie"] = 236712,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 236712,
+										["c_max"] = 236712,
+										["id"] = 23881,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 236712,
+									},
+									[205547] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 73038,
+										["targets"] = {
+											["Cacciatore Foranebbie"] = 73038,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 73038,
+										["n_min"] = 73038,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 73038,
+										["c_max"] = 0,
+										["id"] = 205547,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[5308] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 187841,
+										["targets"] = {
+											["Cacciatore Foranebbie"] = 187841,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 187841,
+										["n_min"] = 187841,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 187841,
+										["c_max"] = 0,
+										["id"] = 5308,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[205546] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 300652,
+										["g_amt"] = 0,
+										["n_max"] = 147153,
+										["targets"] = {
+											["Cacciatore Foranebbie"] = 605074,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 304422,
+										["n_min"] = 41783,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 605074,
+										["c_max"] = 300652,
+										["id"] = 205546,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 300652,
+									},
+									[96103] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 189728,
+										["targets"] = {
+											["Cacciatore Foranebbie"] = 189728,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 189728,
+										["n_min"] = 189728,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 189728,
+										["c_max"] = 0,
+										["id"] = 96103,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[199667] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 36862,
+										["g_amt"] = 0,
+										["n_max"] = 18668,
+										["targets"] = {
+											["Cacciatore Foranebbie"] = 127772,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 90910,
+										["n_min"] = 17680,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 127772,
+										["c_max"] = 36862,
+										["id"] = 199667,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["r_amt"] = 0,
+										["c_min"] = 36862,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-1309-07FA29F4",
+							["last_dps"] = 187288.520986344,
+							["custom"] = 0,
+							["last_event"] = 1486744186,
+							["damage_taken"] = 217015.006593,
+							["start_time"] = 1486744179,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 8465,
+							["serial"] = "Creature-0-3102-1220-32320-111914-00001DDFDC",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Cacciatore Foranebbie"] = 183870,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 183870.008998,
+							["dps_started"] = false,
+							["total"] = 183870.008998,
+							["classe"] = "PET",
+							["ownerName"] = "Alitfaier",
+							["nome"] = "Dvalen Runaferrea <Alitfaier>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 24685,
+										["g_amt"] = 0,
+										["n_max"] = 8229,
+										["targets"] = {
+											["Cacciatore Foranebbie"] = 49372,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 24687,
+										["n_min"] = 4114,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 49372,
+										["c_max"] = 16457,
+										["MISS"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 8228,
+									}, -- [1]
+									[222897] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 53978,
+										["targets"] = {
+											["Cacciatore Foranebbie"] = 53978,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 53978,
+										["n_min"] = 53978,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 53978,
+										["c_max"] = 0,
+										["id"] = 222897,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[222926] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 32208,
+										["g_amt"] = 0,
+										["n_max"] = 16104,
+										["targets"] = {
+											["Cacciatore Foranebbie"] = 48312,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 16104,
+										["n_min"] = 16104,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 48312,
+										["c_max"] = 32208,
+										["id"] = 222926,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 32208,
+									},
+									[223130] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 32208,
+										["targets"] = {
+											["Cacciatore Foranebbie"] = 32208,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 32208,
+										["n_min"] = 32208,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 32208,
+										["c_max"] = 0,
+										["id"] = 223130,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1486744187,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.008998,
+							["start_time"] = 1486744180,
+							["delay"] = 0,
+							["last_event"] = 1486744186,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 6,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.006697,
+							["last_hps"] = 0,
+							["healing_from"] = {
+								["Alitfaier"] = true,
+							},
+							["targets"] = {
+								["Alitfaier"] = 154300,
+							},
+							["last_event"] = 1486744185,
+							["pets"] = {
+							},
+							["totalover_without_pet"] = 0.006697,
+							["targets_overheal"] = {
+							},
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.006697,
+							["total_without_pet"] = 154300.006697,
+							["iniciar_hps"] = false,
+							["classe"] = "WARRIOR",
+							["fight_component"] = true,
+							["total"] = 154300.006697,
+							["serial"] = "Player-1309-07FA29F4",
+							["healing_taken"] = 154300.006697,
+							["nome"] = "Alitfaier",
+							["spec"] = 72,
+							["grupo"] = true,
+							["end_time"] = 1486744187,
+							["heal_enemy"] = {
+							},
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[117313] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 154300,
+										["targets"] = {
+											["Alitfaier"] = 154300,
+										},
+										["n_min"] = 154300,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 154300,
+										["c_max"] = 0,
+										["id"] = 117313,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 154300,
+										["m_healed"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["custom"] = 0,
+							["tipo"] = 2,
+							["on_hold"] = false,
+							["start_time"] = 1486744185,
+							["delay"] = 0,
+							["targets_absorbs"] = {
+							},
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 6,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["resource"] = 0.001348,
+							["targets"] = {
+								["Alitfaier"] = 23,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "WARRIOR",
+							["fight_component"] = true,
+							["total"] = 23.001348,
+							["nome"] = "Alitfaier",
+							["spec"] = 72,
+							["grupo"] = true,
+							["tipo"] = 3,
+							["received"] = 23.001348,
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[85288] = {
+										["id"] = 85288,
+										["total"] = 5,
+										["targets"] = {
+											["Alitfaier"] = 5,
+										},
+										["counter"] = 1,
+									},
+									[23881] = {
+										["id"] = 23881,
+										["total"] = 10,
+										["targets"] = {
+											["Alitfaier"] = 10,
+										},
+										["counter"] = 1,
+									},
+									[207780] = {
+										["id"] = 207780,
+										["total"] = 8,
+										["targets"] = {
+											["Alitfaier"] = 8,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["serial"] = "Player-1309-07FA29F4",
+							["last_event"] = 1486744185,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 6,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[221770] = {
+										["uptime"] = 3,
+										["activedamt"] = 0,
+										["id"] = 221770,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[205546] = {
+										["uptime"] = 3,
+										["activedamt"] = 0,
+										["id"] = 205546,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 44,
+							["classe"] = "WARRIOR",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[201009] = {
+										["uptime"] = 5,
+										["activedamt"] = 1,
+										["id"] = 201009,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[200876] = {
+										["actived_at"] = 1486744185,
+										["uptime"] = 0,
+										["activedamt"] = 1,
+										["id"] = 200876,
+										["actived"] = true,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[225947] = {
+										["uptime"] = 3,
+										["activedamt"] = 1,
+										["id"] = 225947,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[227723] = {
+										["uptime"] = 13,
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[184362] = {
+										["uptime"] = 2,
+										["activedamt"] = 1,
+										["id"] = 184362,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[200954] = {
+										["uptime"] = 2,
+										["activedamt"] = 1,
+										["id"] = 200954,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[118089] = {
+										["actived_at"] = 1486744174,
+										["uptime"] = 0,
+										["activedamt"] = 1,
+										["id"] = 118089,
+										["actived"] = true,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[85739] = {
+										["uptime"] = 6,
+										["activedamt"] = 1,
+										["id"] = 85739,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[186406] = {
+										["uptime"] = 13,
+										["activedamt"] = 1,
+										["id"] = 186406,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 6,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 72,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[85288] = 1,
+								[205545] = 1,
+								[205547] = 1,
+								[23881] = 1,
+								[5308] = 1,
+								[96103] = 1,
+								[205546] = 1,
+								[190411] = 1,
+								[199667] = 3,
+								[44949] = 3,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1486744187,
+							["nome"] = "Alitfaier",
+							["pets"] = {
+								"Dvalen Runaferrea <Alitfaier>", -- [1]
+							},
+							["serial"] = "Player-1309-07FA29F4",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 8465,
+							["ownerName"] = "Alitfaier",
+							["nome"] = "Dvalen Runaferrea <Alitfaier>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[222897] = 1,
+								[222926] = 2,
+								[223130] = 1,
+							},
+							["serial"] = "Creature-0-3102-1220-32320-111914-00001DDFDC",
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 6,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Alitfaier"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["enemy"] = "Cacciatore Foranebbie",
+				["combat_counter"] = 11,
+				["playing_solo"] = true,
+				["totals"] = {
+					2383620.990022, -- [1]
+					154300, -- [2]
+					{
+						23, -- [1]
+						[0] = 0,
+						[6] = -0.00776799999999867,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Alitfaier"] = 154300.006697,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Alitfaier"] = 2383621.006593,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 21054.406,
+				["combat_id"] = 6,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Cacciatore Foranebbie"] = 2,
+				},
+				["data_fim"] = "17:29:47",
+				["data_inicio"] = "17:29:34",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					2199751, -- [1]
+					154300, -- [2]
+					{
+						23, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 21041.679,
+				["contra"] = "Cacciatore Foranebbie",
+				["TimeData"] = {
+				},
+			}, -- [2]
+			{
+				{
+					["combatId"] = 5,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+								["Difensore della Guardia del Vespro"] = true,
+								["Guardia dell'Ira Vilanima"] = true,
+							},
+							["targets"] = {
+							},
+							["on_hold"] = false,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008796,
+							["spec"] = 72,
+							["dps_started"] = false,
+							["total"] = 0.008796,
+							["classe"] = "WARRIOR",
+							["serial"] = "Player-1309-07FA29F4",
+							["nome"] = "Alitfaier",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["end_time"] = 1486744028,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 752877.008796,
+							["start_time"] = 1486744028,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 5,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 5,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 5,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 72,
+							["grupo"] = true,
+							["buff_uptime"] = 69,
+							["nome"] = "Alitfaier",
+							["pets"] = {
+							},
+							["last_event"] = 1486744028,
+							["classe"] = "WARRIOR",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[186406] = {
+										["uptime"] = 23,
+										["activedamt"] = 1,
+										["id"] = 186406,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[227723] = {
+										["uptime"] = 23,
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[118089] = {
+										["uptime"] = 23,
+										["activedamt"] = 1,
+										["id"] = 118089,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-1309-07FA29F4",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 5,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Alitfaier"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["enemy"] = "Guardia dell'Ira Vilanima",
+				["combat_counter"] = 10,
+				["playing_solo"] = true,
+				["totals"] = {
+					-0.0523050001938827, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Alitfaier"] = {
+						{
+							true, -- [1]
+							3, -- [2]
+							241470, -- [3]
+							1486744056.531, -- [4]
+							3616044, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [1]
+						{
+							true, -- [1]
+							3, -- [2]
+							408799, -- [3]
+							1486744132.641, -- [4]
+							3448715, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 3,
+					},
+				},
+				["frags_need_refresh"] = false,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Alitfaier"] = 0.008796,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 20895.582,
+				["combat_id"] = 5,
+				["instance_type"] = "none",
+				["frags"] = {
+				},
+				["data_fim"] = "17:27:08",
+				["data_inicio"] = "17:26:45",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					0, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 20872.256,
+				["contra"] = "Guardia dell'Ira Vilanima",
+				["TimeData"] = {
+				},
+			}, -- [3]
+			{
+				{
+					["combatId"] = 4,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+								["Rauren"] = true,
+							},
+							["targets"] = {
+							},
+							["on_hold"] = false,
+							["pets"] = {
+								"Dvalen Runaferrea <Alitfaier>", -- [1]
+							},
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003101,
+							["spec"] = 72,
+							["dps_started"] = false,
+							["total"] = 0.003101,
+							["classe"] = "WARRIOR",
+							["serial"] = "Player-1309-07FA29F4",
+							["nome"] = "Alitfaier",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["end_time"] = 1486743730,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 1331454.003101,
+							["start_time"] = 1486743730,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [1]
+						{
+							["flag_original"] = 8465,
+							["damage_from"] = {
+								["Rauren"] = true,
+							},
+							["targets"] = {
+							},
+							["serial"] = "Creature-0-3102-1220-32320-111914-00001DDFDC",
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002109,
+							["dps_started"] = false,
+							["total"] = 0.002109,
+							["classe"] = "PET",
+							["ownerName"] = "Alitfaier",
+							["nome"] = "Dvalen Runaferrea <Alitfaier>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1486743730,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 12788.002109,
+							["start_time"] = 1486743730,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 4,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 4,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 4,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 72,
+							["grupo"] = true,
+							["buff_uptime"] = 54,
+							["nome"] = "Alitfaier",
+							["pets"] = {
+							},
+							["last_event"] = 1486743730,
+							["classe"] = "WARRIOR",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[186406] = {
+										["uptime"] = 18,
+										["activedamt"] = 1,
+										["id"] = 186406,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[227723] = {
+										["uptime"] = 18,
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[118089] = {
+										["uptime"] = 18,
+										["activedamt"] = 1,
+										["id"] = 118089,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-1309-07FA29F4",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 4,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Alitfaier"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["enemy"] = "Rauren",
+				["combat_counter"] = 9,
+				["playing_solo"] = true,
+				["totals"] = {
+					-0.0308940001996234, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Alitfaier"] = {
+						{
+							true, -- [1]
+							3, -- [2]
+							831229, -- [3]
+							1486743798.636, -- [4]
+							3026285, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [1]
+						{
+							true, -- [1]
+							3, -- [2]
+							195747, -- [3]
+							1486743930.443, -- [4]
+							3661767, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [2]
+						{
+							true, -- [1]
+							3, -- [2]
+							48654, -- [3]
+							1486744002.622, -- [4]
+							3808860, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 4,
+					},
+				},
+				["frags_need_refresh"] = false,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Alitfaier"] = 0.003101,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 20597.474,
+				["combat_id"] = 4,
+				["instance_type"] = "none",
+				["frags"] = {
+				},
+				["data_fim"] = "17:22:10",
+				["data_inicio"] = "17:21:52",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					0, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 20579.688,
+				["contra"] = "Rauren",
+				["TimeData"] = {
+				},
+			}, -- [4]
+			{
+				{
+					["combatId"] = 3,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["damage_from"] = {
+								["Gerride Frenetico"] = true,
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+								["Gerride Frenetico"] = 3760903,
+							},
+							["spec"] = 72,
+							["pets"] = {
+								"Dvalen Runaferrea <Alitfaier>", -- [1]
+							},
+							["colocacao"] = 1,
+							["end_time"] = 1486743669,
+							["classe"] = "WARRIOR",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 3450549.004577,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["total"] = 3760903.004577,
+							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
+							["nome"] = "Alitfaier",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 5,
+										["b_amt"] = 0,
+										["c_dmg"] = 364294,
+										["g_amt"] = 0,
+										["n_max"] = 58437,
+										["targets"] = {
+											["Gerride Frenetico"] = 523960,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 159666,
+										["n_min"] = 18957,
+										["g_dmg"] = 0,
+										["counter"] = 11,
+										["total"] = 523960,
+										["c_max"] = 108757,
+										["MISS"] = 2,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 40924,
+									}, -- [1]
+									[218617] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 103781,
+										["g_amt"] = 0,
+										["n_max"] = 73260,
+										["targets"] = {
+											["Gerride Frenetico"] = 202064,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 98283,
+										["n_min"] = 25023,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 202064,
+										["c_max"] = 103781,
+										["id"] = 218617,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 103781,
+									},
+									[191259] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 105748,
+										["targets"] = {
+											["Gerride Frenetico"] = 105748,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 105748,
+										["n_min"] = 105748,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 105748,
+										["c_max"] = 0,
+										["id"] = 191259,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[199667] = {
+										["c_amt"] = 2,
+										["b_amt"] = 2,
+										["c_dmg"] = 86482,
+										["g_amt"] = 0,
+										["n_max"] = 25418,
+										["targets"] = {
+											["Gerride Frenetico"] = 240142,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 153660,
+										["n_min"] = 12933,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 240142,
+										["c_max"] = 49794,
+										["id"] = 199667,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 25952,
+										["n_amt"] = 8,
+										["r_amt"] = 0,
+										["c_min"] = 36688,
+									},
+									[85384] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 89321,
+										["targets"] = {
+											["Gerride Frenetico"] = 89321,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 89321,
+										["n_min"] = 89321,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 89321,
+										["c_max"] = 0,
+										["id"] = 85384,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[221770] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 15404,
+										["targets"] = {
+											["Gerride Frenetico"] = 30808,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 30808,
+										["n_min"] = 15404,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 30808,
+										["c_max"] = 0,
+										["id"] = 221770,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[96103] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 370301,
+										["g_amt"] = 0,
+										["n_max"] = 271159,
+										["targets"] = {
+											["Gerride Frenetico"] = 827497,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 457196,
+										["n_min"] = 186037,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 827497,
+										["c_max"] = 370301,
+										["id"] = 96103,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 370301,
+									},
+									[205546] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 148394,
+										["targets"] = {
+											["Gerride Frenetico"] = 607577,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 607577,
+										["n_min"] = 41783,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 607577,
+										["c_max"] = 0,
+										["id"] = 205546,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 8,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[23881] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 245701,
+										["g_amt"] = 0,
+										["n_max"] = 121635,
+										["targets"] = {
+											["Gerride Frenetico"] = 545537,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 299836,
+										["n_min"] = 57576,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 545537,
+										["c_max"] = 245701,
+										["id"] = 23881,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 245701,
+									},
+									[205547] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 77513,
+										["targets"] = {
+											["Gerride Frenetico"] = 149533,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 149533,
+										["n_min"] = 72020,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 149533,
+										["c_max"] = 0,
+										["id"] = 205547,
+										["r_dmg"] = 0,
+										["spellschool"] = 4,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[44949] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 49484,
+										["g_amt"] = 0,
+										["n_max"] = 12916,
+										["targets"] = {
+											["Gerride Frenetico"] = 128362,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 78878,
+										["n_min"] = 8558,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 128362,
+										["c_max"] = 25763,
+										["id"] = 44949,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 8,
+										["r_amt"] = 0,
+										["c_min"] = 23721,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-1309-07FA29F4",
+							["last_dps"] = 230151.337407559,
+							["custom"] = 0,
+							["last_event"] = 1486743669,
+							["damage_taken"] = 1322411.004577,
+							["start_time"] = 1486743654,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 8465,
+							["serial"] = "Creature-0-3102-1220-32320-111914-00001DDFDC",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Gerride Frenetico"] = 310354,
+							},
+							["end_time"] = 1486743669,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 310354.003127,
+							["dps_started"] = false,
+							["total"] = 310354.003127,
+							["classe"] = "PET",
+							["ownerName"] = "Alitfaier",
+							["nome"] = "Dvalen Runaferrea <Alitfaier>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 24687,
+										["g_amt"] = 0,
+										["n_max"] = 8229,
+										["targets"] = {
+											["Gerride Frenetico"] = 127545,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 102858,
+										["n_min"] = 4114,
+										["g_dmg"] = 0,
+										["counter"] = 20,
+										["total"] = 127545,
+										["c_max"] = 8229,
+										["MISS"] = 2,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 15,
+										["r_amt"] = 0,
+										["c_min"] = 8229,
+									}, -- [1]
+									[222897] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 53978,
+										["targets"] = {
+											["Gerride Frenetico"] = 53978,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 53978,
+										["n_min"] = 53978,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 53978,
+										["c_max"] = 0,
+										["id"] = 222897,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[222926] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 64415,
+										["g_amt"] = 0,
+										["n_max"] = 16104,
+										["targets"] = {
+											["Gerride Frenetico"] = 96623,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 32208,
+										["n_min"] = 16104,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 96623,
+										["c_max"] = 32208,
+										["id"] = 222926,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 32207,
+									},
+									[223130] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 32208,
+										["targets"] = {
+											["Gerride Frenetico"] = 32208,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 32208,
+										["n_min"] = 32208,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 32208,
+										["c_max"] = 0,
+										["id"] = 223130,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.003127,
+							["start_time"] = 1486743655,
+							["delay"] = 0,
+							["last_event"] = 1486743668,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 3,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.00247,
+							["last_hps"] = 0,
+							["targets_overheal"] = {
+								["Alitfaier"] = 63444,
+							},
+							["targets"] = {
+								["Alitfaier"] = 462902,
+							},
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[117313] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Alitfaier"] = 63444,
+										},
+										["n_max"] = 154301,
+										["targets"] = {
+											["Alitfaier"] = 399458,
+										},
+										["n_min"] = 90857,
+										["counter"] = 3,
+										["overheal"] = 63444,
+										["total"] = 399458,
+										["c_max"] = 0,
+										["id"] = 117313,
+										["targets_absorbs"] = {
+										},
+										["m_crit"] = 0,
+										["c_curado"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["n_curado"] = 399458,
+										["m_healed"] = 0,
+										["n_amt"] = 3,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["healing_from"] = {
+								["Alitfaier"] = true,
+							},
+							["healing_taken"] = 399458.00247,
+							["totalover"] = 63444.00247,
+							["total_without_pet"] = 399458.00247,
+							["totalover_without_pet"] = 0.00247,
+							["classe"] = "WARRIOR",
+							["fight_component"] = true,
+							["end_time"] = 1486743669,
+							["last_event"] = 1486743667,
+							["heal_enemy_amt"] = 0,
+							["nome"] = "Alitfaier",
+							["spec"] = 72,
+							["grupo"] = true,
+							["total"] = 399458.00247,
+							["heal_enemy"] = {
+							},
+							["targets_absorbs"] = {
+							},
+							["custom"] = 0,
+							["tipo"] = 2,
+							["on_hold"] = false,
+							["start_time"] = 1486743656,
+							["serial"] = "Player-1309-07FA29F4",
+							["delay"] = 0,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 3,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["resource"] = 0.006368,
+							["targets"] = {
+								["Alitfaier"] = 61,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "WARRIOR",
+							["fight_component"] = true,
+							["total"] = 61.006368,
+							["nome"] = "Alitfaier",
+							["spec"] = 72,
+							["grupo"] = true,
+							["tipo"] = 3,
+							["received"] = 61.006368,
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[207780] = {
+										["id"] = 207780,
+										["total"] = 16,
+										["targets"] = {
+											["Alitfaier"] = 16,
+										},
+										["counter"] = 2,
+									},
+									[23881] = {
+										["id"] = 23881,
+										["total"] = 30,
+										["targets"] = {
+											["Alitfaier"] = 30,
+										},
+										["counter"] = 3,
+									},
+									[85288] = {
+										["id"] = 85288,
+										["total"] = 15,
+										["targets"] = {
+											["Alitfaier"] = 15,
+										},
+										["counter"] = 3,
+									},
+								},
+							},
+							["serial"] = "Player-1309-07FA29F4",
+							["last_event"] = 1486743668,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 3,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[205546] = {
+										["uptime"] = 4,
+										["activedamt"] = 0,
+										["id"] = 205546,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[221770] = {
+										["uptime"] = 7,
+										["activedamt"] = 0,
+										["id"] = 221770,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 63,
+							["classe"] = "WARRIOR",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[85739] = {
+										["uptime"] = 6,
+										["activedamt"] = 2,
+										["id"] = 85739,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[186406] = {
+										["uptime"] = 16,
+										["activedamt"] = 1,
+										["id"] = 186406,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[200876] = {
+										["actived_at"] = 1486743668,
+										["uptime"] = 4,
+										["activedamt"] = 2,
+										["id"] = 200876,
+										["actived"] = true,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[200954] = {
+										["uptime"] = 6,
+										["activedamt"] = 2,
+										["id"] = 200954,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[227723] = {
+										["uptime"] = 16,
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[225947] = {
+										["uptime"] = 10,
+										["activedamt"] = 1,
+										["id"] = 225947,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+									[184362] = {
+										["uptime"] = 5,
+										["activedamt"] = 2,
+										["id"] = 184362,
+										["actived"] = false,
+										["targets"] = {
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 11,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 72,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[96103] = 3,
+								[205545] = 1,
+								[205547] = 1,
+								[184367] = 1,
+								[85288] = 3,
+								[23881] = 3,
+								[205546] = 1,
+								[190411] = 2,
+								[199667] = 6,
+								[44949] = 6,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1486743669,
+							["nome"] = "Alitfaier",
+							["pets"] = {
+								"Dvalen Runaferrea <Alitfaier>", -- [1]
+							},
+							["serial"] = "Player-1309-07FA29F4",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 8465,
+							["ownerName"] = "Alitfaier",
+							["nome"] = "Dvalen Runaferrea <Alitfaier>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[222897] = 1,
+								[222926] = 4,
+								[223130] = 1,
+							},
+							["serial"] = "Creature-0-3102-1220-32320-111914-00001DDFDC",
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 3,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Alitfaier"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["enemy"] = "Gerride Frenetico",
+				["combat_counter"] = 8,
+				["playing_solo"] = true,
+				["totals"] = {
+					3760902.979764, -- [1]
+					399457.994993, -- [2]
+					{
+						61, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Alitfaier"] = {
+						{
+							true, -- [1]
+							3, -- [2]
+							863082, -- [3]
+							1486743698.369, -- [4]
+							2994432, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Alitfaier"] = 399458.00247,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Alitfaier"] = 3760903.004577,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 20536.555,
+				["combat_id"] = 3,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Gerride Frenetico"] = 3,
+				},
+				["data_fim"] = "17:21:09",
+				["data_inicio"] = "17:20:53",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					3450549, -- [1]
+					399458, -- [2]
+					{
+						61, -- [1]
+						[0] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 20520.214,
+				["contra"] = "Gerride Frenetico",
+				["TimeData"] = {
+				},
+			}, -- [5]
+		},
+	},
+	["last_day"] = "10",
+	["nick_tag_cache"] = {
+		["last_version"] = 8,
+		[144323463] = {
+			"Jacinda", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Asira Dawnslayer", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"Interface\\PetBattles\\Weather-Sunlight", -- [4]
+			{
+				0.1772721, -- [1]
+				0.953125, -- [2]
+				1, -- [3]
+				0, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			2, -- [7]
+		},
+		["nextreset"] = 1488037457,
+	},
+	["tabela_instancias"] = {
+	},
+	["combat_id"] = 7,
+	["savedStyles"] = {
+	},
+	["cached_talents"] = {
+		["Player-1309-07FA29F4"] = {
+			19138, -- [1]
+			22633, -- [2]
+			22382, -- [3]
+			16037, -- [4]
+			22384, -- [5]
+			22400, -- [6]
+			22409, -- [7]
+		},
+		["Player-3679-08DBD0CC"] = {
+			22379, -- [1]
+			22633, -- [2]
+			22382, -- [3]
+			22402, -- [4]
+			22391, -- [5]
+			22400, -- [6]
+			22409, -- [7]
+		},
+		["Player-3702-07E1F818"] = {
+			22289, -- [1]
+			22308, -- [2]
+			22284, -- [3]
+			21998, -- [4]
+			22287, -- [5]
+			19347, -- [6]
+			22495, -- [7]
+		},
+		["Player-1607-043C2F0E"] = {
+			22484, -- [1]
+			22645, -- [2]
+			22431, -- [3]
+			22558, -- [4]
+			22705, -- [5]
+			21811, -- [6]
+			22434, -- [7]
+		},
+		["Player-3679-08EE096E"] = {
+			19166, -- [1]
+			19230, -- [2]
+			19218, -- [3]
+			19226, -- [4]
+			21207, -- [5]
+			19221, -- [6]
+			22014, -- [7]
+		},
+	},
+	["last_instance_time"] = 0,
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
+			["damage"] = {
+			},
+		},
+		["start_time"] = 0,
+		["data_inicio"] = 0,
+		["combat_counter"] = 3,
+		["last_events_tables"] = {
+		},
+		["raid_roster"] = {
+		},
+		["totals_grupo"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+		["frags"] = {
+		},
+		["data_fim"] = 0,
+		["totals"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
+		},
+		["CombatSkillCache"] = {
+		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["__call"] = {
+		},
+	},
+	["last_version"] = "v7.1.5.3370",
+	["local_instances_config"] = {
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["is_open"] = true,
+			["isLocked"] = false,
+			["snap"] = {
+			},
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = 22.2225416309959,
+					["x"] = -831.555687308972,
+					["w"] = 408.888824462891,
+					["h"] = 230.000015258789,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+	},
+	["SoloTablesSaved"] = {
+		["LastSelected"] = "DETAILS_PLUGIN_DAMAGE_RANK",
+		["Mode"] = 1,
+	},
+	["announce_cooldowns"] = {
+		["enabled"] = false,
+		["ignored_cooldowns"] = {
+		},
+		["custom"] = "",
+		["channel"] = "RAID",
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["last_instance_id"] = 0,
+	["cached_specs"] = {
+	},
+}

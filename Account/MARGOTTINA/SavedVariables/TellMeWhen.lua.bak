@@ -1,0 +1,263 @@
+
+TellMeWhenDB = {
+	["global"] = {
+		["ConfigWarning"] = false,
+		["ClassSpellCache"] = {
+			["RACIAL"] = {
+				[107079] = "Pandaren",
+			},
+			["PRIEST"] = {
+				[81700] = 1,
+				[6346] = 1,
+				[52798] = 1,
+				[32375] = 1,
+				[32379] = 1,
+				[95861] = 1,
+				[64129] = 1,
+				[528] = 1,
+				[77486] = 1,
+				[84733] = 1,
+				[20711] = 1,
+				[2050] = 1,
+				[47536] = 1,
+				[47540] = 1,
+				[81749] = 1,
+				[121135] = 1,
+				[32546] = 1,
+				[9484] = 1,
+				[585] = 1,
+				[63733] = 1,
+				[108968] = 1,
+				[62618] = 1,
+				[95649] = 1,
+				[47517] = 1,
+				[586] = 1,
+				[45243] = 1,
+				[48045] = 1,
+				[108921] = 1,
+				[2006] = 1,
+				[78203] = 1,
+				[88625] = 1,
+				[2060] = 1,
+				[34861] = 1,
+				[2061] = 1,
+				[8092] = 1,
+				[122098] = 1,
+				[15487] = 1,
+				[1706] = 1,
+				[89745] = 1,
+				[17] = 1,
+				[2096] = 1,
+				[64901] = 1,
+				[139] = 1,
+				[34433] = 1,
+				[588] = 1,
+				[596] = 1,
+				[47788] = 1,
+				[33076] = 1,
+				[95740] = 1,
+				[589] = 1,
+				[724] = 1,
+				[47573] = 1,
+				[89485] = 1,
+				[64044] = 1,
+				[2944] = 1,
+				[34914] = 1,
+				[109964] = 1,
+				[15473] = 1,
+				[89488] = 1,
+				[47585] = 1,
+				[77484] = 1,
+				[73510] = 1,
+				[47515] = 1,
+				[15286] = 1,
+				[73325] = 1,
+				[15407] = 1,
+				[21562] = 1,
+				[77485] = 1,
+				[10060] = 1,
+				[110502] = 1,
+				[14914] = 1,
+				[95860] = 1,
+				[8122] = 1,
+				[527] = 1,
+				[92297] = 1,
+				[73413] = 1,
+				[64843] = 1,
+				[81662] = 1,
+				[108945] = 1,
+				[33206] = 1,
+			},
+		},
+		["XPac_ClassSpellCache"] = 5,
+		["HelpSettings"] = {
+			["ICON_DURS_FIRSTSEE"] = true,
+			["ICON_POCKETWATCH_FIRSTSEE"] = true,
+			["CNDT_ANDOR_FIRSTSEE"] = true,
+		},
+	},
+	["Version"] = 61103,
+	["profileKeys"] = {
+		["Pàndorella - Pozzo dell'Eternità"] = "Pàndorella - Pozzo dell'Eternità",
+	},
+	["profiles"] = {
+		["Pàndorella - Pozzo dell'Eternità"] = {
+			["CheckOrder"] = 1,
+			["TextLayouts"] = {
+				["icon1"] = {
+					{
+					}, -- [1]
+					{
+					}, -- [2]
+				},
+			},
+			["NumGroups"] = 3,
+			["TextureName"] = "Perl",
+			["Groups"] = {
+				{
+					["View"] = "bar",
+					["Point"] = {
+						["y"] = -27.38661675867158,
+						["x"] = 174.3142069309648,
+					},
+					["Scale"] = 2.302805429145245,
+					["Rows"] = 6,
+					["Columns"] = 1,
+					["CheckOrder"] = 1,
+					["SortPriorities"] = {
+						{
+							["Method"] = "duration",
+						}, -- [1]
+						{
+							["Method"] = "visibleshown",
+						}, -- [2]
+						{
+							["Method"] = "id",
+							["Order"] = 1,
+						}, -- [3]
+						{
+							["Method"] = "stacks",
+						}, -- [4]
+						{
+							["Method"] = "visiblealpha",
+						}, -- [5]
+					},
+					["LayoutDirection"] = 8,
+					["SettingsPerView"] = {
+						["icon"] = {
+							["TextLayout"] = "",
+						},
+						["bar"] = {
+							["SpacingY"] = 1,
+							["TextLayout"] = "",
+							["SizeX"] = 88.44521847027298,
+						},
+					},
+					["Icons"] = {
+						{
+							["Type"] = "cooldown",
+							["Name"] = "Cascata",
+							["Enabled"] = true,
+						}, -- [1]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "Contrizione",
+							["Enabled"] = true,
+						}, -- [2]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "Preghiera di Guarigione",
+							["Enabled"] = true,
+						}, -- [3]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "Spirito d'Ombra",
+							["Enabled"] = true,
+						}, -- [4]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "Involucro Spirituale",
+							["Enabled"] = true,
+						}, -- [5]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "icd",
+							["InvertCBar"] = true,
+							["CBarOffs"] = 12,
+							["Name"] = "Estasi: 12",
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "OnShow",
+								}, -- [1]
+								{
+									["PassingCndt"] = true,
+									["Type"] = "Animations",
+									["CndtJustPassed"] = true,
+									["Animation"] = "ICONOVERLAYIMG",
+									["Event"] = "OnDuration",
+								}, -- [2]
+								["n"] = 2,
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "bar1",
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["ShowWhen"] = 3,
+							["CustomTex"] = "47536",
+							["ShowCBar"] = true,
+							["ShowTimerText"] = true,
+							["Enabled"] = true,
+							["UnAlpha"] = 0.75,
+						}, -- [6]
+					},
+				}, -- [1]
+				{
+					["Icons"] = {
+						[3] = {
+							["Type"] = "cooldown",
+							["Name"] = "Parola del Potere: Scudo; Involucro Spirituale",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "",
+								},
+								["bar"] = {
+									["TextLayout"] = "",
+								},
+							},
+							["Enabled"] = true,
+						},
+					},
+				}, -- [2]
+				{
+					["View"] = "bar",
+					["Point"] = {
+						["y"] = -28.9452620240005,
+						["x"] = 151.5154757982762,
+					},
+					["Scale"] = 2.612476784236988,
+					["Columns"] = 1,
+					["CheckOrder"] = 1,
+					["SettingsPerView"] = {
+						["icon"] = {
+							["TextLayout"] = "",
+						},
+						["bar"] = {
+							["TextLayout"] = "icon2",
+							["SizeX"] = 73.85885351385105,
+						},
+					},
+				}, -- [3]
+			},
+			["Version"] = 61103,
+			["ReceiveComm"] = false,
+			["Locked"] = true,
+			["WarnInvalids"] = true,
+		},
+	},
+}

@@ -1,0 +1,13 @@
+
+ArmoryLocalSettings = {
+	["Minimap"] = {
+		["Angle"] = 331.026136835945,
+	},
+	["Chat"] = {
+		true, -- [1]
+		["r"] = 1,
+		["sticky"] = 0,
+		["g"] = 1,
+		["b"] = 1,
+	},
+}

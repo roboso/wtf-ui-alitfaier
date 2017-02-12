@@ -1,0 +1,6 @@
+
+TradeSkillMaster_CoolDownsDB = {
+	["profileKeys"] = {
+		["Enchàntrix - Pozzo dell'Eternità"] = "Default",
+	},
+}

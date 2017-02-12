@@ -1,0 +1,2 @@
+
+Cartographer_HotspotDB = nil

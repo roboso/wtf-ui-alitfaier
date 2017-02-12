@@ -1,0 +1,100 @@
+
+TradeSkillMaster_CraftingDB = {
+	["f@Alliance - Pozzo dell'Eternità@queueStatus"] = {
+		["collapsed"] = {
+		},
+	},
+	["f@Alliance - Pozzo dell'Eternità@evenStacks"] = false,
+	["_scopeKeys"] = {
+		["char"] = {
+			"Àzzurrà - Pozzo dell'Eternità", -- [1]
+		},
+		["realm"] = {
+			"Pozzo dell'Eternità", -- [1]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["factionrealm"] = {
+			"Alliance - Pozzo dell'Eternità", -- [1]
+		},
+	},
+	["f@Alliance - Pozzo dell'Eternità@professionScanCache"] = {
+	},
+	["g@ @ignoreCharacters"] = {
+	},
+	["g@ @priceColumn"] = 1,
+	["_hash"] = 15983053,
+	["f@Alliance - Pozzo dell'Eternità@mats"] = {
+	},
+	["f@Alliance - Pozzo dell'Eternità@ignoreIntermediate"] = false,
+	["g@ @frameQueueOpen"] = false,
+	["f@Alliance - Pozzo dell'Eternità@ignoreDECheckBox"] = false,
+	["g@ @questSmartCrafting"] = true,
+	["_currentProfile"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = "Default",
+	},
+	["f@Alliance - Pozzo dell'Eternità@playerProfessions"] = {
+		["Àzzurrà"] = {
+			["Alchimia"] = {
+				["isSecondary"] = false,
+				["level"] = 700,
+				["maxLevel"] = 700,
+			},
+			["Cucina"] = {
+				["isSecondary"] = true,
+				["level"] = 700,
+				["maxLevel"] = 700,
+			},
+			["Erbalismo"] = {
+				["isSecondary"] = false,
+				["level"] = 700,
+				["maxLevel"] = 700,
+			},
+			["Primo Soccorso"] = {
+				["isSecondary"] = true,
+				["level"] = 600,
+				["maxLevel"] = 700,
+			},
+		},
+	},
+	["g@ @ignoreCDCraftCost"] = true,
+	["g@ @defaultCraftPriceMethod"] = "first(dbminbuyout, dbmarket)",
+	["f@Alliance - Pozzo dell'Eternità@buyAH"] = false,
+	["g@ @ignoreGuilds"] = {
+	},
+	["g@ @showingDefaultFrame"] = false,
+	["f@Alliance - Pozzo dell'Eternità@crafts"] = {
+	},
+	["g@ @helpPlatesShown"] = {
+		["gatheringFrame"] = true,
+	},
+	["g@ @defaultMatCostMethod"] = "min(dbmarket, crafting, vendorbuy, convert(dbmarket))",
+	["g@ @queueSort"] = 1,
+	["f@Alliance - Pozzo dell'Eternità@ignoreAlts"] = false,
+	["f@Alliance - Pozzo dell'Eternità@inkTrade"] = false,
+	["f@Alliance - Pozzo dell'Eternità@disableCheckBox"] = false,
+	["f@Alliance - Pozzo dell'Eternità@gathering"] = {
+		["selectedSources"] = {
+		},
+		["availableMats"] = {
+		},
+		["shortItems"] = {
+		},
+		["sessionOptions"] = {
+		},
+		["selectedSourceStatus"] = {
+		},
+		["destroyingMats"] = {
+		},
+		["professions"] = {
+		},
+		["neededMats"] = {
+		},
+		["gatheredMats"] = false,
+		["extraMats"] = {
+		},
+	},
+	["_version"] = 7,
+	["g@ @profitPercent"] = 0,
+}

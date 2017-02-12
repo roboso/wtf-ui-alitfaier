@@ -1,0 +1,36 @@
+
+SwatterData = {
+	["enabled"] = true,
+	["warning"] = true,
+	["combat"] = false,
+	["errors"] = {
+		{
+			["message"] = "...ildFu\\libs\\LibBabble-Zone-3.0\\LibBabble-Zone-3.0.lua:2553: LibBabble-Zone-3.0: Locale \"itIT\" not supported",
+			["count"] = 1,
+			["addons"] = "  Swatter, v5.18.5433 (PassionatePhascogale)\n  Ace3, v\n  ActionBarSaver, v\n  ArkInventory, v30331\n  ArkInventoryRules, v\n  ArkInventoryRulesExample, v1.00\n  Auditor2, v4.4.2\n  BrokerAuditor, v4.4.2\n  ChocolateBar, vv2.4.2\n  DBMCore, v\n  DBMLDB, v\n  DebugLib, v5.1.DEV.337(/embedded)\n  Dominos, v5.4.8\n  DominosEncounter, v\n  DominosRoll, v\n  FuBarFriendsFu, v2.4.4-103\n  FuBarGuildFu, v2.4.4-118\n  OmniCC, v5.4.1\n  oqueue, v1.6.3\n  Postal, v3.5.0\n  Prat30, v3.5.7      \n  Prat30Libraries, v\n  Skada, v1.4-14\n  SkadaDamage, v1.0\n  SkadaDamageTaken, v1.0\n  SkadaDebuffs, v1.0\n  SkadaEnemies, v1.0\n  SkadaHealing, v1.0\n  Stubby, v5.18.5433 (PassionatePhascogale)\n  Symbiosis, v0.45\n  TomTom, vv50400-1.0.0\n  VuhDo, v3.53\n  VuhDoOptions, v3.53\n  WeakAuras, v2.0\n  BlizRuntimeLib_itIT v5.4.1.50400 <eu>\n  (ck=31e)\n",
+			["locals"] = "(*temporary) = \"LibBabble-Zone-3.0: Locale \"itIT\" not supported\"\n",
+			["timestamp"] = "2013-11-17 22:09:23",
+			["context"] = "Global",
+			["stack"] = "[C]: in function `error'\n...ildFu\\libs\\LibBabble-Zone-3.0\\LibBabble-Zone-3.0.lua:2553: in main chunk\n",
+		}, -- [1]
+		{
+			["message"] = "..._FriendsFu\\libs\\LibBabble-Zone-3.0\\LibBabble-3.0.lua:72: bad argument #1 to 'pairs' (table expected, got nil)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v5.18.5433 (PassionatePhascogale)\n  Ace3, v\n  ActionBarSaver, v\n  ArkInventory, v30331\n  ArkInventoryRules, v\n  ArkInventoryRulesExample, v1.00\n  Auditor2, v4.4.2\n  BrokerAuditor, v4.4.2\n  ChocolateBar, vv2.4.2\n  DBMCore, v\n  DBMLDB, v\n  DebugLib, v5.1.DEV.337(/embedded)\n  Dominos, v5.4.8\n  DominosEncounter, v\n  DominosRoll, v\n  FuBarFriendsFu, v2.4.4-103\n  FuBarGuildFu, v2.4.4-118\n  OmniCC, v5.4.1\n  oqueue, v1.6.3\n  Postal, v3.5.0\n  Prat30, v3.5.7      \n  Prat30Libraries, v\n  Skada, v1.4-14\n  SkadaDamage, v1.0\n  SkadaDamageTaken, v1.0\n  SkadaDebuffs, v1.0\n  SkadaEnemies, v1.0\n  SkadaHealing, v1.0\n  Stubby, v5.18.5433 (PassionatePhascogale)\n  Symbiosis, v0.45\n  TomTom, vv50400-1.0.0\n  VuhDo, v3.53\n  VuhDoOptions, v3.53\n  WeakAuras, v2.0\n  BlizRuntimeLib_itIT v5.4.1.50400 <eu>\n  (ck=31e)\n",
+			["locals"] = "(*temporary) = nil\n(*temporary) = \"table expected, got nil\"\n = <function> defined =[C]:-1\n",
+			["timestamp"] = "2013-11-17 22:09:23",
+			["context"] = "Global",
+			["stack"] = "[C]: in function `pairs'\n..._FriendsFu\\libs\\LibBabble-Zone-3.0\\LibBabble-3.0.lua:72: in function <..._FriendsFu\\libs\\LibBabble-Zone-3.0\\LibBabble-3.0.lua:67>\n(tail call): ?\n...FuBar_GuildFu\\libs\\LibTourist-3.0\\LibTourist-3.0.lua:35: in main chunk\n",
+		}, -- [2]
+		{
+			["message"] = "Interface\\FrameXML\\UIPanelTemplates.lua:505: attempt to perform arithmetic on field 'cursorOffset' (a nil value)",
+			["count"] = 1,
+			["addons"] = "  Swatter, v5.18.5433 (PassionatePhascogale)\n  Ace3, v\n  ActionBarSaver, v\n  ArkInventory, v30331\n  ArkInventoryRules, v\n  ArkInventoryRulesExample, v1.00\n  Armory, vv10.6.0\n  ArmoryGuildBank, vv10.6.0\n  Auditor2, v4.4.2\n  Babylonian, v5.1.DEV.332(/embedded)\n  BattlePetCount, v1.5.5\n  BeanCounter, v5.18.5433 (PassionatePhascogale)\n  BrokerAuditor, v4.4.2\n  ChocolateBar, vv2.4.2\n  Configator, v5.1.DEV.344(/embedded)\n  DBMCore, v\n  DBMLDB, v\n  DBMRaidLeadTools, v\n  DBMSpellTimers, v\n  DebugLib, v5.1.DEV.337(/embedded)\n  Decursive, v2.7.3\n  Dominos, v5.4.8\n  DominosCast, v\n  DominosEncounter, v\n  DominosRoll, v\n  DominosXP, v\n  FuBarFriendsFu, v2.4.4-103\n  FuBarGuildFu, v2.4.4-118\n  Informant, v5.18.5433 (PassionatePhascogale)\n  LibExtraTip, v5.12.DEV.355(/embedded)\n  OmniCC, v5.4.1\n  oqueue, v1.6.3\n  Postal, v3.5.0\n  Prat30, v3.5.7      \n  Prat30HighCPUUsageModules, v\n  Prat30Libraries, v\n  Quartz, v3.1.4\n  Skada, v1.4-14\n  SkadaCC, v1.0\n  SkadaDamage, v1.0\n  SkadaDamageTaken, v1.0\n  SkadaDeaths, v1.0\n  SkadaDebuffs, v1.0\n  SkadaDispels, v1.0\n  SkadaEnemies, v1.0\n  SkadaHealing, v1.0\n  SkadaPower, v1.0\n  SkadaThreat, v1.0\n  SlideBar, v5.18.5433 (PassionatePhascogale)\n  SocialState, v5.0-Release1\n  Stubby, v5.18.5433 (PassionatePhascogale)\n  Symbiosis, v0.45\n  TipHelper, v5.12.DEV.351(/embedded)\n  TomTom, vv50400-1.0.0\n  VuhDo, v3.53\n  VuhDoOptions, v3.53\n  WeakAuras, v2.0\n  WIM, v3.6.12\n  BlizRuntimeLib_itIT v5.4.1.50400 <eu>\n  (ck=5a8)\n",
+			["locals"] = "",
+			["timestamp"] = "2013-11-17 22:09:33",
+			["context"] = "Global",
+			["stack"] = "[C]: ?\nInterface\\FrameXML\\UIPanelTemplates.lua:505: in function `ScrollingEdit_OnUpdate'\n[string \"*:OnUpdate\"]:1: in function <[string \"*:OnUpdate\"]:1>\n",
+		}, -- [3]
+	},
+	["autoshow"] = true,
+}

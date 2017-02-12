@@ -1,0 +1,32 @@
+
+dbOHC = {
+	["char"] = {
+		["Alitfaier - Pozzo dell'Eternità"] = {
+			["firstun"] = false,
+		},
+	},
+	["profileKeys"] = {
+		["Alitfaier - Pozzo dell'Eternità"] = "Default",
+	},
+	["global"] = {
+		["warn01_seen"] = 1,
+		["firstrun"] = false,
+	},
+	["profiles"] = {
+		["Default"] = {
+			["toggles"] = {
+				["SAVETROOPS"] = false,
+				["TROOPALERT"] = true,
+				["BONUS"] = true,
+				["SORTMISSION"] = "Garrison_SortMissions_Original",
+				["MAKEITVERYQUICK"] = false,
+				["SPARE"] = false,
+				["MAKEITQUICK"] = true,
+				["MOVEPANEL"] = true,
+				["MAXIMIZEXP"] = false,
+				["USEALLY"] = false,
+			},
+			["showmenu"] = true,
+		},
+	},
+}

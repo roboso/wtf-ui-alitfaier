@@ -1,0 +1,9 @@
+
+MonkeyQuestHelperDb = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

@@ -1,0 +1,31 @@
+
+FollowerLocationInfoDB = {
+	["LockedInCombat"] = true,
+	["CoordsFrame_HideInCombat"] = true,
+	["ExternalURL"] = "WoWHead",
+	["questTitleLocale"] = "itIT",
+	["LDB_OwnCoords"] = false,
+	["HideInCombat"] = true,
+	["ShowCollectedFollower"] = false,
+	["LDB_PlayerCoords"] = false,
+	["LDB_NumFollowers"] = true,
+	["LDBi_Enabled"] = true,
+	["ShowHiddenFollowers"] = false,
+	["TargetMark"] = false,
+	["LDB_TargetCoords"] = false,
+	["ListOpen"] = true,
+	["LDBi_Data"] = {
+		["minimapPos"] = 202.931023902905,
+		["hide"] = false,
+	},
+	["questTitles"] = {
+	},
+	["ShowCoordsFrame"] = true,
+	["standalone"] = false,
+	["LDB_TarCoords"] = false,
+	["ShowFollowerID"] = true,
+	["CoordsFrame_LockedInCombat"] = true,
+	["showInfoBox"] = true,
+	["language"] = false,
+	["CoordsFrameTarget"] = false,
+}

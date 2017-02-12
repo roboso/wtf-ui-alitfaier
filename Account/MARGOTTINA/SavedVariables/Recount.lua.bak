@@ -1,0 +1,28 @@
+
+RecountDB = {
+	["profileKeys"] = {
+		["Braveherat - Hakkar"] = "Braveherat - Hakkar",
+	},
+	["profiles"] = {
+		["Braveherat - Hakkar"] = {
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = 380.6362592222387,
+					["x"] = 11.91081128220754,
+					["w"] = 209.7057919723254,
+					["h"] = 134.5945065207825,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["MainWindowWidth"] = 209.7057919723254,
+			["MainWindowHeight"] = 134.5945065207825,
+			["CurDataSet"] = "OverallData",
+		},
+	},
+}

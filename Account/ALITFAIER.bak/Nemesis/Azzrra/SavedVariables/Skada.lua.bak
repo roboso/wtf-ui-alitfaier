@@ -1,0 +1,2828 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 1109,
+		["interrupts"] = 0,
+		["damage"] = 42423,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "DRUID",
+				["damaged"] = {
+				},
+				["auras"] = {
+					["Fuoco Lunare"] = {
+						["name"] = "Fuoco Lunare",
+						["active"] = 0,
+						["id"] = 164812,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 384,
+					},
+					["Barilotto Piazzato"] = {
+						["name"] = "Barilotto Piazzato",
+						["active"] = 0,
+						["id"] = 68555,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 22,
+					},
+					["Scatto Oscuro"] = {
+						["name"] = "Scatto Oscuro",
+						["active"] = 1,
+						["id"] = 68992,
+						["auratype"] = "BUFF",
+						["uptime"] = 346,
+					},
+					["Forma d'Orso"] = {
+						["name"] = "Forma d'Orso",
+						["active"] = 2,
+						["id"] = 5487,
+						["auratype"] = "BUFF",
+						["uptime"] = 324,
+					},
+					["Ringhio"] = {
+						["name"] = "Ringhio",
+						["active"] = 0,
+						["id"] = 6795,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 10,
+					},
+					["Forma Felina"] = {
+						["name"] = "Forma Felina",
+						["active"] = 3,
+						["id"] = 768,
+						["auratype"] = "BUFF",
+						["uptime"] = 743,
+					},
+					["Rinvigorimento"] = {
+						["name"] = "Rinvigorimento",
+						["active"] = 2,
+						["id"] = 774,
+						["auratype"] = "BUFF",
+						["uptime"] = 885,
+					},
+					["Lancio Torcia"] = {
+						["name"] = "Lancio Torcia",
+						["active"] = 12,
+						["id"] = 67063,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 1000,
+					},
+				},
+				["healingspells"] = {
+					["Rinvigorimento"] = {
+						["shielding"] = 0,
+						["id"] = 774,
+						["healing"] = 364,
+						["min"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Rinvigorimento",
+						["max"] = 17,
+						["critical"] = 3,
+						["absorbed"] = 0,
+						["overhealing"] = 399,
+						["hits"] = 52,
+					},
+				},
+				["time"] = 985,
+				["interrupts"] = 0,
+				["damage"] = 42423,
+				["damagespells"] = {
+					["Ser Darius Crowley: Attacco"] = {
+						["min"] = 13,
+						["hit"] = 2,
+						["totalhits"] = 2,
+						["id"] = 6603,
+						["max"] = 16,
+						["damage"] = 29,
+					},
+					["Dilaniamento"] = {
+						["min"] = 63,
+						["critical"] = 2,
+						["hit"] = 9,
+						["totalhits"] = 11,
+						["id"] = 33917,
+						["max"] = 138,
+						["damage"] = 880,
+					},
+					["Ira Silvana"] = {
+						["min"] = 18,
+						["critical"] = 8,
+						["hit"] = 159,
+						["totalhits"] = 167,
+						["id"] = 5176,
+						["max"] = 68,
+						["damage"] = 5036,
+					},
+					["Attacco"] = {
+						["min"] = 9,
+						["id"] = 6603,
+						["critical"] = 7,
+						["hit"] = 129,
+						["totalhits"] = 138,
+						["IMMUNE"] = 2,
+						["max"] = 50,
+						["damage"] = 2314,
+					},
+					["Zampata"] = {
+						["min"] = 22,
+						["hit"] = 2,
+						["totalhits"] = 2,
+						["id"] = 6807,
+						["max"] = 24,
+						["damage"] = 46,
+					},
+					["Mastino d'Attacco: Balzo"] = {
+						["min"] = 33,
+						["hit"] = 1,
+						["totalhits"] = 1,
+						["id"] = 68687,
+						["max"] = 33,
+						["damage"] = 33,
+					},
+					["Fuoco Lunare"] = {
+						["max"] = 24,
+						["IMMUNE"] = 3,
+						["min"] = 7,
+						["critical"] = 15,
+						["hit"] = 254,
+						["totalhits"] = 276,
+						["EVADE"] = 4,
+						["id"] = 164812,
+						["damage"] = 2744,
+					},
+					["Lancio Torcia"] = {
+						["min"] = 2,
+						["hit"] = 114,
+						["totalhits"] = 114,
+						["id"] = 67063,
+						["max"] = 4,
+						["damage"] = 343,
+					},
+					["Artigliata"] = {
+						["min"] = 26,
+						["critical"] = 2,
+						["hit"] = 13,
+						["totalhits"] = 15,
+						["id"] = 5221,
+						["max"] = 71,
+						["damage"] = 605,
+					},
+					["Cannone dei Ribelli: Effetto Cannone dei Ribelli"] = {
+						["min"] = 423,
+						["hit"] = 60,
+						["totalhits"] = 60,
+						["id"] = 67278,
+						["max"] = 587,
+						["damage"] = 30147,
+					},
+					["Morso Feroce"] = {
+						["min"] = 29,
+						["id"] = 22568,
+						["hit"] = 8,
+						["totalhits"] = 9,
+						["IMMUNE"] = 1,
+						["max"] = 33,
+						["damage"] = 246,
+					},
+				},
+				["dispells"] = 0,
+				["damagetaken"] = 2677,
+				["shielding"] = 0,
+				["id"] = "Player-1316-0788EA1E",
+				["healing"] = 364,
+				["ccbreaks"] = 0,
+				["damagetakenspells"] = {
+					["Legnata"] = {
+						["crushing"] = 0,
+						["id"] = 75395,
+						["min"] = 6,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Legnata",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 6,
+						["damage"] = 6,
+					},
+					["Pugnalata alle Spalle"] = {
+						["crushing"] = 0,
+						["id"] = 75360,
+						["min"] = 2,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Pugnalata alle Spalle",
+						["blocked"] = 0,
+						["totalhits"] = 7,
+						["resisted"] = 0,
+						["max"] = 3,
+						["damage"] = 15,
+					},
+					["Attacco"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["min"] = 1,
+						["absorbed"] = 0,
+						["critical"] = 1,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Attacco",
+						["blocked"] = 0,
+						["totalhits"] = 438,
+						["resisted"] = 0,
+						["max"] = 40,
+						["damage"] = 2299,
+					},
+					["Dardo d'Ombra"] = {
+						["crushing"] = 0,
+						["id"] = 9613,
+						["min"] = 9,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Dardo d'Ombra",
+						["blocked"] = 0,
+						["totalhits"] = 5,
+						["resisted"] = 0,
+						["max"] = 11,
+						["damage"] = 49,
+					},
+					["Tiro Mirato"] = {
+						["crushing"] = 0,
+						["id"] = 70796,
+						["min"] = 229,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Tiro Mirato",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 229,
+						["damage"] = 229,
+					},
+					["Tiro"] = {
+						["crushing"] = 0,
+						["id"] = 41440,
+						["min"] = 7,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Tiro",
+						["blocked"] = 0,
+						["totalhits"] = 3,
+						["resisted"] = 0,
+						["max"] = 7,
+						["damage"] = 21,
+					},
+					["Taglio da Spadaccino"] = {
+						["crushing"] = 0,
+						["id"] = 75361,
+						["min"] = 6,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Taglio da Spadaccino",
+						["blocked"] = 0,
+						["totalhits"] = 5,
+						["resisted"] = 0,
+						["max"] = 8,
+						["damage"] = 36,
+					},
+					["Taglio Rugginoso"] = {
+						["crushing"] = 0,
+						["id"] = 75388,
+						["min"] = 1,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Taglio Rugginoso",
+						["blocked"] = 0,
+						["totalhits"] = 3,
+						["resisted"] = 0,
+						["max"] = 8,
+						["damage"] = 10,
+					},
+					["Veleno"] = {
+						["crushing"] = 0,
+						["id"] = 744,
+						["min"] = 1,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Veleno",
+						["blocked"] = 0,
+						["totalhits"] = 12,
+						["resisted"] = 0,
+						["max"] = 1,
+						["damage"] = 12,
+					},
+				},
+				["overhealing"] = 399,
+				["healed"] = {
+					["Player-1316-0788EA1E"] = {
+						["role"] = "NONE",
+						["name"] = "Azzrra",
+						["amount"] = 364,
+						["class"] = "DRUID",
+						["shielding"] = 0,
+					},
+				},
+				["name"] = "Azzrra",
+				["deathlog"] = {
+					{
+						["ts"] = 1438360511.905,
+						["amount"] = -9,
+						["hp"] = 97,
+						["srcname"] = "Esploratrice Oscura",
+						["spellid"] = 88163,
+					}, -- [1]
+					{
+						["ts"] = 1438360513.479,
+						["absorb"] = 0,
+						["amount"] = 17,
+						["hp"] = 105,
+						["srcname"] = "Azzrra",
+						["spellid"] = 774,
+					}, -- [2]
+					{
+						["ts"] = 1438360726.62,
+						["amount"] = -9,
+						["hp"] = 369,
+						["spellid"] = 9613,
+						["srcname"] = "Banshee Ululante",
+					}, -- [3]
+					{
+						["ts"] = 1438360740.81,
+						["amount"] = -10,
+						["hp"] = 368,
+						["spellid"] = 9613,
+						["srcname"] = "Banshee Ululante",
+					}, -- [4]
+					{
+						["ts"] = 1438360742.674,
+						["amount"] = -7,
+						["hp"] = 368,
+						["spellid"] = 88163,
+						["srcname"] = "Banshee Ululante",
+					}, -- [5]
+					{
+						["ts"] = 1438360744.673,
+						["amount"] = -8,
+						["hp"] = 361,
+						["spellid"] = 88163,
+						["srcname"] = "Banshee Ululante",
+					}, -- [6]
+					{
+						["ts"] = 1438360837.523,
+						["amount"] = -10,
+						["hp"] = 314,
+						["spellid"] = 9613,
+						["srcname"] = "Banshee Ululante",
+					}, -- [7]
+					{
+						["ts"] = 1438360849.48,
+						["amount"] = -9,
+						["hp"] = 369,
+						["spellid"] = 9613,
+						["srcname"] = "Banshee Ululante",
+					}, -- [8]
+					{
+						["ts"] = 1438360503.844,
+						["amount"] = -9,
+						["hp"] = 77,
+						["srcname"] = "Esploratrice Oscura",
+						["spellid"] = 88163,
+					}, -- [9]
+					{
+						["ts"] = 1438360504.473,
+						["amount"] = 16,
+						["absorb"] = 0,
+						["hp"] = 84,
+						["spellid"] = 774,
+						["srcname"] = "Azzrra",
+					}, -- [10]
+					{
+						["ts"] = 1438360505.842,
+						["amount"] = -8,
+						["hp"] = 84,
+						["spellid"] = 88163,
+						["srcname"] = "Esploratrice Oscura",
+					}, -- [11]
+					{
+						["ts"] = 1438360506.863,
+						["amount"] = -3,
+						["hp"] = 76,
+						["spellid"] = 88163,
+						["srcname"] = "Esploratrice Oscura",
+					}, -- [12]
+					{
+						["ts"] = 1438360507.476,
+						["amount"] = 16,
+						["absorb"] = 0,
+						["hp"] = 89,
+						["spellid"] = 774,
+						["srcname"] = "Azzrra",
+					}, -- [13]
+					{
+						["ts"] = 1438360507.9,
+						["amount"] = -9,
+						["hp"] = 89,
+						["srcname"] = "Esploratrice Oscura",
+						["spellid"] = 88163,
+					}, -- [14]
+					{
+						["ts"] = 1438360510.486,
+						["absorb"] = 0,
+						["amount"] = 17,
+						["hp"] = 97,
+						["srcname"] = "Azzrra",
+						["spellid"] = 774,
+					}, -- [15]
+					["pos"] = 9,
+				},
+				["maxhp"] = 154,
+				["role"] = "NONE",
+				["power"] = {
+					{
+						["amount"] = 140,
+						["spells"] = {
+							[33917] = 110,
+							[17057] = 30,
+						},
+					}, -- [1]
+					[3] = {
+						["amount"] = -200,
+						["spells"] = {
+							[22568] = -200,
+						},
+					},
+				},
+				["multistrikes"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["Esploratrice Reietta"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 98,
+						["done"] = 38,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 98,
+				["done"] = 38,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Cittadino Ferito"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 506,
+						["hits"] = 36,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Fenegan Cobbel"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 70,
+						["hits"] = 9,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Inseguitore Zannacremisi"] = {
+				["players"] = {
+					["Ser Darius Crowley"] = {
+						["taken"] = 29,
+						["done"] = 0,
+						["role"] = "NONE",
+					},
+					["Azzrra"] = {
+						["taken"] = 21119,
+						["done"] = 31,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 21148,
+				["done"] = 31,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Principe Liam Mantogrigio"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 83,
+						["hits"] = 11,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Esploratrice Oscura"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 102,
+						["done"] = 267,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 102,
+				["done"] = 267,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Rygna"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 138,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 138,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Re Genn Mantogrigio"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 168,
+						["hits"] = 12,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Mastino Sospettoso"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 151,
+						["done"] = 50,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 151,
+				["done"] = 50,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Pollo Spaventato"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 67,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 67,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Capitano Anson"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 94,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 94,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Servitore Ogre"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 989,
+						["done"] = 132,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 989,
+				["done"] = 132,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Ragno Saltatore Stirpevile"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 915,
+						["done"] = 193,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 915,
+				["done"] = 193,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Ragno"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 33,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 33,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Banshee Ululante"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 680,
+						["done"] = 64,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 680,
+				["done"] = 64,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Assassino Reietto"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 93,
+						["done"] = 30,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 93,
+				["done"] = 30,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Worgen Sfrenato"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 559,
+						["done"] = 33,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 559,
+				["done"] = 33,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Soldatessa Reietta"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 113,
+						["done"] = 35,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 113,
+				["done"] = 35,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Volpe Bosconero"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 119,
+						["done"] = 26,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 119,
+				["done"] = 26,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Gwen Bracciofermo"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 24,
+						["hits"] = 6,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Crocolisco delle Paludi"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 641,
+						["done"] = 63,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 641,
+				["done"] = 63,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Guardia Reale di Gilneas"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 2,
+						["healing"] = 96,
+						["overhealing"] = 1019904,
+						["hits"] = 102,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 96,
+				["hdonespell"] = {
+				},
+			},
+			["Barone"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 66,
+						["hits"] = 12,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Sopravvissuto Scosso"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 1736,
+						["hits"] = 123,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Inseguitrice Zannacremisi"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 9445,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 9445,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Lucius il Crudele"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 152,
+						["done"] = 23,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 152,
+				["done"] = 23,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Sopravvissuta Reietta"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 0,
+						["done"] = 8,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 8,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Cavallo di Crowley"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 900,
+						["hits"] = 12,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Esploratore Reietto"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 376,
+						["done"] = 107,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 376,
+				["done"] = 107,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Abominio Orrido"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 333,
+						["done"] = 125,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 258,
+				["htakenspell"] = {
+					["Ricucitura"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 94,
+						["healing"] = 258,
+						["overhealing"] = 304,
+						["hits"] = 6,
+					},
+				},
+				["taken"] = 333,
+				["done"] = 125,
+				["htaken"] = 258,
+				["hdonespell"] = {
+					["Ricucitura"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 94,
+						["healing"] = 258,
+						["overhealing"] = 304,
+						["hits"] = 6,
+					},
+				},
+			},
+			["Guardaboschi Oscura Thyala"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 253,
+						["done"] = 102,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 253,
+				["done"] = 102,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Capitano Morris"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 119,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 119,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Worgen Alfa"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 41,
+						["done"] = 9,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 41,
+				["done"] = 9,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Reietto Invasore"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 137,
+						["done"] = 12,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 137,
+				["done"] = 12,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Marinaio Reietto"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 1089,
+						["done"] = 352,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1089,
+				["done"] = 352,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Macchinista Reietto"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 55,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 55,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Soldato Reietto"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 572,
+						["done"] = 140,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 572,
+				["done"] = 140,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Worgen Zannacremisi"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 668,
+						["done"] = 108,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 668,
+				["done"] = 108,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Reietta Invasore"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 763,
+						["done"] = 180,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 763,
+				["done"] = 180,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Inseguitore Furioso"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 494,
+						["done"] = 188,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 494,
+				["done"] = 188,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Naufrago Reietto"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 911,
+						["done"] = 123,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 911,
+				["done"] = 123,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Tobias Foscomanto"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 1,
+						["healing"] = 7,
+						["overhealing"] = 545,
+						["hits"] = 92,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 7,
+				["hdonespell"] = {
+				},
+			},
+			["Ribelle della Porta Nord"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 16,
+						["healing"] = 499,
+						["overhealing"] = 1862,
+						["hits"] = 105,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 499,
+				["hdonespell"] = {
+				},
+			},
+			["Cittadina Ferita"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 255,
+						["hits"] = 18,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Worgen di Gilneas Afflitto"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 0,
+						["done"] = 54,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 54,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Sorella Almyra"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 69,
+						["hits"] = 9,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Loren la Ricettatrice"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 45,
+						["hits"] = 6,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Guardingo Zannacremisi"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 426,
+						["done"] = 37,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 426,
+				["done"] = 37,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Ser Darius Crowley"] = {
+				["players"] = {
+				},
+				["hdone"] = 623,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 3,
+						["healing"] = 21,
+						["overhealing"] = 15106,
+						["hits"] = 142,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 21,
+				["hdonespell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 16,
+						["healing"] = 623,
+						["overhealing"] = 1041599,
+						["hits"] = 713,
+					},
+				},
+			},
+			["Worgen di Gilneas Afflitta"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 76,
+						["done"] = 25,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 76,
+				["done"] = 25,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Myriam Destincanto"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 216,
+						["hits"] = 12,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Celestine del Raccolto"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 44,
+						["hits"] = 6,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Squartatore Zannacremisi"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 0,
+						["done"] = 5,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 5,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Giovane Worgen"] = {
+				["players"] = {
+					["Azzrra"] = {
+						["taken"] = 573,
+						["done"] = 117,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 573,
+				["done"] = 117,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["mobtaken"] = 42423,
+		["healing"] = 364,
+		["power"] = {
+			140, -- [1]
+			[3] = -200,
+		},
+		["starttime"] = 1438351745,
+		["damagetaken"] = 2677,
+		["shielding"] = 0,
+		["name"] = "Totale",
+		["overhealing"] = 399,
+		["mobdone"] = 2677,
+		["mobhdone"] = 881,
+		["last_action"] = 1438351745,
+		["multistrikes"] = 0,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["endtime"] = 1438360852,
+			["damage"] = 113,
+			["players"] = {
+				{
+					["last"] = 1438360850,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Banshee Ululante"] = 113,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 113,
+					["damagespells"] = {
+						["Attacco"] = {
+							["min"] = 19,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 6603,
+							["max"] = 19,
+							["damage"] = 19,
+						},
+						["Zampata"] = {
+							["min"] = 22,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 6807,
+							["max"] = 22,
+							["damage"] = 22,
+						},
+						["Dilaniamento"] = {
+							["min"] = 72,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 33917,
+							["max"] = 72,
+							["damage"] = 72,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-0788EA1E",
+					["healing"] = 0,
+					["maxhp"] = 378,
+					["damagetakenspells"] = {
+						["Dardo d'Ombra"] = {
+							["crushing"] = 0,
+							["id"] = 9613,
+							["min"] = 9,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Dardo d'Ombra",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 9,
+							["damage"] = 9,
+						},
+					},
+					["power"] = {
+						{
+							["amount"] = 10,
+							["spells"] = {
+								[33917] = 10,
+							},
+						}, -- [1]
+					},
+					["auras"] = {
+						["Ringhio"] = {
+							["name"] = "Ringhio",
+							["active"] = 0,
+							["id"] = 6795,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["name"] = "Azzrra",
+					["damagetaken"] = 9,
+					["first"] = 1438360846,
+					["role"] = "NONE",
+					["time"] = 4,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Banshee Ululante"] = {
+					["players"] = {
+						["Azzrra"] = {
+							["taken"] = 113,
+							["done"] = 9,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 113,
+					["done"] = 9,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 113,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+				10, -- [1]
+			},
+			["starttime"] = 1438360845,
+			["damagetaken"] = 9,
+			["shielding"] = 0,
+			["name"] = "Banshee Ululante (3)",
+			["mobname"] = "Banshee Ululante",
+			["mobdone"] = 9,
+			["mobhdone"] = 0,
+			["last_action"] = 1438360845,
+			["multistrikes"] = 0,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 10,
+			["interrupts"] = 0,
+			["endtime"] = 1438360747,
+			["damage"] = 97,
+			["players"] = {
+				{
+					["last"] = 1438360745,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Banshee Ululante"] = 97,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 97,
+					["damagespells"] = {
+						["Attacco"] = {
+							["min"] = 18,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["id"] = 6603,
+							["max"] = 19,
+							["damage"] = 73,
+						},
+						["Zampata"] = {
+							["min"] = 24,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 6807,
+							["max"] = 24,
+							["damage"] = 24,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-0788EA1E",
+					["healing"] = 0,
+					["maxhp"] = 378,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 7,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 8,
+							["damage"] = 15,
+						},
+						["Dardo d'Ombra"] = {
+							["crushing"] = 0,
+							["id"] = 9613,
+							["min"] = 10,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Dardo d'Ombra",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 10,
+							["damage"] = 10,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+					},
+					["name"] = "Azzrra",
+					["damagetaken"] = 25,
+					["first"] = 1438360738,
+					["role"] = "NONE",
+					["time"] = 7,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Banshee Ululante"] = {
+					["players"] = {
+						["Azzrra"] = {
+							["taken"] = 97,
+							["done"] = 25,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 97,
+					["done"] = 25,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 97,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1438360737,
+			["damagetaken"] = 25,
+			["shielding"] = 0,
+			["name"] = "Banshee Ululante (2)",
+			["mobname"] = "Banshee Ululante",
+			["mobdone"] = 25,
+			["mobhdone"] = 0,
+			["last_action"] = 1438360737,
+			["multistrikes"] = 0,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 30,
+			["interrupts"] = 0,
+			["endtime"] = 1438360512,
+			["damage"] = 102,
+			["players"] = {
+				{
+					["last"] = 1438360512,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Esploratrice Oscura"] = 102,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+						["Rinvigorimento"] = {
+							["shielding"] = 0,
+							["id"] = 774,
+							["healing"] = 66,
+							["min"] = 16,
+							["multistrike"] = 0,
+							["name"] = "Rinvigorimento",
+							["max"] = 17,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 0,
+							["hits"] = 4,
+						},
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 102,
+					["damagespells"] = {
+						["Fuoco Lunare"] = {
+							["min"] = 9,
+							["hit"] = 9,
+							["totalhits"] = 9,
+							["id"] = 164812,
+							["max"] = 13,
+							["damage"] = 102,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+						["Player-1316-0788EA1E"] = {
+							["role"] = "NONE",
+							["name"] = "Azzrra",
+							["amount"] = 66,
+							["class"] = "DRUID",
+							["shielding"] = 0,
+						},
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-0788EA1E",
+					["healing"] = 66,
+					["maxhp"] = 306,
+					["damagetakenspells"] = {
+						["Tiro Mirato"] = {
+							["crushing"] = 0,
+							["id"] = 70796,
+							["min"] = 229,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Tiro Mirato",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 229,
+							["damage"] = 229,
+						},
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 3,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 5,
+							["resisted"] = 0,
+							["max"] = 9,
+							["damage"] = 38,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Rinvigorimento"] = {
+							["name"] = "Rinvigorimento",
+							["active"] = 1,
+							["id"] = 774,
+							["auratype"] = "BUFF",
+							["uptime"] = 9,
+						},
+						["Fuoco Lunare"] = {
+							["name"] = "Fuoco Lunare",
+							["active"] = 0,
+							["id"] = 164812,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 7,
+						},
+					},
+					["name"] = "Azzrra",
+					["damagetaken"] = 267,
+					["first"] = 1438360495,
+					["role"] = "NONE",
+					["time"] = 17,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Esploratrice Oscura"] = {
+					["players"] = {
+						["Azzrra"] = {
+							["taken"] = 102,
+							["done"] = 267,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 102,
+					["done"] = 267,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 102,
+			["overhealing"] = 0,
+			["healing"] = 66,
+			["power"] = {
+			},
+			["starttime"] = 1438360482,
+			["damagetaken"] = 267,
+			["shielding"] = 0,
+			["name"] = "Esploratrice Oscura",
+			["mobname"] = "Esploratrice Oscura",
+			["mobdone"] = 267,
+			["mobhdone"] = 0,
+			["last_action"] = 1438360482,
+			["multistrikes"] = 0,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 13,
+			["interrupts"] = 0,
+			["endtime"] = 1438360273,
+			["damage"] = 111,
+			["players"] = {
+				{
+					["last"] = 1438360272,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Ragno Saltatore Stirpevile"] = 111,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 111,
+					["damagespells"] = {
+						["Attacco"] = {
+							["min"] = 13,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 6603,
+							["max"] = 13,
+							["damage"] = 13,
+						},
+						["Fuoco Lunare"] = {
+							["min"] = 9,
+							["hit"] = 9,
+							["totalhits"] = 9,
+							["id"] = 164812,
+							["max"] = 12,
+							["damage"] = 98,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-0788EA1E",
+					["healing"] = 0,
+					["maxhp"] = 306,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 7,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 4,
+							["resisted"] = 0,
+							["max"] = 9,
+							["damage"] = 32,
+						},
+						["Veleno"] = {
+							["crushing"] = 0,
+							["id"] = 744,
+							["min"] = 1,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Veleno",
+							["blocked"] = 0,
+							["totalhits"] = 3,
+							["resisted"] = 0,
+							["max"] = 1,
+							["damage"] = 3,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Fuoco Lunare"] = {
+							["name"] = "Fuoco Lunare",
+							["active"] = 0,
+							["id"] = 164812,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 7,
+						},
+					},
+					["name"] = "Azzrra",
+					["damagetaken"] = 35,
+					["first"] = 1438360261,
+					["role"] = "NONE",
+					["time"] = 11,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Ragno Saltatore Stirpevile"] = {
+					["players"] = {
+						["Azzrra"] = {
+							["taken"] = 111,
+							["done"] = 35,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 111,
+					["done"] = 35,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 111,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1438360260,
+			["damagetaken"] = 35,
+			["shielding"] = 0,
+			["name"] = "Ragno Saltatore Stirpevile (5)",
+			["mobname"] = "Ragno Saltatore Stirpevile",
+			["mobdone"] = 35,
+			["mobhdone"] = 0,
+			["last_action"] = 1438360260,
+			["multistrikes"] = 0,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["endtime"] = 1438360255,
+			["damage"] = 138,
+			["players"] = {
+				{
+					["last"] = 1438360254,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Rygna"] = 138,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 138,
+					["damagespells"] = {
+						["Ira Silvana"] = {
+							["min"] = 31,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["id"] = 5176,
+							["max"] = 36,
+							["damage"] = 138,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-0788EA1E",
+					["healing"] = 0,
+					["maxhp"] = 306,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["auras"] = {
+					},
+					["name"] = "Azzrra",
+					["damagetaken"] = 0,
+					["first"] = 1438360250,
+					["role"] = "NONE",
+					["time"] = 4,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Rygna"] = {
+					["players"] = {
+						["Azzrra"] = {
+							["taken"] = 138,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 138,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 138,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1438360248,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Rygna",
+			["mobname"] = "Rygna",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1438360248,
+			["multistrikes"] = 0,
+		}, -- [5]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 13,
+			["interrupts"] = 0,
+			["endtime"] = 1438360160,
+			["damage"] = 100,
+			["players"] = {
+				{
+					["last"] = 1438360160,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Ragno Saltatore Stirpevile"] = 100,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 100,
+					["damagespells"] = {
+						["Attacco"] = {
+							["min"] = 14,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 6603,
+							["max"] = 14,
+							["damage"] = 14,
+						},
+						["Fuoco Lunare"] = {
+							["min"] = 9,
+							["critical"] = 1,
+							["hit"] = 6,
+							["totalhits"] = 7,
+							["id"] = 164812,
+							["max"] = 23,
+							["damage"] = 86,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-0788EA1E",
+					["healing"] = 0,
+					["maxhp"] = 306,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 7,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 4,
+							["resisted"] = 0,
+							["max"] = 9,
+							["damage"] = 32,
+						},
+						["Veleno"] = {
+							["crushing"] = 0,
+							["id"] = 744,
+							["min"] = 1,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Veleno",
+							["blocked"] = 0,
+							["totalhits"] = 4,
+							["resisted"] = 0,
+							["max"] = 1,
+							["damage"] = 4,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Fuoco Lunare"] = {
+							["name"] = "Fuoco Lunare",
+							["active"] = 0,
+							["id"] = 164812,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 6,
+						},
+					},
+					["name"] = "Azzrra",
+					["damagetaken"] = 36,
+					["first"] = 1438360148,
+					["role"] = "NONE",
+					["time"] = 12,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Ragno Saltatore Stirpevile"] = {
+					["players"] = {
+						["Azzrra"] = {
+							["taken"] = 100,
+							["done"] = 36,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 100,
+					["done"] = 36,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 100,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1438360147,
+			["damagetaken"] = 36,
+			["shielding"] = 0,
+			["name"] = "Ragno Saltatore Stirpevile (4)",
+			["mobname"] = "Ragno Saltatore Stirpevile",
+			["mobdone"] = 36,
+			["mobhdone"] = 0,
+			["last_action"] = 1438360147,
+			["multistrikes"] = 0,
+		}, -- [6]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 11,
+			["interrupts"] = 0,
+			["endtime"] = 1438360009,
+			["damage"] = 151,
+			["players"] = {
+				{
+					["last"] = 1438360007,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Mastino Sospettoso"] = 151,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 151,
+					["damagespells"] = {
+						["Attacco"] = {
+							["min"] = 10,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 6603,
+							["max"] = 10,
+							["damage"] = 10,
+						},
+						["Ira Silvana"] = {
+							["min"] = 32,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["id"] = 5176,
+							["max"] = 37,
+							["damage"] = 141,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-0788EA1E",
+					["healing"] = 0,
+					["maxhp"] = 306,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 12,
+							["absorbed"] = 0,
+							["critical"] = 1,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 4,
+							["resisted"] = 0,
+							["max"] = 14,
+							["damage"] = 50,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+					},
+					["name"] = "Azzrra",
+					["damagetaken"] = 50,
+					["first"] = 1438359998,
+					["role"] = "NONE",
+					["time"] = 9,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Mastino Sospettoso"] = {
+					["players"] = {
+						["Azzrra"] = {
+							["taken"] = 151,
+							["done"] = 50,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 151,
+					["done"] = 50,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 151,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1438359998,
+			["damagetaken"] = 50,
+			["shielding"] = 0,
+			["name"] = "Mastino Sospettoso",
+			["mobname"] = "Mastino Sospettoso",
+			["mobdone"] = 50,
+			["mobhdone"] = 0,
+			["last_action"] = 1438359998,
+			["multistrikes"] = 0,
+		}, -- [7]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 11,
+			["interrupts"] = 0,
+			["endtime"] = 1438359838,
+			["damage"] = 172,
+			["players"] = {
+				{
+					["last"] = 1438359837,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Ragno Saltatore Stirpevile"] = 172,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 172,
+					["damagespells"] = {
+						["Attacco"] = {
+							["min"] = 11,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["id"] = 6603,
+							["max"] = 17,
+							["damage"] = 50,
+						},
+						["Ira Silvana"] = {
+							["min"] = 34,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 5176,
+							["max"] = 34,
+							["damage"] = 34,
+						},
+						["Fuoco Lunare"] = {
+							["min"] = 9,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 164812,
+							["max"] = 12,
+							["damage"] = 21,
+						},
+						["Dilaniamento"] = {
+							["min"] = 67,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 33917,
+							["max"] = 67,
+							["damage"] = 67,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-0788EA1E",
+					["healing"] = 0,
+					["maxhp"] = 306,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 7,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 5,
+							["resisted"] = 0,
+							["max"] = 11,
+							["damage"] = 43,
+						},
+						["Veleno"] = {
+							["crushing"] = 0,
+							["id"] = 744,
+							["min"] = 1,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Veleno",
+							["blocked"] = 0,
+							["totalhits"] = 3,
+							["resisted"] = 0,
+							["max"] = 1,
+							["damage"] = 3,
+						},
+					},
+					["power"] = {
+						{
+							["amount"] = 20,
+							["spells"] = {
+								[17057] = 10,
+								[33917] = 10,
+							},
+						}, -- [1]
+					},
+					["auras"] = {
+						["Fuoco Lunare"] = {
+							["name"] = "Fuoco Lunare",
+							["active"] = 0,
+							["id"] = 164812,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 4,
+						},
+						["Ringhio"] = {
+							["name"] = "Ringhio",
+							["active"] = 0,
+							["id"] = 6795,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 0,
+						},
+						["Forma d'Orso"] = {
+							["name"] = "Forma d'Orso",
+							["active"] = 1,
+							["id"] = 5487,
+							["auratype"] = "BUFF",
+							["uptime"] = 2,
+						},
+					},
+					["name"] = "Azzrra",
+					["damagetaken"] = 46,
+					["first"] = 1438359828,
+					["role"] = "NONE",
+					["time"] = 9,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Ragno Saltatore Stirpevile"] = {
+					["players"] = {
+						["Azzrra"] = {
+							["taken"] = 172,
+							["done"] = 46,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 172,
+					["done"] = 46,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 172,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+				20, -- [1]
+			},
+			["starttime"] = 1438359827,
+			["damagetaken"] = 46,
+			["shielding"] = 0,
+			["name"] = "Ragno Saltatore Stirpevile (3)",
+			["mobname"] = "Ragno Saltatore Stirpevile",
+			["mobdone"] = 46,
+			["mobhdone"] = 0,
+			["last_action"] = 1438359827,
+			["multistrikes"] = 0,
+		}, -- [8]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 9,
+			["interrupts"] = 0,
+			["endtime"] = 1438359810,
+			["damage"] = 90,
+			["players"] = {
+				{
+					["last"] = 1438359809,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Ragno Saltatore Stirpevile"] = 90,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 90,
+					["damagespells"] = {
+						["Fuoco Lunare"] = {
+							["min"] = 8,
+							["hit"] = 6,
+							["totalhits"] = 6,
+							["id"] = 164812,
+							["max"] = 12,
+							["damage"] = 59,
+						},
+						["Ira Silvana"] = {
+							["min"] = 31,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 5176,
+							["max"] = 31,
+							["damage"] = 31,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-0788EA1E",
+					["healing"] = 0,
+					["maxhp"] = 306,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 8,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 3,
+							["resisted"] = 0,
+							["max"] = 9,
+							["damage"] = 25,
+						},
+						["Veleno"] = {
+							["crushing"] = 0,
+							["id"] = 744,
+							["min"] = 1,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Veleno",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 1,
+							["damage"] = 2,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+					},
+					["name"] = "Azzrra",
+					["damagetaken"] = 27,
+					["first"] = 1438359801,
+					["role"] = "NONE",
+					["time"] = 8,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Ragno Saltatore Stirpevile"] = {
+					["players"] = {
+						["Azzrra"] = {
+							["taken"] = 90,
+							["done"] = 27,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 90,
+					["done"] = 27,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 90,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1438359801,
+			["damagetaken"] = 27,
+			["shielding"] = 0,
+			["name"] = "Ragno Saltatore Stirpevile (2)",
+			["mobname"] = "Ragno Saltatore Stirpevile",
+			["mobdone"] = 27,
+			["mobhdone"] = 0,
+			["last_action"] = 1438359801,
+			["multistrikes"] = 0,
+		}, -- [9]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 6,
+			["interrupts"] = 0,
+			["endtime"] = 1438359792,
+			["damage"] = 109,
+			["players"] = {
+				{
+					["last"] = 1438359792,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Ragno Saltatore Stirpevile"] = 109,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 109,
+					["damagespells"] = {
+						["Attacco"] = {
+							["min"] = 12,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 6603,
+							["max"] = 12,
+							["damage"] = 12,
+						},
+						["Ira Silvana"] = {
+							["min"] = 31,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 5176,
+							["max"] = 33,
+							["damage"] = 97,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-0788EA1E",
+					["healing"] = 0,
+					["maxhp"] = 306,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 8,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 9,
+							["damage"] = 17,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+					},
+					["name"] = "Azzrra",
+					["damagetaken"] = 17,
+					["first"] = 1438359787,
+					["role"] = "NONE",
+					["time"] = 5,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Ragno Saltatore Stirpevile"] = {
+					["players"] = {
+						["Azzrra"] = {
+							["taken"] = 109,
+							["done"] = 17,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 109,
+					["done"] = 17,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 109,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1438359786,
+			["damagetaken"] = 17,
+			["shielding"] = 0,
+			["name"] = "Ragno Saltatore Stirpevile",
+			["mobname"] = "Ragno Saltatore Stirpevile",
+			["mobdone"] = 17,
+			["mobhdone"] = 0,
+			["last_action"] = 1438359786,
+			["multistrikes"] = 0,
+		}, -- [10]
+	},
+}

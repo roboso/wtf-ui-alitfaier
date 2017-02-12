@@ -1,0 +1,144 @@
+
+WeakAurasSaved = {
+	["displays"] = {
+		["Mana"] = {
+			["xOffset"] = 4.3245849609375,
+			["untrigger"] = {
+			},
+			["anchorPoint"] = "CENTER",
+			["customTextUpdate"] = "update",
+			["icon"] = true,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
+			["trigger"] = {
+				["type"] = "status",
+				["unevent"] = "auto",
+				["subeventPrefix"] = "SPELL",
+				["names"] = {
+				},
+				["event"] = "Power",
+				["use_percentpower"] = true,
+				["debuffType"] = "HELPFUL",
+				["powertype"] = 0,
+				["subeventSuffix"] = "_CAST_START",
+				["unit"] = "player",
+				["percentpower"] = "85",
+				["use_unit"] = true,
+				["use_powertype"] = true,
+				["percentpower_operator"] = "<=",
+			},
+			["desaturate"] = false,
+			["discrete_rotation"] = 0,
+			["font"] = "Friz Quadrata TT",
+			["height"] = 200,
+			["rotate"] = true,
+			["load"] = {
+				["use_class"] = false,
+				["role"] = {
+					["multi"] = {
+					},
+				},
+				["use_combat"] = true,
+				["spec"] = {
+					["single"] = 3,
+					["multi"] = {
+						[3] = true,
+					},
+				},
+				["class"] = {
+					["single"] = "PRIEST",
+					["multi"] = {
+						["WARLOCK"] = true,
+						["SHAMAN"] = true,
+						["MAGE"] = true,
+						["DRUID"] = true,
+						["PALADIN"] = true,
+						["PRIEST"] = true,
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["fontSize"] = 12,
+			["displayStacks"] = "%s",
+			["mirror"] = false,
+			["regionType"] = "icon",
+			["blendMode"] = "BLEND",
+			["rotation"] = 0,
+			["selfPoint"] = "CENTER",
+			["texture"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura70",
+			["stacksContainment"] = "INSIDE",
+			["zoom"] = 0,
+			["auto"] = true,
+			["inverse"] = false,
+			["id"] = "Mana",
+			["stickyDuration"] = false,
+			["frameStrata"] = 1,
+			["width"] = 200,
+			["color"] = {
+				0.9294117647058824, -- [1]
+				0.9529411764705882, -- [2]
+				1, -- [3]
+				0.75, -- [4]
+			},
+			["yOffset"] = 410.740478515625,
+			["numTriggers"] = 2,
+			["additional_triggers"] = {
+				{
+					["trigger"] = {
+						["spellName"] = 29166,
+						["use_spellName"] = true,
+						["type"] = "status",
+						["subeventSuffix"] = "_CAST_START",
+						["use_unit"] = true,
+						["unevent"] = "auto",
+						["event"] = "Action Usable",
+						["subeventPrefix"] = "SPELL",
+					},
+					["untrigger"] = {
+						["spellName"] = 29166,
+					},
+				}, -- [1]
+			},
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["displayIcon"] = "Interface\\Icons\\Spell_Nature_Lightning",
+			["stacksPoint"] = "BOTTOMRIGHT",
+			["textColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+		},
+	},
+	["registered"] = {
+	},
+	["frame"] = {
+		["xOffset"] = -211.3763427734375,
+		["height"] = 492,
+		["width"] = 630,
+		["yOffset"] = -216.7692260742188,
+	},
+	["tempIconCache"] = {
+	},
+	["login_squelch_time"] = 10,
+}

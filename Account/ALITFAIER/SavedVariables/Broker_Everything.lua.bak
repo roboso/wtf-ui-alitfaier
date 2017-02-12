@@ -1,0 +1,17 @@
+
+Broker_EverythingGlobalDB = nil
+Broker_Everything_ProfileDB = {
+	["use_default_profile"] = false,
+	["use_profile"] = {
+	},
+	["default_profile"] = "Predefinito",
+	["profiles"] = {
+		["Predefinito"] = {
+		},
+	},
+}
+Broker_Everything_DataDB = {
+}
+Broker_Everything_CharacterDB = {
+}
+be_character_cache = nil

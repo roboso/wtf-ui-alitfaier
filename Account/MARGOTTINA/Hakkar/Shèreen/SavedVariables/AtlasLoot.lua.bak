@@ -1,0 +1,11 @@
+
+AtlasLootCharDB = {
+	["QuickLooks"] = {
+	},
+	["WishList"] = {
+	},
+	["AtlasLootVersion"] = "50501",
+	["AutoQuery"] = false,
+	["SearchResult"] = {
+	},
+}

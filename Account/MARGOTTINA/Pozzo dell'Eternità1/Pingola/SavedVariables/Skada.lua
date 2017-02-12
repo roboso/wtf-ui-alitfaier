@@ -1,0 +1,233 @@
+
+SkadaPerCharDB = {
+	["sets"] = {
+	},
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["overhealing"] = 0,
+		["interrupts"] = 0,
+		["damage"] = 1123,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "PALADIN",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["damage"] = 1123,
+				["damagespells"] = {
+					["Attacco"] = {
+						["DODGE"] = 1,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 25,
+						["MISS"] = 1,
+						["damage"] = 335,
+						["DEFLECT"] = 0,
+						["id"] = 6603,
+						["hit"] = 20,
+						["min"] = 11,
+						["PARRY"] = 2,
+						["critical"] = 1,
+						["ABSORB"] = 0,
+						["BLOCK"] = 0,
+						["RESIST"] = 0,
+						["EVADE"] = 0,
+						["max"] = 30,
+					},
+					["Assalto del Crociato"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 17,
+						["MISS"] = 0,
+						["damage"] = 788,
+						["DEFLECT"] = 0,
+						["id"] = 35395,
+						["hit"] = 16,
+						["min"] = 31,
+						["PARRY"] = 0,
+						["critical"] = 1,
+						["ABSORB"] = 0,
+						["BLOCK"] = 0,
+						["RESIST"] = 0,
+						["EVADE"] = 0,
+						["max"] = 90,
+					},
+				},
+				["deaths"] = {
+				},
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "0x0500000004CF3A60",
+				["healing"] = 0,
+				["damagetakenspells"] = {
+					["Attacco"] = {
+						["min"] = 4,
+						["name"] = "Attacco",
+						["id"] = 6603,
+						["max"] = 12,
+						["totalhits"] = 52,
+						["damage"] = 331,
+					},
+					["Mazzata"] = {
+						["min"] = 5,
+						["name"] = "Mazzata",
+						["id"] = 69851,
+						["max"] = 6,
+						["totalhits"] = 2,
+						["damage"] = 11,
+					},
+				},
+				["time"] = 109,
+				["damagetaken"] = 342,
+				["name"] = "Pingola",
+				["auras"] = {
+				},
+				["power"] = {
+					[9] = {
+						["spells"] = {
+							[35395] = 14,
+						},
+						["amount"] = 14,
+					},
+				},
+				["deathlog"] = {
+					{
+						["ts"] = 1355142698.277,
+						["amount"] = -8,
+						["spellname"] = "Incursore Faucisalde di Attacco",
+						["spellid"] = 6603,
+						["hp"] = 29,
+					}, -- [1]
+					{
+						["ts"] = 1355142696.771,
+						["amount"] = -11,
+						["spellname"] = "Incursore Faucisalde di Attacco",
+						["spellid"] = 6603,
+						["hp"] = 40,
+					}, -- [2]
+					{
+						["ts"] = 1355142694.764,
+						["amount"] = -11,
+						["spellname"] = "Incursore Faucisalde di Attacco",
+						["spellid"] = 6603,
+						["hp"] = 51,
+					}, -- [3]
+					{
+						["ts"] = 1355142692.743,
+						["amount"] = -10,
+						["spellname"] = "Incursore Faucisalde di Attacco",
+						["spellid"] = 6603,
+						["hp"] = 71,
+					}, -- [4]
+					{
+						["ts"] = 1355142692.743,
+						["amount"] = -10,
+						["spellname"] = "Incursore Faucisalde di Attacco",
+						["spellid"] = 6603,
+						["hp"] = 71,
+					}, -- [5]
+					{
+						["ts"] = 1355142690.706,
+						["amount"] = -12,
+						["spellname"] = "Incursore Faucisalde di Attacco",
+						["spellid"] = 6603,
+						["hp"] = 83,
+					}, -- [6]
+					{
+						["ts"] = 1355142688.617,
+						["amount"] = -11,
+						["spellname"] = "Incursore Faucisalde di Attacco",
+						["spellid"] = 6603,
+						["hp"] = 94,
+					}, -- [7]
+					{
+						["ts"] = 1355142686.277,
+						["amount"] = -10,
+						["spellname"] = "Incursore Faucisalde di Attacco",
+						["spellid"] = 6603,
+						["hp"] = 104,
+					}, -- [8]
+					{
+						["ts"] = 1355142684.282,
+						["amount"] = -11,
+						["spellname"] = "Incursore Faucisalde di Attacco",
+						["spellid"] = 6603,
+						["hp"] = 115,
+					}, -- [9]
+					{
+						["ts"] = 1355142682.28,
+						["amount"] = -11,
+						["spellname"] = "Incursore Faucisalde di Attacco",
+						["spellid"] = 6603,
+						["hp"] = 126,
+					}, -- [10]
+					{
+						["ts"] = 1355142679.458,
+						["amount"] = -10,
+						["spellname"] = "Incursore Faucisalde di Attacco",
+						["spellid"] = 6603,
+						["hp"] = 136,
+					}, -- [11]
+					{
+						["ts"] = 1355142677.435,
+						["amount"] = -10,
+						["spellname"] = "Incursore Faucisalde di Attacco",
+						["spellid"] = 6603,
+						["hp"] = 146,
+					}, -- [12]
+					{
+						["ts"] = 1355142675.34,
+						["amount"] = -11,
+						["spellname"] = "Incursore Faucisalde di Attacco",
+						["spellid"] = 6603,
+						["hp"] = 157,
+					}, -- [13]
+					{
+						["ts"] = 1355142669.669,
+						["amount"] = -8,
+						["spellname"] = "Incursore Faucisalde di Attacco",
+						["spellid"] = 6603,
+						["hp"] = 165,
+					}, -- [14]
+					{
+						["ts"] = 1355142667.667,
+						["amount"] = -9,
+						["spellname"] = "Incursore Faucisalde di Attacco",
+						["spellid"] = 6603,
+						["hp"] = 174,
+					}, -- [15]
+				},
+				["maxhp"] = 133,
+				["ccbreaks"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["damagetaken"] = 342,
+		["mobtaken"] = 0,
+		["healing"] = 0,
+		["power"] = {
+			[9] = 14,
+		},
+		["starttime"] = 1355142364,
+		["name"] = "Totale",
+		["time"] = 0,
+		["shielding"] = 0,
+		["mobs"] = {
+		},
+		["last_action"] = 1355142364,
+		["mobdone"] = 0,
+	},
+}

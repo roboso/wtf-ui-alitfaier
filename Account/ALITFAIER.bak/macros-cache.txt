@@ -1,0 +1,53 @@
+VER 3 0000000000000018 "achi lunacupa" "132432"
+/clic [btn:1]MTSB3 LeftButton;[btn:2]MTSB3 RightButton;[btn:3]MTSB3 MiddleButton;[btn:4]MTSB3 Button4;[btn:5]MTSB3 Button5
+END
+VER 3 0000000000000016 "blue mushrooms" "SPELL_FROST_ARCTICWINDS"
+/clic [btn:1]MTSB2 LeftButton;[btn:2]MTSB2 RightButton;[btn:3]MTSB2 MiddleButton;[btn:4]MTSB2 Button4;[btn:5]MTSB2 Button5
+END
+VER 3 000000000000000F "CollectMeRC" "ABILITY_WARSTOMP"
+/script if(GetMouseButtonClicked() == "RightButton") then C_PetJournal.SummonPetByID(C_PetJournal.GetSummonedPetID()) else CollectMe:SummonRandomCompanion() end;
+END
+VER 3 0000000000000010 "CollectMeRM" "ABILITY_MOUNT_BIGBLIZZARDBEAR"
+/cancelform
+/script CollectMe:HandleMountMacro();
+END
+VER 3 000000000000000E "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] Rimozione Corruzione;  [@mouseover,exists,mod:ctrl] Rimozione Corruzione; [@mouseover,exists,mod:shift] Rimozione Corruzione
+END
+VER 3 0000000000000015 "fungo verde" "ABILITY_DRUID_FLOURISH"
+/rw GREEN MUSHROOMS
+END
+VER 3 0000000000000013 "inchino" "ACHIEVEMENT_GUILDPERK_FASTTRACK_RANK2"
+/kneel
+END
+VER 3 0000000000000012 "rejuvenation mac" "SPELL_SHAMAN_GIFTEARTHMOTHER"
+ /cast [target=mouseover] Rejuvenation
+END
+VER 3 0000000000000017 "tomtom" "ACHIEVEMENT_GUILDPERK_GMAIL"
+/way 52, 77
+/way 52, 72
+/way 57, 70
+/way 57, 64
+/way 55, 58
+/way 50, 55
+/way 55, 50
+/way 54, 45
+/way 59, 33
+/way 61, 40
+/way 63, 44
+/way 61, 53
+/way 69, 51
+/way 71, 59
+/way 66, 65
+/way 70, 66
+/way 75, 68
+/way 71, 72
+/way 70, 79
+/way 67, 80
+/way 67, 76
+/wa
+END
+VER 3 0000000000000011 "vuhdo" "SPELL_HOLY_HOLYPROTECTION"
+/vuhdo opt
+END

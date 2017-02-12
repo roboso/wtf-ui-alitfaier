@@ -1,0 +1,9 @@
+
+ExRT = {
+	["Bossmods"] = {
+		["MalkorokLock"] = true,
+		["MalkorokLeft"] = 471.5211618499596,
+		["MalkorokRotate"] = false,
+		["MalkorokTop"] = 595.1451488383299,
+	},
+}

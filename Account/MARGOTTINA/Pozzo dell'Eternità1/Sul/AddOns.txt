@@ -1,0 +1,17 @@
+AlphaMap3: disabled
+AlphaMap3_Battlegrounds: disabled
+AlphaMap3_Instances: disabled
+AlphaMap3_POI_Instances: disabled
+AlphaMap3_POI_TravelAgents: disabled
+AlphaMap3_POI_Utilities: disabled
+AlphaMap3_WorldBosses: disabled
+AlphaMap3QuestHelper: disabled
+AlphaMap3QuestHelper2: disabled
+AlphaMap3_Exteriors: disabled
+AlphaMap3MobMap: disabled
+Mapster: disabled
+Enraged: disabled
+SpeakinSpell: disabled
+SpeakinSpell_Defaults: disabled
+SpeakinSpell_GUI: disabled
+SpeakinSpell_Patches: disabled

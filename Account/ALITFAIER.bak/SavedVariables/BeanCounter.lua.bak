@@ -1,0 +1,51 @@
+
+BeanCounterDB = {
+	["Nemesis"] = {
+		["Àzzurrà"] = {
+			["vendorsell"] = {
+			},
+			["postedBids"] = {
+			},
+			["postedAuctions"] = {
+			},
+			["completedBidsBuyoutsNeutral"] = {
+			},
+			["vendorbuy"] = {
+			},
+			["failedAuctions"] = {
+			},
+			["failedBidsNeutral"] = {
+			},
+			["failedBids"] = {
+			},
+			["completedAuctions"] = {
+			},
+			["failedAuctionsNeutral"] = {
+			},
+			["completedAuctionsNeutral"] = {
+			},
+			["completedBidsBuyouts"] = {
+			},
+		},
+	},
+}
+BeanCounterDBSettings = {
+	["configator.left"] = 650.2564086914063,
+	["configator.top"] = 815.7692260742188,
+	["util.beancounter.ButtonuseDateCheck"] = false,
+	["Nemesis"] = {
+		["Àzzurrà"] = {
+			["tasks.sortArray"] = 1384947627,
+			["version"] = 3.03,
+			["faction"] = "Alliance",
+			["tasks.compactDB"] = 1384947627,
+			["wealth"] = 40342057,
+			["tasks.prunePostedDB"] = 1384947627,
+			["mailbox"] = {
+			},
+		},
+	},
+}
+BeanCounterDBNames = {
+}
+BeanCounterAccountDB = nil

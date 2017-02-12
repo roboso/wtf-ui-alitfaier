@@ -1,0 +1,3 @@
+
+SymbConfig = nil
+SymbButton = nil

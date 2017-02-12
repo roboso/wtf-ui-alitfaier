@@ -1,0 +1,24 @@
+
+EveryQuestDBPC = nil
+EQ2DBPC = {
+	["profileKeys"] = {
+		["Lg - Chromaggus"] = "global",
+	},
+	["profiles"] = {
+		["global"] = {
+			["history"] = {
+				[24959] = {
+					["status"] = 2,
+					["completed"] = 1316776976,
+				},
+				[28608] = {
+					["status"] = 0,
+				},
+				[26801] = {
+					["status"] = 0,
+				},
+			},
+			["dbversion"] = 4,
+		},
+	},
+}

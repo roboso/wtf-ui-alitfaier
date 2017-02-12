@@ -1,0 +1,9 @@
+
+EpicCountFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

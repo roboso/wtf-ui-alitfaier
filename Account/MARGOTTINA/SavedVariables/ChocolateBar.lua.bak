@@ -1,0 +1,45 @@
+
+ChocolateBarDB = {
+	["profileKeys"] = {
+		["Alitfaier - Pozzo dell'Eternità"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["objSettings"] = {
+				["ArkInventory_Tracking_Item"] = {
+					["barName"] = "ChocolateBar1",
+				},
+				["Skada"] = {
+					["barName"] = "ChocolateBar1",
+				},
+				["ArkInventory_Bags"] = {
+					["barName"] = "ChocolateBar1",
+				},
+				["MoreChocolate"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+				},
+				["ArkInventory_Tracking_Currency"] = {
+					["barName"] = "ChocolateBar1",
+				},
+				["ArkInventory_Mounts"] = {
+					["barName"] = "ChocolateBar1",
+				},
+				["ArkInventory_Money"] = {
+					["barName"] = "ChocolateBar1",
+				},
+				["Dominos"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+				},
+				["DBM-LDB"] = {
+					["showText"] = false,
+					["barName"] = "ChocolateBar1",
+					["align"] = "right",
+				},
+			},
+		},
+	},
+}

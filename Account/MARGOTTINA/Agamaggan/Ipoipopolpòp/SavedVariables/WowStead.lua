@@ -1,0 +1,3 @@
+
+WOWSTEAD_VARS = {
+}

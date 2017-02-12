@@ -1,0 +1,11 @@
+
+GottaGoFastDB = {
+	["profileKeys"] = {
+		["Alitfaier - Pozzo dell'Eternità"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["Version"] = 25400,
+		},
+	},
+}

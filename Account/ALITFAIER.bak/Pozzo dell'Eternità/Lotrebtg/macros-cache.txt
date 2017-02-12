@@ -1,0 +1,4 @@
+VER 3 0100000000000080 "ZGVMacro2" "0"
+/target Ji Palmo Infuocato
+/run ZGV:MRM()
+END

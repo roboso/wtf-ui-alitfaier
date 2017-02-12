@@ -1,0 +1,10 @@
+Dominos_ActionSets: disabled
+Titan: enabled
+TitanXP: disabled
+TitanRepair: enabled
+TitanGold: enabled
+TitanBag: enabled
+Armory: disabled
+GarrisonCommander: enabled
+GarrisonCommander-Broker: enabled
+WIM: enabled

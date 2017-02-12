@@ -1,0 +1,29 @@
+
+Guild2Guild_Vars = {
+	["GuildMemberNotify"] = "1",
+	["EchoGuild"] = true,
+	["EchoOfficer"] = true,
+	["addons"] = {
+		["CGP"] = false,
+		["CaN"] = true,
+		["GUILDMAP"] = false,
+		["GathX"] = true,
+		["Thr"] = true,
+		["AucAdvAskPrice"] = false,
+		["WIM"] = true,
+	},
+	["log"] = {
+	},
+	["debugStack"] = {
+	},
+	["Debug"] = false,
+	["Active"] = false,
+	["RelayAddonMessages"] = true,
+	["Passive"] = false,
+	["logsize"] = 0,
+	["Startdelay"] = 15,
+	["logging"] = false,
+	["Channel"] = "g2gdefault",
+	["NewAddonDefault"] = false,
+	["ShowNewRelayMessages"] = true,
+}

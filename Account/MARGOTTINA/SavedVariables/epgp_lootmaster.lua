@@ -1,0 +1,78 @@
+
+EPGPLootMaster = {
+	["profileKeys"] = {
+		["Ilåria - Pozzo dell'Eternità"] = "Ilåria - Pozzo dell'Eternità",
+		["Pirolo - Nemesis"] = "Pirolo - Nemesis",
+		["Àsià - Nemesis"] = "Àsià - Nemesis",
+		["Blaska - Nemesis"] = "Blaska - Nemesis",
+		["Pingola - Pozzo dell'Eternità"] = "Pingola - Pozzo dell'Eternità",
+		["Alitfaier - Pozzo dell'Eternità"] = "Alitfaier - Pozzo dell'Eternità",
+		["Pøstepay - Crushridge"] = "Pøstepay - Crushridge",
+	},
+	["profiles"] = {
+		["Ilåria - Pozzo dell'Eternità"] = {
+		},
+		["Àsià - Nemesis"] = {
+		},
+		["Blaska - Nemesis"] = {
+		},
+		["Pingola - Pozzo dell'Eternità"] = {
+		},
+		["Alitfaier - Pozzo dell'Eternità"] = {
+			["button4_gp"] = "1",
+			["button4_color"] = "18b5c6",
+			["button4_fallback"] = "",
+			["button1_gpValue"] = 200,
+			["button4"] = "OffSpec",
+			["button3_gp"] = "50%",
+			["button2_gp"] = "100%",
+			["button4_gpIsPercentage"] = false,
+			["button6"] = "Change stats",
+			["button6_gpIsPercentage"] = true,
+			["button6_gpValue"] = 25,
+			["button1_gpIsPercentage"] = true,
+			["button6_gp"] = "25%",
+			["button1_gp"] = "200%",
+			["button5_gpValue"] = 1,
+			["button2_gpIsPercentage"] = true,
+			["buttonNum"] = 5,
+			["button1"] = "BIS",
+			["button3_gpIsPercentage"] = true,
+			["button1_color"] = "f0172c",
+			["detectedRaidLookups"] = {
+				["Unknown type"] = {
+					["Incubo di Smeraldo (Normale)"] = "Incubo di Smeraldo^14^30",
+					["Incubo di Smeraldo (Eroica)"] = "Incubo di Smeraldo^15^30",
+				},
+				["5-man heroic"] = {
+					["Sale del Valore (Mitica)"] = "Sale del Valore^23^5",
+					["Antro di Neltharion (Eroica)"] = "Antro di Neltharion^2^5",
+					["Segrete delle Custodi (Mitica)"] = "Segrete delle Custodi^23^5",
+					["Assalto alla Fortezza Violacea (Mitica)"] = "Assalto alla Fortezza Violacea^23^5",
+					["Antro di Neltharion (Mitica)"] = "Antro di Neltharion^23^5",
+					["Forte Corvonero (Mitica)"] = "Forte Corvonero^23^5",
+					["Boschetto Cuortetro (Mitica)"] = "Boschetto Cuortetro^23^5",
+					["Corte delle Stelle (Mitica)"] = "Corte delle Stelle^23^5",
+					["Arcavia (Mitica)"] = "Arcavia^23^5",
+					["Forte Corvonero (Eroica)"] = "Forte Corvonero^2^5",
+					["Occhio di Azshara (Mitica)"] = "Occhio di Azshara^23^5",
+					["Occhio di Azshara (Eroica)"] = "Occhio di Azshara^2^5",
+					["Fauci delle Anime (Mitica)"] = "Fauci delle Anime^23^5",
+					["Fauci delle Anime (Eroica)"] = "Fauci delle Anime^2^5",
+					["Boschetto Cuortetro (Eroica)"] = "Boschetto Cuortetro^2^5",
+				},
+			},
+			["button4_gpValue"] = 1,
+			["button5_gp"] = "1",
+			["button5_gpIsPercentage"] = false,
+			["button5"] = "Token Warforged",
+			["button2_gpValue"] = 100,
+			["button2_color"] = "00f305",
+			["button2"] = "Mainspec",
+			["button3_gpValue"] = 50,
+			["button3"] = "Minor Upgrade",
+		},
+		["Pirolo - Nemesis"] = {
+		},
+	},
+}

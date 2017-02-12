@@ -1,0 +1,4394 @@
+
+ZygorGuidesViewerSettings = {
+	["char"] = {
+		["Enchàntrix - Pozzo dell'Eternità"] = {
+			["CurrentDeals"] = {
+			},
+			["step"] = 1191,
+			["ATsearchitems"] = {
+			},
+			["guidename"] = "LEVELING\\Legion (100-110)\\Order Hall Quests",
+			["guides_history_ZGV4clear"] = true,
+			["ActivatedPois"] = {
+			},
+			["guideTurnInsOnly"] = false,
+			["guides_history"] = {
+				{
+					"LEVELING\\Legion (100-110)\\Order Hall Quests", -- [1]
+					1190, -- [2]
+				}, -- [1]
+				{
+					"LEVELING\\Legion (100-110)\\Legion Intro & Artifacts", -- [1]
+					1359, -- [2]
+				}, -- [2]
+				{
+					"ACHIEVEMENTS\\Class Hall\\Broken Isles Pathfinder, Part One", -- [1]
+					5, -- [2]
+				}, -- [3]
+			},
+			["notifications"] = {
+			},
+			["taxis"] = {
+				["Shackle's Den"] = true,
+				["Kharanos"] = true,
+				["Moonglade"] = true,
+				["Lorna's Watch"] = true,
+				["Felblaze Ingress"] = true,
+				["Meredil"] = true,
+				["Hafr Fjall"] = false,
+				["Watchers' Aerie"] = false,
+				["Irongrove Retreat"] = true,
+				["Greywatch"] = true,
+				["Lor'danel"] = true,
+				["Challiane's Terrace"] = true,
+				["Dolanaar"] = true,
+				["Starsong Refuge"] = true,
+				["Felbane Camp"] = true,
+				["Eastvale Logging Camp"] = true,
+				["Azure Watch"] = true,
+				["Illidari Stand"] = true,
+				["Serpent's Overlook"] = true,
+				["Shipwreck Cove"] = true,
+				["Goldshire"] = true,
+				["Garden of the Moon"] = true,
+				["Lorlathil"] = true,
+				["Crimson Thicket"] = true,
+				["Eye of Azshara"] = false,
+				["Obsidian Overlook"] = true,
+				["Stormtorn Foothills"] = true,
+				["Ironforge"] = true,
+				["Bradensbrook"] = true,
+				["Illidari Camp"] = true,
+				["Rut'theran Village"] = true,
+				["The Exodar"] = true,
+				["Sylvan Falls"] = true,
+				["Azurewing Repose"] = true,
+				["Valdisdall"] = true,
+				["Dalaran"] = true,
+				["Thunder Totem"] = true,
+				["Gloaming Reef"] = true,
+				["Gol'Bolar Quarry"] = true,
+				["Nesingwary"] = true,
+				["Stormwind"] = true,
+				["Illidari Perch"] = true,
+				["The Witchwood"] = true,
+				["Skyhorn"] = true,
+				["Wardens' Redoubt"] = true,
+				["Skyfire Triage Camp"] = true,
+				["Darnassus"] = true,
+			},
+			["questrewards"] = {
+			},
+			["lastlogin"] = 1483724027,
+			["stephistory"] = {
+				1, -- [1]
+				1072, -- [2]
+				1073, -- [3]
+				1074, -- [4]
+				1075, -- [5]
+				1076, -- [6]
+				1077, -- [7]
+				1078, -- [8]
+				1079, -- [9]
+				1080, -- [10]
+				1081, -- [11]
+				1082, -- [12]
+				1083, -- [13]
+				1084, -- [14]
+				1085, -- [15]
+				1086, -- [16]
+				1087, -- [17]
+				1088, -- [18]
+				1089, -- [19]
+				1090, -- [20]
+				1091, -- [21]
+				1092, -- [22]
+				1093, -- [23]
+				1094, -- [24]
+				1095, -- [25]
+				1096, -- [26]
+				1097, -- [27]
+				1098, -- [28]
+				1099, -- [29]
+				1100, -- [30]
+				1101, -- [31]
+				1102, -- [32]
+				1103, -- [33]
+				1104, -- [34]
+				1105, -- [35]
+				1106, -- [36]
+				1107, -- [37]
+				1108, -- [38]
+				1109, -- [39]
+				1110, -- [40]
+				1111, -- [41]
+				1112, -- [42]
+				1113, -- [43]
+				1114, -- [44]
+				1115, -- [45]
+				1116, -- [46]
+				1117, -- [47]
+				1118, -- [48]
+				1119, -- [49]
+				1120, -- [50]
+				1121, -- [51]
+				1122, -- [52]
+				1123, -- [53]
+				1124, -- [54]
+				1125, -- [55]
+				1126, -- [56]
+				1127, -- [57]
+				1128, -- [58]
+				1129, -- [59]
+				1130, -- [60]
+				1131, -- [61]
+				1132, -- [62]
+				1133, -- [63]
+				1134, -- [64]
+				1135, -- [65]
+				1136, -- [66]
+				1137, -- [67]
+				1138, -- [68]
+				1139, -- [69]
+				1140, -- [70]
+				1141, -- [71]
+				1142, -- [72]
+				1143, -- [73]
+				1144, -- [74]
+				1149, -- [75]
+				1150, -- [76]
+				1151, -- [77]
+				1152, -- [78]
+				1153, -- [79]
+				1154, -- [80]
+				1155, -- [81]
+				1156, -- [82]
+				1157, -- [83]
+				1158, -- [84]
+				1159, -- [85]
+				1160, -- [86]
+				1161, -- [87]
+				1162, -- [88]
+				1163, -- [89]
+				1164, -- [90]
+				1165, -- [91]
+				1166, -- [92]
+				1167, -- [93]
+				1168, -- [94]
+				1169, -- [95]
+				1170, -- [96]
+				1171, -- [97]
+				1172, -- [98]
+				1173, -- [99]
+				1174, -- [100]
+				1175, -- [101]
+				1176, -- [102]
+				1177, -- [103]
+				1178, -- [104]
+				1179, -- [105]
+				1180, -- [106]
+				1181, -- [107]
+				1182, -- [108]
+				1183, -- [109]
+				1184, -- [110]
+				1185, -- [111]
+				1186, -- [112]
+				1187, -- [113]
+				1188, -- [114]
+				1189, -- [115]
+				1190, -- [116]
+			},
+			["initialFlightPathsLoaded"] = true,
+			["debuglog"] = {
+				"18:33:57.010.626> Viewer started. ---------------------------", -- [1]
+			},
+			["MThiddenitems"] = {
+			},
+			["AThiddenitems"] = {
+			},
+			["GGbuyitems"] = {
+			},
+		},
+	},
+	["global"] = {
+		["itemCache"] = {
+		},
+		["saw_tutorial"] = true,
+		["gii_cache"] = {
+			[0] = {
+			},
+			["item:134319::::::::110::::::"] = {
+				"Pendente con Cristallo di Mana Consumato", -- [1]
+				"|cff1eff00|Hitem:134319::::::::110:62::::::|h[Pendente con Cristallo di Mana Consumato]|h|r", -- [2]
+				2, -- [3]
+				810, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_NECK", -- [9]
+				1360015, -- [10]
+				143830, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724040,
+			},
+			["|cff1eff00|Hitem:115524::::::::110:62::::::|h[Cristallo di Taladite]|h|r"] = {
+				"Cristallo di Taladite", -- [1]
+				"|cff1eff00|Hitem:115524::::::::110:62::::::|h[Cristallo di Taladite]|h|r", -- [2]
+				2, -- [3]
+				100, -- [4]
+				0, -- [5]
+				"Beni commerciali", -- [6]
+				"Altro", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1033183, -- [10]
+				0, -- [11]
+				7, -- [12]
+				11, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["item:134537::::::::110:62::2:3:1726:1482:3339:::"] = {
+				"Anello con Sigillo dei Magi Alti Nobili", -- [1]
+				"|cff0070dd|Hitem:134537::::::::110:62::2:3:1726:1482:3339:::|h[Anello con Sigillo dei Magi Alti Nobili]|h|r", -- [2]
+				3, -- [3]
+				830, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_FINGER", -- [9]
+				1408456, -- [10]
+				251555, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["item:134319::::::::110:62::42:3:3474:1507:1674:::"] = {
+				"Pendente con Cristallo di Mana Consumato", -- [1]
+				"|cffa335ee|Hitem:134319::::::::110:62::42:3:3474:1507:1674:::|h[Pendente con Cristallo di Mana Consumato]|h|r", -- [2]
+				4, -- [3]
+				845, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_NECK", -- [9]
+				1360015, -- [10]
+				239894, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["item:134217::::::::110:62::16:3:3411:1517:3336:::"] = {
+				"Guanti dei Parlaossa", -- [1]
+				"|cffa335ee|Hitem:134217::::::::110:62::16:3:3411:1517:3336:::|h[Guanti dei Parlaossa]|h|r", -- [2]
+				4, -- [3]
+				855, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_HAND", -- [9]
+				1134726, -- [10]
+				275169, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cffffffff|Hitem:109076::::::::110:62::::::|h[Kit dell'Aliante dei Goblin]|h|r"] = {
+				"Kit dell'Aliante dei Goblin", -- [1]
+				"|cffffffff|Hitem:109076::::::::110:62::::::|h[Kit dell'Aliante dei Goblin]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Consumabili", -- [6]
+				"Altro", -- [7]
+				20, -- [8]
+				"", -- [9]
+				133632, -- [10]
+				700, -- [11]
+				0, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffa335ee|Hitem:139123::::::::110:62::37:3:3473:1502:1674:::|h[Fascione di Solfreddo]|h|r"] = {
+				"Fascione di Solfreddo", -- [1]
+				"|cffa335ee|Hitem:139123::::::::110:62::37:3:3473:1502:1674:::|h[Fascione di Solfreddo]|h|r", -- [2]
+				4, -- [3]
+				840, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_WAIST", -- [9]
+				1113069, -- [10]
+				292657, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:123918::::::::110:62::::::|h[Minerale di Fagliaroccia]|h|r"] = {
+				"Minerale di Fagliaroccia", -- [1]
+				"|cffffffff|Hitem:123918::::::::110:62::::::|h[Minerale di Fagliaroccia]|h|r", -- [2]
+				1, -- [3]
+				100, -- [4]
+				0, -- [5]
+				"Beni commerciali", -- [6]
+				"Metalli e pietre", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1394960, -- [10]
+				1, -- [11]
+				7, -- [12]
+				7, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:124117::::::::110:62::::::|h[Stinco Magro]|h|r"] = {
+				"Stinco Magro", -- [1]
+				"|cffffffff|Hitem:124117::::::::110:62::::::|h[Stinco Magro]|h|r", -- [2]
+				1, -- [3]
+				101, -- [4]
+				0, -- [5]
+				"Beni commerciali", -- [6]
+				"Carni", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1387655, -- [10]
+				30, -- [11]
+				7, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["item:137487::::::::110:62::23:3:1727:1492:1813:::"] = {
+				"Lido delle Stelle", -- [1]
+				"|cffa335ee|Hitem:137487::::::::110:62::23:3:1727:1492:1813:::|h[Lido delle Stelle]|h|r", -- [2]
+				4, -- [3]
+				840, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_NECK", -- [9]
+				1360036, -- [10]
+				230644, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				1294, -- [16]
+				false, -- [17]
+				["timestamp"] = 1483725084,
+			},
+			["|cff0070dd|Hitem:136775::::::::110:62::2:2:1726:1477:::|h[Coprispalle della Conquista Infernale]|h|r"] = {
+				"Coprispalle della Conquista Infernale", -- [1]
+				"|cff0070dd|Hitem:136775::::::::110:62::2:2:1726:1477:::|h[Coprispalle della Conquista Infernale]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_SHOULDER", -- [9]
+				1125591, -- [10]
+				295566, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:138874::::::::110:62::::::|h[Schegge Crepitanti]|h|r"] = {
+				"Schegge Crepitanti", -- [1]
+				"|cffffffff|Hitem:138874::::::::110:62::::::|h[Schegge Crepitanti]|h|r", -- [2]
+				1, -- [3]
+				100, -- [4]
+				98, -- [5]
+				"Consumabili", -- [6]
+				"Cibi e bevande", -- [7]
+				20, -- [8]
+				"", -- [9]
+				612393, -- [10]
+				1, -- [11]
+				0, -- [12]
+				5, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:137483::::::::110:62::23:3:1727:1492:1813:::"] = {
+				"Cappa della Guardia del Vespro", -- [1]
+				"|cffa335ee|Hitem:137483::::::::110:62::23:3:1727:1492:1813:::|h[Cappa della Guardia del Vespro]|h|r", -- [2]
+				4, -- [3]
+				840, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_CLOAK", -- [9]
+				1314773, -- [10]
+				427724, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cff0070dd|Hitem:124124::::::::110:62::::::|h[Sangue di Sargeras]|h|r"] = {
+				"Sangue di Sargeras", -- [1]
+				"|cff0070dd|Hitem:124124::::::::110:62::::::|h[Sangue di Sargeras]|h|r", -- [2]
+				3, -- [3]
+				110, -- [4]
+				0, -- [5]
+				"Beni commerciali", -- [6]
+				"Elementali", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1417744, -- [10]
+				12500, -- [11]
+				7, -- [12]
+				10, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["|cffe6cc80|Hitem:128820::141261:133768:::::110:62:256:9::490:3:3473:1502:1674:2:1726:1477:|h[Felo'melorn]|h|r"] = {
+				"Felo'melorn", -- [1]
+				"|cffe6cc80|Hitem:128820::141261:133768:::::110:62:256:9:2:1512:1508:490:3:3473:1502:1674:2:1726:1477:|h[Felo'melorn]|h|r", -- [2]
+				6, -- [3]
+				826, -- [4]
+				0, -- [5]
+				"Armi", -- [6]
+				"Spade a una mano", -- [7]
+				1, -- [8]
+				"INVTYPE_WEAPONMAINHAND", -- [9]
+				1118645, -- [10]
+				1887388, -- [11]
+				2, -- [12]
+				7, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff0070dd|Hitem:137309::::::::110:62::2:2:1726:1477:::|h[Spalletti della Corrente Ascensionale]|h|r"] = {
+				"Spalletti della Corrente Ascensionale", -- [1]
+				"|cff0070dd|Hitem:137309::::::::110:62::2:2:1726:1477:::|h[Spalletti della Corrente Ascensionale]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_SHOULDER", -- [9]
+				1125591, -- [10]
+				305925, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:139280::::::::110:62::16:3:3410:1502:3336:::"] = {
+				"Stivaletti della Luce", -- [1]
+				"|cffa335ee|Hitem:139280::::::::110:62::16:3:3410:1502:3336:::|h[Stivaletti della Luce]|h|r", -- [2]
+				4, -- [3]
+				850, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_FEET", -- [9]
+				1125583, -- [10]
+				415473, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cffa335ee|Hitem:134304::::::::110:62::42:3:3474:1507:1674:::|h[Corona da Frangimana]|h|r"] = {
+				"Corona da Frangimana", -- [1]
+				"|cffa335ee|Hitem:134304::::::::110:62::42:3:3474:1507:1674:::|h[Corona da Frangimana]|h|r", -- [2]
+				4, -- [3]
+				845, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_HEAD", -- [9]
+				1134727, -- [10]
+				438123, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483726958,
+			},
+			["|cffffffff|Hitem:141351::::::::110:62::::::|h[Lacrima di Elune]|h|r"] = {
+				"Lacrima di Elune", -- [1]
+				"|cffffffff|Hitem:141351::::::::110:62::::::|h[Lacrima di Elune]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Missioni", -- [6]
+				"Missione", -- [7]
+				50, -- [8]
+				"", -- [9]
+				629525, -- [10]
+				0, -- [11]
+				12, -- [12]
+				0, -- [13]
+				4, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff0070dd|Hitem:137207::::::::110:62::::::|h[Set dell'Armatura Fortificato]|h|r"] = {
+				"Set dell'Armatura Fortificato", -- [1]
+				"|cff0070dd|Hitem:137207::::::::110:62::::::|h[Set dell'Armatura Fortificato]|h|r", -- [2]
+				3, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Consumabili", -- [6]
+				"Altro", -- [7]
+				20, -- [8]
+				"", -- [9]
+				1397626, -- [10]
+				80875, -- [11]
+				0, -- [12]
+				8, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			[137571] = {
+				"Diario dell'Arcimago Vargoth", -- [1]
+				"|cffffffff|Hitem:137571::::::::110:62::::::|h[Diario dell'Arcimago Vargoth]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Consumabili", -- [6]
+				"Altro", -- [7]
+				1, -- [8]
+				"", -- [9]
+				134915, -- [10]
+				0, -- [11]
+				0, -- [12]
+				8, -- [13]
+				4, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724396,
+			},
+			["|cff9d9d9d|Hitem:132199::::::::110:62::::::|h[Vilsangue Congelato]|h|r"] = {
+				"Vilsangue Congelato", -- [1]
+				"|cff9d9d9d|Hitem:132199::::::::110:62::::::|h[Vilsangue Congelato]|h|r", -- [2]
+				0, -- [3]
+				100, -- [4]
+				1, -- [5]
+				"Consumabili", -- [6]
+				"Altro", -- [7]
+				60, -- [8]
+				"", -- [9]
+				1117883, -- [10]
+				29457, -- [11]
+				0, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff1eff00|Hitem:130177::::::::110:62::::::|h[Opale della Regina]|h|r"] = {
+				"Opale della Regina", -- [1]
+				"|cff1eff00|Hitem:130177::::::::110:62::::::|h[Opale della Regina]|h|r", -- [2]
+				2, -- [3]
+				101, -- [4]
+				1, -- [5]
+				"Beni commerciali", -- [6]
+				"Oreficeria", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1379192, -- [10]
+				55000, -- [11]
+				7, -- [12]
+				4, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["|cffa335ee|Hitem:139280::::::::110:62::16:3:3410:1502:3336:::|h[Stivaletti della Luce]|h|r"] = {
+				"Stivaletti della Luce", -- [1]
+				"|cffa335ee|Hitem:139280::::::::110:62::16:3:3410:1502:3336:::|h[Stivaletti della Luce]|h|r", -- [2]
+				4, -- [3]
+				850, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_FEET", -- [9]
+				1125583, -- [10]
+				415473, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:137434::::::::110:62::2:2:1726:1477:::"] = {
+				"Bracciali Tagliavene", -- [1]
+				"|cff0070dd|Hitem:137434::::::::110:62::2:2:1726:1477:::|h[Bracciali Tagliavene]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_WRIST", -- [9]
+				1125584, -- [10]
+				199342, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cffffffff|Hitem:87216::::::::110:62::11::::|h[Incudine Termica]|h|r"] = {
+				"Incudine Termica", -- [1]
+				"|cffffffff|Hitem:87216::::::::110:62::11::::|h[Incudine Termica]|h|r", -- [2]
+				1, -- [3]
+				90, -- [4]
+				0, -- [5]
+				"Consumabili", -- [6]
+				"Esplosivi e congegni", -- [7]
+				1, -- [8]
+				"", -- [9]
+				136241, -- [10]
+				250, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffa335ee|Hitem:137483::::::::110:62::23:3:1727:1492:1813:::|h[Cappa della Guardia del Vespro]|h|r"] = {
+				"Cappa della Guardia del Vespro", -- [1]
+				"|cffa335ee|Hitem:137483::::::::110:62::23:3:1727:1492:1813:::|h[Cappa della Guardia del Vespro]|h|r", -- [2]
+				4, -- [3]
+				840, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_CLOAK", -- [9]
+				1314773, -- [10]
+				427724, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:133639::::::::110:62::23:3:1727:1497:3336:::"] = {
+				"Manto di Pelliccia", -- [1]
+				"|cffa335ee|Hitem:133639::::::::110:62::23:3:1727:1497:3336:::|h[Manto di Pelliccia]|h|r", -- [2]
+				4, -- [3]
+				845, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_CLOAK", -- [9]
+				1314773, -- [10]
+				415873, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["item:133679::::::::110:62::23:3:1727:1507:3337:::"] = {
+				"Anello con Sigillo dell'Ascensione delle Val'kyr", -- [1]
+				"|cffa335ee|Hitem:133679::::::::110:62::23:3:1727:1507:3337:::|h[Anello con Sigillo dell'Ascensione delle Val'kyr]|h|r", -- [2]
+				4, -- [3]
+				855, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_FINGER", -- [9]
+				1408458, -- [10]
+				362754, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["item:134171::::::::110:62::2:3:1726:1487:1675:::"] = {
+				"Fascione di Telarogg", -- [1]
+				"|cff0070dd|Hitem:134171::::::::110:62::2:3:1726:1487:1675:::|h[Fascione di Telarogg]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_WAIST", -- [9]
+				1134722, -- [10]
+				210083, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["item:136761::::::::110:62::30:3:3397:1492:1675:::"] = {
+				"Fascione della Custode delle Segrete", -- [1]
+				"|cff0070dd|Hitem:136761::::::::110:62::30:3:3397:1492:1675:::|h[Fascione della Custode delle Segrete]|h|r", -- [2]
+				3, -- [3]
+				830, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_WAIST", -- [9]
+				1134722, -- [10]
+				204376, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cffa335ee|Hitem:134432::::::::110:62::23:3:1727:1492:1813:::|h[Amitto dell'Infuriare della Tempesta]|h|r"] = {
+				"Amitto dell'Infuriare della Tempesta", -- [1]
+				"|cffa335ee|Hitem:134432::::::::110:62::23:3:1727:1492:1813:::|h[Amitto dell'Infuriare della Tempesta]|h|r", -- [2]
+				4, -- [3]
+				840, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_SHOULDER", -- [9]
+				1125591, -- [10]
+				416579, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				1295, -- [16]
+				false, -- [17]
+				["timestamp"] = 1483726958,
+			},
+			["item:139086::::::::110:62::35:3:3411:1517:3336:::"] = {
+				"Copricapo del Sognatore Notturno", -- [1]
+				"|cffa335ee|Hitem:139086::::::::110:62::35:3:3411:1517:3336:::|h[Copricapo del Sognatore Notturno]|h|r", -- [2]
+				4, -- [3]
+				855, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_HEAD", -- [9]
+				1134727, -- [10]
+				448159, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["item:133641::::::::110:62::23:3:1727:1492:1813:::"] = {
+				"Occhio di Skovald", -- [1]
+				"|cffa335ee|Hitem:133641::::::::110:62::23:3:1727:1492:1813:::|h[Occhio di Skovald]|h|r", -- [2]
+				4, -- [3]
+				840, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_TRINKET", -- [9]
+				136030, -- [10]
+				476999, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["item:128862::137370:137473:::::110:62:256:9::171:2:1726:1477:2:1726:1477:"] = {
+				"Gelonero", -- [1]
+				"|cffe6cc80|Hitem:128862::137370:137473:::::110:62:256:9:2:1508:1508:171:2:1726:1477:2:1726:1477:|h[Gelonero]|h|r", -- [2]
+				6, -- [3]
+				822, -- [4]
+				0, -- [5]
+				"Armi", -- [6]
+				"Bastoni", -- [7]
+				1, -- [8]
+				"INVTYPE_2HWEAPON", -- [9]
+				1247618, -- [10]
+				2430821, -- [11]
+				2, -- [12]
+				10, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cffa335ee|Hitem:134261::::::::110:62::33:3:3411:1512:3336:::|h[Guanti della Megera del Mare]|h|r"] = {
+				"Guanti della Megera del Mare", -- [1]
+				"|cffa335ee|Hitem:134261::::::::110:62::33:3:3411:1512:3336:::|h[Guanti della Megera del Mare]|h|r", -- [2]
+				4, -- [3]
+				850, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_HAND", -- [9]
+				1134726, -- [10]
+				285322, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff0070dd|Hitem:129090::::::::110:62:512::1:1794:110:::|h[Mantella Chiazzata d'Acido di Bosun]|h|r"] = {
+				"Mantella Chiazzata d'Acido di Bosun", -- [1]
+				"|cff0070dd|Hitem:129090::::::::110:62:512::1:1794:110:::|h[Mantella Chiazzata d'Acido di Bosun]|h|r", -- [2]
+				3, -- [3]
+				660, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_CLOAK", -- [9]
+				1325258, -- [10]
+				294345, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:136761"] = {
+				"Fascione della Custode delle Segrete", -- [1]
+				"|cff1eff00|Hitem:136761::::::::110:62::::::|h[Fascione della Custode delle Segrete]|h|r", -- [2]
+				2, -- [3]
+				810, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_WAIST", -- [9]
+				1134722, -- [10]
+				166281, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724040,
+			},
+			["item:131921::::::::110:62:512::2:1794:1735:110:::"] = {
+				"Collare del Flusso di Sogni", -- [1]
+				"|cffa335ee|Hitem:131921::::::::110:62:512::2:1794:1735:110:::|h[Collare del Flusso di Sogni]|h|r", -- [2]
+				4, -- [3]
+				660, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_NECK", -- [9]
+				632838, -- [10]
+				238628, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["item:133679"] = {
+				"Anello con Sigillo dell'Ascensione delle Val'kyr", -- [1]
+				"|cff0070dd|Hitem:133679::::::::110:62::::::|h[Anello con Sigillo dell'Ascensione delle Val'kyr]|h|r", -- [2]
+				3, -- [3]
+				820, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_FINGER", -- [9]
+				1408458, -- [10]
+				261118, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724040,
+			},
+			["item:139236::::::::110:62::3:2:1807:1472:::"] = {
+				"Anello d'Argento Sporco", -- [1]
+				"|cffa335ee|Hitem:139236::::::::110:62::3:2:1807:1472:::|h[Anello d'Argento Sporco]|h|r", -- [2]
+				4, -- [3]
+				850, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_FINGER", -- [9]
+				1391736, -- [10]
+				370101, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cffffffff|Hitem:124119::::::::110:62::::::|h[Grosse Costine di Selvaggina]|h|r"] = {
+				"Grosse Costine di Selvaggina", -- [1]
+				"|cffffffff|Hitem:124119::::::::110:62::::::|h[Grosse Costine di Selvaggina]|h|r", -- [2]
+				1, -- [3]
+				101, -- [4]
+				0, -- [5]
+				"Beni commerciali", -- [6]
+				"Carni", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1387642, -- [10]
+				30, -- [11]
+				7, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:140192::::::::110:62::11::::|h[Pietra del Ritorno di Dalaran]|h|r"] = {
+				"Pietra del Ritorno di Dalaran", -- [1]
+				"|cffffffff|Hitem:140192::::::::110:62::11::::|h[Pietra del Ritorno di Dalaran]|h|r", -- [2]
+				1, -- [3]
+				90, -- [4]
+				90, -- [5]
+				"Varie", -- [6]
+				"Cianfrusaglie", -- [7]
+				1, -- [8]
+				"", -- [9]
+				1444943, -- [10]
+				0, -- [11]
+				15, -- [12]
+				0, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff0070dd|Hitem:130179::::::::110:62::::::|h[Occhio della Profezia]|h|r"] = {
+				"Occhio della Profezia", -- [1]
+				"|cff0070dd|Hitem:130179::::::::110:62::::::|h[Occhio della Profezia]|h|r", -- [2]
+				3, -- [3]
+				110, -- [4]
+				1, -- [5]
+				"Beni commerciali", -- [6]
+				"Oreficeria", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1379197, -- [10]
+				210000, -- [11]
+				7, -- [12]
+				4, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:116850::::::::110:62::1::::|h[Bacchetta della Veglia - Ghoul]|h|r"] = {
+				"Bacchetta della Veglia - Ghoul", -- [1]
+				"|cffffffff|Hitem:116850::::::::110:62::1::::|h[Bacchetta della Veglia - Ghoul]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				0, -- [5]
+				"Consumabili", -- [6]
+				"Altro", -- [7]
+				1, -- [8]
+				"", -- [9]
+				135474, -- [10]
+				0, -- [11]
+				0, -- [12]
+				8, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff1eff00|Hitem:139615::::::::110:62:8388608:42::15:::|h[Gemma di Mana Intatta]|h|r"] = {
+				"Gemma di Mana Intatta", -- [1]
+				"|cff1eff00|Hitem:139615::::::::110:62:8388608:42::15:::|h[Gemma di Mana Intatta]|h|r", -- [2]
+				2, -- [3]
+				110, -- [4]
+				0, -- [5]
+				"Consumabili", -- [6]
+				"Altro", -- [7]
+				1, -- [8]
+				"", -- [9]
+				237370, -- [10]
+				0, -- [11]
+				0, -- [12]
+				8, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff0070dd|Hitem:134171::::::::110:62::2:3:1726:1487:1675:::|h[Fascione di Telarogg]|h|r"] = {
+				"Fascione di Telarogg", -- [1]
+				"|cff0070dd|Hitem:134171::::::::110:62::2:3:1726:1487:1675:::|h[Fascione di Telarogg]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_WAIST", -- [9]
+				1134722, -- [10]
+				210083, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:138272::::::::110:62::11::::|h[Fiala di Khadgar]|h|r"] = {
+				"Fiala di Khadgar", -- [1]
+				"|cffffffff|Hitem:138272::::::::110:62::11::::|h[Fiala di Khadgar]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Consumabili", -- [6]
+				"Altro", -- [7]
+				1, -- [8]
+				"", -- [9]
+				132379, -- [10]
+				0, -- [11]
+				0, -- [12]
+				8, -- [13]
+				4, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:37604::::::::110:62::::::|h[Stuzzicadenti]|h|r"] = {
+				"Stuzzicadenti", -- [1]
+				"|cffffffff|Hitem:37604::::::::110:62::::::|h[Stuzzicadenti]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				0, -- [5]
+				"Consumabili", -- [6]
+				"Altro", -- [7]
+				10, -- [8]
+				"", -- [9]
+				134709, -- [10]
+				0, -- [11]
+				0, -- [12]
+				8, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:124111::::::::110:62::::::|h[Carpa Koi Runica]|h|r"] = {
+				"Carpa Koi Runica", -- [1]
+				"|cffffffff|Hitem:124111::::::::110:62::::::|h[Carpa Koi Runica]|h|r", -- [2]
+				1, -- [3]
+				101, -- [4]
+				0, -- [5]
+				"Beni commerciali", -- [6]
+				"Carni", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1387371, -- [10]
+				625, -- [11]
+				7, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["|cff0070dd|Hitem:130181::::::::110:62::::::|h[Pandemonite]|h|r"] = {
+				"Pandemonite", -- [1]
+				"|cff0070dd|Hitem:130181::::::::110:62::::::|h[Pandemonite]|h|r", -- [2]
+				3, -- [3]
+				110, -- [4]
+				1, -- [5]
+				"Beni commerciali", -- [6]
+				"Oreficeria", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1379196, -- [10]
+				210000, -- [11]
+				7, -- [12]
+				4, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:137841::::::::110:62::::::|h[Modello: Pendente di Ambra Profonda]|h|r"] = {
+				"Modello: Pendente di Ambra Profonda", -- [1]
+				"|cffffffff|Hitem:137841::::::::110:62::::::|h[Modello: Pendente di Ambra Profonda]|h|r", -- [2]
+				1, -- [3]
+				110, -- [4]
+				100, -- [5]
+				"Ricette", -- [6]
+				"Oreficeria", -- [7]
+				1, -- [8]
+				"", -- [9]
+				1387622, -- [10]
+				22500, -- [11]
+				9, -- [12]
+				10, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff1eff00|Hitem:130176::::::::110:62::::::|h[Pietraceleste]|h|r"] = {
+				"Pietraceleste", -- [1]
+				"|cff1eff00|Hitem:130176::::::::110:62::::::|h[Pietraceleste]|h|r", -- [2]
+				2, -- [3]
+				101, -- [4]
+				1, -- [5]
+				"Beni commerciali", -- [6]
+				"Oreficeria", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1379189, -- [10]
+				55000, -- [11]
+				7, -- [12]
+				4, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:118006::::::::110:62::::::|h[Scudo Scudotronico]|h|r"] = {
+				"Scudo Scudotronico", -- [1]
+				"|cffffffff|Hitem:118006::::::::110:62::::::|h[Scudo Scudotronico]|h|r", -- [2]
+				1, -- [3]
+				100, -- [4]
+				91, -- [5]
+				"Consumabili", -- [6]
+				"Pozioni", -- [7]
+				20, -- [8]
+				"", -- [9]
+				986488, -- [10]
+				1200, -- [11]
+				0, -- [12]
+				1, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			[138853] = {
+				"Fiala di Energia del Pozzo Oscuro", -- [1]
+				"|cffffffff|Hitem:138853::::::::110:62::::::|h[Fiala di Energia del Pozzo Oscuro]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Missioni", -- [6]
+				"Missione", -- [7]
+				50, -- [8]
+				"", -- [9]
+				132378, -- [10]
+				0, -- [11]
+				12, -- [12]
+				0, -- [13]
+				4, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724406,
+			},
+			["item:127466::::::::110:62:512:22:2:615:656:110:::"] = {
+				"Amuleto dei Colpi Deviati", -- [1]
+				"|cff0070dd|Hitem:127466::::::::110:62:512:22:2:615:656:110:::|h[Amuleto dei Colpi Deviati]|h|r", -- [2]
+				3, -- [3]
+				187, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_NECK", -- [9]
+				133301, -- [10]
+				50150, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				2, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cff0070dd|Hitem:139909::::::::110:62::11::::|h[Cappuccio del Gran Signore Illidari]|h|r"] = {
+				"Cappuccio del Gran Signore Illidari", -- [1]
+				"|cff0070dd|Hitem:139909::::::::110:62::11::::|h[Cappuccio del Gran Signore Illidari]|h|r", -- [2]
+				3, -- [3]
+				840, -- [4]
+				0, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_HEAD", -- [9]
+				1134727, -- [10]
+				320919, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffa335ee|Hitem:137487::::::::110:62::23:3:1727:1492:1813:::|h[Lido delle Stelle]|h|r"] = {
+				"Lido delle Stelle", -- [1]
+				"|cffa335ee|Hitem:137487::::::::110:62::23:3:1727:1492:1813:::|h[Lido delle Stelle]|h|r", -- [2]
+				4, -- [3]
+				840, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_NECK", -- [9]
+				1360036, -- [10]
+				230644, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				1294, -- [16]
+				false, -- [17]
+				["timestamp"] = 1483727003,
+			},
+			["item:139909::::::::110:62::11::::"] = {
+				"Cappuccio del Gran Signore Illidari", -- [1]
+				"|cff0070dd|Hitem:139909::::::::110:62::11::::|h[Cappuccio del Gran Signore Illidari]|h|r", -- [2]
+				3, -- [3]
+				840, -- [4]
+				0, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_HEAD", -- [9]
+				1134727, -- [10]
+				320919, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cffa335ee|Hitem:136766::::::::110:62::36:3:3432:1497:1674:::|h[Calzature della Custode delle Segrete]|h|r"] = {
+				"Calzature della Custode delle Segrete", -- [1]
+				"|cffa335ee|Hitem:136766::::::::110:62::36:3:3432:1497:1674:::|h[Calzature della Custode delle Segrete]|h|r", -- [2]
+				4, -- [3]
+				835, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_FEET", -- [9]
+				1134723, -- [10]
+				426900, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:139089"] = {
+				"Tonaca del Sognatore Notturno", -- [1]
+				"|cff1eff00|Hitem:139089::::::::110:62::::::|h[Tonaca del Sognatore Notturno]|h|r", -- [2]
+				2, -- [3]
+				810, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_ROBE", -- [9]
+				1134729, -- [10]
+				324517, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724040,
+			},
+			["|cffffffff|Hitem:124118::::::::110:62::::::|h[Bistecca d'Orso Grassa]|h|r"] = {
+				"Bistecca d'Orso Grassa", -- [1]
+				"|cffffffff|Hitem:124118::::::::110:62::::::|h[Bistecca d'Orso Grassa]|h|r", -- [2]
+				1, -- [3]
+				101, -- [4]
+				0, -- [5]
+				"Beni commerciali", -- [6]
+				"Carni", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1387648, -- [10]
+				30, -- [11]
+				7, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["|cffa335ee|Hitem:133639::::::::110:62::23:3:1727:1497:3336:::|h[Manto di Pelliccia]|h|r"] = {
+				"Manto di Pelliccia", -- [1]
+				"|cffa335ee|Hitem:133639::::::::110:62::23:3:1727:1497:3336:::|h[Manto di Pelliccia]|h|r", -- [2]
+				4, -- [3]
+				845, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_CLOAK", -- [9]
+				1314773, -- [10]
+				415873, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff9d9d9d|Hitem:132212::::::::110:62::::::|h[Essenza Schiumante]|h|r"] = {
+				"Essenza Schiumante", -- [1]
+				"|cff9d9d9d|Hitem:132212::::::::110:62::::::|h[Essenza Schiumante]|h|r", -- [2]
+				0, -- [3]
+				100, -- [4]
+				1, -- [5]
+				"Consumabili", -- [6]
+				"Altro", -- [7]
+				60, -- [8]
+				"", -- [9]
+				893779, -- [10]
+				2082, -- [11]
+				0, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:2770::::::::110:62::::::|h[Minerale di Rame]|h|r"] = {
+				"Minerale di Rame", -- [1]
+				"|cffffffff|Hitem:2770::::::::110:62::::::|h[Minerale di Rame]|h|r", -- [2]
+				1, -- [3]
+				10, -- [4]
+				0, -- [5]
+				"Beni commerciali", -- [6]
+				"Metalli e pietre", -- [7]
+				200, -- [8]
+				"", -- [9]
+				134566, -- [10]
+				5, -- [11]
+				7, -- [12]
+				7, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["item:134432::::::::110::::::"] = {
+				"Amitto dell'Infuriare della Tempesta", -- [1]
+				"|cff0070dd|Hitem:134432::::::::110:62::::::|h[Amitto dell'Infuriare della Tempesta]|h|r", -- [2]
+				3, -- [3]
+				820, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_SHOULDER", -- [9]
+				1125591, -- [10]
+				305124, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				1295, -- [16]
+				false, -- [17]
+				["timestamp"] = 1483724040,
+			},
+			["|cffa335ee|Hitem:131921::::::::110:62:512::2:1794:1735:110:::|h[Collare del Flusso di Sogni]|h|r"] = {
+				"Collare del Flusso di Sogni", -- [1]
+				"|cffa335ee|Hitem:131921::::::::110:62:512::2:1794:1735:110:::|h[Collare del Flusso di Sogni]|h|r", -- [2]
+				4, -- [3]
+				660, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_NECK", -- [9]
+				632838, -- [10]
+				238628, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:136750"] = {
+				"Talismano delle Custodi delle Segrete", -- [1]
+				"|cff1eff00|Hitem:136750::::::::110:62::::::|h[Talismano delle Custodi delle Segrete]|h|r", -- [2]
+				2, -- [3]
+				810, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_TRINKET", -- [9]
+				632833, -- [10]
+				300837, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724040,
+			},
+			["item:129090::::::::110:62:512::1:1794:110:::"] = {
+				"Mantella Chiazzata d'Acido di Bosun", -- [1]
+				"|cff0070dd|Hitem:129090::::::::110:62:512::1:1794:110:::|h[Mantella Chiazzata d'Acido di Bosun]|h|r", -- [2]
+				3, -- [3]
+				660, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_CLOAK", -- [9]
+				1325258, -- [10]
+				294345, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cff1eff00|Hitem:138115::::::::110:62::11::::|h[Immagine Cristallina di Kalec]|h|r"] = {
+				"Immagine Cristallina di Kalec", -- [1]
+				"|cff1eff00|Hitem:138115::::::::110:62::11::::|h[Immagine Cristallina di Kalec]|h|r", -- [2]
+				2, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Varie", -- [6]
+				"Altro", -- [7]
+				1, -- [8]
+				"", -- [9]
+				134090, -- [10]
+				0, -- [11]
+				15, -- [12]
+				4, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff9d9d9d|Hitem:132217::::::::110:62::::::|h[Sassolini Elementali]|h|r"] = {
+				"Sassolini Elementali", -- [1]
+				"|cff9d9d9d|Hitem:132217::::::::110:62::::::|h[Sassolini Elementali]|h|r", -- [2]
+				0, -- [3]
+				100, -- [4]
+				1, -- [5]
+				"Consumabili", -- [6]
+				"Altro", -- [7]
+				20, -- [8]
+				"", -- [9]
+				135234, -- [10]
+				27075, -- [11]
+				0, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:142429::::::::110:62::4:3:3505:1472:3336:::"] = {
+				"Guantini Oliati dell'Attrezzatore", -- [1]
+				"|cffa335ee|Hitem:142429::::::::110:62::4:3:3505:1472:3336:::|h[Guantini Oliati dell'Attrezzatore]|h|r", -- [2]
+				4, -- [3]
+				855, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_HAND", -- [9]
+				1515415, -- [10]
+				293695, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["item:134432::::::::110:62::23:3:1727:1492:1813:::"] = {
+				"Amitto dell'Infuriare della Tempesta", -- [1]
+				"|cffa335ee|Hitem:134432::::::::110:62::23:3:1727:1492:1813:::|h[Amitto dell'Infuriare della Tempesta]|h|r", -- [2]
+				4, -- [3]
+				840, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_SHOULDER", -- [9]
+				1125591, -- [10]
+				416579, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				1295, -- [16]
+				false, -- [17]
+				["timestamp"] = 1483725084,
+			},
+			["|cff9d9d9d|Hitem:132204::::::::110:62::::::|h[Sostanza Instabile Appiccicosa]|h|r"] = {
+				"Sostanza Instabile Appiccicosa", -- [1]
+				"|cff9d9d9d|Hitem:132204::::::::110:62::::::|h[Sostanza Instabile Appiccicosa]|h|r", -- [2]
+				0, -- [3]
+				100, -- [4]
+				1, -- [5]
+				"Consumabili", -- [6]
+				"Altro", -- [7]
+				60, -- [8]
+				"", -- [9]
+				463853, -- [10]
+				2097, -- [11]
+				0, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff0070dd|Hitem:41790::::::::110:62:512:22::110:::|h[Modello: Rubino Scarlatto Preciso]|h|r"] = {
+				"Modello: Rubino Scarlatto Preciso", -- [1]
+				"|cff0070dd|Hitem:41790::::::::110:62:512:22::110:::|h[Modello: Rubino Scarlatto Preciso]|h|r", -- [2]
+				3, -- [3]
+				80, -- [4]
+				0, -- [5]
+				"Ricette", -- [6]
+				"Oreficeria", -- [7]
+				1, -- [8]
+				"", -- [9]
+				134941, -- [10]
+				40000, -- [11]
+				9, -- [12]
+				10, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff0070dd|Hitem:139337::::::::110:62::11::::|h[Completi di Grande Inverno Usa e Getta]|h|r"] = {
+				"Completi di Grande Inverno Usa e Getta", -- [1]
+				"|cff0070dd|Hitem:139337::::::::110:62::11::::|h[Completi di Grande Inverno Usa e Getta]|h|r", -- [2]
+				3, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Varie", -- [6]
+				"Altro", -- [7]
+				1, -- [8]
+				"", -- [9]
+				1339669, -- [10]
+				0, -- [11]
+				15, -- [12]
+				4, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:127857::141266:137370:::::110:62:256:9::129:3:3474:1507:1674:3:3410:1507:3336:"] = {
+				"Aluneth", -- [1]
+				"|cffe6cc80|Hitem:127857::141266:137370:::::110:62:256:9:2:1514:1517:129:3:3474:1507:1674:3:3410:1507:3336:|h[Aluneth]|h|r", -- [2]
+				6, -- [3]
+				837, -- [4]
+				0, -- [5]
+				"Armi", -- [6]
+				"Bastoni", -- [7]
+				1, -- [8]
+				"INVTYPE_2HWEAPON", -- [9]
+				1115697, -- [10]
+				2585032, -- [11]
+				2, -- [12]
+				10, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cff0070dd|Hitem:137503::::::::110:62::2:3:1726:1808:1477:::|h[Amitto della Risata Crudele]|h|r"] = {
+				"Amitto della Risata Crudele", -- [1]
+				"|cff0070dd|Hitem:137503::::::::110:62::2:3:1726:1808:1477:::|h[Amitto della Risata Crudele]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_SHOULDER", -- [9]
+				1125591, -- [10]
+				323375, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			[141605] = {
+				"Fischietto del Maestro di Volo", -- [1]
+				"|cff0070dd|Hitem:141605::::::::110:62::::::|h[Fischietto del Maestro di Volo]|h|r", -- [2]
+				3, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Varie", -- [6]
+				"Altro", -- [7]
+				1, -- [8]
+				"", -- [9]
+				132161, -- [10]
+				0, -- [11]
+				15, -- [12]
+				4, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725710,
+			},
+			["|cff0070dd|Hitem:137319::::::::110:62::2:2:1726:1477:::|h[Calzature Scattanti della Paranoia]|h|r"] = {
+				"Calzature Scattanti della Paranoia", -- [1]
+				"|cff0070dd|Hitem:137319::::::::110:62::2:2:1726:1477:::|h[Calzature Scattanti della Paranoia]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_FEET", -- [9]
+				1125583, -- [10]
+				325583, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			[138965] = {
+				"Bacchetta dell'Assorbimento", -- [1]
+				"|cffffffff|Hitem:138965::::::::110:62::::::|h[Bacchetta dell'Assorbimento]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Missioni", -- [6]
+				"Missione", -- [7]
+				1, -- [8]
+				"", -- [9]
+				135464, -- [10]
+				0, -- [11]
+				12, -- [12]
+				0, -- [13]
+				4, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724406,
+			},
+			[140319] = {
+				"Segnalatore di Khadgar", -- [1]
+				"|cffffffff|Hitem:140319::::::::110:62::::::|h[Segnalatore di Khadgar]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Missioni", -- [6]
+				"Missione", -- [7]
+				1, -- [8]
+				"", -- [9]
+				628677, -- [10]
+				0, -- [11]
+				12, -- [12]
+				0, -- [13]
+				4, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724404,
+			},
+			[140574] = {
+				"Oggetto Misterioso Vincolato alla Luce", -- [1]
+				"|cffffffff|Hitem:140574::::::::110:62::::::|h[Oggetto Misterioso Vincolato alla Luce]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Missioni", -- [6]
+				"Missione", -- [7]
+				1, -- [8]
+				"", -- [9]
+				1033183, -- [10]
+				0, -- [11]
+				12, -- [12]
+				0, -- [13]
+				4, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724401,
+			},
+			[137190] = {
+				"Runa dell'Apertura", -- [1]
+				"|cffffffff|Hitem:137190::::::::110:62::::::|h[Runa dell'Apertura]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Missioni", -- [6]
+				"Missione", -- [7]
+				1, -- [8]
+				"", -- [9]
+				134421, -- [10]
+				0, -- [11]
+				12, -- [12]
+				0, -- [13]
+				4, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724379,
+			},
+			["|cff1eff00|Hitem:120945::::::::110:62::::::|h[Spirito Primordiale]|h|r"] = {
+				"Spirito Primordiale", -- [1]
+				"|cff1eff00|Hitem:120945::::::::110:62::::::|h[Spirito Primordiale]|h|r", -- [2]
+				2, -- [3]
+				100, -- [4]
+				0, -- [5]
+				"Beni commerciali", -- [6]
+				"Elementali", -- [7]
+				1000, -- [8]
+				"", -- [9]
+				1044088, -- [10]
+				0, -- [11]
+				7, -- [12]
+				10, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			[136981] = {
+				"Viltomo Empireo", -- [1]
+				"|cffffffff|Hitem:136981::::::::110:62::::::|h[Viltomo Empireo]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Missioni", -- [6]
+				"Missione", -- [7]
+				1, -- [8]
+				"", -- [9]
+				460694, -- [10]
+				0, -- [11]
+				12, -- [12]
+				0, -- [13]
+				4, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724377,
+			},
+			["|cff9d9d9d|Hitem:132231::::::::110:62::::::|h[Artiglio Uncinato Usato]|h|r"] = {
+				"Artiglio Uncinato Usato", -- [1]
+				"|cff9d9d9d|Hitem:132231::::::::110:62::::::|h[Artiglio Uncinato Usato]|h|r", -- [2]
+				0, -- [3]
+				100, -- [4]
+				1, -- [5]
+				"Consumabili", -- [6]
+				"Altro", -- [7]
+				60, -- [8]
+				"", -- [9]
+				132141, -- [10]
+				2198, -- [11]
+				0, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff1eff00|Hitem:108257::::::::110:62::::::|h[Lingotto di Veracciaio]|h|r"] = {
+				"Lingotto di Veracciaio", -- [1]
+				"|cff1eff00|Hitem:108257::::::::110:62::::::|h[Lingotto di Veracciaio]|h|r", -- [2]
+				2, -- [3]
+				100, -- [4]
+				0, -- [5]
+				"Beni commerciali", -- [6]
+				"Metalli e pietre", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1046264, -- [10]
+				3600, -- [11]
+				7, -- [12]
+				7, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:104314::::::::110:62::::::|h[Soffio del Drago]|h|r"] = {
+				"Soffio del Drago", -- [1]
+				"|cffffffff|Hitem:104314::::::::110:62::::::|h[Soffio del Drago]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Consumabili", -- [6]
+				"Cibi e bevande", -- [7]
+				20, -- [8]
+				"", -- [9]
+				132828, -- [10]
+				1000, -- [11]
+				0, -- [12]
+				5, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffa335ee|Hitem:134352::::::::110:62::36:3:3432:1497:1674:::|h[Calzari Strinati dall'Arcano]|h|r"] = {
+				"Calzari Strinati dall'Arcano", -- [1]
+				"|cffa335ee|Hitem:134352::::::::110:62::36:3:3432:1497:1674:::|h[Calzari Strinati dall'Arcano]|h|r", -- [2]
+				4, -- [3]
+				835, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_FEET", -- [9]
+				1134723, -- [10]
+				414352, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483726958,
+			},
+			["|cffffffff|Hitem:6948::::::::110:62::::::|h[Pietra del Ritorno]|h|r"] = {
+				"Pietra del Ritorno", -- [1]
+				"|cffffffff|Hitem:6948::::::::110:62::::::|h[Pietra del Ritorno]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				0, -- [5]
+				"Varie", -- [6]
+				"Cianfrusaglie", -- [7]
+				1, -- [8]
+				"", -- [9]
+				134414, -- [10]
+				0, -- [11]
+				15, -- [12]
+				0, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff0070dd|Hitem:134414::::::::110:62::2:2:1726:1477:::|h[Grembiule Fetido]|h|r"] = {
+				"Grembiule Fetido", -- [1]
+				"|cff0070dd|Hitem:134414::::::::110:62::2:2:1726:1477:::|h[Grembiule Fetido]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_ROBE", -- [9]
+				1125590, -- [10]
+				413166, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:134404::::::::110:62::35:3:3412:1512:3336:::"] = {
+				"Stola del Riposo Malefico", -- [1]
+				"|cffa335ee|Hitem:134404::::::::110:62::35:3:3412:1512:3336:::|h[Stola del Riposo Malefico]|h|r", -- [2]
+				4, -- [3]
+				860, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_CLOAK", -- [9]
+				1338453, -- [10]
+				413667, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cff1eff00|Hitem:71083::::::::110:62::::::|h[Gettone dei Giochi di Lunacupa]|h|r"] = {
+				"Gettone dei Giochi di Lunacupa", -- [1]
+				"|cff1eff00|Hitem:71083::::::::110:62::::::|h[Gettone dei Giochi di Lunacupa]|h|r", -- [2]
+				2, -- [3]
+				1, -- [4]
+				0, -- [5]
+				"Consumabili", -- [6]
+				"Altro", -- [7]
+				200, -- [8]
+				"", -- [9]
+				531974, -- [10]
+				0, -- [11]
+				0, -- [12]
+				8, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffa335ee|Hitem:139086::::::::110:62::35:3:3411:1517:3336:::|h[Copricapo del Sognatore Notturno]|h|r"] = {
+				"Copricapo del Sognatore Notturno", -- [1]
+				"|cffa335ee|Hitem:139086::::::::110:62::35:3:3411:1517:3336:::|h[Copricapo del Sognatore Notturno]|h|r", -- [2]
+				4, -- [3]
+				855, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_HEAD", -- [9]
+				1134727, -- [10]
+				448159, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffa335ee|Hitem:139089::::::::110:62::16:4:3412:1808:1512:1813:::|h[Tonaca del Sognatore Notturno]|h|r"] = {
+				"Tonaca del Sognatore Notturno", -- [1]
+				"|cffa335ee|Hitem:139089::::::::110:62::16:4:3412:1808:1512:1813:::|h[Tonaca del Sognatore Notturno]|h|r", -- [2]
+				4, -- [3]
+				850, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_ROBE", -- [9]
+				1134729, -- [10]
+				544409, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483726958,
+			},
+			["|cff0070dd|Hitem:141605::::::::110:62::11::::|h[Fischietto del Maestro di Volo]|h|r"] = {
+				"Fischietto del Maestro di Volo", -- [1]
+				"|cff0070dd|Hitem:141605::::::::110:62::11::::|h[Fischietto del Maestro di Volo]|h|r", -- [2]
+				3, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Varie", -- [6]
+				"Altro", -- [7]
+				1, -- [8]
+				"", -- [9]
+				132161, -- [10]
+				0, -- [11]
+				15, -- [12]
+				4, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff0070dd|Hitem:131900::::::::110:62::::::|h[Zoccolo di Grancorno Maestoso]|h|r"] = {
+				"Zoccolo di Grancorno Maestoso", -- [1]
+				"|cff0070dd|Hitem:131900::::::::110:62::::::|h[Zoccolo di Grancorno Maestoso]|h|r", -- [2]
+				3, -- [3]
+				110, -- [4]
+				1, -- [5]
+				"Varie", -- [6]
+				"Altro", -- [7]
+				1, -- [8]
+				"", -- [9]
+				132368, -- [10]
+				25000, -- [11]
+				15, -- [12]
+				4, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:140189::::::::110:62::::::|h[Blu del Terzo Anno]|h|r"] = {
+				"Blu del Terzo Anno", -- [1]
+				"|cffffffff|Hitem:140189::::::::110:62::::::|h[Blu del Terzo Anno]|h|r", -- [2]
+				1, -- [3]
+				110, -- [4]
+				100, -- [5]
+				"Consumabili", -- [6]
+				"Cibi e bevande", -- [7]
+				20, -- [8]
+				"", -- [9]
+				132798, -- [10]
+				1250, -- [11]
+				0, -- [12]
+				5, -- [13]
+				0, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:134414::::::::110:62::2:2:1726:1477:::"] = {
+				"Grembiule Fetido", -- [1]
+				"|cff0070dd|Hitem:134414::::::::110:62::2:2:1726:1477:::|h[Grembiule Fetido]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_ROBE", -- [9]
+				1125590, -- [10]
+				413166, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cff1eff00|Hitem:130172::::::::110:62::::::|h[Sangrite]|h|r"] = {
+				"Sangrite", -- [1]
+				"|cff1eff00|Hitem:130172::::::::110:62::::::|h[Sangrite]|h|r", -- [2]
+				2, -- [3]
+				101, -- [4]
+				1, -- [5]
+				"Beni commerciali", -- [6]
+				"Oreficeria", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1379193, -- [10]
+				55000, -- [11]
+				7, -- [12]
+				4, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["item:134308::::::::110:62::23:3:1727:1502:1813:::"] = {
+				"Grancalzari da Frangimana", -- [1]
+				"|cffa335ee|Hitem:134308::::::::110:62::23:3:1727:1502:1813:::|h[Grancalzari da Frangimana]|h|r", -- [2]
+				4, -- [3]
+				840, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_FEET", -- [9]
+				1134723, -- [10]
+				441781, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cffa335ee|Hitem:134308::::::::110:62::23:3:1727:1502:1813:::|h[Grancalzari da Frangimana]|h|r"] = {
+				"Grancalzari da Frangimana", -- [1]
+				"|cffa335ee|Hitem:134308::::::::110:62::23:3:1727:1502:1813:::|h[Grancalzari da Frangimana]|h|r", -- [2]
+				4, -- [3]
+				840, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_FEET", -- [9]
+				1134723, -- [10]
+				441781, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff9d9d9d|Hitem:132233::::::::110:62::::::|h[Essenza Persistente]|h|r"] = {
+				"Essenza Persistente", -- [1]
+				"|cff9d9d9d|Hitem:132233::::::::110:62::::::|h[Essenza Persistente]|h|r", -- [2]
+				0, -- [3]
+				100, -- [4]
+				1, -- [5]
+				"Consumabili", -- [6]
+				"Altro", -- [7]
+				60, -- [8]
+				"", -- [9]
+				1003600, -- [10]
+				2187, -- [11]
+				0, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff0070dd|Hitem:141652::::::::110:62::11::::|h[Pietra Divinatoria di Mana]|h|r"] = {
+				"Pietra Divinatoria di Mana", -- [1]
+				"|cff0070dd|Hitem:141652::::::::110:62::11::::|h[Pietra Divinatoria di Mana]|h|r", -- [2]
+				3, -- [3]
+				110, -- [4]
+				1, -- [5]
+				"Varie", -- [6]
+				"Altro", -- [7]
+				1, -- [8]
+				"", -- [9]
+				134423, -- [10]
+				0, -- [11]
+				15, -- [12]
+				4, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffa335ee|Hitem:142429::::::::110:62::4:3:3505:1472:3336:::|h[Guantini Oliati dell'Attrezzatore]|h|r"] = {
+				"Guantini Oliati dell'Attrezzatore", -- [1]
+				"|cffa335ee|Hitem:142429::::::::110:62::4:3:3505:1472:3336:::|h[Guantini Oliati dell'Attrezzatore]|h|r", -- [2]
+				4, -- [3]
+				855, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_HAND", -- [9]
+				1515415, -- [10]
+				293695, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:116853::::::::110:62::11::::|h[Bacchetta della Veglia - Geist]|h|r"] = {
+				"Bacchetta della Veglia - Geist", -- [1]
+				"|cffffffff|Hitem:116853::::::::110:62::11::::|h[Bacchetta della Veglia - Geist]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				0, -- [5]
+				"Consumabili", -- [6]
+				"Altro", -- [7]
+				1, -- [8]
+				"", -- [9]
+				135474, -- [10]
+				0, -- [11]
+				0, -- [12]
+				8, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:134352::::::::110::::::"] = {
+				"Calzari Strinati dall'Arcano", -- [1]
+				"|cff1eff00|Hitem:134352::::::::110:62::::::|h[Calzari Strinati dall'Arcano]|h|r", -- [2]
+				2, -- [3]
+				810, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_FEET", -- [9]
+				1134723, -- [10]
+				251351, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724040,
+			},
+			["|cffffffff|Hitem:142336::::::::110:62::::::|h[Uovo di Falcosauro]|h|r"] = {
+				"Uovo di Falcosauro", -- [1]
+				"|cffffffff|Hitem:142336::::::::110:62::::::|h[Uovo di Falcosauro]|h|r", -- [2]
+				1, -- [3]
+				101, -- [4]
+				0, -- [5]
+				"Beni commerciali", -- [6]
+				"Carni", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1530728, -- [10]
+				15, -- [11]
+				7, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["|cff1eff00|Hitem:131809::::::::110:62::::::|h[Piuma di Grifalco Riflettente]|h|r"] = {
+				"Piuma di Grifalco Riflettente", -- [1]
+				"|cff1eff00|Hitem:131809::::::::110:62::::::|h[Piuma di Grifalco Riflettente]|h|r", -- [2]
+				2, -- [3]
+				1, -- [4]
+				0, -- [5]
+				"Varie", -- [6]
+				"Altro", -- [7]
+				1, -- [8]
+				"", -- [9]
+				132925, -- [10]
+				0, -- [11]
+				15, -- [12]
+				4, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff0070dd|Hitem:134222::::::::110:62::2:3:1726:1487:1675:::|h[Bracciali dei Parlaossa]|h|r"] = {
+				"Bracciali dei Parlaossa", -- [1]
+				"|cff0070dd|Hitem:134222::::::::110:62::2:3:1726:1487:1675:::|h[Bracciali dei Parlaossa]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_WRIST", -- [9]
+				1134724, -- [10]
+				203103, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483726958,
+			},
+			["|cff0070dd|Hitem:139754::::::::110:62::11:2:3385:3381:::|h[Bracciali del Tirisgarde]|h|r"] = {
+				"Bracciali del Tirisgarde", -- [1]
+				"|cff0070dd|Hitem:139754::::::::110:62::11:2:3385:3381:::|h[Bracciali del Tirisgarde]|h|r", -- [2]
+				3, -- [3]
+				810, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_WRIST", -- [9]
+				1450710, -- [10]
+				1250000, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				1273, -- [16]
+				false, -- [17]
+				["timestamp"] = 1483727003,
+			},
+			["|cff1eff00|Hitem:131926::::::::110:62::::::|h[Piuma di Grifalco Delicata]|h|r"] = {
+				"Piuma di Grifalco Delicata", -- [1]
+				"|cff1eff00|Hitem:131926::::::::110:62::::::|h[Piuma di Grifalco Delicata]|h|r", -- [2]
+				2, -- [3]
+				1, -- [4]
+				0, -- [5]
+				"Varie", -- [6]
+				"Altro", -- [7]
+				1, -- [8]
+				"", -- [9]
+				132926, -- [10]
+				0, -- [11]
+				15, -- [12]
+				4, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:134304::::::::110:62::42:3:3474:1507:1674:::"] = {
+				"Corona da Frangimana", -- [1]
+				"|cffa335ee|Hitem:134304::::::::110:62::42:3:3474:1507:1674:::|h[Corona da Frangimana]|h|r", -- [2]
+				4, -- [3]
+				845, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_HEAD", -- [9]
+				1134727, -- [10]
+				438123, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cff0070dd|Hitem:134495::::::::110:62::2:3:1726:1482:3339:::|h[Catenina del Re delle Profondità]|h|r"] = {
+				"Catenina del Re delle Profondità", -- [1]
+				"|cff0070dd|Hitem:134495::::::::110:62::2:3:1726:1482:3339:::|h[Catenina del Re delle Profondità]|h|r", -- [2]
+				3, -- [3]
+				830, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_NECK", -- [9]
+				1360034, -- [10]
+				183428, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:139089::::::::110:62::2:3:1726:1502:3337:::"] = {
+				"Tonaca del Sognatore Notturno", -- [1]
+				"|cffa335ee|Hitem:139089::::::::110:62::2:3:1726:1502:3337:::|h[Tonaca del Sognatore Notturno]|h|r", -- [2]
+				4, -- [3]
+				840, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_ROBE", -- [9]
+				1134729, -- [10]
+				538114, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			[128687] = {
+				"Convocazione Reale", -- [1]
+				"|cffffffff|Hitem:128687::::::::110:62::::::|h[Convocazione Reale]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Missioni", -- [6]
+				"Missione", -- [7]
+				1, -- [8]
+				"", -- [9]
+				133461, -- [10]
+				0, -- [11]
+				12, -- [12]
+				0, -- [13]
+				4, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724068,
+			},
+			["|cff1eff00|Hitem:130173::::::::110:62::::::|h[Ambra Profonda]|h|r"] = {
+				"Ambra Profonda", -- [1]
+				"|cff1eff00|Hitem:130173::::::::110:62::::::|h[Ambra Profonda]|h|r", -- [2]
+				2, -- [3]
+				101, -- [4]
+				1, -- [5]
+				"Beni commerciali", -- [6]
+				"Oreficeria", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1379191, -- [10]
+				55000, -- [11]
+				7, -- [12]
+				4, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:124121::::::::110:62::::::|h[Uovo di Uccello Selvatico]|h|r"] = {
+				"Uovo di Uccello Selvatico", -- [1]
+				"|cffffffff|Hitem:124121::::::::110:62::::::|h[Uovo di Uccello Selvatico]|h|r", -- [2]
+				1, -- [3]
+				101, -- [4]
+				0, -- [5]
+				"Beni commerciali", -- [6]
+				"Carni", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1387668, -- [10]
+				30, -- [11]
+				7, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["|cffa335ee|Hitem:136750::::::::110:62::36:5:3432:42:605:1497:1674:::|h[Talismano delle Custodi delle Segrete]|h|r"] = {
+				"Talismano delle Custodi delle Segrete", -- [1]
+				"|cffa335ee|Hitem:136750::::::::110:62::36:5:3432:42:605:1497:1674:::|h[Talismano delle Custodi delle Segrete]|h|r", -- [2]
+				4, -- [3]
+				835, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_TRINKET", -- [9]
+				632833, -- [10]
+				495929, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483726958,
+			},
+			["item:134261::::::::110:62::33:3:3411:1512:3336:::"] = {
+				"Guanti della Megera del Mare", -- [1]
+				"|cffa335ee|Hitem:134261::::::::110:62::33:3:3411:1512:3336:::|h[Guanti della Megera del Mare]|h|r", -- [2]
+				4, -- [3]
+				850, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_HAND", -- [9]
+				1134726, -- [10]
+				285322, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["item:137530::::::::110:62::2:2:1726:1477:::"] = {
+				"Drappo della Sfortuna Infame", -- [1]
+				"|cff0070dd|Hitem:137530::::::::110:62::2:2:1726:1477:::|h[Drappo della Sfortuna Infame]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_CLOAK", -- [9]
+				1338453, -- [10]
+				300201, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cffa335ee|Hitem:133641::::::::110:62::23:3:1727:1492:1813:::|h[Occhio di Skovald]|h|r"] = {
+				"Occhio di Skovald", -- [1]
+				"|cffa335ee|Hitem:133641::::::::110:62::23:3:1727:1492:1813:::|h[Occhio di Skovald]|h|r", -- [2]
+				4, -- [3]
+				840, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_TRINKET", -- [9]
+				136030, -- [10]
+				476999, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffa335ee|Hitem:133637::::::::110:62::35:3:3410:1502:3336:::|h[Anello con Sigillo Reale di Utgarde]|h|r"] = {
+				"Anello con Sigillo Reale di Utgarde", -- [1]
+				"|cffa335ee|Hitem:133637::::::::110:62::35:3:3410:1502:3336:::|h[Anello con Sigillo Reale di Utgarde]|h|r", -- [2]
+				4, -- [3]
+				850, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_FINGER", -- [9]
+				1408445, -- [10]
+				348619, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff0070dd|Hitem:130182::::::::110:62::::::|h[Zaffiro del Maelstrom]|h|r"] = {
+				"Zaffiro del Maelstrom", -- [1]
+				"|cff0070dd|Hitem:130182::::::::110:62::::::|h[Zaffiro del Maelstrom]|h|r", -- [2]
+				3, -- [3]
+				110, -- [4]
+				1, -- [5]
+				"Beni commerciali", -- [6]
+				"Oreficeria", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1379195, -- [10]
+				210000, -- [11]
+				7, -- [12]
+				4, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:123919::::::::110:62::::::|h[Vilardesia]|h|r"] = {
+				"Vilardesia", -- [1]
+				"|cffffffff|Hitem:123919::::::::110:62::::::|h[Vilardesia]|h|r", -- [2]
+				1, -- [3]
+				105, -- [4]
+				0, -- [5]
+				"Beni commerciali", -- [6]
+				"Metalli e pietre", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1394961, -- [10]
+				1, -- [11]
+				7, -- [12]
+				7, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["|cff0070dd|Hitem:127466::::::::110:62:512:22:2:615:656:110:::|h[Amuleto dei Colpi Deviati]|h|r"] = {
+				"Amuleto dei Colpi Deviati", -- [1]
+				"|cff0070dd|Hitem:127466::::::::110:62:512:22:2:615:656:110:::|h[Amuleto dei Colpi Deviati]|h|r", -- [2]
+				3, -- [3]
+				187, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_NECK", -- [9]
+				133301, -- [10]
+				50150, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				2, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffa335ee|Hitem:139236::::::::110:62::3:2:1807:1472:::|h[Anello d'Argento Sporco]|h|r"] = {
+				"Anello d'Argento Sporco", -- [1]
+				"|cffa335ee|Hitem:139236::::::::110:62::3:2:1807:1472:::|h[Anello d'Argento Sporco]|h|r", -- [2]
+				4, -- [3]
+				850, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_FINGER", -- [9]
+				1391736, -- [10]
+				370101, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:134304::::::::110::::::"] = {
+				"Corona da Frangimana", -- [1]
+				"|cff1eff00|Hitem:134304::::::::110:62::::::|h[Corona da Frangimana]|h|r", -- [2]
+				2, -- [3]
+				810, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_HEAD", -- [9]
+				1134727, -- [10]
+				262680, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724040,
+			},
+			["|cffa335ee|Hitem:134529::::::::110:62::23:3:1727:1492:1813:::|h[Catenina delle Ossa Bruciate]|h|r"] = {
+				"Catenina delle Ossa Bruciate", -- [1]
+				"|cffa335ee|Hitem:134529::::::::110:62::23:3:1727:1492:1813:::|h[Catenina delle Ossa Bruciate]|h|r", -- [2]
+				4, -- [3]
+				840, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_NECK", -- [9]
+				1360042, -- [10]
+				248481, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				1293, -- [16]
+				false, -- [17]
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:142401::::::::110:62::11::::|h[Globi Telemantici]|h|r"] = {
+				"Globi Telemantici", -- [1]
+				"|cffffffff|Hitem:142401::::::::110:62::11::::|h[Globi Telemantici]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Missioni", -- [6]
+				"Missione", -- [7]
+				1, -- [8]
+				"", -- [9]
+				1391782, -- [10]
+				0, -- [11]
+				12, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:134319"] = {
+				"Pendente con Cristallo di Mana Consumato", -- [1]
+				"|cff1eff00|Hitem:134319::::::::110:62::::::|h[Pendente con Cristallo di Mana Consumato]|h|r", -- [2]
+				2, -- [3]
+				810, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_NECK", -- [9]
+				1360015, -- [10]
+				143830, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724040,
+			},
+			["item:134222::::::::110:62::2:3:1726:1487:1675:::"] = {
+				"Bracciali dei Parlaossa", -- [1]
+				"|cff0070dd|Hitem:134222::::::::110:62::2:3:1726:1487:1675:::|h[Bracciali dei Parlaossa]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_WRIST", -- [9]
+				1134724, -- [10]
+				203103, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cffffffff|Hitem:128650::::::::110:62::::::|h[Costume da \"Piccino Festivo\"]|h|r"] = {
+				"Costume da \"Piccino Festivo\"", -- [1]
+				"|cffffffff|Hitem:128650::::::::110:62::::::|h[Costume da \"Piccino Festivo\"]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Varie", -- [6]
+				"Altro", -- [7]
+				200, -- [8]
+				"", -- [9]
+				133169, -- [10]
+				0, -- [11]
+				15, -- [12]
+				4, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:137541::::::::110:62::2:2:1726:1477:::"] = {
+				"Prisma Monolitico", -- [1]
+				"|cff0070dd|Hitem:137541::::::::110:62::2:2:1726:1477:::|h[Prisma Monolitico]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_TRINKET", -- [9]
+				463883, -- [10]
+				367570, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["item:141544::::::::110:62::3:3:3466:1477:3336:::"] = {
+				"Fede dell'Oracolo Pestapaludi", -- [1]
+				"|cffa335ee|Hitem:141544::::::::110:62::3:3:3466:1477:3336:::|h[Fede dell'Oracolo Pestapaludi]|h|r", -- [2]
+				4, -- [3]
+				865, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_FINGER", -- [9]
+				1391760, -- [10]
+				369953, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cff0070dd|Hitem:137434::::::::110:62::2:2:1726:1477:::|h[Bracciali Tagliavene]|h|r"] = {
+				"Bracciali Tagliavene", -- [1]
+				"|cff0070dd|Hitem:137434::::::::110:62::2:2:1726:1477:::|h[Bracciali Tagliavene]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_WRIST", -- [9]
+				1125584, -- [10]
+				199342, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:134432"] = {
+				"Amitto dell'Infuriare della Tempesta", -- [1]
+				"|cff0070dd|Hitem:134432::::::::110:62::::::|h[Amitto dell'Infuriare della Tempesta]|h|r", -- [2]
+				3, -- [3]
+				820, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_SHOULDER", -- [9]
+				1125591, -- [10]
+				305124, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				1295, -- [16]
+				false, -- [17]
+				["timestamp"] = 1483724040,
+			},
+			["|cffffffff|Hitem:124437::::::::110:62::::::|h[Seta Shal'dorei]|h|r"] = {
+				"Seta Shal'dorei", -- [1]
+				"|cffffffff|Hitem:124437::::::::110:62::::::|h[Seta Shal'dorei]|h|r", -- [2]
+				1, -- [3]
+				100, -- [4]
+				0, -- [5]
+				"Beni commerciali", -- [6]
+				"Stoffe", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1379172, -- [10]
+				1, -- [11]
+				7, -- [12]
+				5, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["|cffa335ee|Hitem:138019::::::::110:62:4587520:::1492:3:1:::|h[Chiave del Potere]|h|r"] = {
+				"Chiave del Potere", -- [1]
+				"|cffa335ee|Hitem:138019::::::::110:62:4587520:::1492:3:1:::|h[Chiave del Potere]|h|r", -- [2]
+				4, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Reagenti", -- [6]
+				"Chiavi di Pietra", -- [7]
+				1, -- [8]
+				"", -- [9]
+				525134, -- [10]
+				0, -- [11]
+				5, -- [12]
+				1, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:139123::::::::110:62::37:3:3473:1502:1674:::"] = {
+				"Fascione di Solfreddo", -- [1]
+				"|cffa335ee|Hitem:139123::::::::110:62::37:3:3473:1502:1674:::|h[Fascione di Solfreddo]|h|r", -- [2]
+				4, -- [3]
+				840, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_WAIST", -- [9]
+				1113069, -- [10]
+				292657, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cffffffff|Hitem:118701::::::::110:62::::::|h[Chiave dell'Artiglio]|h|r"] = {
+				"Chiave dell'Artiglio", -- [1]
+				"|cffffffff|Hitem:118701::::::::110:62::::::|h[Chiave dell'Artiglio]|h|r", -- [2]
+				1, -- [3]
+				100, -- [4]
+				1, -- [5]
+				"Reagenti", -- [6]
+				"Reagenti", -- [7]
+				10, -- [8]
+				"", -- [9]
+				134244, -- [10]
+				0, -- [11]
+				5, -- [12]
+				0, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:140298::::::::110:62::::::|h[Sidro Frizzante di Mananelle]|h|r"] = {
+				"Sidro Frizzante di Mananelle", -- [1]
+				"|cffffffff|Hitem:140298::::::::110:62::::::|h[Sidro Frizzante di Mananelle]|h|r", -- [2]
+				1, -- [3]
+				110, -- [4]
+				105, -- [5]
+				"Consumabili", -- [6]
+				"Cibi e bevande", -- [7]
+				20, -- [8]
+				"", -- [9]
+				132809, -- [10]
+				1250, -- [11]
+				0, -- [12]
+				5, -- [13]
+				0, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff0070dd|Hitem:137541::::::::110:62::2:2:1726:1477:::|h[Prisma Monolitico]|h|r"] = {
+				"Prisma Monolitico", -- [1]
+				"|cff0070dd|Hitem:137541::::::::110:62::2:2:1726:1477:::|h[Prisma Monolitico]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_TRINKET", -- [9]
+				463883, -- [10]
+				367570, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:134222::::::::110::::::"] = {
+				"Bracciali dei Parlaossa", -- [1]
+				"|cff1eff00|Hitem:134222::::::::110:62::::::|h[Bracciali dei Parlaossa]|h|r", -- [2]
+				2, -- [3]
+				810, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_WRIST", -- [9]
+				1134724, -- [10]
+				166230, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724040,
+			},
+			["|cffa335ee|Hitem:141544::::::::110:62::3:3:3466:1477:3336:::|h[Fede dell'Oracolo Pestapaludi]|h|r"] = {
+				"Fede dell'Oracolo Pestapaludi", -- [1]
+				"|cffa335ee|Hitem:141544::::::::110:62::3:3:3466:1477:3336:::|h[Fede dell'Oracolo Pestapaludi]|h|r", -- [2]
+				4, -- [3]
+				865, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_FINGER", -- [9]
+				1391760, -- [10]
+				369953, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:136774::::::::110:62::2:3:1726:1808:1477:::"] = {
+				"Stivaletti della Gloria Imbottiti", -- [1]
+				"|cff0070dd|Hitem:136774::::::::110:62::2:3:1726:1808:1477:::|h[Stivaletti della Gloria Imbottiti]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_FEET", -- [9]
+				1125583, -- [10]
+				325552, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["item:136750::::::::110::::::"] = {
+				"Talismano delle Custodi delle Segrete", -- [1]
+				"|cff1eff00|Hitem:136750::::::::110:62::::::|h[Talismano delle Custodi delle Segrete]|h|r", -- [2]
+				2, -- [3]
+				810, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_TRINKET", -- [9]
+				632833, -- [10]
+				300837, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724040,
+			},
+			["item:136775::::::::110:62::2:2:1726:1477:::"] = {
+				"Coprispalle della Conquista Infernale", -- [1]
+				"|cff0070dd|Hitem:136775::::::::110:62::2:2:1726:1477:::|h[Coprispalle della Conquista Infernale]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_SHOULDER", -- [9]
+				1125591, -- [10]
+				295566, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["item:139089::::::::110::::::"] = {
+				"Tonaca del Sognatore Notturno", -- [1]
+				"|cff1eff00|Hitem:139089::::::::110:62::::::|h[Tonaca del Sognatore Notturno]|h|r", -- [2]
+				2, -- [3]
+				810, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_ROBE", -- [9]
+				1134729, -- [10]
+				324517, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724040,
+			},
+			["|cff0070dd|Hitem:115507::::::::110:62::::::|h[Frammento di Cristallo Prosciugato]|h|r"] = {
+				"Frammento di Cristallo Prosciugato", -- [1]
+				"|cff0070dd|Hitem:115507::::::::110:62::::::|h[Frammento di Cristallo Prosciugato]|h|r", -- [2]
+				3, -- [3]
+				90, -- [4]
+				90, -- [5]
+				"Missioni", -- [6]
+				"Missione", -- [7]
+				1, -- [8]
+				"", -- [9]
+				132784, -- [10]
+				0, -- [11]
+				12, -- [12]
+				0, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:137836::::::::110:62::14::::|h[Modello: Gorgiera di Pietrafuria Furente]|h|r"] = {
+				"Modello: Gorgiera di Pietrafuria Furente", -- [1]
+				"|cffffffff|Hitem:137836::::::::110:62::14::::|h[Modello: Gorgiera di Pietrafuria Furente]|h|r", -- [2]
+				1, -- [3]
+				110, -- [4]
+				100, -- [5]
+				"Ricette", -- [6]
+				"Oreficeria", -- [7]
+				1, -- [8]
+				"", -- [9]
+				1387621, -- [10]
+				22500, -- [11]
+				9, -- [12]
+				10, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff1eff00|Hitem:130175::::::::110:62::::::|h[Spinello Caotico]|h|r"] = {
+				"Spinello Caotico", -- [1]
+				"|cff1eff00|Hitem:130175::::::::110:62::::::|h[Spinello Caotico]|h|r", -- [2]
+				2, -- [3]
+				101, -- [4]
+				1, -- [5]
+				"Beni commerciali", -- [6]
+				"Oreficeria", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1379190, -- [10]
+				55000, -- [11]
+				7, -- [12]
+				4, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["item:133637::::::::110:62::35:3:3410:1502:3336:::"] = {
+				"Anello con Sigillo Reale di Utgarde", -- [1]
+				"|cffa335ee|Hitem:133637::::::::110:62::35:3:3410:1502:3336:::|h[Anello con Sigillo Reale di Utgarde]|h|r", -- [2]
+				4, -- [3]
+				850, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_FINGER", -- [9]
+				1408445, -- [10]
+				348619, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cff1eff00|Hitem:130174::::::::110:62::::::|h[Azsunite]|h|r"] = {
+				"Azsunite", -- [1]
+				"|cff1eff00|Hitem:130174::::::::110:62::::::|h[Azsunite]|h|r", -- [2]
+				2, -- [3]
+				101, -- [4]
+				1, -- [5]
+				"Beni commerciali", -- [6]
+				"Oreficeria", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1379194, -- [10]
+				55000, -- [11]
+				7, -- [12]
+				4, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["|cff0070dd|Hitem:136761::::::::110:62::30:3:3397:1492:1675:::|h[Fascione della Custode delle Segrete]|h|r"] = {
+				"Fascione della Custode delle Segrete", -- [1]
+				"|cff0070dd|Hitem:136761::::::::110:62::30:3:3397:1492:1675:::|h[Fascione della Custode delle Segrete]|h|r", -- [2]
+				3, -- [3]
+				830, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_WAIST", -- [9]
+				1134722, -- [10]
+				204376, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483726958,
+			},
+			["|cff0070dd|Hitem:137530::::::::110:62::2:2:1726:1477:::|h[Drappo della Sfortuna Infame]|h|r"] = {
+				"Drappo della Sfortuna Infame", -- [1]
+				"|cff0070dd|Hitem:137530::::::::110:62::2:2:1726:1477:::|h[Drappo della Sfortuna Infame]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_CLOAK", -- [9]
+				1338453, -- [10]
+				300201, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffe6cc80|Hitem:128862::137370:137473:::::110:62:256:9::171:2:1726:1477:2:1726:1477:|h[Gelonero]|h|r"] = {
+				"Gelonero", -- [1]
+				"|cffe6cc80|Hitem:128862::137370:137473:::::110:62:256:9:2:1508:1508:171:2:1726:1477:2:1726:1477:|h[Gelonero]|h|r", -- [2]
+				6, -- [3]
+				822, -- [4]
+				0, -- [5]
+				"Armi", -- [6]
+				"Bastoni", -- [7]
+				1, -- [8]
+				"INVTYPE_2HWEAPON", -- [9]
+				1247618, -- [10]
+				2430821, -- [11]
+				2, -- [12]
+				10, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:134177::::::::110:62::2:3:1726:1487:1675:::"] = {
+				"Coprispalle di Telarogg", -- [1]
+				"|cff0070dd|Hitem:134177::::::::110:62::2:3:1726:1487:1675:::|h[Coprispalle di Telarogg]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_SHOULDER", -- [9]
+				1134730, -- [10]
+				296686, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["item:132451::::::::110:62:::2:1811:3458:::"] = {
+				"Kilt Mistico del Maestro delle Rune", -- [1]
+				"|cffff8000|Hitem:132451::::::::110:62:::2:1811:3458:::|h[Kilt Mistico del Maestro delle Rune]|h|r", -- [2]
+				5, -- [3]
+				910, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_LEGS", -- [9]
+				340020, -- [10]
+				879221, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			[139185] = {
+				"Pergamena di Nar'thalas", -- [1]
+				"|cffffffff|Hitem:139185::::::::110:62::::::|h[Pergamena di Nar'thalas]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Missioni", -- [6]
+				"Missione", -- [7]
+				5, -- [8]
+				"", -- [9]
+				1392955, -- [10]
+				0, -- [11]
+				12, -- [12]
+				0, -- [13]
+				4, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724356,
+			},
+			["item:134222"] = {
+				"Bracciali dei Parlaossa", -- [1]
+				"|cff1eff00|Hitem:134222::::::::110:62::::::|h[Bracciali dei Parlaossa]|h|r", -- [2]
+				2, -- [3]
+				810, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_WRIST", -- [9]
+				1134724, -- [10]
+				166230, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724040,
+			},
+			["|cffffffff|Hitem:72092::::::::110:62::::::|h[Minerale di Ectoferro]|h|r"] = {
+				"Minerale di Ectoferro", -- [1]
+				"|cffffffff|Hitem:72092::::::::110:62::::::|h[Minerale di Ectoferro]|h|r", -- [2]
+				1, -- [3]
+				86, -- [4]
+				0, -- [5]
+				"Beni commerciali", -- [6]
+				"Metalli e pietre", -- [7]
+				200, -- [8]
+				"", -- [9]
+				538439, -- [10]
+				1500, -- [11]
+				7, -- [12]
+				7, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["|cff0070dd|Hitem:134177::::::::110:62::2:3:1726:1487:1675:::|h[Coprispalle di Telarogg]|h|r"] = {
+				"Coprispalle di Telarogg", -- [1]
+				"|cff0070dd|Hitem:134177::::::::110:62::2:3:1726:1487:1675:::|h[Coprispalle di Telarogg]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_SHOULDER", -- [9]
+				1134730, -- [10]
+				296686, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:139754::::::::110:62::11:2:3385:3381:::"] = {
+				"Bracciali del Tirisgarde", -- [1]
+				"|cff0070dd|Hitem:139754::::::::110:62::11:2:3385:3381:::|h[Bracciali del Tirisgarde]|h|r", -- [2]
+				3, -- [3]
+				810, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_WRIST", -- [9]
+				1450710, -- [10]
+				1250000, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				1273, -- [16]
+				false, -- [17]
+				["timestamp"] = 1483726998,
+			},
+			["item:142507::::::::110:62::4:3:3505:603:1467:::"] = {
+				"Melma Brinosa in Bottiglia", -- [1]
+				"|cffa335ee|Hitem:142507::::::::110:62::4:3:3505:603:1467:::|h[Melma Brinosa in Bottiglia]|h|r", -- [2]
+				4, -- [3]
+				850, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_TRINKET", -- [9]
+				236877, -- [10]
+				506835, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cffffffff|Hitem:124120::::::::110:62::::::|h[Fagliasangue]|h|r"] = {
+				"Fagliasangue", -- [1]
+				"|cffffffff|Hitem:124120::::::::110:62::::::|h[Fagliasangue]|h|r", -- [2]
+				1, -- [3]
+				101, -- [4]
+				0, -- [5]
+				"Beni commerciali", -- [6]
+				"Carni", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1387657, -- [10]
+				30, -- [11]
+				7, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["item:133765::::::::110:62::2:2:1726:1477:::"] = {
+				"Cappa del Coraggio dei Valarjar", -- [1]
+				"|cff0070dd|Hitem:133765::::::::110:62::2:2:1726:1477:::|h[Cappa del Coraggio dei Valarjar]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_CLOAK", -- [9]
+				1314773, -- [10]
+				296624, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cff0070dd|Hitem:136774::::::::110:62::2:3:1726:1808:1477:::|h[Stivaletti della Gloria Imbottiti]|h|r"] = {
+				"Stivaletti della Gloria Imbottiti", -- [1]
+				"|cff0070dd|Hitem:136774::::::::110:62::2:3:1726:1808:1477:::|h[Stivaletti della Gloria Imbottiti]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_FEET", -- [9]
+				1125583, -- [10]
+				325552, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffff8000|Hitem:132451::::::::110:62:::2:1811:3458:::|h[Kilt Mistico del Maestro delle Rune]|h|r"] = {
+				"Kilt Mistico del Maestro delle Rune", -- [1]
+				"|cffff8000|Hitem:132451::::::::110:62:::2:1811:3458:::|h[Kilt Mistico del Maestro delle Rune]|h|r", -- [2]
+				5, -- [3]
+				910, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_LEGS", -- [9]
+				340020, -- [10]
+				879221, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483726958,
+			},
+			["item:136761::::::::110::::::"] = {
+				"Fascione della Custode delle Segrete", -- [1]
+				"|cff1eff00|Hitem:136761::::::::110:62::::::|h[Fascione della Custode delle Segrete]|h|r", -- [2]
+				2, -- [3]
+				810, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_WAIST", -- [9]
+				1134722, -- [10]
+				166281, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724040,
+			},
+			["|cff0070dd|Hitem:133765::::::::110:62::2:2:1726:1477:::|h[Cappa del Coraggio dei Valarjar]|h|r"] = {
+				"Cappa del Coraggio dei Valarjar", -- [1]
+				"|cff0070dd|Hitem:133765::::::::110:62::2:2:1726:1477:::|h[Cappa del Coraggio dei Valarjar]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_CLOAK", -- [9]
+				1314773, -- [10]
+				296624, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:137309::::::::110:62::2:2:1726:1477:::"] = {
+				"Spalletti della Corrente Ascensionale", -- [1]
+				"|cff0070dd|Hitem:137309::::::::110:62::2:2:1726:1477:::|h[Spalletti della Corrente Ascensionale]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_SHOULDER", -- [9]
+				1125591, -- [10]
+				305925, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["item:136977::::::::110:62::23:3:1727:1492:1813:::"] = {
+				"Scialle di Piume Oscure", -- [1]
+				"|cffa335ee|Hitem:136977::::::::110:62::23:3:1727:1492:1813:::|h[Scialle di Piume Oscure]|h|r", -- [2]
+				4, -- [3]
+				840, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_CLOAK", -- [9]
+				1314773, -- [10]
+				437222, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cffffffff|Hitem:120150::::::::110:62::::::|h[Caffè di Roccianera]|h|r"] = {
+				"Caffè di Roccianera", -- [1]
+				"|cffffffff|Hitem:120150::::::::110:62::::::|h[Caffè di Roccianera]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				0, -- [5]
+				"Consumabili", -- [6]
+				"Cibi e bevande", -- [7]
+				20, -- [8]
+				"", -- [9]
+				461803, -- [10]
+				1268, -- [11]
+				0, -- [12]
+				5, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:134352::::::::110:62::36:3:3432:1497:1674:::"] = {
+				"Calzari Strinati dall'Arcano", -- [1]
+				"|cffa335ee|Hitem:134352::::::::110:62::36:3:3432:1497:1674:::|h[Calzari Strinati dall'Arcano]|h|r", -- [2]
+				4, -- [3]
+				835, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_FEET", -- [9]
+				1134723, -- [10]
+				414352, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["item:134304"] = {
+				"Corona da Frangimana", -- [1]
+				"|cff1eff00|Hitem:134304::::::::110:62::::::|h[Corona da Frangimana]|h|r", -- [2]
+				2, -- [3]
+				810, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_HEAD", -- [9]
+				1134727, -- [10]
+				262680, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724040,
+			},
+			["|cffa335ee|Hitem:134217::::::::110:62::16:3:3411:1517:3336:::|h[Guanti dei Parlaossa]|h|r"] = {
+				"Guanti dei Parlaossa", -- [1]
+				"|cffa335ee|Hitem:134217::::::::110:62::16:3:3411:1517:3336:::|h[Guanti dei Parlaossa]|h|r", -- [2]
+				4, -- [3]
+				855, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_HAND", -- [9]
+				1134726, -- [10]
+				275169, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483726958,
+			},
+			["|cff0070dd|Hitem:41797::::::::110:62:512:22::110:::|h[Modello: Diamante Terra Bruciata Austero]|h|r"] = {
+				"Modello: Diamante Terra Bruciata Austero", -- [1]
+				"|cff0070dd|Hitem:41797::::::::110:62:512:22::110:::|h[Modello: Diamante Terra Bruciata Austero]|h|r", -- [2]
+				3, -- [3]
+				80, -- [4]
+				0, -- [5]
+				"Ricette", -- [6]
+				"Oreficeria", -- [7]
+				1, -- [8]
+				"", -- [9]
+				134941, -- [10]
+				40000, -- [11]
+				9, -- [12]
+				10, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffe6cc80|Hitem:127857::141266:137370:::::110:62:256:9::129:3:3474:1507:1674:3:3410:1507:3336:|h[Aluneth]|h|r"] = {
+				"Aluneth", -- [1]
+				"|cffe6cc80|Hitem:127857::141266:137370:::::110:62:256:9:2:1514:1517:129:3:3474:1507:1674:3:3410:1507:3336:|h[Aluneth]|h|r", -- [2]
+				6, -- [3]
+				837, -- [4]
+				0, -- [5]
+				"Armi", -- [6]
+				"Bastoni", -- [7]
+				1, -- [8]
+				"INVTYPE_2HWEAPON", -- [9]
+				1115697, -- [10]
+				2585032, -- [11]
+				2, -- [12]
+				10, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483726958,
+			},
+			["|cffffffff|Hitem:2835::::::::110:62::::::|h[Pietra Grezza]|h|r"] = {
+				"Pietra Grezza", -- [1]
+				"|cffffffff|Hitem:2835::::::::110:62::::::|h[Pietra Grezza]|h|r", -- [2]
+				1, -- [3]
+				5, -- [4]
+				0, -- [5]
+				"Beni commerciali", -- [6]
+				"Metalli e pietre", -- [7]
+				200, -- [8]
+				"", -- [9]
+				135232, -- [10]
+				2, -- [11]
+				7, -- [12]
+				7, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["|cff0070dd|Hitem:128636::::::::110:62::11::::|h[Fulminatore Endotermico]|h|r"] = {
+				"Fulminatore Endotermico", -- [1]
+				"|cff0070dd|Hitem:128636::::::::110:62::11::::|h[Fulminatore Endotermico]|h|r", -- [2]
+				3, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Varie", -- [6]
+				"Altro", -- [7]
+				1, -- [8]
+				"", -- [9]
+				249182, -- [10]
+				0, -- [11]
+				15, -- [12]
+				4, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff0070dd|Hitem:130178::::::::110:62::::::|h[Pietrafuria]|h|r"] = {
+				"Pietrafuria", -- [1]
+				"|cff0070dd|Hitem:130178::::::::110:62::::::|h[Pietrafuria]|h|r", -- [2]
+				3, -- [3]
+				110, -- [4]
+				1, -- [5]
+				"Beni commerciali", -- [6]
+				"Oreficeria", -- [7]
+				200, -- [8]
+				"", -- [9]
+				1379199, -- [10]
+				210000, -- [11]
+				7, -- [12]
+				4, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = true,
+				["timestamp"] = 1483727003,
+			},
+			["item:134404"] = {
+				"Stola del Riposo Malefico", -- [1]
+				"|cff0070dd|Hitem:134404::::::::110:62::::::|h[Stola del Riposo Malefico]|h|r", -- [2]
+				3, -- [3]
+				820, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_CLOAK", -- [9]
+				1338453, -- [10]
+				296064, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724040,
+			},
+			["|cff0070dd|Hitem:140587::::::::110:62::::::|h[Runa del Potenziamento Profanato]|h|r"] = {
+				"Runa del Potenziamento Profanato", -- [1]
+				"|cff0070dd|Hitem:140587::::::::110:62::::::|h[Runa del Potenziamento Profanato]|h|r", -- [2]
+				3, -- [3]
+				110, -- [4]
+				110, -- [5]
+				"Consumabili", -- [6]
+				"Altro", -- [7]
+				20, -- [8]
+				"", -- [9]
+				1118739, -- [10]
+				93546, -- [11]
+				0, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:137319::::::::110:62::2:2:1726:1477:::"] = {
+				"Calzature Scattanti della Paranoia", -- [1]
+				"|cff0070dd|Hitem:137319::::::::110:62::2:2:1726:1477:::|h[Calzature Scattanti della Paranoia]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_FEET", -- [9]
+				1125583, -- [10]
+				325583, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["item:133679::::::::110::::::"] = {
+				"Anello con Sigillo dell'Ascensione delle Val'kyr", -- [1]
+				"|cff0070dd|Hitem:133679::::::::110:62::::::|h[Anello con Sigillo dell'Ascensione delle Val'kyr]|h|r", -- [2]
+				3, -- [3]
+				820, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_FINGER", -- [9]
+				1408458, -- [10]
+				261118, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724040,
+			},
+			["|cffa335ee|Hitem:139506::::::::110:62:8388608:11::15:::|h[Gloria Superiore dell'Ordine]|h|r"] = {
+				"Gloria Superiore dell'Ordine", -- [1]
+				"|cffa335ee|Hitem:139506::::::::110:62:8388608:11::15:::|h[Gloria Superiore dell'Ordine]|h|r", -- [2]
+				4, -- [3]
+				110, -- [4]
+				0, -- [5]
+				"Consumabili", -- [6]
+				"Altro", -- [7]
+				1, -- [8]
+				"", -- [9]
+				236683, -- [10]
+				0, -- [11]
+				0, -- [12]
+				8, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cff0070dd|Hitem:134537::::::::110:62::2:3:1726:1482:3339:::|h[Anello con Sigillo dei Magi Alti Nobili]|h|r"] = {
+				"Anello con Sigillo dei Magi Alti Nobili", -- [1]
+				"|cff0070dd|Hitem:134537::::::::110:62::2:3:1726:1482:3339:::|h[Anello con Sigillo dei Magi Alti Nobili]|h|r", -- [2]
+				3, -- [3]
+				830, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_FINGER", -- [9]
+				1408456, -- [10]
+				251555, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483726958,
+			},
+			["|cffffffff|Hitem:109222::::::::110:62::::::|h[Pozione del Mana Draenoriana]|h|r"] = {
+				"Pozione del Mana Draenoriana", -- [1]
+				"|cffffffff|Hitem:109222::::::::110:62::::::|h[Pozione del Mana Draenoriana]|h|r", -- [2]
+				1, -- [3]
+				100, -- [4]
+				90, -- [5]
+				"Consumabili", -- [6]
+				"Pozioni", -- [7]
+				20, -- [8]
+				"", -- [9]
+				967557, -- [10]
+				6000, -- [11]
+				0, -- [12]
+				1, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:128820::141261:133768:::::110:62:256:9::490:3:3473:1502:1674:2:1726:1477:"] = {
+				"Felo'melorn", -- [1]
+				"|cffe6cc80|Hitem:128820::141261:133768:::::110:62:256:9:2:1512:1508:490:3:3473:1502:1674:2:1726:1477:|h[Felo'melorn]|h|r", -- [2]
+				6, -- [3]
+				826, -- [4]
+				0, -- [5]
+				"Armi", -- [6]
+				"Spade a una mano", -- [7]
+				1, -- [8]
+				"INVTYPE_WEAPONMAINHAND", -- [9]
+				1118645, -- [10]
+				1887388, -- [11]
+				2, -- [12]
+				7, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["item:134529::::::::110:62::23:3:1727:1492:1813:::"] = {
+				"Catenina delle Ossa Bruciate", -- [1]
+				"|cffa335ee|Hitem:134529::::::::110:62::23:3:1727:1492:1813:::|h[Catenina delle Ossa Bruciate]|h|r", -- [2]
+				4, -- [3]
+				840, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_NECK", -- [9]
+				1360042, -- [10]
+				248481, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				1293, -- [16]
+				false, -- [17]
+				["timestamp"] = 1483725084,
+			},
+			[137659] = {
+				"Chiave Arrugginita", -- [1]
+				"|cffffffff|Hitem:137659::::::::110:62::::::|h[Chiave Arrugginita]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Missioni", -- [6]
+				"Missione", -- [7]
+				1, -- [8]
+				"", -- [9]
+				134247, -- [10]
+				0, -- [11]
+				12, -- [12]
+				0, -- [13]
+				4, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483726468,
+			},
+			["|cff1eff00|Hitem:21213::::::::110:62::::::|h[Agrifoglio Conservato]|h|r"] = {
+				"Agrifoglio Conservato", -- [1]
+				"|cff1eff00|Hitem:21213::::::::110:62::::::|h[Agrifoglio Conservato]|h|r", -- [2]
+				2, -- [3]
+				20, -- [4]
+				20, -- [5]
+				"Varie", -- [6]
+				"Festivi", -- [7]
+				20, -- [8]
+				"", -- [9]
+				237426, -- [10]
+				0, -- [11]
+				15, -- [12]
+				3, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:137503::::::::110:62::2:3:1726:1808:1477:::"] = {
+				"Amitto della Risata Crudele", -- [1]
+				"|cff0070dd|Hitem:137503::::::::110:62::2:3:1726:1808:1477:::|h[Amitto della Risata Crudele]|h|r", -- [2]
+				3, -- [3]
+				825, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_SHOULDER", -- [9]
+				1125591, -- [10]
+				323375, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["item:134352"] = {
+				"Calzari Strinati dall'Arcano", -- [1]
+				"|cff1eff00|Hitem:134352::::::::110:62::::::|h[Calzari Strinati dall'Arcano]|h|r", -- [2]
+				2, -- [3]
+				810, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_FEET", -- [9]
+				1134723, -- [10]
+				251351, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724040,
+			},
+			["item:139089::::::::110:62::16:4:3412:1808:1512:1813:::"] = {
+				"Tonaca del Sognatore Notturno", -- [1]
+				"|cffa335ee|Hitem:139089::::::::110:62::16:4:3412:1808:1512:1813:::|h[Tonaca del Sognatore Notturno]|h|r", -- [2]
+				4, -- [3]
+				850, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_ROBE", -- [9]
+				1134729, -- [10]
+				544409, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["item:134217::::::::110::::::"] = {
+				"Guanti dei Parlaossa", -- [1]
+				"|cff1eff00|Hitem:134217::::::::110:62::::::|h[Guanti dei Parlaossa]|h|r", -- [2]
+				2, -- [3]
+				810, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_HAND", -- [9]
+				1134726, -- [10]
+				163083, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724040,
+			},
+			["|cffffffff|Hitem:21100::::::::110:62::::::|h[Moneta degli Avi]|h|r"] = {
+				"Moneta degli Avi", -- [1]
+				"|cffffffff|Hitem:21100::::::::110:62::::::|h[Moneta degli Avi]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				0, -- [5]
+				"Missioni", -- [6]
+				"Missione", -- [7]
+				100, -- [8]
+				"", -- [9]
+				133858, -- [10]
+				0, -- [11]
+				12, -- [12]
+				0, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:110560::::::::110:62::::::|h[Pietra del Ritorno alla Guarnigione]|h|r"] = {
+				"Pietra del Ritorno alla Guarnigione", -- [1]
+				"|cffffffff|Hitem:110560::::::::110:62::::::|h[Pietra del Ritorno alla Guarnigione]|h|r", -- [2]
+				1, -- [3]
+				90, -- [4]
+				90, -- [5]
+				"Varie", -- [6]
+				"Cianfrusaglie", -- [7]
+				1, -- [8]
+				"", -- [9]
+				1041860, -- [10]
+				0, -- [11]
+				15, -- [12]
+				0, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:21254::::::::110:62::::::|h[Biscotto di Grande Inverno]|h|r"] = {
+				"Biscotto di Grande Inverno", -- [1]
+				"|cffffffff|Hitem:21254::::::::110:62::::::|h[Biscotto di Grande Inverno]|h|r", -- [2]
+				1, -- [3]
+				55, -- [4]
+				0, -- [5]
+				"Consumabili", -- [6]
+				"Cibi e bevande", -- [7]
+				5, -- [8]
+				"", -- [9]
+				134018, -- [10]
+				0, -- [11]
+				0, -- [12]
+				5, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["item:136766::::::::110:62::36:3:3432:1497:1674:::"] = {
+				"Calzature della Custode delle Segrete", -- [1]
+				"|cffa335ee|Hitem:136766::::::::110:62::36:3:3432:1497:1674:::|h[Calzature della Custode delle Segrete]|h|r", -- [2]
+				4, -- [3]
+				835, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_FEET", -- [9]
+				1134723, -- [10]
+				426900, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["item:134495::::::::110:62::2:3:1726:1482:3339:::"] = {
+				"Catenina del Re delle Profondità", -- [1]
+				"|cff0070dd|Hitem:134495::::::::110:62::2:3:1726:1482:3339:::|h[Catenina del Re delle Profondità]|h|r", -- [2]
+				3, -- [3]
+				830, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_NECK", -- [9]
+				1360034, -- [10]
+				183428, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cffffffff|Hitem:138111::::::::110:62::::::|h[Lancia Rampino dei Forgiatuono]|h|r"] = {
+				"Lancia Rampino dei Forgiatuono", -- [1]
+				"|cffffffff|Hitem:138111::::::::110:62::::::|h[Lancia Rampino dei Forgiatuono]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Varie", -- [6]
+				"Altro", -- [7]
+				1, -- [8]
+				"", -- [9]
+				985703, -- [10]
+				0, -- [11]
+				15, -- [12]
+				4, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffffffff|Hitem:113509::::::::110:62::::::|h[Frittella di Mana Evocata]|h|r"] = {
+				"Frittella di Mana Evocata", -- [1]
+				"|cffffffff|Hitem:113509::::::::110:62::::::|h[Frittella di Mana Evocata]|h|r", -- [2]
+				1, -- [3]
+				100, -- [4]
+				0, -- [5]
+				"Consumabili", -- [6]
+				"Cibi e bevande", -- [7]
+				20, -- [8]
+				"", -- [9]
+				134029, -- [10]
+				0, -- [11]
+				0, -- [12]
+				5, -- [13]
+				0, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffa335ee|Hitem:128510::::::::110:62::::::|h[Costume Formidabile da \"Edwin VanCleef\"]|h|r"] = {
+				"Costume Formidabile da \"Edwin VanCleef\"", -- [1]
+				"|cffa335ee|Hitem:128510::::::::110:62::::::|h[Costume Formidabile da \"Edwin VanCleef\"]|h|r", -- [2]
+				4, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Varie", -- [6]
+				"Festivi", -- [7]
+				1, -- [8]
+				"", -- [9]
+				236409, -- [10]
+				0, -- [11]
+				15, -- [12]
+				3, -- [13]
+				1, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			["|cffa335ee|Hitem:134319::::::::110:62::42:3:3474:1507:1674:::|h[Pendente con Cristallo di Mana Consumato]|h|r"] = {
+				"Pendente con Cristallo di Mana Consumato", -- [1]
+				"|cffa335ee|Hitem:134319::::::::110:62::42:3:3474:1507:1674:::|h[Pendente con Cristallo di Mana Consumato]|h|r", -- [2]
+				4, -- [3]
+				845, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_NECK", -- [9]
+				1360015, -- [10]
+				239894, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483726958,
+			},
+			["|cffa335ee|Hitem:133679::::::::110:62::23:3:1727:1507:3337:::|h[Anello con Sigillo dell'Ascensione delle Val'kyr]|h|r"] = {
+				"Anello con Sigillo dell'Ascensione delle Val'kyr", -- [1]
+				"|cffa335ee|Hitem:133679::::::::110:62::23:3:1727:1507:3337:::|h[Anello con Sigillo dell'Ascensione delle Val'kyr]|h|r", -- [2]
+				4, -- [3]
+				855, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_FINGER", -- [9]
+				1408458, -- [10]
+				362754, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483726958,
+			},
+			["|cffa335ee|Hitem:136977::::::::110:62::23:3:1727:1492:1813:::|h[Scialle di Piume Oscure]|h|r"] = {
+				"Scialle di Piume Oscure", -- [1]
+				"|cffa335ee|Hitem:136977::::::::110:62::23:3:1727:1492:1813:::|h[Scialle di Piume Oscure]|h|r", -- [2]
+				4, -- [3]
+				840, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_CLOAK", -- [9]
+				1314773, -- [10]
+				437222, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			[138968] = {
+				"Collana Scintillante", -- [1]
+				"|cffffffff|Hitem:138968::::::::110:62::::::|h[Collana Scintillante]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Missioni", -- [6]
+				"Missione", -- [7]
+				1, -- [8]
+				"", -- [9]
+				133298, -- [10]
+				1, -- [11]
+				12, -- [12]
+				0, -- [13]
+				4, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727009,
+			},
+			["item:134404::::::::110::::::"] = {
+				"Stola del Riposo Malefico", -- [1]
+				"|cff0070dd|Hitem:134404::::::::110:62::::::|h[Stola del Riposo Malefico]|h|r", -- [2]
+				3, -- [3]
+				820, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_CLOAK", -- [9]
+				1338453, -- [10]
+				296064, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724040,
+			},
+			["item:134217"] = {
+				"Guanti dei Parlaossa", -- [1]
+				"|cff1eff00|Hitem:134217::::::::110:62::::::|h[Guanti dei Parlaossa]|h|r", -- [2]
+				2, -- [3]
+				810, -- [4]
+				101, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_HAND", -- [9]
+				1134726, -- [10]
+				163083, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724040,
+			},
+			["|cffa335ee|Hitem:134404::::::::110:62::35:3:3412:1512:3336:::|h[Stola del Riposo Malefico]|h|r"] = {
+				"Stola del Riposo Malefico", -- [1]
+				"|cffa335ee|Hitem:134404::::::::110:62::35:3:3412:1512:3336:::|h[Stola del Riposo Malefico]|h|r", -- [2]
+				4, -- [3]
+				860, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_CLOAK", -- [9]
+				1338453, -- [10]
+				413667, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483726958,
+			},
+			["|cffa335ee|Hitem:139089::::::::110:62::2:3:1726:1502:3337:::|h[Tonaca del Sognatore Notturno]|h|r"] = {
+				"Tonaca del Sognatore Notturno", -- [1]
+				"|cffa335ee|Hitem:139089::::::::110:62::2:3:1726:1502:3337:::|h[Tonaca del Sognatore Notturno]|h|r", -- [2]
+				4, -- [3]
+				840, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Stoffa", -- [7]
+				1, -- [8]
+				"INVTYPE_ROBE", -- [9]
+				1134729, -- [10]
+				538114, -- [11]
+				4, -- [12]
+				1, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483727003,
+			},
+			[137598] = {
+				"Perla della Saggezza Arcana", -- [1]
+				"|cffffffff|Hitem:137598::::::::110:62::::::|h[Perla della Saggezza Arcana]|h|r", -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+				"Missioni", -- [6]
+				"Missione", -- [7]
+				1, -- [8]
+				"", -- [9]
+				464022, -- [10]
+				0, -- [11]
+				12, -- [12]
+				0, -- [13]
+				4, -- [14]
+				0, -- [15]
+				[17] = false,
+				["timestamp"] = 1483724350,
+			},
+			["item:136750::::::::110:62::36:5:3432:42:605:1497:1674:::"] = {
+				"Talismano delle Custodi delle Segrete", -- [1]
+				"|cffa335ee|Hitem:136750::::::::110:62::36:5:3432:42:605:1497:1674:::|h[Talismano delle Custodi delle Segrete]|h|r", -- [2]
+				4, -- [3]
+				835, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_TRINKET", -- [9]
+				632833, -- [10]
+				495929, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483725084,
+			},
+			["|cffa335ee|Hitem:142507::::::::110:62::4:3:3505:603:1467:::|h[Melma Brinosa in Bottiglia]|h|r"] = {
+				"Melma Brinosa in Bottiglia", -- [1]
+				"|cffa335ee|Hitem:142507::::::::110:62::4:3:3505:603:1467:::|h[Melma Brinosa in Bottiglia]|h|r", -- [2]
+				4, -- [3]
+				850, -- [4]
+				110, -- [5]
+				"Armature", -- [6]
+				"Varie", -- [7]
+				1, -- [8]
+				"INVTYPE_TRINKET", -- [9]
+				236877, -- [10]
+				506835, -- [11]
+				4, -- [12]
+				0, -- [13]
+				1, -- [14]
+				6, -- [15]
+				[17] = false,
+				["timestamp"] = 1483726958,
+			},
+		},
+	},
+	["factionrealm"] = {
+		["Alliance - Pozzo dell'Eternità"] = {
+			["altNames"] = {
+				["Enchàntrix"] = "Enchàntrix",
+			},
+		},
+	},
+	["realm"] = {
+		["Pozzo dell'Eternità"] = {
+			["gold_scan_data"] = {
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Enchàntrix - Pozzo dell'Eternità"] = "Enchàntrix",
+	},
+	["profiles"] = {
+		["Enchàntrix"] = {
+			["frame_positions"] = {
+				["ZygorGuidesViewerPointer_ArrowCtrl"] = {
+					"TOP", -- [1]
+					nil, -- [2]
+					"TOP", -- [3]
+					-16.9999866485596, -- [4]
+					-182.000015258789, -- [5]
+				},
+			},
+			["gmlasthomeversion"] = 1,
+			["usernamed"] = true,
+			["frame_anchor"] = {
+				"LEFT", -- [1]
+				nil, -- [2]
+				"LEFT", -- [3]
+				15.5299501419067, -- [4]
+				196.264892578125, -- [5]
+			},
+			["gmlastsection"] = "LEVELING\\Legion (100-110)",
+		},
+	},
+}

@@ -1,0 +1,26 @@
+
+RematchSettings = {
+	["loadedTeamTable"] = {
+		{
+		}, -- [1]
+		{
+		}, -- [2]
+		{
+		}, -- [3]
+	},
+	["WoDReady"] = true,
+	["Y"] = 522.769226074219,
+	["LevelingQueue"] = {
+	},
+	["Height"] = 450,
+	["TeamGroups"] = {
+		{
+			"Generale", -- [1]
+			"Interface\\Icons\\PetJournalPortrait", -- [2]
+		}, -- [1]
+	},
+	["SelectedTab"] = 1,
+	["X"] = 902.256530761719,
+}
+RematchSaved = {
+}

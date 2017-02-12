@@ -1,0 +1,94 @@
+VER 3 0000000000000015 "aoe inglese" "ABILITY_WHIRLWIND"
+/targetenemy [noharm][dead]
+/startattack
+/cast [combat] Berserker Rage
+/castsequence  Whirlwind, Whirlwind, Raging Blow
+END
+VER 3 0000000000000002 "camera" "Ability_CheapShot"
+/script SetCVar ("cameraDistancemax" ,50)
+END
+VER 3 0000000000000004 "cd" "INV_SHIELD_05"
+/tar kìllua
+/cast vigilanza
+END
+VER 3 0000000000000016 "cd inglese" "Spell_Holy_RetributionAura"
+/cast Berserker Rage
+/cast Bloodbath
+/cast avatar
+/cast Recklessness
+/use  Draenic Strength Potion
+/use  13
+/cast Heroic Leap
+END
+VER 3 0000000000000008 "CollectMeRC" "INV_PET_BABYBLIZZARDBEAR"
+/love
+END
+VER 3 0000000000000001 "Decursive" "INV_MISC_QUESTIONMARK"
+/script DecursiveRootTable.Dcr:Println('No spell available')
+END
+VER 3 0000000000000010 "epgp" "133453"
+/epgp
+END
+VER 3 000000000000000C "focus" "INV_MISC_QUESTIONMARK"
+/focus [target=focus]
+END
+VER 3 0000000000000003 "inchino" "ACHIEVEMENT_GUILDPERK_MOBILEBANKING"
+/tar Esecutore
+/tar Araldo
+/tar Monarca
+/cast Provocazione
+END
+VER 3 0000000000000013 "last+regen" "SPELL_HOLY_ASHESTOASHES"
+#showtooltip 12975
+#showtooltip 55694
+/use 12975
+/use 55694
+END
+VER 3 0000000000000017 "m10 achi" "INV_MISC_NOTE_05"
+/fa 11162 26/01/16
+END
+VER 3 000000000000000F "macro" "Spell_Holy_Crusade"
+/clic [btn:1]MTSB1 LeftButton;[btn:2]MTSB1 RightButton;[btn:3]MTSB1 MiddleButton;[btn:4]MTSB1 Button4;[btn:5]MTSB1 Button5
+END
+VER 3 0000000000000007 "pozione" "SPELL_NATURE_WISPSPLODE"
+/sleep
+END
+VER 3 0000000000000011 "prova" "SPELL_SHADOW_UNHOLYSTRENGTH"
+/clic [btn:1]MTSB2 LeftButton;[btn:2]MTSB2 RightButton;[btn:3]MTSB2 MiddleButton;[btn:4]MTSB2 Button4;[btn:5]MTSB2 Button5
+END
+VER 3 0000000000000009 "pull check" "ABILITY_MOUNT_BIGBLIZZARDBEAR"
+/kneel
+END
+VER 3 0000000000000006 "reset " "SPELL_NATURE_TIMESTOP"
+/script ResetChallengeMode()
+END
+VER 3 0000000000000005 "roar" "Ability_Iyyokuk_Bomb_Green"
+/roar
+END
+VER 3 000000000000000A "shamano grosso" "ABILITY_GOUGE"
+/tar Dominatore
+#/cast provocazione
+END
+VER 3 000000000000000B "shamano magro" "ABILITY_WARRIOR_WEAPONMASTERY"
+/cast Furia del Berserker
+/cast bagno di sangue
+/cast avatar
+/cast Grido di Battaglia
+/use Pozione della Forza Draenoriana
+/use 14
+END
+VER 3 0000000000000012 "spam gilda" "134300"
+/g Ciao a tutti!!! La gilda ha anche un gruppo di WhatsApp  e Telegram. Lo usiamo per tenerci sempre in contatto, molte comunicazioni passano di li. Grazie.  chi interessa entrare nel gruppo di WS o di telegram della gilda mi contatti in wisp..
+END
+VER 3 000000000000000D "tount assorb" "INV_SHIELD_20"
+#showtoltip Provocazione
+/cast Scudo Saldo
+/cast Scudo Rabbioso
+/cast provocazione
+END
+VER 3 000000000000000E "ww" "ABILITY_WHIRLWIND"
+/targetenemy [noharm][dead]
+/startattack
+/cast [combat] Rabbia del Berserker
+/castsequence  Turbine, Turbine, Colpo Furente
+END

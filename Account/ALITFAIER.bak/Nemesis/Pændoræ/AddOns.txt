@@ -1,0 +1,2 @@
+TradeSkillMaster_AuctionDB: enabled
+TradeSkillMaster_WoWuction: disabled

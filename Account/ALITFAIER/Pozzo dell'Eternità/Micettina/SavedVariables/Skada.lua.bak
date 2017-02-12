@@ -1,0 +1,1722 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 312,
+		["interrupts"] = 0,
+		["damage"] = 3659,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "HUNTER",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["ccbreaks"] = 0,
+				["damage"] = 3659,
+				["damagespells"] = {
+					["Lupo: Ordine di Morte"] = {
+						["min"] = 8,
+						["hit"] = 10,
+						["totalhits"] = 10,
+						["id"] = 83381,
+						["max"] = 13,
+						["damage"] = 97,
+					},
+					["Tiro Automatico"] = {
+						["min"] = 7,
+						["critical"] = 28,
+						["hit"] = 83,
+						["totalhits"] = 111,
+						["id"] = 75,
+						["max"] = 26,
+						["damage"] = 1431,
+					},
+					["Tiro del Cobra"] = {
+						["min"] = 9,
+						["critical"] = 12,
+						["hit"] = 46,
+						["totalhits"] = 58,
+						["id"] = 193455,
+						["max"] = 44,
+						["damage"] = 1169,
+					},
+					["Lupo: Attacco"] = {
+						["min"] = 4,
+						["critical"] = 32,
+						["hit"] = 91,
+						["totalhits"] = 123,
+						["id"] = 6603,
+						["max"] = 16,
+						["damage"] = 962,
+					},
+				},
+				["maxhp"] = 154,
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "Player-1309-0870134D",
+				["healing"] = 0,
+				["deathlog"] = {
+					{
+						["ts"] = 1470078046.189,
+						["amount"] = -5,
+						["hp"] = 154,
+						["spellid"] = 88163,
+						["srcname"] = "Worg Roccianera",
+					}, -- [1]
+					{
+						["ts"] = 1470078441.43,
+						["amount"] = -7,
+						["hp"] = 240,
+						["spellid"] = 88163,
+						["srcname"] = "Assassina Goblin",
+					}, -- [2]
+					{
+						["ts"] = 1470078442.447,
+						["amount"] = -3,
+						["hp"] = 233,
+						["spellid"] = 88163,
+						["srcname"] = "Assassina Goblin",
+					}, -- [3]
+					{
+						["ts"] = 1470078457.475,
+						["amount"] = -6,
+						["hp"] = 230,
+						["spellid"] = 88163,
+						["srcname"] = "Assassino Goblin",
+					}, -- [4]
+					{
+						["ts"] = 1470078457.625,
+						["amount"] = -3,
+						["hp"] = 230,
+						["spellid"] = 88163,
+						["srcname"] = "Assassino Goblin",
+					}, -- [5]
+					{
+						["ts"] = 1470078459.544,
+						["amount"] = -6,
+						["hp"] = 221,
+						["spellid"] = 88163,
+						["srcname"] = "Assassino Goblin",
+					}, -- [6]
+					{
+						["ts"] = 1470078459.544,
+						["amount"] = -2,
+						["hp"] = 221,
+						["spellid"] = 88163,
+						["srcname"] = "Assassino Goblin",
+					}, -- [7]
+					{
+						["ts"] = 1470078461.498,
+						["amount"] = -6,
+						["hp"] = 213,
+						["spellid"] = 88163,
+						["srcname"] = "Assassino Goblin",
+					}, -- [8]
+					{
+						["ts"] = 1470078462.114,
+						["amount"] = -3,
+						["hp"] = 207,
+						["spellid"] = 88163,
+						["srcname"] = "Assassino Goblin",
+					}, -- [9]
+					{
+						["ts"] = 1470078487.614,
+						["amount"] = -6,
+						["hp"] = 240,
+						["spellid"] = 88163,
+						["srcname"] = "Assassino Goblin",
+					}, -- [10]
+					{
+						["ts"] = 1470078709.3,
+						["amount"] = -5,
+						["hp"] = 272,
+						["spellid"] = 88163,
+						["srcname"] = "Invasore Roccianera",
+					}, -- [11]
+					{
+						["ts"] = 1470078736.919,
+						["amount"] = -6,
+						["hp"] = 272,
+						["spellid"] = 88163,
+						["srcname"] = "Invasore Roccianera",
+					}, -- [12]
+					["pos"] = 13,
+				},
+				["damagetakenspells"] = {
+					["Attacco"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["min"] = 2,
+						["absorbed"] = 0,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Attacco",
+						["blocked"] = 0,
+						["totalhits"] = 12,
+						["resisted"] = 0,
+						["max"] = 7,
+						["damage"] = 58,
+					},
+				},
+				["power"] = {
+				},
+				["auras"] = {
+					["Acqua Nebulizzata"] = {
+						["name"] = "Acqua Nebulizzata",
+						["active"] = 0,
+						["id"] = 80199,
+						["auratype"] = "BUFF",
+						["uptime"] = 10,
+					},
+					["Lupo: Ringhio"] = {
+						["name"] = "Lupo: Ringhio",
+						["active"] = 0,
+						["id"] = 2649,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 125,
+					},
+				},
+				["name"] = "Micettina",
+				["damagetaken"] = 58,
+				["role"] = "NONE",
+				["time"] = 278,
+				["multistrikes"] = 0,
+			}, -- [1]
+			{
+				["healingabsorbed"] = 0,
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+					["Punizione"] = {
+						["shielding"] = 5,
+						["id"] = 208771,
+						["healing"] = 5,
+						["min"] = 5,
+						["multistrike"] = 0,
+						["name"] = "Punizione",
+						["max"] = 5,
+						["critical"] = 0,
+						["absorbed"] = 0,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["ccbreaks"] = 0,
+				["damage"] = 0,
+				["damagespells"] = {
+				},
+				["maxhp"] = 0,
+				["healed"] = {
+					["Pet-0-1465-0-2629-42717-010232C290"] = {
+						["role"] = "NONE",
+						["name"] = "Lupo",
+						["amount"] = 5,
+						["class"] = "WARRIOR",
+						["shielding"] = 5,
+					},
+				},
+				["shielding"] = 5,
+				["id"] = "Player-1311-087011D2",
+				["healing"] = 5,
+				["deathlog"] = {
+				},
+				["damagetakenspells"] = {
+				},
+				["power"] = {
+				},
+				["auras"] = {
+				},
+				["name"] = "Gustos",
+				["damagetaken"] = 0,
+				["role"] = "NONE",
+				["time"] = 0,
+				["multistrikes"] = 0,
+			}, -- [2]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["Worg Roccianera"] = {
+				["players"] = {
+					["Micettina"] = {
+						["taken"] = 486,
+						["done"] = 5,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 486,
+				["done"] = 5,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Spia Roccianera"] = {
+				["players"] = {
+					["Micettina"] = {
+						["taken"] = 1052,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1052,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Assassino Goblin"] = {
+				["players"] = {
+					["Micettina"] = {
+						["taken"] = 781,
+						["done"] = 32,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 781,
+				["done"] = 32,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Fratello Paxton"] = {
+				["players"] = {
+				},
+				["hdone"] = 26,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Cura Rapida"] = {
+						["min"] = 14,
+						["crits"] = 0,
+						["max"] = 14,
+						["healing"] = 14,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+					["Rinnovamento"] = {
+						["min"] = 2,
+						["crits"] = 0,
+						["max"] = 2,
+						["healing"] = 12,
+						["overhealing"] = 0,
+						["hits"] = 6,
+					},
+				},
+			},
+			["Gregario di Roccavento"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Cura Rapida"] = {
+						["min"] = 14,
+						["crits"] = 0,
+						["max"] = 14,
+						["healing"] = 14,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+					["Rinnovamento"] = {
+						["min"] = 2,
+						["crits"] = 0,
+						["max"] = 2,
+						["healing"] = 12,
+						["overhealing"] = 0,
+						["hits"] = 6,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 26,
+				["hdonespell"] = {
+				},
+			},
+			["Invasore Roccianera"] = {
+				["players"] = {
+					["Micettina"] = {
+						["taken"] = 1083,
+						["done"] = 11,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1083,
+				["done"] = 11,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Coltain-Aggramar"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Risucchio di Vita"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 192,
+						["hits"] = 2,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Risucchio di Vita"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 192,
+						["hits"] = 2,
+					},
+				},
+			},
+			["Xygo-Kilrogg"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Rapida Mano della Giustizia"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 10,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Rapida Mano della Giustizia"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 10,
+						["hits"] = 1,
+					},
+				},
+			},
+			["Assassina Goblin"] = {
+				["players"] = {
+					["Micettina"] = {
+						["taken"] = 257,
+						["done"] = 10,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 257,
+				["done"] = 10,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Calhia"] = {
+				["players"] = {
+				},
+				["hdone"] = 6,
+				["htakenspell"] = {
+					["Rapida Mano della Giustizia"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 6,
+						["healing"] = 6,
+						["overhealing"] = 28,
+						["hits"] = 3,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 6,
+				["hdonespell"] = {
+					["Rapida Mano della Giustizia"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 6,
+						["healing"] = 6,
+						["overhealing"] = 28,
+						["hits"] = 3,
+					},
+				},
+			},
+		},
+		["mobtaken"] = 3659,
+		["healing"] = 5,
+		["power"] = {
+		},
+		["starttime"] = 1470077764,
+		["damagetaken"] = 58,
+		["shielding"] = 5,
+		["name"] = "Totale",
+		["overhealing"] = 0,
+		["mobdone"] = 58,
+		["mobhdone"] = 32,
+		["last_action"] = 1470077764,
+		["multistrikes"] = 0,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 12,
+			["interrupts"] = 0,
+			["endtime"] = 1470078789,
+			["damage"] = 156,
+			["players"] = {
+				{
+					["last"] = 1470078787,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Invasore Roccianera"] = 156,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 156,
+					["damagespells"] = {
+						["Tiro del Cobra"] = {
+							["min"] = 42,
+							["critical"] = 1,
+							["totalhits"] = 1,
+							["id"] = 193455,
+							["max"] = 42,
+							["damage"] = 42,
+						},
+						["Tiro Automatico"] = {
+							["min"] = 11,
+							["critical"] = 2,
+							["hit"] = 3,
+							["totalhits"] = 5,
+							["id"] = 75,
+							["max"] = 23,
+							["damage"] = 78,
+						},
+						["Lupo: Attacco"] = {
+							["min"] = 7,
+							["critical"] = 1,
+							["hit"] = 3,
+							["totalhits"] = 4,
+							["id"] = 6603,
+							["max"] = 15,
+							["damage"] = 36,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1309-0870134D",
+					["healing"] = 0,
+					["maxhp"] = 272,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Lupo: Ringhio"] = {
+							["name"] = "Lupo: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["name"] = "Micettina",
+					["damagetaken"] = 0,
+					["first"] = 1470078777,
+					["role"] = "NONE",
+					["time"] = 10,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Invasore Roccianera"] = {
+					["players"] = {
+						["Micettina"] = {
+							["taken"] = 156,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 156,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 156,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1470078777,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Invasore Roccianera (7)",
+			["mobname"] = "Invasore Roccianera",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1470078777,
+			["multistrikes"] = 0,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["endtime"] = 1470078762,
+			["damage"] = 128,
+			["players"] = {
+				{
+					["last"] = 1470078761,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Invasore Roccianera"] = 128,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 128,
+					["damagespells"] = {
+						["Lupo: Ordine di Morte"] = {
+							["min"] = 13,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 83381,
+							["max"] = 13,
+							["damage"] = 13,
+						},
+						["Tiro del Cobra"] = {
+							["min"] = 21,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 193455,
+							["max"] = 22,
+							["damage"] = 43,
+						},
+						["Tiro Automatico"] = {
+							["min"] = 11,
+							["critical"] = 1,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["id"] = 75,
+							["max"] = 25,
+							["damage"] = 49,
+						},
+						["Lupo: Attacco"] = {
+							["min"] = 7,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 6603,
+							["max"] = 8,
+							["damage"] = 23,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1309-0870134D",
+					["healing"] = 0,
+					["maxhp"] = 272,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Lupo: Ringhio"] = {
+							["name"] = "Lupo: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["name"] = "Micettina",
+					["damagetaken"] = 0,
+					["first"] = 1470078755,
+					["role"] = "NONE",
+					["time"] = 6,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Invasore Roccianera"] = {
+					["players"] = {
+						["Micettina"] = {
+							["taken"] = 128,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 128,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 128,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1470078755,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Invasore Roccianera (6)",
+			["mobname"] = "Invasore Roccianera",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1470078755,
+			["multistrikes"] = 0,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 6,
+			["interrupts"] = 0,
+			["endtime"] = 1470078751,
+			["damage"] = 127,
+			["players"] = {
+				{
+					["last"] = 1470078749,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Invasore Roccianera"] = 127,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 127,
+					["damagespells"] = {
+						["Tiro Automatico"] = {
+							["min"] = 13,
+							["critical"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["id"] = 75,
+							["max"] = 24,
+							["damage"] = 37,
+						},
+						["Tiro del Cobra"] = {
+							["min"] = 20,
+							["critical"] = 1,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["id"] = 193455,
+							["max"] = 42,
+							["damage"] = 83,
+						},
+						["Lupo: Attacco"] = {
+							["min"] = 7,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 6603,
+							["max"] = 7,
+							["damage"] = 7,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1309-0870134D",
+					["healing"] = 0,
+					["maxhp"] = 272,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Lupo: Ringhio"] = {
+							["name"] = "Lupo: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["name"] = "Micettina",
+					["damagetaken"] = 0,
+					["first"] = 1470078745,
+					["role"] = "NONE",
+					["time"] = 4,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Invasore Roccianera"] = {
+					["players"] = {
+						["Micettina"] = {
+							["taken"] = 127,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 127,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 127,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1470078745,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Invasore Roccianera (5)",
+			["mobname"] = "Invasore Roccianera",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1470078745,
+			["multistrikes"] = 0,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 8,
+			["interrupts"] = 0,
+			["endtime"] = 1470078744,
+			["damage"] = 126,
+			["players"] = {
+				{
+					["last"] = 1470078742,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Invasore Roccianera"] = 126,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 126,
+					["damagespells"] = {
+						["Tiro del Cobra"] = {
+							["min"] = 43,
+							["critical"] = 1,
+							["totalhits"] = 1,
+							["id"] = 193455,
+							["max"] = 43,
+							["damage"] = 43,
+						},
+						["Tiro Automatico"] = {
+							["min"] = 14,
+							["critical"] = 2,
+							["hit"] = 1,
+							["totalhits"] = 3,
+							["id"] = 75,
+							["max"] = 25,
+							["damage"] = 62,
+						},
+						["Lupo: Attacco"] = {
+							["min"] = 7,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 6603,
+							["max"] = 7,
+							["damage"] = 21,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1309-0870134D",
+					["healing"] = 0,
+					["maxhp"] = 272,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 6,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 6,
+							["damage"] = 6,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Lupo: Ringhio"] = {
+							["name"] = "Lupo: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["name"] = "Micettina",
+					["damagetaken"] = 6,
+					["first"] = 1470078736,
+					["role"] = "NONE",
+					["time"] = 6,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Invasore Roccianera"] = {
+					["players"] = {
+						["Micettina"] = {
+							["taken"] = 126,
+							["done"] = 6,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 126,
+					["done"] = 6,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 126,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1470078736,
+			["damagetaken"] = 6,
+			["shielding"] = 0,
+			["name"] = "Invasore Roccianera (4)",
+			["mobname"] = "Invasore Roccianera",
+			["mobdone"] = 6,
+			["mobhdone"] = 0,
+			["last_action"] = 1470078736,
+			["multistrikes"] = 0,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 24,
+			["interrupts"] = 0,
+			["endtime"] = 1470078730,
+			["damage"] = 124,
+			["players"] = {
+				{
+					["last"] = 1470078730,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Invasore Roccianera"] = 124,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 124,
+					["damagespells"] = {
+						["Tiro Automatico"] = {
+							["min"] = 23,
+							["critical"] = 1,
+							["totalhits"] = 1,
+							["id"] = 75,
+							["max"] = 23,
+							["damage"] = 23,
+						},
+						["Lupo: Attacco"] = {
+							["min"] = 7,
+							["critical"] = 3,
+							["hit"] = 8,
+							["totalhits"] = 11,
+							["id"] = 6603,
+							["max"] = 15,
+							["damage"] = 101,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1309-0870134D",
+					["healing"] = 0,
+					["maxhp"] = 272,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 5,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 5,
+							["damage"] = 5,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Lupo: Ringhio"] = {
+							["name"] = "Lupo: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 9,
+						},
+						["Acqua Nebulizzata"] = {
+							["name"] = "Acqua Nebulizzata",
+							["active"] = 0,
+							["id"] = 80199,
+							["auratype"] = "BUFF",
+							["uptime"] = 8,
+						},
+					},
+					["name"] = "Micettina",
+					["damagetaken"] = 5,
+					["first"] = 1470078706,
+					["role"] = "NONE",
+					["time"] = 24,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Invasore Roccianera"] = {
+					["players"] = {
+						["Micettina"] = {
+							["taken"] = 124,
+							["done"] = 5,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 124,
+					["done"] = 5,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 124,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1470078706,
+			["damagetaken"] = 5,
+			["shielding"] = 0,
+			["name"] = "Invasore Roccianera (3)",
+			["mobname"] = "Invasore Roccianera",
+			["mobdone"] = 5,
+			["mobhdone"] = 0,
+			["last_action"] = 1470078706,
+			["multistrikes"] = 0,
+		}, -- [5]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 9,
+			["interrupts"] = 0,
+			["endtime"] = 1470078684,
+			["damage"] = 143,
+			["players"] = {
+				{
+					["last"] = 1470078683,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Invasore Roccianera"] = 143,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 143,
+					["damagespells"] = {
+						["Tiro del Cobra"] = {
+							["min"] = 19,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 193455,
+							["max"] = 22,
+							["damage"] = 41,
+						},
+						["Lupo: Attacco"] = {
+							["min"] = 7,
+							["critical"] = 1,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["id"] = 6603,
+							["max"] = 14,
+							["damage"] = 29,
+						},
+						["Tiro Automatico"] = {
+							["min"] = 11,
+							["critical"] = 1,
+							["hit"] = 3,
+							["totalhits"] = 4,
+							["id"] = 75,
+							["max"] = 25,
+							["damage"] = 60,
+						},
+						["Lupo: Ordine di Morte"] = {
+							["min"] = 13,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 83381,
+							["max"] = 13,
+							["damage"] = 13,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1309-0870134D",
+					["healing"] = 0,
+					["maxhp"] = 272,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Lupo: Ringhio"] = {
+							["name"] = "Lupo: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["name"] = "Micettina",
+					["damagetaken"] = 0,
+					["first"] = 1470078676,
+					["role"] = "NONE",
+					["time"] = 7,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Invasore Roccianera"] = {
+					["players"] = {
+						["Micettina"] = {
+							["taken"] = 143,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 143,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 143,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1470078675,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Invasore Roccianera (2)",
+			["mobname"] = "Invasore Roccianera",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1470078675,
+			["multistrikes"] = 0,
+		}, -- [6]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 15,
+			["interrupts"] = 0,
+			["endtime"] = 1470078667,
+			["damage"] = 123,
+			["players"] = {
+				{
+					["last"] = 1470078666,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Invasore Roccianera"] = 123,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 123,
+					["damagespells"] = {
+						["Lupo: Ordine di Morte"] = {
+							["min"] = 13,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 83381,
+							["max"] = 13,
+							["damage"] = 13,
+						},
+						["Tiro Automatico"] = {
+							["min"] = 12,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 75,
+							["max"] = 13,
+							["damage"] = 37,
+						},
+						["Lupo: Attacco"] = {
+							["min"] = 7,
+							["critical"] = 2,
+							["hit"] = 6,
+							["totalhits"] = 8,
+							["id"] = 6603,
+							["max"] = 15,
+							["damage"] = 73,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1309-0870134D",
+					["healing"] = 0,
+					["maxhp"] = 272,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Acqua Nebulizzata"] = {
+							["name"] = "Acqua Nebulizzata",
+							["active"] = 0,
+							["id"] = 80199,
+							["auratype"] = "BUFF",
+							["uptime"] = 2,
+						},
+						["Lupo: Ringhio"] = {
+							["name"] = "Lupo: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 6,
+						},
+					},
+					["name"] = "Micettina",
+					["damagetaken"] = 0,
+					["first"] = 1470078652,
+					["role"] = "NONE",
+					["time"] = 14,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Invasore Roccianera"] = {
+					["players"] = {
+						["Micettina"] = {
+							["taken"] = 123,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 123,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 123,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1470078652,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Invasore Roccianera",
+			["mobname"] = "Invasore Roccianera",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1470078652,
+			["multistrikes"] = 0,
+		}, -- [7]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 12,
+			["interrupts"] = 0,
+			["endtime"] = 1470078519,
+			["damage"] = 130,
+			["players"] = {
+				{
+					["last"] = 1470078517,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Assassina Goblin"] = 130,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 130,
+					["damagespells"] = {
+						["Lupo: Ordine di Morte"] = {
+							["min"] = 8,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 83381,
+							["max"] = 8,
+							["damage"] = 8,
+						},
+						["Tiro del Cobra"] = {
+							["min"] = 17,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 193455,
+							["max"] = 17,
+							["damage"] = 34,
+						},
+						["Tiro Automatico"] = {
+							["min"] = 10,
+							["hit"] = 5,
+							["totalhits"] = 5,
+							["id"] = 75,
+							["max"] = 12,
+							["damage"] = 55,
+						},
+						["Lupo: Attacco"] = {
+							["min"] = 6,
+							["hit"] = 5,
+							["totalhits"] = 5,
+							["id"] = 6603,
+							["max"] = 7,
+							["damage"] = 33,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1309-0870134D",
+					["healing"] = 0,
+					["maxhp"] = 240,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Lupo: Ringhio"] = {
+							["name"] = "Lupo: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 5,
+						},
+					},
+					["name"] = "Micettina",
+					["damagetaken"] = 0,
+					["first"] = 1470078507,
+					["role"] = "NONE",
+					["time"] = 10,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Assassina Goblin"] = {
+					["players"] = {
+						["Micettina"] = {
+							["taken"] = 130,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 130,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 130,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1470078507,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Assassina Goblin",
+			["mobname"] = "Assassina Goblin",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1470078507,
+			["multistrikes"] = 0,
+		}, -- [8]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["endtime"] = 1470078505,
+			["damage"] = 123,
+			["players"] = {
+				{
+					["last"] = 1470078504,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Assassino Goblin"] = 123,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 123,
+					["damagespells"] = {
+						["Tiro del Cobra"] = {
+							["min"] = 18,
+							["critical"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["id"] = 193455,
+							["max"] = 35,
+							["damage"] = 53,
+						},
+						["Lupo: Ordine di Morte"] = {
+							["min"] = 9,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 83381,
+							["max"] = 9,
+							["damage"] = 9,
+						},
+						["Tiro Automatico"] = {
+							["min"] = 10,
+							["critical"] = 1,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["id"] = 75,
+							["max"] = 20,
+							["damage"] = 40,
+						},
+						["Lupo: Attacco"] = {
+							["min"] = 7,
+							["critical"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["id"] = 6603,
+							["max"] = 14,
+							["damage"] = 21,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1309-0870134D",
+					["healing"] = 0,
+					["maxhp"] = 240,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Lupo: Ringhio"] = {
+							["name"] = "Lupo: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["name"] = "Micettina",
+					["damagetaken"] = 0,
+					["first"] = 1470078498,
+					["role"] = "NONE",
+					["time"] = 6,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Assassino Goblin"] = {
+					["players"] = {
+						["Micettina"] = {
+							["taken"] = 123,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 123,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 123,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1470078498,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Assassino Goblin (5)",
+			["mobname"] = "Assassino Goblin",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1470078498,
+			["multistrikes"] = 0,
+		}, -- [9]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 10,
+			["interrupts"] = 0,
+			["endtime"] = 1470078496,
+			["damage"] = 122,
+			["players"] = {
+				{
+					["last"] = 1470078494,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["Assassino Goblin"] = 122,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 122,
+					["damagespells"] = {
+						["Tiro del Cobra"] = {
+							["min"] = 17,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 193455,
+							["max"] = 17,
+							["damage"] = 34,
+						},
+						["Lupo: Ordine di Morte"] = {
+							["min"] = 8,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 83381,
+							["max"] = 8,
+							["damage"] = 8,
+						},
+						["Tiro Automatico"] = {
+							["min"] = 10,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["id"] = 75,
+							["max"] = 11,
+							["damage"] = 42,
+						},
+						["Lupo: Attacco"] = {
+							["min"] = 6,
+							["critical"] = 1,
+							["hit"] = 4,
+							["totalhits"] = 5,
+							["id"] = 6603,
+							["max"] = 13,
+							["damage"] = 38,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1309-0870134D",
+					["healing"] = 0,
+					["maxhp"] = 240,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 6,
+							["absorbed"] = 0,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 6,
+							["damage"] = 6,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Lupo: Ringhio"] = {
+							["name"] = "Lupo: Ringhio",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["name"] = "Micettina",
+					["damagetaken"] = 6,
+					["first"] = 1470078486,
+					["role"] = "NONE",
+					["time"] = 8,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Assassino Goblin"] = {
+					["players"] = {
+						["Micettina"] = {
+							["taken"] = 122,
+							["done"] = 6,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 122,
+					["done"] = 6,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 122,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1470078486,
+			["damagetaken"] = 6,
+			["shielding"] = 0,
+			["name"] = "Assassino Goblin (4)",
+			["mobname"] = "Assassino Goblin",
+			["mobdone"] = 6,
+			["mobhdone"] = 0,
+			["last_action"] = 1470078486,
+			["multistrikes"] = 0,
+		}, -- [10]
+	},
+}

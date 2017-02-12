@@ -1,0 +1,229 @@
+
+DockingStationSettings = {
+	["profileKeys"] = {
+		["Alitfaier - Nemesis"] = "Default",
+	},
+	["version"] = "0.5.5 (Beta)",
+	["profiles"] = {
+		["Default"] = {
+			["plugins"] = {
+				["ArkInventory_Tracking_Item"] = {
+					["enable"] = false,
+				},
+				["Guild"] = {
+					["enable"] = false,
+				},
+				["Calendar"] = {
+					["enable"] = false,
+				},
+				["ArkInventory_Tracking_Currency"] = {
+					["enable"] = false,
+				},
+				["Broker_Auditor"] = {
+					["enable"] = false,
+				},
+				["Currency"] = {
+					["enable"] = false,
+				},
+				["Gold"] = {
+					["enable"] = false,
+				},
+				["Surprise"] = {
+					["enable"] = false,
+				},
+				["ArkInventory_Pets"] = {
+					["enable"] = false,
+				},
+				["Broker Currency"] = {
+					["enable"] = false,
+				},
+				["ArkInventory_Money"] = {
+					["enable"] = false,
+				},
+				["Decursive"] = {
+					["enable"] = false,
+				},
+				["Broker_Control"] = {
+					["enable"] = false,
+				},
+				["Nameplates"] = {
+					["enable"] = false,
+				},
+				["Quest Log"] = {
+					["enable"] = false,
+				},
+				["Tracking"] = {
+					["enable"] = false,
+				},
+				["Latency"] = {
+					["enable"] = false,
+				},
+				["Rematch"] = {
+					["enable"] = false,
+				},
+				["Skada"] = {
+					["enable"] = false,
+				},
+				["Dualspec"] = {
+					["enable"] = false,
+				},
+				["Game Menu"] = {
+					["enable"] = false,
+				},
+				["Dominos"] = {
+					["enable"] = false,
+				},
+				["ArkInventory_Mounts"] = {
+					["enable"] = false,
+				},
+				["AskMrRobot"] = {
+					["enable"] = false,
+				},
+				["WIM"] = {
+					["enable"] = false,
+				},
+				["Equipment"] = {
+					["enable"] = false,
+				},
+				["Guild Recruitment"] = {
+					["enable"] = false,
+				},
+				["Armory"] = {
+					["enable"] = false,
+				},
+				["Prat"] = {
+					["enable"] = false,
+				},
+				["Speed"] = {
+					["enable"] = false,
+				},
+				["Clock"] = {
+					["enable"] = false,
+				},
+				["XP"] = {
+					["enable"] = false,
+				},
+				["DBM-LDB"] = {
+					["enable"] = false,
+				},
+				["Volume"] = {
+					["enable"] = false,
+				},
+				["FPS"] = {
+					["enable"] = false,
+				},
+				["DockingStation"] = {
+					["enable"] = true,
+				},
+				["Friends"] = {
+					["enable"] = false,
+				},
+				["GPS"] = {
+					["enable"] = false,
+				},
+				["RaidAchievementFilter"] = {
+					["enable"] = false,
+				},
+				["Stuff"] = {
+					["enable"] = false,
+				},
+				["Mail"] = {
+					["enable"] = false,
+				},
+				["TradeSkillMaster"] = {
+					["enable"] = false,
+				},
+				["Memory"] = {
+					["enable"] = false,
+				},
+				["Bags"] = {
+					["enable"] = false,
+				},
+				["Durability"] = {
+					["enable"] = false,
+				},
+				["Location"] = {
+					["enable"] = false,
+				},
+				["Broker_GroupHelper"] = {
+					["enable"] = false,
+				},
+				["ArkInventory_Bags"] = {
+					["enable"] = false,
+				},
+				["RaidAchievement"] = {
+					["enable"] = false,
+				},
+			},
+			["panels"] = {
+				["&R0J#"] = {
+					["Right"] = {
+					},
+					["offsetX"] = -8.014129572472780e-010,
+					["Center"] = {
+					},
+					["enable"] = true,
+					["offsetY"] = 0.486979125771257,
+					["Left"] = {
+						"DockingStation", -- [1]
+					},
+					["lockPanel"] = false,
+				},
+			},
+			["defaultPanel"] = "&R0J#",
+		},
+	},
+	["pluginType"] = {
+		["ArkInventory_Tracking_Item"] = "data source",
+		["Guild"] = "data source",
+		["Calendar"] = "data source",
+		["ArkInventory_Tracking_Currency"] = "data source",
+		["Broker_Auditor"] = "data source",
+		["Currency"] = "data source",
+		["Gold"] = "data source",
+		["Surprise"] = "data source",
+		["ArkInventory_Pets"] = "data source",
+		["Broker Currency"] = "data source",
+		["ArkInventory_Money"] = "data source",
+		["Decursive"] = "launcher",
+		["Broker_Control"] = "data source",
+		["Nameplates"] = "data source",
+		["Quest Log"] = "data source",
+		["Tracking"] = "data source",
+		["Latency"] = "data source",
+		["Rematch"] = "launcher",
+		["Skada"] = "data source",
+		["Dualspec"] = "data source",
+		["Location"] = "data source",
+		["Dominos"] = "launcher",
+		["ArkInventory_Mounts"] = "data source",
+		["AskMrRobot"] = "launcher",
+		["WIM"] = "data source",
+		["Equipment"] = "data source",
+		["Guild Recruitment"] = "data source",
+		["Armory"] = "data source",
+		["Prat"] = "launcher",
+		["Speed"] = "data source",
+		["Clock"] = "data source",
+		["XP"] = "data source",
+		["DBM-LDB"] = "launcher",
+		["Volume"] = "data source",
+		["FPS"] = "data source",
+		["DockingStation"] = "launcher",
+		["Friends"] = "data source",
+		["GPS"] = "data source",
+		["RaidAchievementFilter"] = "launcher",
+		["Stuff"] = "data source",
+		["Mail"] = "data source",
+		["TradeSkillMaster"] = "launcher",
+		["Memory"] = "data source",
+		["Bags"] = "data source",
+		["Durability"] = "data source",
+		["ArkInventory_Bags"] = "data source",
+		["Broker_GroupHelper"] = "data source",
+		["Game Menu"] = "data source",
+		["RaidAchievement"] = "launcher",
+	},
+	["pluginAlias"] = {
+	},
+}

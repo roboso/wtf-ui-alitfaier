@@ -1,0 +1,20 @@
+
+TradeSkillMaster_AppHelperDB = {
+	["blackMarket"] = {
+	},
+	["region"] = "EU",
+	["shoppingMaxPrices"] = {
+	},
+	["wowToken"] = {
+		["EU"] = {
+			["key"] = 16134075,
+			["data"] = 66895,
+			["updateTime"] = 1475686140,
+		},
+	},
+	["analytics"] = {
+		["data"] = {
+		},
+		["updateTime"] = 0,
+	},
+}

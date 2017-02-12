@@ -1,0 +1,6 @@
+
+QuestHelper2_Settings = {
+	["tracker_shows_routes"] = false,
+	["tracker_minimized"] = false,
+	["routing_enabled"] = false,
+}

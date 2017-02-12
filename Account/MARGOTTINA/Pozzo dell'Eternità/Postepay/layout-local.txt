@@ -1,0 +1,8 @@
+Version: 1
+Frame: WIM3_msgFrame1
+FrameLevel: 2
+Anchor: TOP
+X: 57
+Y: -83
+W: 333
+H: 220

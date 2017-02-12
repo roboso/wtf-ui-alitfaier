@@ -1,0 +1,17 @@
+
+SkadaDB = {
+	["profileKeys"] = {
+		["Alitfaier - Pozzo dell'Eternità"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["windows"] = {
+				{
+					["point"] = "BOTTOMRIGHT",
+					["x"] = -265.0938528009806,
+					["y"] = 69.57266934065332,
+				}, -- [1]
+			},
+		},
+	},
+}

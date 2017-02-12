@@ -1,0 +1,2394 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 342,
+		["interrupts"] = 0,
+		["damage"] = 35789,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "DRUID",
+				["damaged"] = {
+				},
+				["auras"] = {
+					["Fuoco Lunare"] = {
+						["name"] = "Fuoco Lunare",
+						["active"] = 0,
+						["id"] = 164812,
+						["uptime"] = 66,
+						["auratype"] = "DEBUFF",
+					},
+					["Lancio Torcia"] = {
+						["name"] = "Lancio Torcia",
+						["active"] = 6,
+						["id"] = 67063,
+						["started"] = 1479484446,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 0,
+					},
+				},
+				["role"] = "NONE",
+				["time"] = 301,
+				["interrupts"] = 0,
+				["damage"] = 35789,
+				["damagespells"] = {
+					["Fuoco Lunare"] = {
+						["hitmin"] = 11,
+						["criticalamount"] = 360,
+						["max"] = 46,
+						["hitmax"] = 23,
+						["hitamount"] = 2183,
+						["min"] = 11,
+						["criticalmax"] = 46,
+						["critical"] = 9,
+						["hit"] = 114,
+						["totalhits"] = 123,
+						["criticalmin"] = 23,
+						["id"] = 164812,
+						["damage"] = 2543,
+					},
+					["Cannone dei Ribelli: Effetto Cannone dei Ribelli"] = {
+						["hitmin"] = 274,
+						["max"] = 587,
+						["min"] = 274,
+						["hitmax"] = 587,
+						["hit"] = 67,
+						["totalhits"] = 67,
+						["hitamount"] = 28413,
+						["id"] = 67278,
+						["damage"] = 28413,
+					},
+					["Ser Darius Crowley: Attacco"] = {
+						["hitmin"] = 21,
+						["crushing"] = 1,
+						["max"] = 29,
+						["min"] = 21,
+						["hitmax"] = 21,
+						["hit"] = 1,
+						["totalhits"] = 2,
+						["hitamount"] = 21,
+						["id"] = 6603,
+						["damage"] = 50,
+					},
+					["Ira Solare"] = {
+						["hitmin"] = 33,
+						["criticalamount"] = 160,
+						["max"] = 82,
+						["criticalmin"] = 78,
+						["critical"] = 2,
+						["min"] = 33,
+						["criticalmax"] = 82,
+						["hitmax"] = 41,
+						["hit"] = 67,
+						["totalhits"] = 69,
+						["hitamount"] = 2447,
+						["id"] = 190984,
+						["damage"] = 2607,
+					},
+					["Attacco"] = {
+						["hitmin"] = 7,
+						["max"] = 13,
+						["min"] = 7,
+						["hitmax"] = 13,
+						["hit"] = 24,
+						["totalhits"] = 24,
+						["hitamount"] = 271,
+						["id"] = 6603,
+						["damage"] = 271,
+					},
+					["Lancio Torcia"] = {
+						["hitmin"] = 6,
+						["max"] = 8,
+						["min"] = 6,
+						["hitmax"] = 8,
+						["hit"] = 274,
+						["totalhits"] = 274,
+						["hitamount"] = 1905,
+						["id"] = 67063,
+						["damage"] = 1905,
+					},
+				},
+				["dispells"] = 0,
+				["damagetaken"] = 435,
+				["power"] = {
+				},
+				["id"] = "Player-1309-08CCF12B",
+				["healing"] = 0,
+				["healingspells"] = {
+				},
+				["damagetakenspells"] = {
+					["Attacco"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["min"] = 1,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "Attacco",
+						["blocked"] = 0,
+						["totalhits"] = 127,
+						["resisted"] = 0,
+						["max"] = 8,
+						["damage"] = 427,
+					},
+					["Frenesia Imperitura"] = {
+						["crushing"] = 0,
+						["id"] = 80514,
+						["min"] = 1,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "Frenesia Imperitura",
+						["blocked"] = 0,
+						["totalhits"] = 6,
+						["resisted"] = 0,
+						["max"] = 2,
+						["damage"] = 8,
+					},
+				},
+				["overhealing"] = 0,
+				["ccbreaks"] = 0,
+				["name"] = "Ketie",
+				["maxhp"] = 154,
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["deathlog"] = {
+					{
+						["ts"] = 1479484223.751,
+						["amount"] = -8,
+						["hp"] = 179,
+						["srcname"] = "Guardingo Zannacremisi",
+						["spellid"] = 88163,
+					}, -- [1]
+					{
+						["ts"] = 1479484075.028,
+						["amount"] = -8,
+						["hp"] = 201,
+						["spellid"] = 88163,
+						["srcname"] = "Guardingo Zannacremisi",
+					}, -- [2]
+					{
+						["ts"] = 1479484125.108,
+						["amount"] = -1,
+						["hp"] = 207,
+						["srcname"] = "Guardingo Zannacremisi",
+						["spellid"] = 80514,
+					}, -- [3]
+					{
+						["ts"] = 1479484125.446,
+						["amount"] = -2,
+						["hp"] = 205,
+						["spellid"] = 80514,
+						["srcname"] = "Guardingo Zannacremisi",
+					}, -- [4]
+					{
+						["ts"] = 1479484125.695,
+						["amount"] = -1,
+						["hp"] = 204,
+						["srcname"] = "Guardingo Zannacremisi",
+						["spellid"] = 80514,
+					}, -- [5]
+					{
+						["ts"] = 1479484125.901,
+						["amount"] = -1,
+						["hp"] = 203,
+						["spellid"] = 80514,
+						["srcname"] = "Guardingo Zannacremisi",
+					}, -- [6]
+					{
+						["ts"] = 1479484126.202,
+						["amount"] = -2,
+						["hp"] = 201,
+						["srcname"] = "Guardingo Zannacremisi",
+						["spellid"] = 80514,
+					}, -- [7]
+					{
+						["ts"] = 1479484126.446,
+						["amount"] = -1,
+						["hp"] = 200,
+						["srcname"] = "Guardingo Zannacremisi",
+						["spellid"] = 80514,
+					}, -- [8]
+					{
+						["ts"] = 1479484172.967,
+						["amount"] = -6,
+						["hp"] = 208,
+						["spellid"] = 88163,
+						["srcname"] = "Guardingo Zannacremisi",
+					}, -- [9]
+					{
+						["ts"] = 1479484182.132,
+						["amount"] = -5,
+						["hp"] = 208,
+						["srcname"] = "Guardingo Zannacremisi",
+						["spellid"] = 88163,
+					}, -- [10]
+					{
+						["ts"] = 1479484184.161,
+						["amount"] = -4,
+						["hp"] = 203,
+						["srcname"] = "Guardingo Zannacremisi",
+						["spellid"] = 88163,
+					}, -- [11]
+					{
+						["ts"] = 1479484201.578,
+						["amount"] = -5,
+						["hp"] = 208,
+						["spellid"] = 88163,
+						["srcname"] = "Guardingo Zannacremisi",
+					}, -- [12]
+					{
+						["ts"] = 1479484215.719,
+						["amount"] = -7,
+						["hp"] = 201,
+						["srcname"] = "Guardingo Zannacremisi",
+						["spellid"] = 88163,
+					}, -- [13]
+					{
+						["ts"] = 1479484217.713,
+						["amount"] = -8,
+						["hp"] = 194,
+						["srcname"] = "Guardingo Zannacremisi",
+						["spellid"] = 88163,
+					}, -- [14]
+					{
+						["ts"] = 1479484219.726,
+						["amount"] = -7,
+						["hp"] = 186,
+						["spellid"] = 88163,
+						["srcname"] = "Guardingo Zannacremisi",
+					}, -- [15]
+					["pos"] = 2,
+				},
+				["multistrikes"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["Barone"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 146,
+						["hits"] = 12,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Inseguitrice Zannacremisi"] = {
+				["players"] = {
+					["Ketie"] = {
+						["taken"] = 8875,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 8875,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Sopravvissuta Scossa"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 3461,
+						["hits"] = 129,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Fenegan Cobbel"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 183,
+						["hits"] = 11,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Worgen Alfa"] = {
+				["players"] = {
+					["Ketie"] = {
+						["taken"] = 268,
+						["done"] = 26,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 268,
+				["done"] = 26,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Inseguitore Zannacremisi"] = {
+				["players"] = {
+					["Ser Darius Crowley"] = {
+						["taken"] = 50,
+						["done"] = 0,
+						["role"] = "NONE",
+					},
+					["Ketie"] = {
+						["taken"] = 21443,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 21493,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Honami"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 16,
+						["healing"] = 69,
+						["overhealing"] = 249,
+						["hits"] = 17,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 69,
+				["hdonespell"] = {
+				},
+			},
+			["Worgen Zannacremisi"] = {
+				["players"] = {
+					["Ketie"] = {
+						["taken"] = 1205,
+						["done"] = 38,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1205,
+				["done"] = 38,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Cittadino Ferito"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 1158,
+						["hits"] = 43,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Pollo Spaventato"] = {
+				["players"] = {
+					["Ketie"] = {
+						["taken"] = 35,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 35,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Gwen Bracciofermo"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 80,
+						["hits"] = 10,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Cittadina Ferita"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 591,
+						["hits"] = 22,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Cavallo di Crowley"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 1968,
+						["hits"] = 12,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Sorella Almyra"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 183,
+						["hits"] = 11,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Celestine del Raccolto"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 163,
+						["hits"] = 10,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Tobias Foscomanto"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 4,
+						["healing"] = 7,
+						["overhealing"] = 1123,
+						["hits"] = 79,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 7,
+				["hdonespell"] = {
+				},
+			},
+			["Ser Darius Crowley"] = {
+				["players"] = {
+				},
+				["hdone"] = 253,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 3,
+						["healing"] = 32,
+						["overhealing"] = 18065,
+						["hits"] = 92,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 32,
+				["hdonespell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 16,
+						["healing"] = 253,
+						["overhealing"] = 1542339,
+						["hits"] = 530,
+					},
+				},
+			},
+			["Guardingo Zannacremisi"] = {
+				["players"] = {
+					["Ketie"] = {
+						["taken"] = 850,
+						["done"] = 73,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 850,
+				["done"] = 73,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Giovane Worgen"] = {
+				["players"] = {
+					["Ketie"] = {
+						["taken"] = 1384,
+						["done"] = 152,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1384,
+				["done"] = 152,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Loren la Ricettatrice"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 114,
+						["hits"] = 7,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Worgen Sfrenato"] = {
+				["players"] = {
+					["Ketie"] = {
+						["taken"] = 1679,
+						["done"] = 146,
+						["role"] = "NONE",
+						["class"] = "DRUID",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1679,
+				["done"] = 146,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Guardia Reale di Gilneas"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Valore del Ribelle"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 4,
+						["healing"] = 145,
+						["overhealing"] = 1514855,
+						["hits"] = 75,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 145,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["mobtaken"] = 35789,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["starttime"] = 1479482345,
+		["damagetaken"] = 435,
+		["shielding"] = 0,
+		["name"] = "Totale",
+		["overhealing"] = 0,
+		["mobdone"] = 435,
+		["mobhdone"] = 253,
+		["last_action"] = 1479482345,
+		["multistrikes"] = 0,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 19,
+			["interrupts"] = 0,
+			["endtime"] = 1479484544,
+			["damage"] = 28413,
+			["players"] = {
+				{
+					["last"] = 1479484543,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Inseguitrice Zannacremisi"] = 8455,
+						["Inseguitore Zannacremisi"] = 19958,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 28413,
+					["damagespells"] = {
+						["Cannone dei Ribelli: Effetto Cannone dei Ribelli"] = {
+							["hitmin"] = 274,
+							["max"] = 587,
+							["min"] = 274,
+							["hitmax"] = 587,
+							["hit"] = 67,
+							["totalhits"] = 67,
+							["hitamount"] = 28413,
+							["id"] = 67278,
+							["damage"] = 28413,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1309-08CCF12B",
+					["healing"] = 0,
+					["maxhp"] = 208,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["auras"] = {
+					},
+					["name"] = "Ketie",
+					["damagetaken"] = 0,
+					["first"] = 1479484530,
+					["role"] = "NONE",
+					["time"] = 13,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Inseguitrice Zannacremisi"] = {
+					["players"] = {
+						["Ketie"] = {
+							["taken"] = 8455,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 8455,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Inseguitore Zannacremisi"] = {
+					["players"] = {
+						["Ketie"] = {
+							["taken"] = 19958,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 19958,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 28413,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1479484525,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Inseguitrice Zannacremisi",
+			["mobname"] = "Inseguitrice Zannacremisi",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1479484525,
+			["multistrikes"] = 0,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 66,
+			["interrupts"] = 0,
+			["endtime"] = 1479484505,
+			["damage"] = 1947,
+			["players"] = {
+				{
+					["last"] = 1479484505,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Inseguitrice Zannacremisi"] = 420,
+						["Inseguitore Zannacremisi"] = 1527,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 1947,
+					["damagespells"] = {
+						["Lancio Torcia"] = {
+							["hitmin"] = 6,
+							["max"] = 8,
+							["min"] = 6,
+							["hitmax"] = 8,
+							["hit"] = 273,
+							["totalhits"] = 273,
+							["hitamount"] = 1897,
+							["id"] = 67063,
+							["damage"] = 1897,
+						},
+						["Ser Darius Crowley: Attacco"] = {
+							["hitmin"] = 21,
+							["crushing"] = 1,
+							["max"] = 29,
+							["min"] = 21,
+							["hitmax"] = 21,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["hitamount"] = 21,
+							["id"] = 6603,
+							["damage"] = 50,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1309-08CCF12B",
+					["healing"] = 0,
+					["maxhp"] = 208,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Lancio Torcia"] = {
+							["name"] = "Lancio Torcia",
+							["active"] = 0,
+							["id"] = 67063,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 59,
+						},
+					},
+					["name"] = "Ketie",
+					["damagetaken"] = 0,
+					["first"] = 1479484446,
+					["role"] = "NONE",
+					["time"] = 59,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Barone"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 146,
+							["hits"] = 12,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Inseguitrice Zannacremisi"] = {
+					["players"] = {
+						["Ketie"] = {
+							["taken"] = 420,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 420,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Sopravvissuta Scossa"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 3461,
+							["hits"] = 129,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Cittadina Ferita"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 591,
+							["hits"] = 22,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Fenegan Cobbel"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 183,
+							["hits"] = 11,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Sorella Almyra"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 183,
+							["hits"] = 11,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Gwen Bracciofermo"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 80,
+							["hits"] = 10,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Ser Darius Crowley"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 3846,
+							["hits"] = 13,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 11893,
+							["hits"] = 280,
+						},
+					},
+				},
+				["Inseguitore Zannacremisi"] = {
+					["players"] = {
+						["Ser Darius Crowley"] = {
+							["taken"] = 50,
+							["done"] = 0,
+							["role"] = "NONE",
+						},
+						["Ketie"] = {
+							["taken"] = 1477,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 1527,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Cavallo di Crowley"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 1968,
+							["hits"] = 12,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Loren la Ricettatrice"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 114,
+							["hits"] = 7,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Cittadino Ferito"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 1158,
+							["hits"] = 43,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Celestine del Raccolto"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 163,
+							["hits"] = 10,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 1947,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1479484439,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Inseguitore Zannacremisi",
+			["mobname"] = "Inseguitore Zannacremisi",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1479484439,
+			["multistrikes"] = 0,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 11,
+			["interrupts"] = 0,
+			["endtime"] = 1479484204,
+			["damage"] = 129,
+			["players"] = {
+				{
+					["last"] = 1479484203,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Guardingo Zannacremisi"] = 129,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 129,
+					["damagespells"] = {
+						["Fuoco Lunare"] = {
+							["hitmin"] = 12,
+							["max"] = 23,
+							["min"] = 12,
+							["hitmax"] = 23,
+							["hit"] = 6,
+							["totalhits"] = 6,
+							["hitamount"] = 116,
+							["id"] = 164812,
+							["damage"] = 116,
+						},
+						["Attacco"] = {
+							["hitmin"] = 13,
+							["max"] = 13,
+							["min"] = 13,
+							["hitmax"] = 13,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["hitamount"] = 13,
+							["id"] = 6603,
+							["damage"] = 13,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1309-08CCF12B",
+					["healing"] = 0,
+					["maxhp"] = 208,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 5,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 5,
+							["damage"] = 5,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Fuoco Lunare"] = {
+							["name"] = "Fuoco Lunare",
+							["active"] = 0,
+							["id"] = 164812,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 4,
+						},
+					},
+					["name"] = "Ketie",
+					["damagetaken"] = 5,
+					["first"] = 1479484199,
+					["role"] = "NONE",
+					["time"] = 4,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Guardingo Zannacremisi"] = {
+					["players"] = {
+						["Ketie"] = {
+							["taken"] = 129,
+							["done"] = 5,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 129,
+					["done"] = 5,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 129,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1479484193,
+			["damagetaken"] = 5,
+			["shielding"] = 0,
+			["name"] = "Guardingo Zannacremisi (5)",
+			["mobname"] = "Guardingo Zannacremisi",
+			["mobdone"] = 5,
+			["mobhdone"] = 0,
+			["last_action"] = 1479484193,
+			["multistrikes"] = 0,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 10,
+			["interrupts"] = 0,
+			["endtime"] = 1479484175,
+			["damage"] = 146,
+			["players"] = {
+				{
+					["last"] = 1479484174,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Guardingo Zannacremisi"] = 146,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 146,
+					["damagespells"] = {
+						["Fuoco Lunare"] = {
+							["hitmin"] = 23,
+							["max"] = 23,
+							["min"] = 23,
+							["hitmax"] = 23,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["hitamount"] = 23,
+							["id"] = 164812,
+							["damage"] = 23,
+						},
+						["Ira Solare"] = {
+							["hitmin"] = 41,
+							["max"] = 41,
+							["min"] = 41,
+							["hitmax"] = 41,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["hitamount"] = 123,
+							["id"] = 190984,
+							["damage"] = 123,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1309-08CCF12B",
+					["healing"] = 0,
+					["maxhp"] = 208,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 6,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 6,
+							["damage"] = 6,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Fuoco Lunare"] = {
+							["name"] = "Fuoco Lunare",
+							["active"] = 0,
+							["id"] = 164812,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 0,
+						},
+					},
+					["name"] = "Ketie",
+					["damagetaken"] = 6,
+					["first"] = 1479484171,
+					["role"] = "NONE",
+					["time"] = 3,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Guardingo Zannacremisi"] = {
+					["players"] = {
+						["Ketie"] = {
+							["taken"] = 146,
+							["done"] = 6,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 146,
+					["done"] = 6,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 146,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1479484165,
+			["damagetaken"] = 6,
+			["shielding"] = 0,
+			["name"] = "Guardingo Zannacremisi (4)",
+			["mobname"] = "Guardingo Zannacremisi",
+			["mobdone"] = 6,
+			["mobhdone"] = 0,
+			["last_action"] = 1479484165,
+			["multistrikes"] = 0,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 12,
+			["interrupts"] = 0,
+			["endtime"] = 1479484127,
+			["damage"] = 128,
+			["players"] = {
+				{
+					["last"] = 1479484127,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Guardingo Zannacremisi"] = 128,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 128,
+					["damagespells"] = {
+						["Fuoco Lunare"] = {
+							["criticalamount"] = 46,
+							["max"] = 46,
+							["min"] = 46,
+							["criticalmax"] = 46,
+							["critical"] = 1,
+							["totalhits"] = 1,
+							["criticalmin"] = 46,
+							["id"] = 164812,
+							["damage"] = 46,
+						},
+						["Ira Solare"] = {
+							["hitmin"] = 41,
+							["max"] = 41,
+							["min"] = 41,
+							["hitmax"] = 41,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["hitamount"] = 82,
+							["id"] = 190984,
+							["damage"] = 82,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1309-08CCF12B",
+					["healing"] = 0,
+					["maxhp"] = 208,
+					["damagetakenspells"] = {
+						["Frenesia Imperitura"] = {
+							["crushing"] = 0,
+							["id"] = 80514,
+							["min"] = 1,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Frenesia Imperitura",
+							["blocked"] = 0,
+							["totalhits"] = 6,
+							["resisted"] = 0,
+							["max"] = 2,
+							["damage"] = 8,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+					},
+					["name"] = "Ketie",
+					["damagetaken"] = 8,
+					["first"] = 1479484124,
+					["role"] = "NONE",
+					["time"] = 3,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Guardingo Zannacremisi"] = {
+					["players"] = {
+						["Ketie"] = {
+							["taken"] = 128,
+							["done"] = 8,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 128,
+					["done"] = 8,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 128,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1479484115,
+			["damagetaken"] = 8,
+			["shielding"] = 0,
+			["name"] = "Guardingo Zannacremisi (3)",
+			["mobname"] = "Guardingo Zannacremisi",
+			["mobdone"] = 8,
+			["mobhdone"] = 0,
+			["last_action"] = 1479484115,
+			["multistrikes"] = 0,
+		}, -- [5]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 10,
+			["interrupts"] = 0,
+			["endtime"] = 1479484103,
+			["damage"] = 146,
+			["players"] = {
+				{
+					["last"] = 1479484102,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Guardingo Zannacremisi"] = 146,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 146,
+					["damagespells"] = {
+						["Fuoco Lunare"] = {
+							["hitmin"] = 23,
+							["max"] = 23,
+							["min"] = 23,
+							["hitmax"] = 23,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["hitamount"] = 23,
+							["id"] = 164812,
+							["damage"] = 23,
+						},
+						["Ira Solare"] = {
+							["hitmin"] = 41,
+							["max"] = 41,
+							["min"] = 41,
+							["hitmax"] = 41,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["hitamount"] = 123,
+							["id"] = 190984,
+							["damage"] = 123,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1309-08CCF12B",
+					["healing"] = 0,
+					["maxhp"] = 208,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Fuoco Lunare"] = {
+							["name"] = "Fuoco Lunare",
+							["active"] = 0,
+							["id"] = 164812,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 0,
+						},
+					},
+					["name"] = "Ketie",
+					["damagetaken"] = 0,
+					["first"] = 1479484099,
+					["role"] = "NONE",
+					["time"] = 3,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Guardingo Zannacremisi"] = {
+					["players"] = {
+						["Ketie"] = {
+							["taken"] = 146,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 146,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 146,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1479484093,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Guardingo Zannacremisi (2)",
+			["mobname"] = "Guardingo Zannacremisi",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1479484093,
+			["multistrikes"] = 0,
+		}, -- [6]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 11,
+			["interrupts"] = 0,
+			["endtime"] = 1479484076,
+			["damage"] = 159,
+			["players"] = {
+				{
+					["last"] = 1479484076,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Guardingo Zannacremisi"] = 159,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 159,
+					["damagespells"] = {
+						["Attacco"] = {
+							["hitmin"] = 13,
+							["max"] = 13,
+							["min"] = 13,
+							["hitmax"] = 13,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["hitamount"] = 13,
+							["id"] = 6603,
+							["damage"] = 13,
+						},
+						["Ira Solare"] = {
+							["hitmin"] = 41,
+							["max"] = 41,
+							["min"] = 41,
+							["hitmax"] = 41,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["hitamount"] = 41,
+							["id"] = 190984,
+							["damage"] = 41,
+						},
+						["Fuoco Lunare"] = {
+							["hitmin"] = 12,
+							["max"] = 23,
+							["min"] = 12,
+							["hitmax"] = 23,
+							["hit"] = 6,
+							["totalhits"] = 6,
+							["hitamount"] = 105,
+							["id"] = 164812,
+							["damage"] = 105,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1309-08CCF12B",
+					["healing"] = 0,
+					["maxhp"] = 208,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 7,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 8,
+							["damage"] = 15,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Fuoco Lunare"] = {
+							["name"] = "Fuoco Lunare",
+							["active"] = 0,
+							["id"] = 164812,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 7,
+						},
+					},
+					["name"] = "Ketie",
+					["damagetaken"] = 15,
+					["first"] = 1479484069,
+					["role"] = "NONE",
+					["time"] = 7,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Guardingo Zannacremisi"] = {
+					["players"] = {
+						["Ketie"] = {
+							["taken"] = 159,
+							["done"] = 15,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 159,
+					["done"] = 15,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 159,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1479484065,
+			["damagetaken"] = 15,
+			["shielding"] = 0,
+			["name"] = "Guardingo Zannacremisi",
+			["mobname"] = "Guardingo Zannacremisi",
+			["mobdone"] = 15,
+			["mobhdone"] = 0,
+			["last_action"] = 1479484065,
+			["multistrikes"] = 0,
+		}, -- [7]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 15,
+			["interrupts"] = 0,
+			["endtime"] = 1479483932,
+			["damage"] = 128,
+			["players"] = {
+				{
+					["last"] = 1479483924,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Worgen Alfa"] = 128,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 128,
+					["damagespells"] = {
+						["Fuoco Lunare"] = {
+							["hitmin"] = 12,
+							["max"] = 23,
+							["min"] = 12,
+							["hitmax"] = 23,
+							["hit"] = 6,
+							["totalhits"] = 6,
+							["hitamount"] = 116,
+							["id"] = 164812,
+							["damage"] = 116,
+						},
+						["Attacco"] = {
+							["hitmin"] = 12,
+							["max"] = 12,
+							["min"] = 12,
+							["hitmax"] = 12,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["hitamount"] = 12,
+							["id"] = 6603,
+							["damage"] = 12,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1309-08CCF12B",
+					["healing"] = 0,
+					["maxhp"] = 208,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 6,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 7,
+							["damage"] = 13,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Fuoco Lunare"] = {
+							["name"] = "Fuoco Lunare",
+							["active"] = 0,
+							["id"] = 164812,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["name"] = "Ketie",
+					["damagetaken"] = 13,
+					["first"] = 1479483921,
+					["role"] = "NONE",
+					["time"] = 3,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Worgen Alfa"] = {
+					["players"] = {
+						["Ketie"] = {
+							["taken"] = 128,
+							["done"] = 13,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 128,
+					["done"] = 13,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Tobias Foscomanto"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 101,
+							["hits"] = 7,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Ser Darius Crowley"] = {
+					["players"] = {
+					},
+					["hdone"] = 22,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 1443,
+							["hits"] = 8,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 3,
+							["healing"] = 22,
+							["overhealing"] = 163122,
+							["hits"] = 23,
+						},
+					},
+				},
+				["Guardia Reale di Gilneas"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 2,
+							["crits"] = 0,
+							["max"] = 3,
+							["healing"] = 22,
+							["overhealing"] = 161578,
+							["hits"] = 8,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 22,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 128,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1479483917,
+			["damagetaken"] = 13,
+			["shielding"] = 0,
+			["name"] = "Worgen Alfa (2)",
+			["mobname"] = "Worgen Alfa",
+			["mobdone"] = 13,
+			["mobhdone"] = 22,
+			["last_action"] = 1479483917,
+			["multistrikes"] = 0,
+		}, -- [8]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 27,
+			["interrupts"] = 0,
+			["endtime"] = 1479483913,
+			["damage"] = 397,
+			["players"] = {
+				{
+					["last"] = 1479483912,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Giovane Worgen"] = 397,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 397,
+					["damagespells"] = {
+						["Attacco"] = {
+							["hitmin"] = 12,
+							["max"] = 13,
+							["min"] = 12,
+							["hitmax"] = 13,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["hitamount"] = 25,
+							["id"] = 6603,
+							["damage"] = 25,
+						},
+						["Ira Solare"] = {
+							["hitmin"] = 41,
+							["max"] = 41,
+							["min"] = 41,
+							["hitmax"] = 41,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["hitamount"] = 82,
+							["id"] = 190984,
+							["damage"] = 82,
+						},
+						["Fuoco Lunare"] = {
+							["hitmin"] = 12,
+							["criticalamount"] = 46,
+							["max"] = 46,
+							["criticalmin"] = 46,
+							["critical"] = 1,
+							["min"] = 12,
+							["criticalmax"] = 46,
+							["hitmax"] = 23,
+							["hit"] = 13,
+							["totalhits"] = 14,
+							["hitamount"] = 244,
+							["id"] = 164812,
+							["damage"] = 290,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1309-08CCF12B",
+					["healing"] = 0,
+					["maxhp"] = 208,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 1,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 26,
+							["resisted"] = 0,
+							["max"] = 3,
+							["damage"] = 51,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Fuoco Lunare"] = {
+							["name"] = "Fuoco Lunare",
+							["active"] = 0,
+							["id"] = 164812,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 6,
+						},
+					},
+					["name"] = "Ketie",
+					["damagetaken"] = 51,
+					["first"] = 1479483891,
+					["role"] = "NONE",
+					["time"] = 21,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Giovane Worgen"] = {
+					["players"] = {
+						["Ketie"] = {
+							["taken"] = 397,
+							["done"] = 51,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 397,
+					["done"] = 51,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Guardia Reale di Gilneas"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 2,
+							["crits"] = 0,
+							["max"] = 4,
+							["healing"] = 36,
+							["overhealing"] = 262564,
+							["hits"] = 13,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 36,
+					["hdonespell"] = {
+					},
+				},
+				["Ser Darius Crowley"] = {
+					["players"] = {
+					},
+					["hdone"] = 47,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 3,
+							["healing"] = 11,
+							["overhealing"] = 2333,
+							["hits"] = 13,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 11,
+					["hdonespell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 4,
+							["healing"] = 47,
+							["overhealing"] = 265085,
+							["hits"] = 39,
+						},
+					},
+				},
+				["Tobias Foscomanto"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 188,
+							["hits"] = 13,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 397,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1479483886,
+			["damagetaken"] = 51,
+			["shielding"] = 0,
+			["name"] = "Giovane Worgen (3)",
+			["mobname"] = "Giovane Worgen",
+			["mobdone"] = 51,
+			["mobhdone"] = 47,
+			["last_action"] = 1479483886,
+			["multistrikes"] = 0,
+		}, -- [9]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 10,
+			["interrupts"] = 0,
+			["endtime"] = 1479483869,
+			["damage"] = 140,
+			["players"] = {
+				{
+					["last"] = 1479483868,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["Worgen Alfa"] = 140,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 140,
+					["damagespells"] = {
+						["Fuoco Lunare"] = {
+							["hitmin"] = 12,
+							["criticalamount"] = 24,
+							["max"] = 24,
+							["criticalmin"] = 24,
+							["critical"] = 1,
+							["min"] = 12,
+							["criticalmax"] = 24,
+							["hitmax"] = 23,
+							["hit"] = 6,
+							["totalhits"] = 7,
+							["hitamount"] = 116,
+							["id"] = 164812,
+							["damage"] = 140,
+						},
+					},
+					["ccbreaks"] = 0,
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1309-08CCF12B",
+					["healing"] = 0,
+					["maxhp"] = 208,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 6,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "Attacco",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 7,
+							["damage"] = 13,
+						},
+					},
+					["power"] = {
+					},
+					["auras"] = {
+						["Fuoco Lunare"] = {
+							["name"] = "Fuoco Lunare",
+							["active"] = 0,
+							["id"] = 164812,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["name"] = "Ketie",
+					["damagetaken"] = 13,
+					["first"] = 1479483861,
+					["role"] = "NONE",
+					["time"] = 7,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Worgen Alfa"] = {
+					["players"] = {
+						["Ketie"] = {
+							["taken"] = 140,
+							["done"] = 13,
+							["role"] = "NONE",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 140,
+					["done"] = 13,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Guardia Reale di Gilneas"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 3,
+							["healing"] = 6,
+							["overhealing"] = 80794,
+							["hits"] = 4,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 6,
+					["hdonespell"] = {
+					},
+				},
+				["Ser Darius Crowley"] = {
+					["players"] = {
+					},
+					["hdone"] = 10,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 721,
+							["hits"] = 4,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 4,
+							["healing"] = 10,
+							["overhealing"] = 81581,
+							["hits"] = 13,
+						},
+					},
+				},
+				["Tobias Foscomanto"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Valore del Ribelle"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 4,
+							["healing"] = 4,
+							["overhealing"] = 66,
+							["hits"] = 5,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 4,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 140,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1479483859,
+			["damagetaken"] = 13,
+			["shielding"] = 0,
+			["name"] = "Worgen Alfa",
+			["mobname"] = "Worgen Alfa",
+			["mobdone"] = 13,
+			["mobhdone"] = 10,
+			["last_action"] = 1479483859,
+			["multistrikes"] = 0,
+		}, -- [10]
+	},
+}

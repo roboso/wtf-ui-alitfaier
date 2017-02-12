@@ -1,0 +1,2 @@
+
+DBMBattlefieldBarrens_SavedVars = nil

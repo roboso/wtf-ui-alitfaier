@@ -1,0 +1,5 @@
+Dominos_Cast: enabled
+Dominos: enabled
+Dominos_Config: enabled
+Dominos_Roll: enabled
+Dominos_XP: enabled

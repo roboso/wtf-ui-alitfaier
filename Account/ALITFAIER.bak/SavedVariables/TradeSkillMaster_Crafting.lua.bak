@@ -1,0 +1,14 @@
+
+TradeSkillMaster_CraftingDB = {
+	["profileKeys"] = {
+		["Enchàntrix - Pozzo dell'Eternità"] = "Default",
+	},
+	["factionrealm"] = {
+		["Alliance - Pozzo dell'Eternità"] = {
+			["tradeSkills"] = {
+				["Enchàntrix"] = {
+				},
+			},
+		},
+	},
+}

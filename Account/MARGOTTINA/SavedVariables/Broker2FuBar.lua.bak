@@ -1,0 +1,44 @@
+
+Broker2FuBarDB = {
+	["namespaces"] = {
+		["RaidBuffStatus"] = {
+		},
+		["LoggerHead"] = {
+		},
+		["Atlas"] = {
+		},
+		["GatherMate"] = {
+		},
+		["Dominos"] = {
+		},
+		["Armory"] = {
+		},
+		["Acheron"] = {
+		},
+		["WIM"] = {
+		},
+		["GearScore"] = {
+		},
+		["DBM-LDB"] = {
+		},
+		["DXE"] = {
+		},
+		["AtlasLoot"] = {
+		},
+		["Fishing Broker"] = {
+		},
+		["Broker_Auditor"] = {
+		},
+		["Omen"] = {
+		},
+		["AtlasToggle"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Alitfaier - Hakkar"] = "Alitfaier - Hakkar",
+	},
+	["profiles"] = {
+		["Alitfaier - Hakkar"] = {
+		},
+	},
+}

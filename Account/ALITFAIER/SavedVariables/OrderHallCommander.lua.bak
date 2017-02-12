@@ -1,0 +1,30 @@
+
+dbOHC = {
+	["char"] = {
+		["Enchàntrix - Pozzo dell'Eternità"] = {
+			["firstun"] = false,
+		},
+	},
+	["profileKeys"] = {
+		["Enchàntrix - Pozzo dell'Eternità"] = "Default",
+	},
+	["global"] = {
+		["firstrun"] = false,
+	},
+	["profiles"] = {
+		["Default"] = {
+			["toggles"] = {
+				["SAVETROOPS"] = false,
+				["TROOPALERT"] = true,
+				["BONUS"] = true,
+				["SORTMISSION"] = "Garrison_SortMissions_Original",
+				["MAKEITVERYQUICK"] = false,
+				["SPARE"] = false,
+				["MAKEITQUICK"] = true,
+				["MOVEPANEL"] = true,
+				["MAXIMIZEXP"] = false,
+				["USEALLY"] = false,
+			},
+		},
+	},
+}

@@ -1,0 +1,9 @@
+
+TradeSkillMaster_PriceReplyDB = {
+	["profileKeys"] = {
+		["Enchàntrix - Pozzo dell'Eternità"] = "Default",
+	},
+	["global"] = {
+		["TriggerLength"] = 3,
+	},
+}

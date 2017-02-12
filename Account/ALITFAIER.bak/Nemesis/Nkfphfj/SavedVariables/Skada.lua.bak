@@ -1,0 +1,1744 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 417,
+		["interrupts"] = 0,
+		["damage"] = 2665,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "MAGE",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+					["Dono dei Naaru"] = {
+						["shielding"] = 0,
+						["id"] = 59548,
+						["healing"] = 22,
+						["min"] = 0,
+						["name"] = "Dono dei Naaru",
+						["max"] = 5,
+						["critical"] = 0,
+						["absorbed"] = 0,
+						["overhealing"] = 11,
+						["hits"] = 7,
+					},
+				},
+				["overhealing"] = 11,
+				["interrupts"] = 0,
+				["damage"] = 2665,
+				["damagespells"] = {
+					["Attacco"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 15,
+						["MISS"] = 0,
+						["damage"] = 135,
+						["DEFLECT"] = 0,
+						["id"] = 6603,
+						["max"] = 12,
+						["min"] = 8,
+						["PARRY"] = 0,
+						["critical"] = 0,
+						["hit"] = 14,
+						["EVADE"] = 1,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Esplosione Gelida"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 6,
+						["MISS"] = 0,
+						["damage"] = 55,
+						["DEFLECT"] = 0,
+						["id"] = 122,
+						["max"] = 14,
+						["min"] = 13,
+						["PARRY"] = 0,
+						["critical"] = 0,
+						["hit"] = 4,
+						["EVADE"] = 2,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+					["Palla di Fuocogelo"] = {
+						["DODGE"] = 0,
+						["REFLECT"] = 0,
+						["crushing"] = 0,
+						["IMMUNE"] = 0,
+						["glancing"] = 0,
+						["totalhits"] = 120,
+						["MISS"] = 9,
+						["damage"] = 2475,
+						["DEFLECT"] = 0,
+						["id"] = 44614,
+						["max"] = 54,
+						["min"] = 18,
+						["PARRY"] = 0,
+						["critical"] = 3,
+						["hit"] = 95,
+						["EVADE"] = 13,
+						["RESIST"] = 0,
+						["BLOCK"] = 0,
+						["ABSORB"] = 0,
+					},
+				},
+				["deaths"] = {
+					{
+						["log"] = {
+							{
+								["ts"] = 1412871796.062,
+								["amount"] = -4,
+								["hp"] = 45,
+								["spellid"] = 88163,
+								["srcname"] = "Mutazione Tentacolare",
+							}, -- [1]
+							{
+								["ts"] = 1412871798.048,
+								["amount"] = -5,
+								["hp"] = 41,
+								["spellid"] = 88163,
+								["srcname"] = "Mutazione Tentacolare",
+							}, -- [2]
+							{
+								["ts"] = 1412871800.022,
+								["amount"] = -4,
+								["hp"] = 36,
+								["spellid"] = 88163,
+								["srcname"] = "Mutazione Tentacolare",
+							}, -- [3]
+							{
+								["ts"] = 1412871802.042,
+								["amount"] = -4,
+								["hp"] = 32,
+								["spellid"] = 88163,
+								["srcname"] = "Mutazione Tentacolare",
+							}, -- [4]
+							{
+								["ts"] = 1412871804.068,
+								["amount"] = -4,
+								["hp"] = 28,
+								["spellid"] = 88163,
+								["srcname"] = "Mutazione Tentacolare",
+							}, -- [5]
+							{
+								["ts"] = 1412871806.063,
+								["amount"] = -5,
+								["hp"] = 24,
+								["spellid"] = 88163,
+								["srcname"] = "Mutazione Tentacolare",
+							}, -- [6]
+							{
+								["ts"] = 1412871808.073,
+								["amount"] = -5,
+								["hp"] = 19,
+								["spellid"] = 88163,
+								["srcname"] = "Mutazione Tentacolare",
+							}, -- [7]
+							{
+								["ts"] = 1412871810.104,
+								["amount"] = -4,
+								["hp"] = 14,
+								["spellid"] = 88163,
+								["srcname"] = "Mutazione Tentacolare",
+							}, -- [8]
+							{
+								["ts"] = 1412871812.094,
+								["amount"] = -4,
+								["hp"] = 10,
+								["spellid"] = 88163,
+								["srcname"] = "Mutazione Tentacolare",
+							}, -- [9]
+							{
+								["ts"] = 1412871814.107,
+								["amount"] = -4,
+								["hp"] = 6,
+								["spellid"] = 88163,
+								["srcname"] = "Mutazione Tentacolare",
+							}, -- [10]
+							{
+								["ts"] = 1412871816.135,
+								["amount"] = -4,
+								["hp"] = 2,
+								["spellid"] = 88163,
+								["srcname"] = "Mutazione Tentacolare",
+							}, -- [11]
+							{
+								["ts"] = 1412871816.929,
+								["amount"] = 0,
+								["spellname"] = "Nkfphfj muore",
+								["hp"] = 0,
+								["spellid"] = 5384,
+							}, -- [12]
+							{
+								["ts"] = 1412871790.032,
+								["amount"] = -5,
+								["hp"] = 59,
+								["spellid"] = 88163,
+								["srcname"] = "Mutazione Tentacolare",
+							}, -- [13]
+							{
+								["ts"] = 1412871792.034,
+								["amount"] = -5,
+								["hp"] = 54,
+								["spellid"] = 88163,
+								["srcname"] = "Mutazione Tentacolare",
+							}, -- [14]
+							{
+								["ts"] = 1412871793.999,
+								["amount"] = -4,
+								["hp"] = 49,
+								["spellid"] = 88163,
+								["srcname"] = "Mutazione Tentacolare",
+							}, -- [15]
+						},
+						["ts"] = 1412871816.929,
+					}, -- [1]
+				},
+				["healed"] = {
+					["Nkfphfj"] = {
+						["class"] = "MAGE",
+						["shielding"] = 0,
+						["amount"] = 22,
+					},
+				},
+				["shielding"] = 0,
+				["id"] = "0x0500000006EDE408",
+				["healing"] = 22,
+				["ccbreaks"] = 0,
+				["damagetakenspells"] = {
+					["Attacco"] = {
+						["min"] = 4,
+						["name"] = "Attacco",
+						["id"] = 6603,
+						["max"] = 10,
+						["totalhits"] = 94,
+						["damage"] = 593,
+					},
+				},
+				["maxhp"] = 103,
+				["deathlog"] = {
+					{
+						["ts"] = 1412872724.954,
+						["amount"] = -9,
+						["hp"] = 171,
+						["spellid"] = 88163,
+						["srcname"] = "Radice Sferzante Mutata",
+					}, -- [1]
+					{
+						["ts"] = 1412872726.967,
+						["amount"] = -9,
+						["hp"] = 162,
+						["spellid"] = 88163,
+						["srcname"] = "Radice Sferzante Mutata",
+					}, -- [2]
+					{
+						["ts"] = 1412872728.978,
+						["amount"] = -9,
+						["hp"] = 153,
+						["spellid"] = 88163,
+						["srcname"] = "Radice Sferzante Mutata",
+					}, -- [3]
+					{
+						["ts"] = 1412872730.961,
+						["amount"] = -9,
+						["hp"] = 144,
+						["spellid"] = 88163,
+						["srcname"] = "Radice Sferzante Mutata",
+					}, -- [4]
+					{
+						["ts"] = 1412872732.955,
+						["amount"] = -9,
+						["hp"] = 135,
+						["spellid"] = 88163,
+						["srcname"] = "Radice Sferzante Mutata",
+					}, -- [5]
+					{
+						["ts"] = 1412872734.963,
+						["amount"] = -8,
+						["hp"] = 126,
+						["spellid"] = 88163,
+						["srcname"] = "Radice Sferzante Mutata",
+					}, -- [6]
+					{
+						["ts"] = 1412872736.965,
+						["amount"] = -9,
+						["hp"] = 118,
+						["spellid"] = 88163,
+						["srcname"] = "Radice Sferzante Mutata",
+					}, -- [7]
+					{
+						["ts"] = 1412872738.964,
+						["amount"] = -9,
+						["hp"] = 109,
+						["spellid"] = 88163,
+						["srcname"] = "Radice Sferzante Mutata",
+					}, -- [8]
+					{
+						["ts"] = 1412872768.675,
+						["amount"] = -10,
+						["hp"] = 171,
+						["spellid"] = 88163,
+						["srcname"] = "Radice Sferzante Mutata",
+					}, -- [9]
+					{
+						["ts"] = 1412872770.579,
+						["amount"] = -8,
+						["hp"] = 161,
+						["spellid"] = 88163,
+						["srcname"] = "Radice Sferzante Mutata",
+					}, -- [10]
+					{
+						["ts"] = 1412872784.349,
+						["amount"] = -8,
+						["hp"] = 153,
+						["spellid"] = 88163,
+						["srcname"] = "Radice Sferzante Mutata",
+					}, -- [11]
+					{
+						["ts"] = 1412872786.353,
+						["amount"] = -8,
+						["hp"] = 145,
+						["spellid"] = 88163,
+						["srcname"] = "Radice Sferzante Mutata",
+					}, -- [12]
+					{
+						["ts"] = 1412872807.598,
+						["amount"] = -8,
+						["hp"] = 137,
+						["spellid"] = 88163,
+						["srcname"] = "Radice Sferzante Mutata",
+					}, -- [13]
+					{
+						["ts"] = 1412872809.685,
+						["amount"] = -9,
+						["hp"] = 129,
+						["spellid"] = 88163,
+						["srcname"] = "Radice Sferzante Mutata",
+					}, -- [14]
+					{
+						["ts"] = 1412872811.614,
+						["amount"] = -8,
+						["hp"] = 120,
+						["spellid"] = 88163,
+						["srcname"] = "Radice Sferzante Mutata",
+					}, -- [15]
+					["pos"] = 1,
+				},
+				["name"] = "Nkfphfj",
+				["power"] = {
+				},
+				["auras"] = {
+					["Dono dei Naaru"] = {
+						["name"] = "Dono dei Naaru",
+						["active"] = 0,
+						["id"] = 59548,
+						["auratype"] = "BUFF",
+						["uptime"] = 8,
+					},
+					["Esplosione Gelida"] = {
+						["name"] = "Esplosione Gelida",
+						["active"] = 0,
+						["id"] = 122,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 31,
+					},
+					["Palla di Fuocogelo"] = {
+						["name"] = "Palla di Fuocogelo",
+						["active"] = 0,
+						["id"] = 44614,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 196,
+					},
+				},
+				["damagetaken"] = 593,
+				["time"] = 370,
+			}, -- [1]
+		},
+		["deaths"] = 1,
+		["damagetaken"] = 593,
+		["shielding"] = 0,
+		["healing"] = 22,
+		["power"] = {
+		},
+		["starttime"] = 1412871298,
+		["mobtaken"] = 2665,
+		["name"] = "Totale",
+		["mobs"] = {
+			["Draenei Ferita"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Cura Inferiore"] = {
+						["min"] = 54,
+						["crits"] = 0,
+						["max"] = 54,
+						["healing"] = 54,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 54,
+				["hdonespell"] = {
+				},
+			},
+			["Zalduun"] = {
+				["players"] = {
+				},
+				["hdone"] = 109,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Cura Inferiore"] = {
+						["min"] = 54,
+						["crits"] = 0,
+						["max"] = 55,
+						["healing"] = 109,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+				},
+			},
+			["Radice Sferzante Mutata"] = {
+				["players"] = {
+					["Nkfphfj"] = {
+						["taken"] = 641,
+						["done"] = 243,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 641,
+				["done"] = 243,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Aurelon"] = {
+				["players"] = {
+				},
+				["hdone"] = 59,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Cura Inferiore"] = {
+						["min"] = 59,
+						["crits"] = 0,
+						["max"] = 59,
+						["healing"] = 59,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+			},
+			["Falena della Vallata"] = {
+				["players"] = {
+					["Nkfphfj"] = {
+						["taken"] = 795,
+						["done"] = 31,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 795,
+				["done"] = 31,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Mutazione Tentacolare"] = {
+				["players"] = {
+					["Nkfphfj"] = {
+						["taken"] = 1229,
+						["done"] = 319,
+						["class"] = "MAGE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1229,
+				["done"] = 319,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Draenei Ferito"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Cura Inferiore"] = {
+						["min"] = 55,
+						["crits"] = 0,
+						["max"] = 59,
+						["healing"] = 114,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 114,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["overhealing"] = 11,
+		["mobhdone"] = 168,
+		["last_action"] = 1412871298,
+		["mobdone"] = 593,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 33,
+			["interrupts"] = 0,
+			["damage"] = 79,
+			["players"] = {
+				{
+					["last"] = 1412872850,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Radice Sferzante Mutata"] = 79,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 79,
+					["damagespells"] = {
+						["Esplosione Gelida"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 2,
+							["MISS"] = 0,
+							["damage"] = 14,
+							["DEFLECT"] = 0,
+							["id"] = 122,
+							["max"] = 14,
+							["min"] = 14,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 1,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 11,
+							["MISS"] = 1,
+							["damage"] = 65,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 33,
+							["min"] = 32,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 2,
+							["EVADE"] = 8,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006EDE408",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 171,
+					["name"] = "Nkfphfj",
+					["power"] = {
+					},
+					["auras"] = {
+						["Esplosione Gelida"] = {
+							["name"] = "Esplosione Gelida",
+							["active"] = 0,
+							["id"] = 122,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 8,
+						},
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 9,
+						},
+					},
+					["damagetaken"] = 0,
+					["first"] = 1412872817,
+					["time"] = 33,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["endtime"] = 1412872850,
+			["healing"] = 0,
+			["mobs"] = {
+				["Radice Sferzante Mutata"] = {
+					["players"] = {
+						["Nkfphfj"] = {
+							["taken"] = 79,
+							["done"] = 0,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 79,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1412872817,
+			["mobtaken"] = 79,
+			["name"] = "Radice Sferzante Mutata",
+			["mobname"] = "Radice Sferzante Mutata",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1412872817,
+			["mobdone"] = 0,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 47,
+			["interrupts"] = 0,
+			["damage"] = 255,
+			["players"] = {
+				{
+					["last"] = 1412872807,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Radice Sferzante Mutata"] = 255,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 255,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 2,
+							["MISS"] = 0,
+							["damage"] = 10,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 10,
+							["min"] = 10,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 1,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Esplosione Gelida"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 3,
+							["MISS"] = 0,
+							["damage"] = 27,
+							["DEFLECT"] = 0,
+							["id"] = 122,
+							["max"] = 14,
+							["min"] = 13,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 2,
+							["EVADE"] = 1,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 12,
+							["MISS"] = 0,
+							["damage"] = 218,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 33,
+							["min"] = 30,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 7,
+							["EVADE"] = 5,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006EDE408",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 8,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 10,
+							["totalhits"] = 7,
+							["damage"] = 59,
+						},
+					},
+					["maxhp"] = 171,
+					["name"] = "Nkfphfj",
+					["power"] = {
+					},
+					["auras"] = {
+						["Esplosione Gelida"] = {
+							["name"] = "Esplosione Gelida",
+							["active"] = 0,
+							["id"] = 122,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 15,
+						},
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 17,
+						},
+					},
+					["damagetaken"] = 59,
+					["first"] = 1412872762,
+					["time"] = 45,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 59,
+			["shielding"] = 0,
+			["endtime"] = 1412872809,
+			["healing"] = 0,
+			["mobs"] = {
+				["Radice Sferzante Mutata"] = {
+					["players"] = {
+						["Nkfphfj"] = {
+							["taken"] = 255,
+							["done"] = 59,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 255,
+					["done"] = 59,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1412872762,
+			["mobtaken"] = 255,
+			["name"] = "Radice Sferzante Mutata",
+			["mobname"] = "Radice Sferzante Mutata",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1412872762,
+			["mobdone"] = 59,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 19,
+			["interrupts"] = 0,
+			["damage"] = 164,
+			["players"] = {
+				{
+					["last"] = 1412872734,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Radice Sferzante Mutata"] = 164,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 164,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 5,
+							["MISS"] = 0,
+							["damage"] = 164,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 35,
+							["min"] = 31,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 5,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006EDE408",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 8,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 9,
+							["totalhits"] = 8,
+							["damage"] = 71,
+						},
+					},
+					["maxhp"] = 171,
+					["name"] = "Nkfphfj",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 13,
+						},
+					},
+					["damagetaken"] = 71,
+					["first"] = 1412872719,
+					["time"] = 15,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 71,
+			["shielding"] = 0,
+			["endtime"] = 1412872735,
+			["healing"] = 0,
+			["mobs"] = {
+				["Radice Sferzante Mutata"] = {
+					["players"] = {
+						["Nkfphfj"] = {
+							["taken"] = 164,
+							["done"] = 71,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 164,
+					["done"] = 71,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1412872716,
+			["mobtaken"] = 164,
+			["name"] = "Radice Sferzante Mutata",
+			["mobname"] = "Radice Sferzante Mutata",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1412872716,
+			["mobdone"] = 71,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 32,
+			["interrupts"] = 0,
+			["damage"] = 143,
+			["players"] = {
+				{
+					["last"] = 1412872699,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Radice Sferzante Mutata"] = 143,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 143,
+					["damagespells"] = {
+						["Attacco"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 7,
+							["MISS"] = 0,
+							["damage"] = 67,
+							["DEFLECT"] = 0,
+							["id"] = 6603,
+							["max"] = 11,
+							["min"] = 8,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 7,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Esplosione Gelida"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 1,
+							["MISS"] = 0,
+							["damage"] = 14,
+							["DEFLECT"] = 0,
+							["id"] = 122,
+							["max"] = 14,
+							["min"] = 14,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 1,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 2,
+							["MISS"] = 0,
+							["damage"] = 62,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 32,
+							["min"] = 30,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 2,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006EDE408",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 8,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 10,
+							["totalhits"] = 13,
+							["damage"] = 113,
+						},
+					},
+					["maxhp"] = 171,
+					["name"] = "Nkfphfj",
+					["power"] = {
+					},
+					["auras"] = {
+						["Esplosione Gelida"] = {
+							["name"] = "Esplosione Gelida",
+							["active"] = 0,
+							["id"] = 122,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 8,
+						},
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 2,
+						},
+					},
+					["damagetaken"] = 113,
+					["first"] = 1412872669,
+					["time"] = 30,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 113,
+			["shielding"] = 0,
+			["endtime"] = 1412872701,
+			["healing"] = 0,
+			["mobs"] = {
+				["Radice Sferzante Mutata"] = {
+					["players"] = {
+						["Nkfphfj"] = {
+							["taken"] = 143,
+							["done"] = 113,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 143,
+					["done"] = 113,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1412872669,
+			["mobtaken"] = 143,
+			["name"] = "Radice Sferzante Mutata",
+			["mobname"] = "Radice Sferzante Mutata",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1412872669,
+			["mobdone"] = 113,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 6,
+			["interrupts"] = 0,
+			["damage"] = 105,
+			["players"] = {
+				{
+					["last"] = 1412872346,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Mutazione Tentacolare"] = 105,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 105,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 4,
+							["MISS"] = 0,
+							["damage"] = 105,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 27,
+							["min"] = 25,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 4,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006EDE408",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 134,
+					["name"] = "Nkfphfj",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 5,
+						},
+					},
+					["damagetaken"] = 0,
+					["first"] = 1412872342,
+					["time"] = 4,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["endtime"] = 1412872347,
+			["healing"] = 0,
+			["mobs"] = {
+				["Mutazione Tentacolare"] = {
+					["players"] = {
+						["Nkfphfj"] = {
+							["taken"] = 105,
+							["done"] = 0,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 105,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1412872341,
+			["mobtaken"] = 105,
+			["name"] = "Mutazione Tentacolare",
+			["mobname"] = "Mutazione Tentacolare",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1412872341,
+			["mobdone"] = 0,
+		}, -- [5]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 9,
+			["interrupts"] = 0,
+			["damage"] = 105,
+			["players"] = {
+				{
+					["last"] = 1412872333,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Mutazione Tentacolare"] = 105,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 105,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 4,
+							["MISS"] = 0,
+							["damage"] = 105,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 27,
+							["min"] = 25,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 4,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006EDE408",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 4,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 5,
+							["totalhits"] = 2,
+							["damage"] = 9,
+						},
+					},
+					["maxhp"] = 134,
+					["name"] = "Nkfphfj",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 6,
+						},
+					},
+					["damagetaken"] = 9,
+					["first"] = 1412872326,
+					["time"] = 7,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 9,
+			["shielding"] = 0,
+			["endtime"] = 1412872334,
+			["healing"] = 0,
+			["mobs"] = {
+				["Mutazione Tentacolare"] = {
+					["players"] = {
+						["Nkfphfj"] = {
+							["taken"] = 105,
+							["done"] = 9,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 105,
+					["done"] = 9,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1412872325,
+			["mobtaken"] = 105,
+			["name"] = "Mutazione Tentacolare",
+			["mobname"] = "Mutazione Tentacolare",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1412872325,
+			["mobdone"] = 9,
+		}, -- [6]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 11,
+			["interrupts"] = 0,
+			["damage"] = 158,
+			["players"] = {
+				{
+					["last"] = 1412872295,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Mutazione Tentacolare"] = 158,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 158,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 6,
+							["MISS"] = 1,
+							["damage"] = 158,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 54,
+							["min"] = 25,
+							["PARRY"] = 0,
+							["critical"] = 1,
+							["hit"] = 4,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006EDE408",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 6,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 7,
+							["totalhits"] = 2,
+							["damage"] = 13,
+						},
+					},
+					["maxhp"] = 134,
+					["name"] = "Nkfphfj",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 9,
+						},
+					},
+					["damagetaken"] = 13,
+					["first"] = 1412872287,
+					["time"] = 8,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 13,
+			["shielding"] = 0,
+			["endtime"] = 1412872297,
+			["healing"] = 0,
+			["mobs"] = {
+				["Mutazione Tentacolare"] = {
+					["players"] = {
+						["Nkfphfj"] = {
+							["taken"] = 158,
+							["done"] = 13,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 158,
+					["done"] = 13,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1412872286,
+			["mobtaken"] = 158,
+			["name"] = "Mutazione Tentacolare",
+			["mobname"] = "Mutazione Tentacolare",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1412872286,
+			["mobdone"] = 13,
+		}, -- [7]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 8,
+			["interrupts"] = 0,
+			["damage"] = 130,
+			["players"] = {
+				{
+					["last"] = 1412872280,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Mutazione Tentacolare"] = 130,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 130,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 5,
+							["MISS"] = 0,
+							["damage"] = 130,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 27,
+							["min"] = 25,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 5,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006EDE408",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 134,
+					["name"] = "Nkfphfj",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 6,
+						},
+					},
+					["damagetaken"] = 0,
+					["first"] = 1412872274,
+					["time"] = 6,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["endtime"] = 1412872282,
+			["healing"] = 0,
+			["mobs"] = {
+				["Mutazione Tentacolare"] = {
+					["players"] = {
+						["Nkfphfj"] = {
+							["taken"] = 130,
+							["done"] = 0,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 130,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1412872274,
+			["mobtaken"] = 130,
+			["name"] = "Mutazione Tentacolare",
+			["mobname"] = "Mutazione Tentacolare",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1412872274,
+			["mobdone"] = 0,
+		}, -- [8]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["damage"] = 108,
+			["players"] = {
+				{
+					["last"] = 1412872266,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Mutazione Tentacolare"] = 108,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 108,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 4,
+							["MISS"] = 0,
+							["damage"] = 108,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 27,
+							["min"] = 27,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 4,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006EDE408",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+						["Attacco"] = {
+							["min"] = 4,
+							["name"] = "Attacco",
+							["id"] = 6603,
+							["max"] = 5,
+							["totalhits"] = 2,
+							["damage"] = 9,
+						},
+					},
+					["maxhp"] = 134,
+					["name"] = "Nkfphfj",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 6,
+						},
+					},
+					["damagetaken"] = 9,
+					["first"] = 1412872261,
+					["time"] = 5,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 9,
+			["shielding"] = 0,
+			["endtime"] = 1412872267,
+			["healing"] = 0,
+			["mobs"] = {
+				["Mutazione Tentacolare"] = {
+					["players"] = {
+						["Nkfphfj"] = {
+							["taken"] = 108,
+							["done"] = 9,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 108,
+					["done"] = 9,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1412872260,
+			["mobtaken"] = 108,
+			["name"] = "Mutazione Tentacolare",
+			["mobname"] = "Mutazione Tentacolare",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1412872260,
+			["mobdone"] = 9,
+		}, -- [9]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 8,
+			["interrupts"] = 0,
+			["damage"] = 103,
+			["players"] = {
+				{
+					["last"] = 1412872112,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["Mutazione Tentacolare"] = 103,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 103,
+					["damagespells"] = {
+						["Palla di Fuocogelo"] = {
+							["DODGE"] = 0,
+							["REFLECT"] = 0,
+							["crushing"] = 0,
+							["IMMUNE"] = 0,
+							["glancing"] = 0,
+							["totalhits"] = 4,
+							["MISS"] = 0,
+							["damage"] = 103,
+							["DEFLECT"] = 0,
+							["id"] = 44614,
+							["max"] = 27,
+							["min"] = 24,
+							["PARRY"] = 0,
+							["critical"] = 0,
+							["hit"] = 4,
+							["EVADE"] = 0,
+							["RESIST"] = 0,
+							["BLOCK"] = 0,
+							["ABSORB"] = 0,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "0x0500000006EDE408",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 134,
+					["name"] = "Nkfphfj",
+					["power"] = {
+					},
+					["auras"] = {
+						["Palla di Fuocogelo"] = {
+							["name"] = "Palla di Fuocogelo",
+							["active"] = 0,
+							["id"] = 44614,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 6,
+						},
+					},
+					["damagetaken"] = 0,
+					["first"] = 1412872106,
+					["time"] = 6,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["endtime"] = 1412872114,
+			["healing"] = 0,
+			["mobs"] = {
+				["Mutazione Tentacolare"] = {
+					["players"] = {
+						["Nkfphfj"] = {
+							["taken"] = 103,
+							["done"] = 0,
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 103,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["power"] = {
+			},
+			["starttime"] = 1412872106,
+			["mobtaken"] = 103,
+			["name"] = "Mutazione Tentacolare",
+			["mobname"] = "Mutazione Tentacolare",
+			["overhealing"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1412872106,
+			["mobdone"] = 0,
+		}, -- [10]
+	},
+}

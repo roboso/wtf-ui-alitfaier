@@ -1,0 +1,13 @@
+
+ElkFriendsDB = {
+	["profileKeys"] = {
+		["Pingola - Pozzo dell'Eternità"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["minimap"] = {
+				["hide"] = true,
+			},
+		},
+	},
+}

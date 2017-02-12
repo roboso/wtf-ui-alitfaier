@@ -1,0 +1,7 @@
+
+_NPCScanOptions = {
+	["CacheWarnings"] = true,
+	["FindTamable"] = true,
+	["Version"] = "3.2.0.8",
+	["AchievementsAddFound"] = true,
+}

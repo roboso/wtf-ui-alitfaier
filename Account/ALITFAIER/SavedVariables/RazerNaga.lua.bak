@@ -1,0 +1,11 @@
+
+RazerNagaDB = {
+	["profileKeys"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = "Druida",
+	},
+	["profiles"] = {
+		["Druida"] = {
+		},
+	},
+}
+RazerNagaVersion = "2.8.4"

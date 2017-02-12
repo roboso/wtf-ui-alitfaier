@@ -1,0 +1,71 @@
+MACRO 16777223 "Bekon" INV_Misc_QuestionMark
+/console Sound_EnableSFX 0
+/use Divine Illumination
+/script UIErrorsFrame:Clear()
+/console Sound_EnableSFX 1
+/use [target=mouseover,help]Beacon of Light
+/dbm timer 60 Beacon Time!
+END
+MACRO 16777219 "FoL" INV_Misc_QuestionMark
+/console Sound_EnableSFX 0
+/cancelaura Divine Plea
+/use Avenging Wrath
+/use Aura Mastery
+/use Divine Favor
+/use Divine Illumination
+/use 13
+/use 14
+/script UIErrorsFrame:Clear()
+/console Sound_EnableSFX 1
+/use [target=mouseover,help]Flash of Light
+END
+MACRO 16777220 "HL" INV_Misc_QuestionMark
+/console Sound_EnableSFX 0
+/cancelaura Divine Plea
+/use Avenging Wrath
+/use Aura Mastery
+/use Divine Favor
+/use Divine Illumination
+/use 13
+/use 14
+/script UIErrorsFrame:Clear()
+/console Sound_EnableSFX 1
+/use [target=mouseover,help]Holy Light
+END
+MACRO 16777221 "HS" INV_Misc_QuestionMark
+/console Sound_EnableSFX 0
+/cancelaura Divine Plea
+/use Avenging Wrath
+/use Aura Mastery
+/use Divine Favor
+/use Divine Illumination
+/use 13
+/use 14
+/script UIErrorsFrame:Clear()
+/console Sound_EnableSFX 1
+/use [target=mouseover,help]Holy Shock
+END
+MACRO 16777217 "IWIN" INV_Misc_QuestionMark
+#showtooltips holy shock
+/console Sound_EnableSFX 0
+/startattack
+/stopcasting
+/castrandom Holy Shock, Judgement of light, Hammer of Wrath, Exorcism, Holy Shock, Shield of Righteousness
+/console Sound_EnableSFX 1
+END
+MACRO 16777222 "SShield" INV_Misc_QuestionMark
+/use [target=mouseover,help]Sacred Shield
+/dbm timer 30 Sacred Shield!
+END
+MACRO 16777218 "UPUP" INV_Misc_QuestionMark
+/cast Redemption
+/stopmacro [nodead]
+/script PlaySoundFile("Sound\\Creature\\HighInquisitorWhitemane\\HighInquisitorWhitemaneRes01.wav")
+/say Resurrecting: %t
+END
+MACRO 16777224 "VuhDoDCShieldData" Ability_Hunter_ExplosiveShot
+P1WM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1PT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+MACRO 16777225 "VuhDoDCShieldNames" Ability_Hunter_ExplosiveShot
+NBub[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Bra[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

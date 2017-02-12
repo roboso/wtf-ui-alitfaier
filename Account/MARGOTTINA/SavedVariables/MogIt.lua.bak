@@ -1,0 +1,24 @@
+
+MogItDB = {
+	["profileKeys"] = {
+		["Alitfaier - Nemesis"] = "Default",
+	},
+	["global"] = {
+		["version"] = "3.3.0",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["x"] = 0,
+			["y"] = 0,
+		},
+	},
+}
+MogItWishlist = {
+	["profileKeys"] = {
+		["Alitfaier - Nemesis"] = "Alitfaier - Nemesis",
+	},
+	["profiles"] = {
+		["Alitfaier - Nemesis"] = {
+		},
+	},
+}

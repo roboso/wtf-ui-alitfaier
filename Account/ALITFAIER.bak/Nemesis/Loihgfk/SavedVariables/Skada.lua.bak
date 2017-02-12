@@ -1,0 +1,194 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 8,
+		["interrupts"] = 0,
+		["damage"] = 47,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "ROGUE",
+				["damaged"] = {
+				},
+				["dispells"] = 0,
+				["healingspells"] = {
+				},
+				["overhealing"] = 0,
+				["interrupts"] = 0,
+				["damage"] = 47,
+				["damagespells"] = {
+					["Attacco"] = {
+						["min"] = 8,
+						["critical"] = 1,
+						["hit"] = 2,
+						["totalhits"] = 3,
+						["id"] = 6603,
+						["max"] = 10,
+						["damage"] = 28,
+					},
+					["Assalto Funesto"] = {
+						["min"] = 19,
+						["hit"] = 1,
+						["totalhits"] = 1,
+						["id"] = 1752,
+						["max"] = 19,
+						["damage"] = 19,
+					},
+				},
+				["ccbreaks"] = 0,
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "Player-1316-07196154",
+				["healing"] = 0,
+				["maxhp"] = 238,
+				["damagetakenspells"] = {
+				},
+				["deathlog"] = {
+				},
+				["power"] = {
+				},
+				["name"] = "Loihgfk",
+				["auras"] = {
+				},
+				["damagetaken"] = 0,
+				["time"] = 2,
+				["multistrikes"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["Manichino d'Allenamento"] = {
+				["players"] = {
+					["Loihgfk"] = {
+						["taken"] = 47,
+						["done"] = 0,
+						["class"] = "ROGUE",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 47,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["mobtaken"] = 47,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["starttime"] = 1418233905,
+		["damagetaken"] = 0,
+		["shielding"] = 0,
+		["name"] = "Totale",
+		["overhealing"] = 0,
+		["mobdone"] = 0,
+		["mobhdone"] = 0,
+		["last_action"] = 1418233905,
+		["multistrikes"] = 0,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 8,
+			["interrupts"] = 0,
+			["endtime"] = 1418233913,
+			["damage"] = 47,
+			["players"] = {
+				{
+					["last"] = 1418233907,
+					["healingabsorbed"] = 0,
+					["class"] = "ROGUE",
+					["damaged"] = {
+						["Manichino d'Allenamento"] = 47,
+					},
+					["dispells"] = 0,
+					["healingspells"] = {
+					},
+					["overhealing"] = 0,
+					["interrupts"] = 0,
+					["damage"] = 47,
+					["damagespells"] = {
+						["Attacco"] = {
+							["min"] = 8,
+							["critical"] = 1,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["id"] = 6603,
+							["max"] = 10,
+							["damage"] = 28,
+						},
+						["Assalto Funesto"] = {
+							["min"] = 19,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 1752,
+							["max"] = 19,
+							["damage"] = 19,
+						},
+					},
+					["healed"] = {
+					},
+					["shielding"] = 0,
+					["id"] = "Player-1316-07196154",
+					["healing"] = 0,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["maxhp"] = 238,
+					["power"] = {
+					},
+					["name"] = "Loihgfk",
+					["auras"] = {
+					},
+					["damagetaken"] = 0,
+					["first"] = 1418233905,
+					["time"] = 2,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Manichino d'Allenamento"] = {
+					["players"] = {
+						["Loihgfk"] = {
+							["taken"] = 47,
+							["done"] = 0,
+							["class"] = "ROGUE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 47,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 47,
+			["overhealing"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["starttime"] = 1418233905,
+			["damagetaken"] = 0,
+			["shielding"] = 0,
+			["name"] = "Manichino d'Allenamento",
+			["mobname"] = "Manichino d'Allenamento",
+			["mobdone"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1418233905,
+			["multistrikes"] = 0,
+		}, -- [1]
+	},
+}

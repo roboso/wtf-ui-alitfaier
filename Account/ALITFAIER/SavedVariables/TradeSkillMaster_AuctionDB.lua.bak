@@ -1,0 +1,34 @@
+
+TradeSkillMaster_AuctionDBDB = {
+	["g@ @showAHTab"] = true,
+	["g@ @scanDataEU"] = "",
+	["g@ @lastUpdateUS"] = 0,
+	["_scopeKeys"] = {
+		["char"] = {
+			"Àzzurrà - Pozzo dell'Eternità", -- [1]
+		},
+		["realm"] = {
+			"Pozzo dell'Eternità", -- [1]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["factionrealm"] = {
+			"Alliance - Pozzo dell'Eternità", -- [1]
+		},
+	},
+	["g@ @helpPlatesShown"] = {
+	},
+	["r@Pozzo dell'Eternità@hasAppData"] = true,
+	["r@Pozzo dell'Eternità@lastSaveTime"] = 0,
+	["g@ @scanDataUS"] = "",
+	["_hash"] = 6312798,
+	["g@ @lastUpdateEU"] = 0,
+	["r@Pozzo dell'Eternità@lastPartialScan"] = 0,
+	["r@Pozzo dell'Eternità@lastCompleteScan"] = 0,
+	["r@Pozzo dell'Eternità@scanData"] = "",
+	["_version"] = 2,
+	["_currentProfile"] = {
+		["Àzzurrà - Pozzo dell'Eternità"] = "Default",
+	},
+}

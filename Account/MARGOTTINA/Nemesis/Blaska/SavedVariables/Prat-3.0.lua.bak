@@ -1,0 +1,209 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["time"] = 1475402045,
+	["scrollback"] = {
+		["ChatFrame1"] = {
+			{
+				"|cff979797[11:34:59]|r|c00000000|r Missione \"L'invasione ha inizio\" accettata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [1]
+			{
+				"|cff979797[11:35:12]|r|c00000000|r Hai scoperto: \"Cresta della Disperazione\". 1480 punti esperienza guadagnati.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [2]
+			{
+				"|cff979797[11:39:19]|r|c00000000|r Missione \"L'invasione ha inizio\" completata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [3]
+			{
+				"|cff979797[11:39:19]|r|c00000000|r Esperienza guadagnata: 37000.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [4]
+			{
+				"|cff979797[11:39:19]|r|c00000000|r Hai ricevuto: 14 oro, 60 argento.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [5]
+			{
+				"|cff979797[11:39:20]|r|c00000000|r Missione \"Il ritorno degli Illidari: Linguamorta\" accettata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [6]
+			{
+				"|cff979797[11:40:22]|r|c00000000|r Hai aggiunto \"Vilfiera\" alla tua collezione di cavalcature.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [7]
+			{
+				"|cff979797[11:41:20]|r|c00000000|r Missione \"Il ritorno degli Illidari: Linguamorta\" completata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [8]
+			{
+				"|cff979797[11:41:20]|r|c00000000|r Esperienza guadagnata: 37000.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [9]
+			{
+				"|cff979797[11:41:20]|r|c00000000|r Hai ricevuto: 14 oro, 60 argento.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [10]
+			{
+				"|cff979797[11:41:20]|r|c00000000|r Mardum, l'Abisso Spezzato è la tua nuova dimora.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [11]
+			{
+				"|cff979797[11:41:24]|r|c00000000|r Missione \"Liberali\" accettata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [12]
+			{
+				"|cff979797[11:41:25]|r|c00000000|r Missione \"Occhi aperti\" accettata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [13]
+			{
+				"|cff979797[11:41:27]|r|c00000000|r Missione \"Il ritorno degli Illidari: Malaspira\" accettata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [14]
+			{
+				"|cff979797[11:41:31]|r|c00000000|r Hai scoperto: \"Riva Fusa\". 1480 punti esperienza guadagnati.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [15]
+			{
+				"|cff979797[11:42:38]|r|c00000000|r |cffd8d8d8[|r|Hplayer:Lubbeni:104|h|cffa5a5a5Lubbeni|r|h|cffd8d8d8]|r ti ha invitato nella gilda: Men Of Honor.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [16]
+			{
+				"|cff979797[11:42:40]|r|c00000000|r [W From] |cffd8d8d8[|r|Hplayer:Lubbeni:105:WHISPER:LUBBENI|h|cffff7c0aLubbeni|r|h|cffd8d8d8]|r: La Gilda Men of Honor Cerca Giocatori Affidabili Da Inserire Nel Team PvE e PvP Richiesto Ts3 e Una Minima Partecipazione Di Gilda. (18+) Wisp me x info ", -- [1]
+				1, -- [2]
+				0.501960813999176, -- [3]
+				1, -- [4]
+				0, -- [5]
+			}, -- [17]
+			{
+				"|cff979797[11:50:28]|r|c00000000|r Missione \"Il ritorno degli Illidari: Malaspira\" completata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [18]
+			{
+				"|cff979797[11:50:28]|r|c00000000|r Esperienza guadagnata: 37000.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [19]
+			{
+				"|cff979797[11:50:28]|r|c00000000|r Hai ricevuto: 14 oro, 60 argento.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [20]
+			{
+				"|cff979797[11:51:27]|r|c00000000|r Hai scoperto: \"Seggio del Comando\". 1490 punti esperienza guadagnati.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [21]
+			{
+				"|cff979797[11:52:29]|r|c00000000|r |cff71d5ff|Hdeath:1|h[Sei morto.]|h", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [22]
+			{
+				"|cff979797[11:54:05]|r|c00000000|r Missione \"Assalto a Mardum\" completata.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [23]
+			{
+				"|cff979797[11:54:05]|r|c00000000|r Esperienza guadagnata: 185000.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [24]
+			{
+				"|cff979797[11:54:05]|r|c00000000|r Hai ricevuto: 73 oro.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+			}, -- [25]
+		},
+	},
+}
