@@ -12,7 +12,7 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 	["characters"] = {
 		{
 			["orderResources"] = 0,
-			["weeklyResetTime"] = 1485932399,
+			["weeklyResetTime"] = 1487746799,
 			["missions"] = {
 			},
 			["troops"] = {
@@ -20,7 +20,7 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 			["class"] = "PALADIN",
 			["orders"] = {
 			},
-			["updateTime"] = 1485549560,
+			["updateTime"] = 1487433277,
 			["order"] = 1,
 			["name"] = "Ilàrià-Nemesis",
 			["sealOfBrokenFate"] = 0,
@@ -34,6 +34,7 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 		}, -- [1]
 		{
 			["orderResources"] = 0,
+			["weeklyResetTime"] = 1487746799,
 			["missions"] = {
 			},
 			["troops"] = {
@@ -41,11 +42,12 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 			["class"] = "DEMONHUNTER",
 			["orders"] = {
 			},
+			["updateTime"] = 1487435959,
 			["order"] = 2,
 			["name"] = "Silvanoss-Nemesis",
+			["sealOfBrokenFate"] = 0,
 			["monitor"] = {
 			},
-			["sealOfBrokenFate"] = 0,
 			["advancement"] = {
 			},
 			["seals"] = {
@@ -54,7 +56,27 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 		}, -- [2]
 		{
 			["orderResources"] = 0,
-			["weeklyResetTime"] = 1485932399,
+			["missions"] = {
+			},
+			["troops"] = {
+			},
+			["class"] = "WARLOCK",
+			["orders"] = {
+			},
+			["order"] = 3,
+			["name"] = "Tvtb-Nemesis",
+			["monitor"] = {
+			},
+			["sealOfBrokenFate"] = 0,
+			["advancement"] = {
+			},
+			["seals"] = {
+			},
+			["realm"] = "Nemesis",
+		}, -- [3]
+		{
+			["orderResources"] = 0,
+			["weeklyResetTime"] = 1487746799,
 			["missions"] = {
 			},
 			["troops"] = {
@@ -62,7 +84,7 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 			["class"] = "MONK",
 			["orders"] = {
 			},
-			["updateTime"] = 1485803368,
+			["updateTime"] = 1487431714,
 			["name"] = "Àiralì-Nemesis",
 			["seals"] = {
 			},
@@ -71,12 +93,32 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 			["monitor"] = {
 			},
 			["sealOfBrokenFate"] = 0,
-			["order"] = 3,
+			["order"] = 4,
 			["realm"] = "Nemesis",
-		}, -- [3]
+		}, -- [4]
 		{
-			["orderResources"] = 1559,
-			["weeklyResetTime"] = 1487141999,
+			["orderResources"] = 0,
+			["missions"] = {
+			},
+			["troops"] = {
+			},
+			["class"] = "DEATHKNIGHT",
+			["orders"] = {
+			},
+			["order"] = 5,
+			["name"] = "Baxino-Pozzo dell'Eternità",
+			["seals"] = {
+			},
+			["advancement"] = {
+			},
+			["sealOfBrokenFate"] = 0,
+			["monitor"] = {
+			},
+			["realm"] = "Pozzo dell'Eternità",
+		}, -- [5]
+		{
+			["orderResources"] = 811,
+			["weeklyResetTime"] = 1488351599,
 			["missions"] = {
 				{
 					["description"] = "Anche nella morte, le anime di Azsuna non riescono a trovare la pace. Gilamore la Sinistra ha formato una compagnia di Maghi spettrali. Fermala e metti gli spiriti a riposo.",
@@ -96,7 +138,7 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 						}, -- [1]
 					},
 					["hasBonusEffect"] = true,
-					["missionEndTime"] = 1486671984,
+					["missionEndTime"] = 1488032114,
 					["isMaxLevel"] = false,
 					["name"] = "Anime tormentate",
 					["canStart"] = false,
@@ -105,36 +147,36 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 					["followerTypeID"] = 4,
 					["offeredGarrMissionTextureID"] = 0,
 					["durationSeconds"] = 7200,
-					["iLevel"] = 760,
+					["isBuilding"] = false,
 					["duration"] = "2 |4ora:ore;",
-					["areaID"] = 7334,
+					["completed"] = false,
 					["offerTimeRemaining"] = "0 s",
-					["missionID"] = 1163,
-					["timeLeft"] = "0 s",
-					["mapPosY"] = 0.595022618770599,
 					["rewardsList"] = {
 						"|T894556:20:20:-2:0|t|cffffffffEsperienza Personaggio|r", -- [1]
 					},
+					["timeLeft"] = "0 s",
+					["areaID"] = 7334,
+					["mapPosY"] = 0.595022618770599,
 					["type"] = "7.0 Class Hall - Generic Missions",
-					["level"] = 100,
+					["basecost"] = 100,
 					["timeLeftSeconds"] = 0,
-					["requiredChampionCount"] = 1,
+					["missionID"] = 1163,
 					["rewards"] = {
 						{
 							["itemID"] = 140584,
 							["quantity"] = 1,
 						}, -- [1]
 					},
-					["requiredSuccessChance"] = 0,
-					["numFollowers"] = 3,
 					["costCurrencyTypesID"] = 1220,
-					["completed"] = false,
-					["basecost"] = 100,
+					["numFollowers"] = 3,
+					["requiredChampionCount"] = 1,
+					["requiredSuccessChance"] = 0,
+					["level"] = 100,
 					["isComplete"] = true,
 					["location"] = "Azsuna",
 					["isRare"] = false,
 					["mapPosX"] = 0.393665373325348,
-					["isBuilding"] = false,
+					["iLevel"] = 760,
 				}, -- [1]
 			},
 			["troops"] = {
@@ -156,64 +198,31 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 					["texture"] = 1401873,
 				}, -- [1]
 			},
-			["updateTime"] = 1486839107,
+			["updateTime"] = 1488138585,
 			["name"] = "Blaska-Pozzo dell'Eternità",
 			["seals"] = {
 			},
 			["advancement"] = {
-				["newTalentTier"] = {
-					{
-						["isBeingResearched"] = false,
-						["description"] = "Permette di accedere al Portale per la Distorsione Fatua, evocando un enorme demone che, una volta sconfitto, fornisce potenziamenti ed eventuali tesori.",
-						["perkSpellID"] = 228651,
-						["researchCost"] = 500,
-						["researchDuration"] = 14400,
-						["tier"] = 2,
-						["selected"] = false,
-						["icon"] = 134544,
-						["researched"] = false,
-						["talentAvailability"] = 1,
-						["id"] = 419,
-						["researchCurrency"] = 1220,
-						["name"] = "Distorsione Fatua",
-						["researchTimeRemaining"] = 0,
-						["uiOrder"] = 1,
-						["researchGoldCost"] = 0,
-						["researchStartTime"] = 0,
-					}, -- [1]
-					{
-						["isBeingResearched"] = false,
-						["description"] = "Sblocca l'abilità Ritiro Vendicativo per tutte le missioni, che aumenta la probabilità di successo nelle missioni con dei |C00b3ffffservitori|R del 10%.",
-						["perkSpellID"] = 0,
-						["researchCost"] = 500,
-						["researchDuration"] = 14400,
-						["tier"] = 2,
-						["selected"] = false,
-						["icon"] = 1348401,
-						["researched"] = false,
-						["talentAvailability"] = 1,
-						["id"] = 415,
-						["researchCurrency"] = 1220,
-						["name"] = "Ritiro Vendicativo",
-						["ability"] = {
-							["temporary"] = false,
-							["description"] = "Aumenta del 10% la probabilità di successo delle missioni con dei |C00b3ffffservitori|R.",
-							["id"] = 616,
-							["name"] = "Ritiro Vendicativo",
-							["isEmptySlot"] = false,
-							["counters"] = {
-							},
-							["isSpecialization"] = false,
-							["icon"] = 1348401,
-							["isTrait"] = false,
-						},
-						["researchStartTime"] = 0,
-						["uiOrder"] = 2,
-						["researchGoldCost"] = 0,
-						["researchTimeRemaining"] = 0,
-					}, -- [2]
+				["talentBeingResearched"] = {
+					["isBeingResearched"] = false,
+					["description"] = "Permette di accedere al Portale per la Distorsione Fatua, evocando un enorme demone che, una volta sconfitto, fornisce potenziamenti ed eventuali tesori.",
+					["perkSpellID"] = 228651,
+					["researchCost"] = 500,
+					["researchDuration"] = 14400,
+					["tier"] = 2,
+					["selected"] = true,
+					["icon"] = 134544,
+					["researched"] = true,
+					["talentAvailability"] = 8,
+					["id"] = 419,
+					["researchCurrency"] = 1220,
+					["name"] = "Distorsione Fatua",
+					["researchStartTime"] = 0,
+					["uiOrder"] = 1,
+					["researchGoldCost"] = 0,
+					["researchTimeRemaining"] = 0,
 				},
-				["numTalents"] = 1,
+				["numTalents"] = 2,
 			},
 			["monitor"] = {
 				["advancement"] = true,
@@ -221,202 +230,20 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 				["missions"] = true,
 			},
 			["sealOfBrokenFate"] = 0,
-			["order"] = 4,
+			["order"] = 6,
 			["realm"] = "Pozzo dell'Eternità",
-		}, -- [4]
+		}, -- [6]
 		{
-			["orderResources"] = 2079,
-			["weeklyResetTime"] = 1487141999,
+			["orderResources"] = 454,
+			["weeklyResetTime"] = 1488351599,
 			["missions"] = {
-				{
-					["description"] = "Una Matrona delle Arpie conosciuta come Seersei ha iniziato a decorare la foresta di Val'sharah con statue di un realismo sospetto.",
-					["cost"] = 100,
-					["isZoneSupport"] = false,
-					["locPrefix"] = "GarrMissionLocation-Valsharah",
-					["followers"] = {
-						"Elementale dell'Acqua", -- [1]
-						"Arcimago Vargoth", -- [2]
-						"Elementale dell'Acqua", -- [3]
-					},
-					["inProgress"] = true,
-					["overmaxRewards"] = {
-						{
-							["itemID"] = 141024,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["hasBonusEffect"] = true,
-					["missionEndTime"] = 1486854019,
-					["isMaxLevel"] = true,
-					["name"] = "La regina della pietra",
-					["canStart"] = false,
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["successChance"] = 70,
-					["followerTypeID"] = 4,
-					["offeredGarrMissionTextureID"] = 0,
-					["durationSeconds"] = 14400,
-					["requiredChampionCount"] = 1,
-					["iLevel"] = 765,
-					["mapPosY"] = 0.371040403842926,
-					["offerTimeRemaining"] = "0 s",
-					["duration"] = "4 |4ora:ore;",
-					["timeLeft"] = "3 |4ora:ore; 1 min",
-					["completed"] = false,
-					["rewardsList"] = {
-						"|T133280:20:20:-2:0|t|cff1eff00Catenina Spirituale dei Pelleardente|r", -- [1]
-					},
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["areaID"] = 7558,
-					["timeLeftSeconds"] = 10912,
-					["level"] = 110,
-					["rewards"] = {
-						{
-							["itemID"] = 141930,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["requiredSuccessChance"] = 0,
-					["numFollowers"] = 3,
-					["costCurrencyTypesID"] = 1220,
-					["missionID"] = 1182,
-					["basecost"] = 100,
-					["isComplete"] = false,
-					["location"] = "Val'sharah",
-					["isRare"] = false,
-					["mapPosX"] = 0.285067915916443,
-					["isBuilding"] = false,
-				}, -- [1]
-				{
-					["description"] = "Anche se normalmente non ci cureremmo di un Gigante del Mare ghiotto di Murloc, Bodash l'Incettatore ha iniziato a colpire qualunque cosa si avvicini alla sua tana.",
-					["cost"] = 250,
-					["isZoneSupport"] = false,
-					["locPrefix"] = "GarrMissionLocation-Highmountain",
-					["followers"] = {
-						"Arcimago Kalec", -- [1]
-						"Meryl Viltempesta", -- [2]
-						"Invocatori del Kirin Tor", -- [3]
-					},
-					["inProgress"] = true,
-					["overmaxRewards"] = {
-						{
-							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-							["quantity"] = 1250000,
-							["title"] = "Ricompensa in oro",
-							["currencyID"] = 0,
-						}, -- [1]
-					},
-					["hasBonusEffect"] = true,
-					["missionEndTime"] = 1486882791,
-					["isMaxLevel"] = true,
-					["name"] = "L'Incettatore",
-					["canStart"] = false,
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["successChance"] = 142,
-					["followerTypeID"] = 4,
-					["offeredGarrMissionTextureID"] = 0,
-					["durationSeconds"] = 43200,
-					["requiredChampionCount"] = 1,
-					["iLevel"] = 770,
-					["mapPosY"] = 0.278280973434448,
-					["offerTimeRemaining"] = "0 s",
-					["duration"] = "12 |4ora:ore;",
-					["timeLeft"] = "11 |4ora:ore; 1 min",
-					["completed"] = false,
-					["rewardsList"] = {
-						"|cffffffffRicompensa in oro|r", -- [1]
-					},
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["areaID"] = 7503,
-					["timeLeftSeconds"] = 39684,
-					["level"] = 110,
-					["rewards"] = {
-						{
-							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-							["quantity"] = 1687300,
-							["title"] = "Ricompensa in oro",
-							["currencyID"] = 0,
-						}, -- [1]
-					},
-					["requiredSuccessChance"] = 0,
-					["numFollowers"] = 3,
-					["costCurrencyTypesID"] = 1220,
-					["missionID"] = 1184,
-					["basecost"] = 250,
-					["isComplete"] = false,
-					["location"] = "Alto Monte",
-					["isRare"] = false,
-					["mapPosX"] = 0.463046818971634,
-					["isBuilding"] = false,
-				}, -- [2]
-				{
-					["description"] = "A Suramar, una guerriera Vrykul chiamata Hertha Grimdottir sta aspettando i viandanti. Poni fine alla sua vita.",
-					["cost"] = 500,
-					["isZoneSupport"] = false,
-					["locPrefix"] = "GarrMissionLocation-Suramar",
-					["followers"] = {
-						"Millhouse Manalampo", -- [1]
-						"Invocatori del Kirin Tor", -- [2]
-						"Invocatori del Kirin Tor", -- [3]
-					},
-					["inProgress"] = true,
-					["overmaxRewards"] = {
-						{
-							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-							["quantity"] = 1250000,
-							["title"] = "Ricompensa in oro",
-							["currencyID"] = 0,
-						}, -- [1]
-					},
-					["hasBonusEffect"] = true,
-					["missionEndTime"] = 1486897196,
-					["isMaxLevel"] = true,
-					["name"] = "Cosa c'è sotto",
-					["canStart"] = false,
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["successChance"] = 121,
-					["followerTypeID"] = 4,
-					["offeredGarrMissionTextureID"] = 0,
-					["durationSeconds"] = 57600,
-					["requiredChampionCount"] = 1,
-					["iLevel"] = 760,
-					["mapPosY"] = 0.447964072227478,
-					["offerTimeRemaining"] = "0 s",
-					["duration"] = "16 |4ora:ore;",
-					["timeLeft"] = "15 |4ora:ore; 1 min",
-					["completed"] = false,
-					["rewardsList"] = {
-						"|cffffffffRicompensa in oro|r", -- [1]
-					},
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["areaID"] = 7637,
-					["timeLeftSeconds"] = 54089,
-					["level"] = 110,
-					["rewards"] = {
-						{
-							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-							["quantity"] = 1648800,
-							["title"] = "Ricompensa in oro",
-							["currencyID"] = 0,
-						}, -- [1]
-					},
-					["requiredSuccessChance"] = 0,
-					["numFollowers"] = 3,
-					["costCurrencyTypesID"] = 1220,
-					["missionID"] = 1189,
-					["basecost"] = 250,
-					["isComplete"] = false,
-					["location"] = "Suramar",
-					["isRare"] = false,
-					["mapPosX"] = 0.473604649305344,
-					["isBuilding"] = false,
-				}, -- [3]
 			},
 			["troops"] = {
 				{
 					["limit"] = 3,
 					["description"] = "Professionisti d'élite nell'arcano e negli elementi, gli Invocatori del Kirin Tor vantano un retaggio che comprende Nielas Aran, padre di Medivh, e non hanno eguali nelle arti magiche.",
 					["name"] = "Invocatori del Kirin Tor",
-					["count"] = 3,
+					["count"] = 0,
 					["icon"] = 1396699,
 					["classSpec"] = 72,
 				}, -- [1]
@@ -424,7 +251,7 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 					["limit"] = 4,
 					["description"] = "Benché molti Maghi considerino gli Elementali imprevedibili, è da secoli che i Maghi del Gelo hanno adottato gli Elementali dell'Acqua come loro famigli.",
 					["name"] = "Elementali dell'Acqua",
-					["count"] = 4,
+					["count"] = 2,
 					["icon"] = 1396675,
 					["classSpec"] = 73,
 				}, -- [2]
@@ -433,33 +260,28 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 			["orders"] = {
 				{
 					["capacity"] = 3,
-					["troopCount"] = 3,
+					["troopCount"] = 0,
 					["name"] = "Invocatori del Kirin Tor",
 					["texture"] = 1396699,
 				}, -- [1]
 				{
 					["capacity"] = 4,
-					["troopCount"] = 4,
+					["troopCount"] = 2,
 					["name"] = "Elementali dell'Acqua",
 					["texture"] = 1396675,
 				}, -- [2]
 				{
-					["total"] = 1,
+					["capacity"] = 2,
 					["name"] = "Appunti sulla Ricerca dell'Artefatto",
 					["texture"] = 237446,
-					["capacity"] = 2,
-					["duration"] = 432000,
-					["nextSeconds"] = 72727,
-					["ready"] = 0,
 				}, -- [3]
 			},
-			["updateTime"] = 1486843107,
+			["updateTime"] = 1488138921,
 			["seals"] = {
 				["sealOfBrokenFate"] = 0,
 			},
 			["name"] = "Enchàntrix-Pozzo dell'Eternità",
 			["advancement"] = {
-				["numTalents"] = 4,
 				["newTalentTier"] = {
 					{
 						["isBeingResearched"] = false,
@@ -475,10 +297,10 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 						["id"] = 388,
 						["researchCurrency"] = 1220,
 						["name"] = "Potere di Dalaran",
-						["researchTimeRemaining"] = 0,
+						["researchStartTime"] = 0,
 						["uiOrder"] = 1,
 						["researchGoldCost"] = 0,
-						["researchStartTime"] = 0,
+						["researchTimeRemaining"] = 0,
 					}, -- [1]
 					{
 						["isBeingResearched"] = false,
@@ -494,24 +316,25 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 						["id"] = 387,
 						["researchCurrency"] = 1220,
 						["name"] = "Divinazione Arcana",
-						["researchTimeRemaining"] = 0,
+						["researchStartTime"] = 0,
 						["uiOrder"] = 2,
 						["researchGoldCost"] = 0,
-						["researchStartTime"] = 0,
+						["researchTimeRemaining"] = 0,
 					}, -- [2]
 				},
+				["numTalents"] = 4,
 			},
 			["monitor"] = {
 				[1396675] = true,
-				[237446] = true,
+				[237446] = false,
 				["advancement"] = true,
 				[1396699] = true,
 				["missions"] = true,
 			},
 			["sealOfBrokenFate"] = 0,
-			["order"] = 5,
+			["order"] = 7,
 			["realm"] = "Pozzo dell'Eternità",
-		}, -- [5]
+		}, -- [7]
 		{
 			["orderResources"] = 0,
 			["missions"] = {
@@ -521,7 +344,7 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 			["class"] = "MAGE",
 			["orders"] = {
 			},
-			["order"] = 6,
+			["order"] = 8,
 			["name"] = "Ghiacciaia-Pozzo dell'Eternità",
 			["seals"] = {
 			},
@@ -531,7 +354,27 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 			["monitor"] = {
 			},
 			["realm"] = "Pozzo dell'Eternità",
-		}, -- [6]
+		}, -- [8]
+		{
+			["orderResources"] = 0,
+			["missions"] = {
+			},
+			["troops"] = {
+			},
+			["class"] = "DEATHKNIGHT",
+			["orders"] = {
+			},
+			["order"] = 9,
+			["name"] = "Gigibello-Pozzo dell'Eternità",
+			["seals"] = {
+			},
+			["advancement"] = {
+			},
+			["sealOfBrokenFate"] = 0,
+			["monitor"] = {
+			},
+			["realm"] = "Pozzo dell'Eternità",
+		}, -- [9]
 		{
 			["orderResources"] = 0,
 			["missions"] = {
@@ -541,144 +384,48 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 			["class"] = "MAGE",
 			["orders"] = {
 			},
-			["order"] = 7,
+			["order"] = 10,
 			["name"] = "Kadgharessa-Pozzo dell'Eternità",
-			["sealOfBrokenFate"] = 0,
 			["monitor"] = {
 			},
+			["sealOfBrokenFate"] = 0,
 			["advancement"] = {
 			},
 			["seals"] = {
 			},
 			["realm"] = "Pozzo dell'Eternità",
-		}, -- [7]
+		}, -- [10]
 		{
-			["orderResources"] = 554,
-			["weeklyResetTime"] = 1487141999,
+			["orderResources"] = 0,
 			["missions"] = {
-				{
-					["description"] = "Suramar è una meraviglia d'architettura, ma il suo potere va oltre le sue maestose torri e le sue strade in superficie. Dobbiamo indagare nei suoi sotterranei.",
-					["cost"] = 500,
-					["isZoneSupport"] = false,
-					["locPrefix"] = "GarrMissionLocation-Suramar",
-					["followers"] = {
-						"Alachiara", -- [1]
-						"Custode Remulos", -- [2]
-						"Custodi del Boschetto", -- [3]
-					},
-					["inProgress"] = true,
-					["overmaxRewards"] = {
-						{
-							["itemID"] = 141343,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["hasBonusEffect"] = true,
-					["missionEndTime"] = 1486869337,
-					["isMaxLevel"] = true,
-					["name"] = "Indagare nell'Arcavia",
-					["canStart"] = false,
-					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
-					["successChance"] = 137,
-					["followerTypeID"] = 4,
-					["offeredGarrMissionTextureID"] = 0,
-					["durationSeconds"] = 34560,
-					["iLevel"] = 810,
-					["duration"] = "9 |4ora:ore; 36 min",
-					["areaID"] = 7637,
-					["offerTimeRemaining"] = "0 s",
-					["missionID"] = 1270,
-					["timeLeft"] = "9 |4ora:ore; 35 min",
-					["mapPosY"] = 0.407239645719528,
-					["rewardsList"] = {
-						"|T512902:20:20:-2:0|t|cff0070ddGlobo di Mana Prosciugato|r", -- [1]
-					},
-					["type"] = "7.0 Class Hall - Treasure Missions - Dungeon",
-					["level"] = 110,
-					["timeLeftSeconds"] = 34542,
-					["requiredSuccessChance"] = 0,
-					["basecost"] = 500,
-					["requiredChampionCount"] = 1,
-					["numFollowers"] = 3,
-					["completed"] = false,
-					["costCurrencyTypesID"] = 1220,
-					["rewards"] = {
-						{
-							["itemID"] = 141190,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["isComplete"] = false,
-					["location"] = "Suramar",
-					["isRare"] = true,
-					["mapPosX"] = 0.45550525188446,
-					["isBuilding"] = false,
-				}, -- [1]
-				{
-					["description"] = "Non sono solo i Vrykul a minacciare chiunque attraversi le colline di Stromheim. A volte il pericolo giunge dal cielo.",
-					["cost"] = 150,
-					["isZoneSupport"] = false,
-					["locPrefix"] = "GarrMissionLocation-Stormheim",
-					["followers"] = {
-						"Arcidruido Hamuul Totem Runico", -- [1]
-						"Zen'tabra", -- [2]
-						"Custodi del Boschetto", -- [3]
-					},
-					["inProgress"] = true,
-					["overmaxRewards"] = {
-						{
-							["itemID"] = 141024,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["hasBonusEffect"] = true,
-					["missionEndTime"] = 1486871057,
-					["isMaxLevel"] = true,
-					["name"] = "Cieli in tempesta",
-					["canStart"] = false,
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["successChance"] = 100,
-					["followerTypeID"] = 4,
-					["offeredGarrMissionTextureID"] = 0,
-					["durationSeconds"] = 36288,
-					["iLevel"] = 850,
-					["duration"] = "10 |4ora:ore; 4 min",
-					["areaID"] = 7541,
-					["offerTimeRemaining"] = "0 s",
-					["missionID"] = 1434,
-					["timeLeft"] = "10 |4ora:ore; 4 min",
-					["mapPosY"] = 0.334842026233673,
-					["rewardsList"] = {
-						"|T134457:20:20:-2:0|t|cff1eff00Offerte Dimenticate|r", -- [1]
-					},
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["level"] = 110,
-					["timeLeftSeconds"] = 36262,
-					["requiredSuccessChance"] = 0,
-					["basecost"] = 150,
-					["requiredChampionCount"] = 1,
-					["numFollowers"] = 3,
-					["completed"] = false,
-					["costCurrencyTypesID"] = 1220,
-					["rewards"] = {
-						{
-							["itemID"] = 141704,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["isComplete"] = false,
-					["location"] = "Stromheim",
-					["isRare"] = false,
-					["mapPosX"] = 0.582202196121216,
-					["isBuilding"] = false,
-				}, -- [2]
+			},
+			["troops"] = {
+			},
+			["class"] = "DRUID",
+			["orders"] = {
+			},
+			["order"] = 11,
+			["name"] = "Signorina-Pozzo dell'Eternità",
+			["monitor"] = {
+			},
+			["sealOfBrokenFate"] = 0,
+			["advancement"] = {
+			},
+			["seals"] = {
+			},
+			["realm"] = "Pozzo dell'Eternità",
+		}, -- [11]
+		{
+			["orderResources"] = 469,
+			["weeklyResetTime"] = 1488351599,
+			["missions"] = {
 			},
 			["troops"] = {
 				{
 					["limit"] = 3,
 					["description"] = "Quando la foresta è sotto attacco, gli alberi stessi prendono vita per difendere la propria dimora.",
 					["name"] = "Treant del Bosco dei Sogni",
-					["count"] = 0,
+					["count"] = 3,
 					["icon"] = 1396694,
 					["classSpec"] = 81,
 				}, -- [1]
@@ -695,7 +442,7 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 			["orders"] = {
 				{
 					["capacity"] = 3,
-					["troopCount"] = 0,
+					["troopCount"] = 3,
 					["name"] = "Treant del Bosco dei Sogni",
 					["texture"] = 1396694,
 				}, -- [1]
@@ -711,7 +458,7 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 					["texture"] = 134939,
 					["capacity"] = 24,
 					["duration"] = 0,
-					["nextSeconds"] = -1486834795,
+					["nextSeconds"] = -1488138827,
 					["ready"] = 3,
 				}, -- [3]
 				{
@@ -725,10 +472,10 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 					["texture"] = 133858,
 				}, -- [5]
 			},
-			["updateTime"] = 1486834795,
-			["order"] = 8,
+			["updateTime"] = 1488138827,
+			["order"] = 12,
 			["name"] = "Àzzurrà-Pozzo dell'Eternità",
-			["sealOfBrokenFate"] = 1,
+			["sealOfBrokenFate"] = 2,
 			["monitor"] = {
 				[1396694] = true,
 				[133858] = true,
@@ -766,7 +513,7 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 				["sealOfBrokenFate"] = 0,
 			},
 			["realm"] = "Pozzo dell'Eternità",
-		}, -- [8]
+		}, -- [12]
 	},
 	["alertAnyArtifactResearchNotes"] = true,
 	["alertDisableInInstances"] = true,

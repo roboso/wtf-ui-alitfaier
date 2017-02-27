@@ -143,9 +143,9 @@ WIM3_Data = {
 			["custom_sml"] = "Chat Blip",
 			["say_sml"] = "Chat Blip",
 			["raid_sml"] = "Chat Blip",
+			["officer_sml"] = "Chat Blip",
 			["guild_sml"] = "Chat Blip",
 			["raidleader_sml"] = "Chat Blip",
-			["officer_sml"] = "Chat Blip",
 			["battlegroundleader_sml"] = "Chat Blip",
 			["battleground_sml"] = "Chat Blip",
 		},
@@ -395,45 +395,259 @@ WIM3_Data = {
 	},
 }
 WIM3_Cache = {
+	["Hakkar"] = {
+		["Shèreen"] = {
+			["friendList"] = {
+				["|Kf11|k000000000|k"] = 2,
+				["|Kf4|k0000|k"] = 2,
+				["|Kf26|k0000000000000000|k"] = 2,
+				["|Kf12|k000000000000|k"] = 2,
+				["|Kf3|k000000000|k"] = 2,
+				["|Kf8|k0000000|k"] = 2,
+				["|Kf33|k000000000000000|k"] = 2,
+				["|Kf27|k000000000000000|k"] = 2,
+				["|Kf6|k00000000|k"] = 2,
+				["|Kf14|k0000000|k"] = 2,
+				["|Kf34|k000000|k"] = 2,
+				["|Kf13|k000000000|k"] = 2,
+				["|Kf23|k00000000|k"] = 2,
+				["|Kf2|k000000|k"] = 2,
+				["|Kf25|k0000000000|k"] = 2,
+				["|Kf31|k000000000|k"] = 2,
+				["|Kf15|k000000|k"] = 2,
+				["|Kf21|k0000000000000|k"] = 2,
+				["|Kf28|k000000|k"] = 2,
+				["|Kf32|k00000000000000|k"] = 2,
+				["|Kf30|k0000000000000|k"] = 2,
+				["|Kf7|k00000|k"] = 2,
+				["|Kf20|k00000000000000|k"] = 2,
+				["|Kf19|k000000000|k"] = 2,
+				["|Kf29|k00000000000000|k"] = 2,
+				["|Kf24|k000000|k"] = 2,
+				["|Kf17|k0000000000000|k"] = 2,
+				["|Kf1|k00000000000|k"] = 2,
+				["|Kf9|k000000000|k"] = 2,
+				["|Kf18|k000000000000|k"] = 2,
+				["|Kf16|k000000000000000|k"] = 2,
+				["|Kf10|k0000000000|k"] = 2,
+				["|Kf22|k00000000|k"] = 2,
+				["|Kf5|k000000000|k"] = 2,
+				["|Kf35|k0000000|k"] = 2,
+			},
+		},
+		["Frugolo"] = {
+			["friendList"] = {
+				["|Kf11|k000000000|k"] = 2,
+				["|Kf4|k0000|k"] = 2,
+				["|Kf26|k0000000000000000|k"] = 2,
+				["|Kf12|k000000000000|k"] = 2,
+				["|Kf3|k000000000|k"] = 2,
+				["|Kf8|k0000000|k"] = 2,
+				["|Kf33|k000000000000000|k"] = 2,
+				["|Kf27|k000000000000000|k"] = 2,
+				["|Kf6|k00000000|k"] = 2,
+				["|Kf14|k0000000|k"] = 2,
+				["|Kf34|k000000|k"] = 2,
+				["|Kf13|k000000000|k"] = 2,
+				["|Kf23|k00000000|k"] = 2,
+				["|Kf2|k000000|k"] = 2,
+				["|Kf25|k0000000000|k"] = 2,
+				["Heridos"] = 1,
+				["|Kf31|k000000000|k"] = 2,
+				["|Kf15|k000000|k"] = 2,
+				["|Kf21|k0000000000000|k"] = 2,
+				["|Kf28|k000000|k"] = 2,
+				["|Kf32|k00000000000000|k"] = 2,
+				["|Kf30|k0000000000000|k"] = 2,
+				["|Kf7|k00000|k"] = 2,
+				["|Kf22|k00000000|k"] = 2,
+				["|Kf1|k00000000000|k"] = 2,
+				["|Kf5|k000000000|k"] = 2,
+				["|Kf24|k000000|k"] = 2,
+				["|Kf19|k000000000|k"] = 2,
+				["|Kf10|k0000000000|k"] = 2,
+				["|Kf9|k000000000|k"] = 2,
+				["|Kf18|k000000000000|k"] = 2,
+				["|Kf20|k00000000000000|k"] = 2,
+				["|Kf16|k000000000000000|k"] = 2,
+				["|Kf17|k0000000000000|k"] = 2,
+				["|Kf29|k00000000000000|k"] = 2,
+				["|Kf35|k0000000|k"] = 2,
+			},
+			["guildList"] = {
+			},
+		},
+		["Pingola"] = {
+			["friendList"] = {
+				["|Kb318|k0000000|k"] = 2,
+				["|Kb321|k00000|k"] = 2,
+				["|Kb367|k0000000|k"] = 2,
+				["|Kb351|k0000000|k"] = 2,
+				["|Kb314|k0000000|k"] = 2,
+				["|Kb332|k00000000|k"] = 2,
+				["|Kb342|k000000|k"] = 2,
+				["|Kb377|k0000000|k"] = 2,
+				["|Kb363|k000000|k"] = 2,
+				["|Kf343|k0000000000000000|k"] = 2,
+				["|Kb315|k00000|k"] = 2,
+				["|Kb366|k000000000|k"] = 2,
+				["|Kb337|k0000|k"] = 2,
+				["|Kb381|k000000000000|k"] = 2,
+				["|Kb346|k000000000|k"] = 2,
+				["|Kb307|k000000000000|k"] = 2,
+				["|Kb370|k000000|k"] = 2,
+				["|Kf338|k000000000000000|k"] = 2,
+				["|Kb319|k000000000000|k"] = 2,
+				["|Kb353|k0000|k"] = 2,
+				["|Kf362|k00000000000000|k"] = 2,
+				["|Kb364|k000000|k"] = 2,
+				["|Kb320|k00000|k"] = 2,
+				["|Kf330|k0000000000000000|k"] = 2,
+				["|Kb380|k00000|k"] = 2,
+				["|Kb349|k0000|k"] = 2,
+				["|Kb327|k00000|k"] = 2,
+				["|Kb365|k000000|k"] = 2,
+				["|Kb339|k000000000|k"] = 2,
+				["|Kb317|k00000000|k"] = 2,
+				["|Kf335|k00000000000000000|k"] = 2,
+				["|Kb358|k000000|k"] = 2,
+				["|Kb350|k000000000|k"] = 2,
+				["|Kf360|k0000000000000|k"] = 2,
+				["|Kf378|k0000000000000|k"] = 2,
+				["|Kb354|k00000|k"] = 2,
+				["|Kf304|k0000000000|k"] = 2,
+				["|Kf371|k000000000000|k"] = 2,
+				["|Kb323|k00000000000|k"] = 2,
+				["|Kb331|k0000000000|k"] = 2,
+				["|Kf326|k000000000000|k"] = 2,
+				["|Kb355|k00000|k"] = 2,
+				["|Kb310|k0000000000|k"] = 2,
+				["|Kf305|k0000000000|k"] = 2,
+				["Kerchak"] = 1,
+				["|Kf347|k0000000000000|k"] = 2,
+				["|Kb336|k00000000|k"] = 2,
+				["|Kb312|k00000|k"] = 2,
+				["|Kb316|k000000000000|k"] = 2,
+				["|Kb352|k0000000|k"] = 2,
+				["|Kb359|k00000000|k"] = 2,
+				["|Kb340|k0000000|k"] = 2,
+				["|Kb374|k0000000|k"] = 2,
+				["|Kf311|k00000000000000|k"] = 2,
+				["|Kb357|k000000|k"] = 2,
+				["|Kb333|k000000|k"] = 2,
+				["|Kb329|k0000000|k"] = 2,
+				["|Kb361|k000000|k"] = 2,
+				["|Kf313|k00000000000000000|k"] = 2,
+				["|Kb325|k000000|k"] = 2,
+				["|Kb373|k0000000|k"] = 2,
+				["|Kf309|k000000000000000|k"] = 2,
+				["|Kb348|k00000|k"] = 2,
+				["|Kb334|k000000000000|k"] = 2,
+				["|Kb368|k000000000|k"] = 2,
+				["|Kb375|k000000|k"] = 2,
+				["|Kb376|k000000000000|k"] = 2,
+				["|Kf372|k000000000000000|k"] = 2,
+				["|Kf324|k0000000000000000|k"] = 2,
+				["|Kf328|k00000000000000|k"] = 2,
+				["|Kb369|k00000000|k"] = 2,
+				["|Kb308|k000000000|k"] = 2,
+				["|Kb356|k0000000000|k"] = 2,
+				["|Kb306|k00000000|k"] = 2,
+				["|Kf341|k000000000|k"] = 2,
+				["|Kb322|k0000|k"] = 2,
+				["|Kb344|k000000|k"] = 2,
+				["|Kf345|k000000000000000|k"] = 2,
+				["|Kf379|k00000000000000|k"] = 2,
+			},
+		},
+		["Randstad"] = {
+			["friendList"] = {
+				["|Kf11|k000000000|k"] = 2,
+				["|Kf4|k0000|k"] = 2,
+				["|Kf26|k0000000000000000|k"] = 2,
+				["|Kf12|k000000000000|k"] = 2,
+				["|Kf3|k000000000|k"] = 2,
+				["|Kf8|k0000000|k"] = 2,
+				["|Kf33|k000000000000000|k"] = 2,
+				["|Kf27|k000000000000000|k"] = 2,
+				["|Kf6|k00000000|k"] = 2,
+				["|Kf14|k0000000|k"] = 2,
+				["|Kf34|k000000|k"] = 2,
+				["|Kf13|k000000000|k"] = 2,
+				["|Kf23|k00000000|k"] = 2,
+				["|Kf2|k000000|k"] = 2,
+				["|Kf25|k0000000000|k"] = 2,
+				["|Kf31|k000000000|k"] = 2,
+				["|Kf15|k000000|k"] = 2,
+				["|Kf21|k0000000000000|k"] = 2,
+				["|Kf28|k000000|k"] = 2,
+				["|Kf32|k00000000000000|k"] = 2,
+				["|Kf30|k0000000000000|k"] = 2,
+				["|Kf7|k00000|k"] = 2,
+				["|Kf20|k00000000000000|k"] = 2,
+				["|Kf19|k000000000|k"] = 2,
+				["|Kf5|k000000000|k"] = 2,
+				["|Kf24|k000000|k"] = 2,
+				["|Kf22|k00000000|k"] = 2,
+				["|Kf18|k000000000000|k"] = 2,
+				["|Kf9|k000000000|k"] = 2,
+				["|Kf10|k0000000000|k"] = 2,
+				["|Kf16|k000000000000000|k"] = 2,
+				["|Kf1|k00000000000|k"] = 2,
+				["|Kf17|k0000000000000|k"] = 2,
+				["|Kf29|k00000000000000|k"] = 2,
+				["|Kf35|k0000000|k"] = 2,
+			},
+		},
+	},
+	["Dragonmaw"] = {
+		["Mnnbvm"] = {
+			["friendList"] = {
+			},
+		},
+	},
 	["Pozzo dell'Eternità"] = {
 		["Alitfaier"] = {
 			["friendList"] = {
-				["|Kf8|k000000|k"] = 2,
-				["|Kf11|k000000000|k"] = 2,
-				["|Kf3|k0000000000|k"] = 2,
-				["|Kf28|k000000000000000|k"] = 2,
-				["|Kf12|k000000|k"] = 2,
-				["|Kf1|k00000000000|k"] = 2,
-				["Actarys"] = 1,
+				["|Kf32|k000000000|k"] = 2,
 				["|Kf26|k00000|k"] = 2,
-				["|Kf16|k0000000000000|k"] = 2,
-				["|Kf21|k000000000|k"] = 2,
-				["|Kf27|k0000000000|k"] = 2,
-				["|Kf9|k0000000000|k"] = 2,
+				["|Kf20|k000000000|k"] = 2,
+				["|Kf23|k000000|k"] = 2,
+				["|Kf39|k000000|k"] = 2,
+				["|Kf36|k000000000000000|k"] = 2,
+				["|Kf28|k0000000000|k"] = 2,
+				["|Kf22|k00000|k"] = 2,
+				["|Kf30|k0000000000|k"] = 2,
+				["|Kf25|k000000000000|k"] = 2,
+				["|Kf31|k0000|k"] = 2,
+				["Actarys"] = 1,
 				["|Kf14|k00000000000000|k"] = 2,
-				["|Kf25|k000000|k"] = 2,
-				["|Kf4|k000000|k"] = 2,
-				["|Kf29|k0000000000000|k"] = 2,
-				["|Kf22|k0000000000000|k"] = 2,
-				["|Kf6|k00000|k"] = 2,
-				["|Kf7|k00000|k"] = 2,
-				["|Kf23|k0000000|k"] = 2,
-				["|Kf5|k000000000000000|k"] = 2,
-				["|Kf17|k000000|k"] = 2,
-				["|Kf13|k000000000000|k"] = 2,
-				["|Kf19|k00000000000000|k"] = 2,
-				["|Kf30|k0000000|k"] = 2,
+				["Filottete"] = 1,
+				["|Kf15|k0000000000|k"] = 2,
+				["|Kf12|k0000000000|k"] = 2,
+				["|Kf16|k000000|k"] = 2,
+				["|Kf21|k000000|k"] = 2,
+				["|Kf35|k000000000|k"] = 2,
 				["|Kf24|k0000000|k"] = 2,
-				["|Kf18|k0000000000000000|k"] = 2,
-				["|Kf31|k000000000|k"] = 2,
-				["|Kf10|k000000000|k"] = 2,
-				["|Kf20|k0000000000000|k"] = 2,
-				["|Kf15|k000000000000000|k"] = 2,
-				["|Kf2|k0000|k"] = 2,
+				["|Kf13|k00000000000|k"] = 2,
+				["|Kf40|k0000000000000|k"] = 2,
+				["|Kf43|k0000000000000|k"] = 2,
+				["|Kf18|k000000000000000|k"] = 2,
+				["|Kf33|k00000000000000|k"] = 2,
+				["|Kf37|k0000000000000|k"] = 2,
+				["|Kf17|k000000000|k"] = 2,
+				["|Kf27|k00000|k"] = 2,
+				["|Kf34|k0000000000000000|k"] = 2,
+				["|Kf41|k0000000|k"] = 2,
+				["|Kf38|k000000000000|k"] = 2,
+				["|Kf19|k0000000000000|k"] = 2,
+				["|Kf44|k000000000000000|k"] = 2,
+				["|Kf29|k000000|k"] = 2,
+				["|Kf42|k0000000|k"] = 2,
 			},
 			["guildList"] = {
 				["Echorel"] = true,
-				["Samerson"] = true,
+				["Haxxe"] = true,
 				["Alrynne"] = true,
 				["Exctintion"] = true,
 				["Ercøle"] = true,
@@ -445,13 +659,13 @@ WIM3_Cache = {
 				["Elegant"] = true,
 				["Druidissima"] = true,
 				["Eorel"] = true,
-				["Lucìferø"] = true,
+				["Justdrunk"] = true,
 				["Stripe"] = true,
 				["Eretìco"] = true,
 				["Lyllidan"] = true,
 				["Harcanian"] = true,
 				["Lestofante"] = true,
-				["Jenfry"] = true,
+				["Harumì"] = true,
 				["Lafossa"] = true,
 				["Nonbenissimo"] = true,
 				["Jøsèphìne"] = true,
@@ -459,94 +673,98 @@ WIM3_Cache = {
 				["Ime"] = true,
 				["Caarlantonio"] = true,
 				["Nanoshooter"] = true,
-				["Shaytàn"] = true,
+				["Kayn"] = true,
 				["Europa"] = true,
 				["Allandar"] = true,
 				["Ivera"] = true,
+				["Kàte"] = true,
 				["Ginkobiloba"] = true,
 				["Alitfaier"] = true,
-				["Blooddragon"] = true,
-				["Nayè"] = true,
-				["Cølera"] = true,
-				["Jhaycee"] = true,
-				["Youmi"] = true,
-				["Kàte"] = true,
 				["Shadykate"] = true,
-				["Fenriswolf"] = true,
-				["Naillika"] = true,
 				["Pùff"] = true,
-				["Panzerdomini"] = true,
-				["Asrahell"] = true,
+				["Blooddragon"] = true,
+				["Kâte"] = true,
+				["Nayè"] = true,
 				["Kàtia"] = true,
 				["Aérial"] = true,
+				["Cølera"] = true,
+				["Jhaycee"] = true,
 				["Tempest"] = true,
 				["Rangikou"] = true,
+				["Youmi"] = true,
+				["Gleeè"] = true,
+				["Àzzurrà"] = true,
+				["Yuña"] = true,
+				["Tamyos"] = true,
+				["Fenriswolf"] = true,
+				["Naillika"] = true,
+				["Stingviola"] = true,
+				["Panzerdomini"] = true,
+				["Asrahell"] = true,
+				["Sashà"] = true,
+				["Samurosun"] = true,
+				["Peludrana"] = true,
+				["Luxendarc"] = true,
 				["Biztsu"] = true,
 				["Youma"] = true,
-				["Ðahaka"] = true,
-				["Kayn"] = true,
+				["Lucìferø"] = true,
+				["Kalsy"] = true,
 				["Alaisi"] = true,
-				["Jacinda"] = true,
+				["Fèra"] = true,
 				["Dunegar"] = true,
-				["Haxxe"] = true,
+				["Eredluìn"] = true,
 				["Enph"] = true,
-				["Ekelak"] = true,
+				["Enchàntrix"] = true,
 				["Akillian"] = true,
 				["Dånte"] = true,
 				["Alkzar"] = true,
 				["Wallash"] = true,
 				["Athaziel"] = true,
 				["Sharkarod"] = true,
-				["Àzzurrà"] = true,
+				["Blindfury"] = true,
 				["Shàlazàr"] = true,
-				["Zahòày"] = true,
-				["Yuña"] = true,
+				["Aurecast"] = true,
+				["Mistechuc"] = true,
 				["Lacadrega"] = true,
 				["Asiia"] = true,
-				["Stingviola"] = true,
+				["Donmazzi"] = true,
 				["Kaldiar"] = true,
-				["Sashà"] = true,
-				["Samurosun"] = true,
+				["Gandalar"] = true,
+				["Elaera"] = true,
 				["Serpicatore"] = true,
-				["Peludrana"] = true,
-				["Luxendarc"] = true,
-				["Kalsy"] = true,
+				["Urània"] = true,
+				["Greenmoon"] = true,
+				["Eretris"] = true,
 				["Alaesia"] = true,
-				["Fèra"] = true,
+				["Borar"] = true,
 				["Gnomomaligno"] = true,
-				["Eredluìn"] = true,
+				["Balanhir"] = true,
 				["Sirbott"] = true,
-				["Enchàntrix"] = true,
+				["Alijia"] = true,
 				["Xèal"] = true,
 				["Nhereas"] = true,
 				["Ahya"] = true,
-				["Kâte"] = true,
-				["Blindfury"] = true,
-				["Aurecast"] = true,
-				["Mistechuc"] = true,
-				["Gandalar"] = true,
-				["Elaera"] = true,
-				["Urània"] = true,
-				["Eifa"] = true,
-				["Greenmoon"] = true,
-				["Erasmo"] = true,
-				["Eretris"] = true,
-				["Borar"] = true,
-				["Balanhir"] = true,
-				["Lùcrèzia"] = true,
-				["Alijia"] = true,
-				["Rruma"] = true,
-				["Lilithè"] = true,
+				["Nerisemita"] = true,
+				["Shaytàn"] = true,
 				["Nàminè"] = true,
+				["Shobette"] = true,
 				["Khaurel"] = true,
-				["Gnomaga"] = true,
 				["Aleisia"] = true,
 				["Tfasniss"] = true,
+				["Eifa"] = true,
+				["Samerson"] = true,
+				["Erasmo"] = true,
+				["Norad"] = true,
+				["Nilarien"] = true,
+				["Jenfry"] = true,
+				["Lùcrèzia"] = true,
+				["Rruma"] = true,
+				["Lilithè"] = true,
+				["Gnomaga"] = true,
 				["Ganjalph"] = true,
 				["Raila"] = true,
 				["Qim"] = true,
 				["Caesarguys"] = true,
-				["Nilarien"] = true,
 				["Aerysii"] = true,
 				["Antiopa"] = true,
 				["Twinblades"] = true,
@@ -559,7 +777,6 @@ WIM3_Cache = {
 				["Megacorvo"] = true,
 				["Kaleithel"] = true,
 				["Meania"] = true,
-				["Cactuss"] = true,
 				["Kefred"] = true,
 				["Jùra"] = true,
 				["Trillydan"] = true,
@@ -569,7 +786,7 @@ WIM3_Cache = {
 				["Vaelor"] = true,
 				["Neles"] = true,
 				["Krishala"] = true,
-				["Norad"] = true,
+				["Prieppo"] = true,
 				["Canescem"] = true,
 				["Alaisia"] = true,
 				["Frekix"] = true,
@@ -577,10 +794,12 @@ WIM3_Cache = {
 				["Meya"] = true,
 				["Nanomaligno"] = true,
 				["Usai"] = true,
+				["Sustinya"] = true,
 				["Melwas"] = true,
 				["Serpicatrice"] = true,
+				["Eloris"] = true,
 				["Frexor"] = true,
-				["Donmazzi"] = true,
+				["Jacinda"] = true,
 				["Kìtty"] = true,
 				["Umah"] = true,
 				["Shamavision"] = true,
@@ -599,37 +818,39 @@ WIM3_Cache = {
 		},
 		["Pingola"] = {
 			["friendList"] = {
-				["|Kf8|k000000|k"] = 2,
-				["|Kf11|k000000000|k"] = 2,
-				["|Kf3|k0000000000|k"] = 2,
-				["|Kf28|k000000000000000|k"] = 2,
-				["|Kf12|k000000|k"] = 2,
-				["|Kf1|k00000000000|k"] = 2,
-				["|Kf5|k000000000000000|k"] = 2,
-				["|Kf26|k00000|k"] = 2,
-				["|Kf2|k0000|k"] = 2,
-				["|Kf27|k0000000000|k"] = 2,
-				["|Kf9|k0000000000|k"] = 2,
-				["|Kf15|k000000000000000|k"] = 2,
-				["|Kf31|k000000000|k"] = 2,
-				["|Kf7|k00000|k"] = 2,
-				["|Kf29|k0000000000000|k"] = 2,
-				["|Kf13|k000000000000|k"] = 2,
-				["|Kf6|k00000|k"] = 2,
-				["|Kf21|k000000000|k"] = 2,
-				["|Kf23|k0000000|k"] = 2,
-				["|Kf18|k0000000000000000|k"] = 2,
-				["|Kf17|k000000|k"] = 2,
-				["|Kf24|k0000000|k"] = 2,
-				["|Kf30|k0000000|k"] = 2,
-				["|Kf19|k00000000000000|k"] = 2,
-				["|Kf4|k000000|k"] = 2,
-				["|Kf16|k0000000000000|k"] = 2,
+				["|Kf1|k0000000000|k"] = 2,
+				["|Kf31|k0000000|k"] = 2,
+				["|Kf27|k000000000|k"] = 2,
+				["|Kf3|k00000000000|k"] = 2,
+				["|Kf4|k000000000000|k"] = 2,
+				["|Kf14|k00000|k"] = 2,
+				["|Kf18|k0000000|k"] = 2,
+				["|Kf9|k000000000000|k"] = 2,
+				["|Kf20|k0000000000|k"] = 2,
 				["|Kf25|k000000|k"] = 2,
+				["|Kf16|k00000|k"] = 2,
 				["|Kf10|k000000000|k"] = 2,
-				["|Kf22|k0000000000000|k"] = 2,
-				["|Kf14|k00000000000000|k"] = 2,
-				["|Kf20|k0000000000000|k"] = 2,
+				["|Kf6|k0000000000000000|k"] = 2,
+				["|Kf7|k000000000000000|k"] = 2,
+				["|Kf2|k0000|k"] = 2,
+				["|Kf26|k0000000000000|k"] = 2,
+				["|Kf15|k0000000|k"] = 2,
+				["|Kf19|k000000|k"] = 2,
+				["|Kf28|k00000000000000|k"] = 2,
+				["|Kf21|k000000000|k"] = 2,
+				["|Kf17|k0000000000|k"] = 2,
+				["|Kf29|k000000000000000|k"] = 2,
+				["|Kf22|k00000000000000|k"] = 2,
+				["|Kf24|k000000|k"] = 2,
+				["|Kf11|k0000000000000|k"] = 2,
+				["|Kf13|k000000|k"] = 2,
+				["|Kf12|k00000|k"] = 2,
+				["|Kf33|k0000000000000|k"] = 2,
+				["|Kf32|k000000000000000|k"] = 2,
+				["|Kf23|k0000000000|k"] = 2,
+				["|Kf30|k000000|k"] = 2,
+				["|Kf5|k000000000|k"] = 2,
+				["|Kf8|k0000000000000|k"] = 2,
 			},
 			["guildList"] = {
 				["Pingola"] = true,
@@ -720,36 +941,39 @@ WIM3_Cache = {
 		},
 		["Kex"] = {
 			["friendList"] = {
-				["|Kf104|k000000|k"] = 2,
-				["|Kf108|k000000000000|k"] = 2,
-				["|Kf106|k0000000000|k"] = 2,
-				["|Kf121|k00000000|k"] = 2,
-				["|Kf100|k000000000000000|k"] = 2,
-				["|Kf95|k0000000000|k"] = 2,
-				["|Kf110|k0000000000000000|k"] = 2,
-				["|Kf98|k000000000000000|k"] = 2,
-				["|Kf114|k000000|k"] = 2,
-				["|Kf109|k000000000|k"] = 2,
-				["|Kf115|k000000000|k"] = 2,
-				["|Kf120|k000000000000000|k"] = 2,
-				["|Kf97|k000000|k"] = 2,
-				["|Kf105|k0000000|k"] = 2,
-				["|Kf116|k0000000000000|k"] = 2,
-				["|Kf99|k00000|k"] = 2,
-				["|Kf93|k00000000000|k"] = 2,
-				["|Kf113|k000000|k"] = 2,
-				["|Kf112|k00000000000000|k"] = 2,
-				["|Kf102|k0000000|k"] = 2,
-				["|Kf118|k0000000|k"] = 2,
-				["|Kf96|k000000000|k"] = 2,
-				["|Kf103|k000000|k"] = 2,
-				["|Kf107|k00000000000000|k"] = 2,
-				["|Kf94|k0000|k"] = 2,
-				["|Kf119|k0000000000000|k"] = 2,
-				["|Kf117|k0000000000000|k"] = 2,
-				["|Kf122|k0000000000|k"] = 2,
-				["|Kf111|k000000000|k"] = 2,
-				["|Kf101|k0000000000000|k"] = 2,
+				["|Kf7|k000000000|k"] = 2,
+				["|Kf1|k0000000000|k"] = 2,
+				["|Kf31|k0000000|k"] = 2,
+				["|Kf26|k0000000000000000|k"] = 2,
+				["|Kf2|k00000000000|k"] = 2,
+				["|Kf9|k0000000|k"] = 2,
+				["|Kf4|k000000|k"] = 2,
+				["|Kf10|k000000|k"] = 2,
+				["|Kf13|k000000000|k"] = 2,
+				["|Kf11|k00000|k"] = 2,
+				["|Kf20|k0000000000|k"] = 2,
+				["|Kf25|k000000|k"] = 2,
+				["|Kf16|k00000|k"] = 2,
+				["|Kf21|k00000000000000|k"] = 2,
+				["|Kf14|k000000|k"] = 2,
+				["|Kf12|k0000000000|k"] = 2,
+				["|Kf30|k0000000|k"] = 2,
+				["|Kf19|k000000|k"] = 2,
+				["|Kf24|k000000000000000|k"] = 2,
+				["|Kf23|k00000000000000|k"] = 2,
+				["|Kf17|k0000000000|k"] = 2,
+				["|Kf6|k000000000000000|k"] = 2,
+				["|Kf8|k00000|k"] = 2,
+				["|Kf29|k000000000000|k"] = 2,
+				["|Kf28|k0000000000000|k"] = 2,
+				["|Kf22|k000000000000|k"] = 2,
+				["|Kf3|k0000|k"] = 2,
+				["|Kf32|k0000000000000|k"] = 2,
+				["|Kf33|k000000000000000|k"] = 2,
+				["|Kf27|k0000000000000|k"] = 2,
+				["|Kf18|k0000000000000|k"] = 2,
+				["|Kf5|k000000000|k"] = 2,
+				["|Kf15|k000000000|k"] = 2,
 			},
 		},
 		["Ilåria"] = {
@@ -1043,217 +1267,6 @@ WIM3_Cache = {
 			},
 			["guildList"] = {
 				["Postepay"] = true,
-			},
-		},
-	},
-	["Hakkar"] = {
-		["Shèreen"] = {
-			["friendList"] = {
-				["|Kf11|k000000000|k"] = 2,
-				["|Kf4|k0000|k"] = 2,
-				["|Kf26|k0000000000000000|k"] = 2,
-				["|Kf12|k000000000000|k"] = 2,
-				["|Kf3|k000000000|k"] = 2,
-				["|Kf8|k0000000|k"] = 2,
-				["|Kf33|k000000000000000|k"] = 2,
-				["|Kf27|k000000000000000|k"] = 2,
-				["|Kf6|k00000000|k"] = 2,
-				["|Kf14|k0000000|k"] = 2,
-				["|Kf34|k000000|k"] = 2,
-				["|Kf13|k000000000|k"] = 2,
-				["|Kf23|k00000000|k"] = 2,
-				["|Kf2|k000000|k"] = 2,
-				["|Kf25|k0000000000|k"] = 2,
-				["|Kf31|k000000000|k"] = 2,
-				["|Kf15|k000000|k"] = 2,
-				["|Kf21|k0000000000000|k"] = 2,
-				["|Kf28|k000000|k"] = 2,
-				["|Kf32|k00000000000000|k"] = 2,
-				["|Kf30|k0000000000000|k"] = 2,
-				["|Kf7|k00000|k"] = 2,
-				["|Kf20|k00000000000000|k"] = 2,
-				["|Kf19|k000000000|k"] = 2,
-				["|Kf29|k00000000000000|k"] = 2,
-				["|Kf24|k000000|k"] = 2,
-				["|Kf17|k0000000000000|k"] = 2,
-				["|Kf1|k00000000000|k"] = 2,
-				["|Kf9|k000000000|k"] = 2,
-				["|Kf18|k000000000000|k"] = 2,
-				["|Kf16|k000000000000000|k"] = 2,
-				["|Kf10|k0000000000|k"] = 2,
-				["|Kf22|k00000000|k"] = 2,
-				["|Kf5|k000000000|k"] = 2,
-				["|Kf35|k0000000|k"] = 2,
-			},
-		},
-		["Frugolo"] = {
-			["friendList"] = {
-				["|Kf11|k000000000|k"] = 2,
-				["|Kf4|k0000|k"] = 2,
-				["|Kf26|k0000000000000000|k"] = 2,
-				["|Kf12|k000000000000|k"] = 2,
-				["|Kf3|k000000000|k"] = 2,
-				["|Kf8|k0000000|k"] = 2,
-				["|Kf33|k000000000000000|k"] = 2,
-				["|Kf27|k000000000000000|k"] = 2,
-				["|Kf6|k00000000|k"] = 2,
-				["|Kf14|k0000000|k"] = 2,
-				["|Kf34|k000000|k"] = 2,
-				["|Kf13|k000000000|k"] = 2,
-				["|Kf23|k00000000|k"] = 2,
-				["|Kf2|k000000|k"] = 2,
-				["|Kf25|k0000000000|k"] = 2,
-				["Heridos"] = 1,
-				["|Kf31|k000000000|k"] = 2,
-				["|Kf15|k000000|k"] = 2,
-				["|Kf21|k0000000000000|k"] = 2,
-				["|Kf28|k000000|k"] = 2,
-				["|Kf32|k00000000000000|k"] = 2,
-				["|Kf30|k0000000000000|k"] = 2,
-				["|Kf7|k00000|k"] = 2,
-				["|Kf22|k00000000|k"] = 2,
-				["|Kf1|k00000000000|k"] = 2,
-				["|Kf5|k000000000|k"] = 2,
-				["|Kf24|k000000|k"] = 2,
-				["|Kf19|k000000000|k"] = 2,
-				["|Kf10|k0000000000|k"] = 2,
-				["|Kf9|k000000000|k"] = 2,
-				["|Kf18|k000000000000|k"] = 2,
-				["|Kf20|k00000000000000|k"] = 2,
-				["|Kf16|k000000000000000|k"] = 2,
-				["|Kf17|k0000000000000|k"] = 2,
-				["|Kf29|k00000000000000|k"] = 2,
-				["|Kf35|k0000000|k"] = 2,
-			},
-			["guildList"] = {
-			},
-		},
-		["Pingola"] = {
-			["friendList"] = {
-				["|Kb318|k0000000|k"] = 2,
-				["|Kb321|k00000|k"] = 2,
-				["|Kb367|k0000000|k"] = 2,
-				["|Kb351|k0000000|k"] = 2,
-				["|Kb314|k0000000|k"] = 2,
-				["|Kb332|k00000000|k"] = 2,
-				["|Kb342|k000000|k"] = 2,
-				["|Kb377|k0000000|k"] = 2,
-				["|Kb363|k000000|k"] = 2,
-				["|Kf343|k0000000000000000|k"] = 2,
-				["|Kb315|k00000|k"] = 2,
-				["|Kb366|k000000000|k"] = 2,
-				["|Kb337|k0000|k"] = 2,
-				["|Kb381|k000000000000|k"] = 2,
-				["|Kb346|k000000000|k"] = 2,
-				["|Kb307|k000000000000|k"] = 2,
-				["|Kb370|k000000|k"] = 2,
-				["|Kf338|k000000000000000|k"] = 2,
-				["|Kb319|k000000000000|k"] = 2,
-				["|Kb353|k0000|k"] = 2,
-				["|Kf362|k00000000000000|k"] = 2,
-				["|Kb364|k000000|k"] = 2,
-				["|Kb320|k00000|k"] = 2,
-				["|Kf330|k0000000000000000|k"] = 2,
-				["|Kb380|k00000|k"] = 2,
-				["|Kb349|k0000|k"] = 2,
-				["|Kb327|k00000|k"] = 2,
-				["|Kb365|k000000|k"] = 2,
-				["|Kb339|k000000000|k"] = 2,
-				["|Kb317|k00000000|k"] = 2,
-				["|Kf335|k00000000000000000|k"] = 2,
-				["|Kb358|k000000|k"] = 2,
-				["|Kb350|k000000000|k"] = 2,
-				["|Kf360|k0000000000000|k"] = 2,
-				["|Kf378|k0000000000000|k"] = 2,
-				["|Kb354|k00000|k"] = 2,
-				["|Kf304|k0000000000|k"] = 2,
-				["|Kf371|k000000000000|k"] = 2,
-				["|Kb323|k00000000000|k"] = 2,
-				["|Kb331|k0000000000|k"] = 2,
-				["|Kf326|k000000000000|k"] = 2,
-				["|Kb355|k00000|k"] = 2,
-				["|Kb310|k0000000000|k"] = 2,
-				["|Kf305|k0000000000|k"] = 2,
-				["Kerchak"] = 1,
-				["|Kf347|k0000000000000|k"] = 2,
-				["|Kb336|k00000000|k"] = 2,
-				["|Kb312|k00000|k"] = 2,
-				["|Kb316|k000000000000|k"] = 2,
-				["|Kb352|k0000000|k"] = 2,
-				["|Kb359|k00000000|k"] = 2,
-				["|Kb340|k0000000|k"] = 2,
-				["|Kb374|k0000000|k"] = 2,
-				["|Kf311|k00000000000000|k"] = 2,
-				["|Kb357|k000000|k"] = 2,
-				["|Kb333|k000000|k"] = 2,
-				["|Kb329|k0000000|k"] = 2,
-				["|Kb361|k000000|k"] = 2,
-				["|Kf313|k00000000000000000|k"] = 2,
-				["|Kb325|k000000|k"] = 2,
-				["|Kb373|k0000000|k"] = 2,
-				["|Kf309|k000000000000000|k"] = 2,
-				["|Kb348|k00000|k"] = 2,
-				["|Kb334|k000000000000|k"] = 2,
-				["|Kb368|k000000000|k"] = 2,
-				["|Kb375|k000000|k"] = 2,
-				["|Kb376|k000000000000|k"] = 2,
-				["|Kf372|k000000000000000|k"] = 2,
-				["|Kf324|k0000000000000000|k"] = 2,
-				["|Kf328|k00000000000000|k"] = 2,
-				["|Kb369|k00000000|k"] = 2,
-				["|Kb308|k000000000|k"] = 2,
-				["|Kb356|k0000000000|k"] = 2,
-				["|Kb306|k00000000|k"] = 2,
-				["|Kf341|k000000000|k"] = 2,
-				["|Kb322|k0000|k"] = 2,
-				["|Kb344|k000000|k"] = 2,
-				["|Kf345|k000000000000000|k"] = 2,
-				["|Kf379|k00000000000000|k"] = 2,
-			},
-		},
-		["Randstad"] = {
-			["friendList"] = {
-				["|Kf11|k000000000|k"] = 2,
-				["|Kf4|k0000|k"] = 2,
-				["|Kf26|k0000000000000000|k"] = 2,
-				["|Kf12|k000000000000|k"] = 2,
-				["|Kf3|k000000000|k"] = 2,
-				["|Kf8|k0000000|k"] = 2,
-				["|Kf33|k000000000000000|k"] = 2,
-				["|Kf27|k000000000000000|k"] = 2,
-				["|Kf6|k00000000|k"] = 2,
-				["|Kf14|k0000000|k"] = 2,
-				["|Kf34|k000000|k"] = 2,
-				["|Kf13|k000000000|k"] = 2,
-				["|Kf23|k00000000|k"] = 2,
-				["|Kf2|k000000|k"] = 2,
-				["|Kf25|k0000000000|k"] = 2,
-				["|Kf31|k000000000|k"] = 2,
-				["|Kf15|k000000|k"] = 2,
-				["|Kf21|k0000000000000|k"] = 2,
-				["|Kf28|k000000|k"] = 2,
-				["|Kf32|k00000000000000|k"] = 2,
-				["|Kf30|k0000000000000|k"] = 2,
-				["|Kf7|k00000|k"] = 2,
-				["|Kf20|k00000000000000|k"] = 2,
-				["|Kf19|k000000000|k"] = 2,
-				["|Kf5|k000000000|k"] = 2,
-				["|Kf24|k000000|k"] = 2,
-				["|Kf22|k00000000|k"] = 2,
-				["|Kf18|k000000000000|k"] = 2,
-				["|Kf9|k000000000|k"] = 2,
-				["|Kf10|k0000000000|k"] = 2,
-				["|Kf16|k000000000000000|k"] = 2,
-				["|Kf1|k00000000000|k"] = 2,
-				["|Kf17|k0000000000000|k"] = 2,
-				["|Kf29|k00000000000000|k"] = 2,
-				["|Kf35|k0000000|k"] = 2,
-			},
-		},
-	},
-	["Dragonmaw"] = {
-		["Mnnbvm"] = {
-			["friendList"] = {
 			},
 		},
 	},
@@ -1706,8 +1719,8 @@ WIM3_Cache = {
 				["Fresh"] = true,
 				["Warro"] = true,
 				["Egno"] = true,
+				["Haìku"] = true,
 				["Shotgun"] = true,
-				["Upsilon"] = true,
 				["Predathorr"] = true,
 				["Filthypaesan"] = true,
 				["Vinkaulder"] = true,
@@ -1723,7 +1736,7 @@ WIM3_Cache = {
 				["Miciu"] = true,
 				["Narmexia"] = true,
 				["Nightitan"] = true,
-				["Haìku"] = true,
+				["Upsilon"] = true,
 				["Felicecaccam"] = true,
 				["Dracoblaster"] = true,
 				["Thormundh"] = true,
@@ -1903,14 +1916,14 @@ WIM3_Cache = {
 				["Yennefèr"] = true,
 				["Rossodisera"] = true,
 				["Sushann"] = true,
-				["Ekadin"] = true,
+				["Feron"] = true,
 				["Roxhen"] = true,
-				["Metalkin"] = true,
-				["Manotetra"] = true,
+				["Ekadin"] = true,
+				["Thänatøs"] = true,
 				["Wrathknight"] = true,
 				["Lombrigos"] = true,
 				["Hexoval"] = true,
-				["Thänatøs"] = true,
+				["Oany"] = true,
 				["Ekaral"] = true,
 				["Shercan"] = true,
 				["Valerius"] = true,
@@ -1934,11 +1947,11 @@ WIM3_Cache = {
 				["Ogirdor"] = true,
 				["Ferales"] = true,
 				["Gjevas"] = true,
-				["Oldborn"] = true,
+				["Thun"] = true,
 				["Ataryyie"] = true,
 				["Axstel"] = true,
 				["Shikage"] = true,
-				["Olmedo"] = true,
+				["Oldborn"] = true,
 				["Evilhater"] = true,
 				["Ekad"] = true,
 				["Reliel"] = true,
@@ -1953,7 +1966,7 @@ WIM3_Cache = {
 				["Tamerlane"] = true,
 				["Oscenano"] = true,
 				["Lølindir"] = true,
-				["Thun"] = true,
+				["Olmedo"] = true,
 				["Fellos"] = true,
 				["Milth"] = true,
 				["Rayliotta"] = true,
@@ -1964,11 +1977,11 @@ WIM3_Cache = {
 				["Hardkanum"] = true,
 				["Nasdaq"] = true,
 				["Diess"] = true,
-				["Oany"] = true,
+				["Manotetra"] = true,
 				["Herendy"] = true,
 				["Italolontaru"] = true,
 				["Jiun"] = true,
-				["Feron"] = true,
+				["Metalkin"] = true,
 				["Cursyla"] = true,
 				["Crùshèr"] = true,
 				["Rainbowhaze"] = true,
@@ -2075,10 +2088,10 @@ WIM3_Cache = {
 				["Jazia"] = 1,
 				["|Kf211|k0000000000000|k"] = 2,
 				["|Kb167|k000000000000|k"] = 2,
-				["|Kb224|k0000000|k"] = 2,
-				["|Kf223|k000000000000000|k"] = 2,
-				["|Kb212|k000000|k"] = 2,
 				["|Kb218|k0000000|k"] = 2,
+				["|Kf223|k000000000000000|k"] = 2,
+				["|Kb224|k0000000|k"] = 2,
+				["|Kb212|k000000|k"] = 2,
 				["|Kb160|k0000000000|k"] = 2,
 				["|Kf229|k00000000000000|k"] = 2,
 				["Janberto"] = 1,
@@ -2340,22 +2353,22 @@ WIM3_Cache = {
 				["Imrahil"] = true,
 				["Crystalix"] = true,
 				["Kidakah"] = true,
-				["Feron"] = true,
+				["Metalkin"] = true,
 				["Ekadòs"] = true,
 				["Fosan"] = true,
-				["Ekadin"] = true,
+				["Feron"] = true,
 				["Lauras"] = true,
 				["Dhewn"] = true,
 				["Zabhorn"] = true,
 				["Goja"] = true,
 				["Devido"] = true,
-				["Evilhater"] = true,
-				["Mølletta"] = true,
+				["Adamantio"] = true,
+				["Fogra"] = true,
 				["Joraw"] = true,
 				["Aribel"] = true,
-				["Metalkin"] = true,
+				["Ekadin"] = true,
 				["Rastalien"] = true,
-				["Adamantio"] = true,
+				["Tamerlane"] = true,
 				["Rainbowhaze"] = true,
 				["Aptus"] = true,
 				["Jutzy"] = true,
@@ -2406,13 +2419,13 @@ WIM3_Cache = {
 				["Lockmodan"] = true,
 				["Promodorix"] = true,
 				["Shercan"] = true,
-				["Tamerlane"] = true,
+				["Evilhater"] = true,
 				["Oscenano"] = true,
 				["Lølindir"] = true,
 				["Evilshadòw"] = true,
-				["Fogra"] = true,
-				["Milth"] = true,
 				["Totemista"] = true,
+				["Milth"] = true,
+				["Mølletta"] = true,
 				["Jinuzzu"] = true,
 				["Genbù"] = true,
 				["Tripleg"] = true,
@@ -2766,13127 +2779,11079 @@ WIM3_Filters = {
 WIM3_History = {
 	["Pozzo dell'Eternità"] = {
 		["Alitfaier"] = {
-			["argana#2756"] = {
+			["Lucìferø"] = {
 				{
 					["type"] = 1,
-					["time"] = 1486066650,
-					["from"] = "argana#2756",
-					["msg"] = "ciao ",
-					["inbound"] = true,
-					["convo"] = "argana#2756",
+					["time"] = 1487190350,
+					["from"] = "Alitfaier",
+					["msg"] = "c'è gente che ancora non fa 250k...",
+					["inbound"] = false,
+					["convo"] = "Lucìferø",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1486066675,
-					["from"] = "argana#2756",
-					["msg"] = "ma per caso hai 2 dps in gilda che hanno voglia di fare rocca con dei nabbi?",
-					["inbound"] = true,
-					["convo"] = "argana#2756",
+					["time"] = 1487282690,
+					["from"] = "Alitfaier",
+					["msg"] = "maaaaa quand'è che torni a raidare?",
+					["inbound"] = false,
+					["convo"] = "Lucìferø",
 				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1486066727,
+					["time"] = 1487282696,
 					["from"] = "Alitfaier",
-					["msg"] = "se fosse mia la gilda te li presterei due dps ma siccome l'ho chiusa la gilda.........",
+					["msg"] = "qua serve dps...",
 					["inbound"] = false,
-					["convo"] = "argana#2756",
+					["convo"] = "Lucìferø",
 				}, -- [3]
 				{
 					["type"] = 1,
-					["time"] = 1486066745,
-					["from"] = "argana#2756",
-					["msg"] = "ah",
+					["time"] = 1487282741,
+					["from"] = "Lucìferø",
+					["msg"] = "se me porta kate ce vengo",
 					["inbound"] = true,
-					["convo"] = "argana#2756",
+					["convo"] = "Lucìferø",
 				}, -- [4]
 				{
 					["type"] = 1,
-					["time"] = 1486066752,
-					["from"] = "argana#2756",
-					["msg"] = "vuoi venire ?",
+					["time"] = 1487282747,
+					["from"] = "Lucìferø",
+					["msg"] = ":)",
 					["inbound"] = true,
-					["convo"] = "argana#2756",
+					["convo"] = "Lucìferø",
 				}, -- [5]
 				{
 					["type"] = 1,
-					["time"] = 1486066779,
+					["time"] = 1487282758,
 					["from"] = "Alitfaier",
-					["msg"] = "a rocca in normal io l'ho clerata questa settimana",
+					["msg"] = "ti sei segnato?",
 					["inbound"] = false,
-					["convo"] = "argana#2756",
+					["convo"] = "Lucìferø",
 				}, -- [6]
 				{
 					["type"] = 1,
-					["time"] = 1486066796,
-					["from"] = "Alitfaier",
-					["msg"] = "mi spiace",
-					["inbound"] = false,
-					["convo"] = "argana#2756",
+					["time"] = 1487282774,
+					["from"] = "Lucìferø",
+					["msg"] = "ma non sto al vostro livello penso",
+					["inbound"] = true,
+					["convo"] = "Lucìferø",
 				}, -- [7]
 				{
 					["type"] = 1,
-					["time"] = 1486066807,
-					["from"] = "argana#2756",
-					["msg"] = "io la prima parte ma aiuto gli altri ",
-					["inbound"] = true,
-					["convo"] = "argana#2756",
+					["time"] = 1487282781,
+					["from"] = "Alitfaier",
+					["msg"] = "ma chi?",
+					["inbound"] = false,
+					["convo"] = "Lucìferø",
 				}, -- [8]
 				{
 					["type"] = 1,
-					["time"] = 1486155102,
-					["from"] = "argana#2756",
-					["msg"] = "ti va di fare elisandre?",
+					["time"] = 1487282788,
+					["from"] = "Lucìferø",
+					["msg"] = "io",
 					["inbound"] = true,
-					["convo"] = "argana#2756",
+					["convo"] = "Lucìferø",
 				}, -- [9]
 				{
 					["type"] = 1,
-					["time"] = 1486155120,
+					["time"] = 1487282791,
 					["from"] = "Alitfaier",
-					["msg"] = "sono in gruppo per mitiche sorry",
+					["msg"] = "gli altri no tu si...",
 					["inbound"] = false,
-					["convo"] = "argana#2756",
-				}, -- [10]
-				["info"] = {
-				},
-			},
-			["Funnydeath"] = {
-				{
-					["type"] = 1,
-					["time"] = 1486079298,
-					["from"] = "Alitfaier",
-					["msg"] = "cmq hai fatto un bion dps questa sera, bravo",
-					["inbound"] = false,
-					["convo"] = "Funnydeath",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1486079310,
-					["from"] = "Funnydeath",
-					["msg"] = "grazie :)",
-					["inbound"] = true,
-					["convo"] = "Funnydeath",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1486079316,
-					["from"] = "Funnydeath",
-					["msg"] = "era ora no? :P",
-					["inbound"] = true,
-					["convo"] = "Funnydeath",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1486079325,
-					["from"] = "Alitfaier",
-					["msg"] = "e si",
-					["inbound"] = false,
-					["convo"] = "Funnydeath",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1486079335,
-					["from"] = "Funnydeath",
-					["msg"] = ":D",
-					["inbound"] = true,
-					["convo"] = "Funnydeath",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1486138559,
-					["from"] = "Alitfaier",
-					["msg"] = "vieni su telegram?",
-					["inbound"] = false,
-					["convo"] = "Funnydeath",
-				}, -- [6]
-				{
-					["type"] = 1,
-					["time"] = 1486138565,
-					["from"] = "Alitfaier",
-					["msg"] = "no scusa discord",
-					["inbound"] = false,
-					["convo"] = "Funnydeath",
-				}, -- [7]
-				{
-					["type"] = 1,
-					["time"] = 1486138575,
-					["from"] = "Funnydeath",
-					["msg"] = "ok rivo",
-					["inbound"] = true,
-					["convo"] = "Funnydeath",
-				}, -- [8]
-				{
-					["type"] = 1,
-					["time"] = 1486413911,
-					["from"] = "Alitfaier",
-					["msg"] = "hai mai chattato su c6?",
-					["inbound"] = false,
-					["convo"] = "Funnydeath",
-				}, -- [9]
-				{
-					["type"] = 1,
-					["time"] = 1486413925,
-					["from"] = "Funnydeath",
-					["msg"] = "no",
-					["inbound"] = true,
-					["convo"] = "Funnydeath",
+					["convo"] = "Lucìferø",
 				}, -- [10]
 				{
 					["type"] = 1,
-					["time"] = 1486413935,
-					["from"] = "Funnydeath",
-					["msg"] = "nn mi è apparso",
+					["time"] = 1487282804,
+					["from"] = "Lucìferø",
+					["msg"] = "ma so vestito 860 lol",
 					["inbound"] = true,
-					["convo"] = "Funnydeath",
+					["convo"] = "Lucìferø",
 				}, -- [11]
 				{
 					["type"] = 1,
-					["time"] = 1486413956,
-					["from"] = "Funnydeath",
-					["msg"] = "cosè?",
-					["inbound"] = true,
-					["convo"] = "Funnydeath",
+					["time"] = 1487282829,
+					["from"] = "Alitfaier",
+					["msg"] = "si ma son sicuro che fai più dps te",
+					["inbound"] = false,
+					["convo"] = "Lucìferø",
 				}, -- [12]
 				{
 					["type"] = 1,
-					["time"] = 1486413972,
+					["time"] = 1487282833,
 					["from"] = "Alitfaier",
-					["msg"] = "era una chat italiana che ha avuto un successone quando avevo 15 1 anni",
+					["msg"] = "di altri...",
 					["inbound"] = false,
-					["convo"] = "Funnydeath",
+					["convo"] = "Lucìferø",
 				}, -- [13]
 				{
 					["type"] = 1,
-					["time"] = 1486413995,
+					["time"] = 1487282840,
 					["from"] = "Alitfaier",
-					["msg"] = "16 anni",
+					["msg"] = "880",
 					["inbound"] = false,
-					["convo"] = "Funnydeath",
+					["convo"] = "Lucìferø",
 				}, -- [14]
 				{
 					["type"] = 1,
-					["time"] = 1486413997,
-					["from"] = "Funnydeath",
-					["msg"] = "se è quella di libero al tempo si :D",
+					["time"] = 1487282845,
+					["from"] = "Lucìferø",
+					["msg"] = "hihih",
 					["inbound"] = true,
-					["convo"] = "Funnydeath",
+					["convo"] = "Lucìferø",
 				}, -- [15]
 				{
 					["type"] = 1,
-					["time"] = 1486414004,
-					["from"] = "Alitfaier",
-					["msg"] = "si si è quella li",
-					["inbound"] = false,
-					["convo"] = "Funnydeath",
+					["time"] = 1487282849,
+					["from"] = "Lucìferø",
+					["msg"] = "speriam",
+					["inbound"] = true,
+					["convo"] = "Lucìferø",
 				}, -- [16]
 				{
 					["type"] = 1,
-					["time"] = 1486414016,
-					["from"] = "Funnydeath",
-					["msg"] = "haha ci chattavo di brutto",
-					["inbound"] = true,
-					["convo"] = "Funnydeath",
+					["time"] = 1487282858,
+					["from"] = "Alitfaier",
+					["msg"] = "a occhichiusi",
+					["inbound"] = false,
+					["convo"] = "Lucìferø",
 				}, -- [17]
 				{
 					["type"] = 1,
-					["time"] = 1486414021,
-					["from"] = "Alitfaier",
-					["msg"] = "ci ho chattato fino a 21 22 anni ",
-					["inbound"] = false,
-					["convo"] = "Funnydeath",
+					["time"] = 1487282966,
+					["from"] = "Lucìferø",
+					["msg"] = "hihi",
+					["inbound"] = true,
+					["convo"] = "Lucìferø",
 				}, -- [18]
 				{
 					["type"] = 1,
-					["time"] = 1486414032,
-					["from"] = "Alitfaier",
-					["msg"] = "poi è andata morendo... ",
-					["inbound"] = false,
-					["convo"] = "Funnydeath",
+					["time"] = 1487282975,
+					["from"] = "Lucìferø",
+					["msg"] = "ma a che raid state?",
+					["inbound"] = true,
+					["convo"] = "Lucìferø",
 				}, -- [19]
 				{
 					["type"] = 1,
-					["time"] = 1486414036,
-					["from"] = "Funnydeath",
-					["msg"] = "idem",
+					["time"] = 1487283085,
+					["from"] = "Lucìferø",
+					["msg"] = "cmq ",
 					["inbound"] = true,
-					["convo"] = "Funnydeath",
+					["convo"] = "Lucìferø",
 				}, -- [20]
 				{
 					["type"] = 1,
-					["time"] = 1486414049,
-					["from"] = "Alitfaier",
-					["msg"] = "ma ho rimorchiato di brutto li sopra..",
-					["inbound"] = false,
-					["convo"] = "Funnydeath",
+					["time"] = 1487283097,
+					["from"] = "Lucìferø",
+					["msg"] = "il prete lo hanno cambiato tanto xd",
+					["inbound"] = true,
+					["convo"] = "Lucìferø",
 				}, -- [21]
 				{
 					["type"] = 1,
-					["time"] = 1486414051,
-					["from"] = "Funnydeath",
-					["msg"] = "si vero poi la fotta di chattare è sparita",
+					["time"] = 1487283123,
+					["from"] = "Lucìferø",
+					["msg"] = "oggi ho raggiunto dei numeri mai visti prima al paletto",
 					["inbound"] = true,
-					["convo"] = "Funnydeath",
+					["convo"] = "Lucìferø",
 				}, -- [22]
 				{
 					["type"] = 1,
-					["time"] = 1486414060,
-					["from"] = "Funnydeath",
-					["msg"] = "hahaha sisi vero",
+					["time"] = 1487283235,
+					["from"] = "Lucìferø",
+					["msg"] = "Skada: Danno per Signore della Guerra Parjesh: 23:12 (45 s):",
 					["inbound"] = true,
-					["convo"] = "Funnydeath",
+					["convo"] = "Lucìferø",
 				}, -- [23]
 				{
 					["type"] = 1,
-					["time"] = 1486414064,
-					["from"] = "Alitfaier",
-					["msg"] = "più che altro si sono spostati tutti su msn",
-					["inbound"] = false,
-					["convo"] = "Funnydeath",
+					["time"] = 1487283235,
+					["from"] = "Lucìferø",
+					["msg"] = " 1. Lucìferø   18.14M (422.0K, 52.6%)",
+					["inbound"] = true,
+					["convo"] = "Lucìferø",
 				}, -- [24]
 				{
 					["type"] = 1,
-					["time"] = 1486414103,
-					["from"] = "Alitfaier",
-					["msg"] = "e sulle chat tematiche ti napster e winmx",
-					["inbound"] = false,
-					["convo"] = "Funnydeath",
+					["time"] = 1487283235,
+					["from"] = "Lucìferø",
+					["msg"] = " 2. Nëürö   7.12M (161.8K, 20.7%)",
+					["inbound"] = true,
+					["convo"] = "Lucìferø",
 				}, -- [25]
 				{
 					["type"] = 1,
-					["time"] = 1486414114,
-					["from"] = "Funnydeath",
-					["msg"] = "anche vero",
+					["time"] = 1487283235,
+					["from"] = "Lucìferø",
+					["msg"] = " 3. Rabish   6.55M (145.5K, 19.0%)",
 					["inbound"] = true,
-					["convo"] = "Funnydeath",
+					["convo"] = "Lucìferø",
 				}, -- [26]
 				{
 					["type"] = 1,
-					["time"] = 1486484106,
-					["from"] = "Alitfaier",
-					["msg"] = "ma dio caro",
-					["inbound"] = false,
-					["convo"] = "Funnydeath",
+					["time"] = 1487283235,
+					["from"] = "Lucìferø",
+					["msg"] = " 4. Mudden   2.66M (63.4K, 7.7%)",
+					["inbound"] = true,
+					["convo"] = "Lucìferø",
 				}, -- [27]
 				{
 					["type"] = 1,
-					["time"] = 1486484116,
-					["from"] = "Alitfaier",
-					["msg"] = "non senti che ti stavo chiamando su discord?",
-					["inbound"] = false,
-					["convo"] = "Funnydeath",
+					["time"] = 1487283257,
+					["from"] = "Lucìferø",
+					["msg"] = "mi avicino piu o meno al dps del raid?",
+					["inbound"] = true,
+					["convo"] = "Lucìferø",
 				}, -- [28]
 				{
 					["type"] = 1,
-					["time"] = 1486680664,
+					["time"] = 1487283271,
 					["from"] = "Alitfaier",
-					["msg"] = "io sono al bottone ancora... e non ho capito quando usarlo",
+					["msg"] = "cnsidera che il best dps a fine figth fa 450 adesso",
 					["inbound"] = false,
-					["convo"] = "Funnydeath",
+					["convo"] = "Lucìferø",
 				}, -- [29]
 				{
 					["type"] = 1,
-					["time"] = 1486680675,
+					["time"] = 1487283279,
 					["from"] = "Alitfaier",
-					["msg"] = "ma vabè",
+					["msg"] = "ed è quasi sempre asiia",
 					["inbound"] = false,
-					["convo"] = "Funnydeath",
+					["convo"] = "Lucìferø",
 				}, -- [30]
-				["info"] = {
-				},
-			},
-			["Kayn"] = {
 				{
 					["type"] = 1,
-					["time"] = 1486413771,
-					["from"] = "Alitfaier",
-					["msg"] = "mi tiri un summon pls?",
-					["inbound"] = false,
-					["convo"] = "Kayn",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1486413775,
-					["from"] = "Kayn",
-					["msg"] = "yep",
+					["time"] = 1487283310,
+					["from"] = "Lucìferø",
+					["msg"] = "il mio rivale ",
 					["inbound"] = true,
-					["convo"] = "Kayn",
-				}, -- [2]
+					["convo"] = "Lucìferø",
+				}, -- [31]
 				{
 					["type"] = 1,
-					["time"] = 1486413778,
-					["from"] = "Alitfaier",
-					["msg"] = "grazie",
-					["inbound"] = false,
-					["convo"] = "Kayn",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1486413784,
-					["from"] = "Kayn",
-					["msg"] = "se cliccanoT_T",
+					["time"] = 1487283312,
+					["from"] = "Lucìferø",
+					["msg"] = "mmmmm",
 					["inbound"] = true,
-					["convo"] = "Kayn",
-				}, -- [4]
+					["convo"] = "Lucìferø",
+				}, -- [32]
 				{
 					["type"] = 1,
-					["time"] = 1486413809,
-					["from"] = "Kayn",
-					["msg"] = "devo fare una macro che scirve in raid lol",
-					["inbound"] = true,
-					["convo"] = "Kayn",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1486413831,
+					["time"] = 1487283313,
 					["from"] = "Alitfaier",
-					["msg"] = "grazie",
+					["msg"] = "poi a volte nano qualche vola io ma +o- siamo sempre li attorno 450 500",
 					["inbound"] = false,
-					["convo"] = "Kayn",
-				}, -- [6]
-				["info"] = {
-				},
-			},
-			["Tempest"] = {
+					["convo"] = "Lucìferø",
+				}, -- [33]
 				{
 					["type"] = 1,
-					["time"] = 1486683311,
-					["from"] = "Alitfaier",
-					["msg"] = "ma la dilatazione la stai usando a cd?",
-					["inbound"] = false,
-					["convo"] = "Tempest",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1486683355,
-					["from"] = "Tempest",
-					["msg"] = "ogni volta che ho anche un mio cd  |cff71d5ff|Hspell:51271:0|h[Pilastro di Ghiaccio]|h|r pronto",
+					["time"] = 1487283409,
+					["from"] = "Lucìferø",
+					["msg"] = "boh",
 					["inbound"] = true,
-					["convo"] = "Tempest",
-				}, -- [2]
+					["convo"] = "Lucìferø",
+				}, -- [34]
+				{
+					["type"] = 1,
+					["time"] = 1487283429,
+					["from"] = "Lucìferø",
+					["msg"] = "io penso de stacce in raid sui 300 e qualcosa",
+					["inbound"] = true,
+					["convo"] = "Lucìferø",
+				}, -- [35]
+				{
+					["type"] = 1,
+					["time"] = 1487283437,
+					["from"] = "Lucìferø",
+					["msg"] = "non so se riesco de piu",
+					["inbound"] = true,
+					["convo"] = "Lucìferø",
+				}, -- [36]
+				{
+					["type"] = 1,
+					["time"] = 1487283458,
+					["from"] = "Lucìferø",
+					["msg"] = "mo me segno",
+					["inbound"] = true,
+					["convo"] = "Lucìferø",
+				}, -- [37]
+				{
+					["type"] = 1,
+					["time"] = 1487283463,
+					["from"] = "Lucìferø",
+					["msg"] = "sul calendar",
+					["inbound"] = true,
+					["convo"] = "Lucìferø",
+				}, -- [38]
+				{
+					["type"] = 1,
+					["time"] = 1487283494,
+					["from"] = "Alitfaier",
+					["msg"] = "ma in normal va bene",
+					["inbound"] = false,
+					["convo"] = "Lucìferø",
+				}, -- [39]
+				{
+					["type"] = 1,
+					["time"] = 1487283499,
+					["from"] = "Alitfaier",
+					["msg"] = "e intanto ti vesti",
+					["inbound"] = false,
+					["convo"] = "Lucìferø",
+				}, -- [40]
+				{
+					["type"] = 1,
+					["time"] = 1487283504,
+					["from"] = "Lucìferø",
+					["msg"] = "cioè prima chiedo a kate se posso",
+					["inbound"] = true,
+					["convo"] = "Lucìferø",
+				}, -- [41]
+				{
+					["type"] = 1,
+					["time"] = 1487283511,
+					["from"] = "Alitfaier",
+					["msg"] = "adesso abiamo buttato tre cinture clot",
+					["inbound"] = false,
+					["convo"] = "Lucìferø",
+				}, -- [42]
+				{
+					["type"] = 1,
+					["time"] = 1487283542,
+					["from"] = "Lucìferø",
+					["msg"] = "sfiga",
+					["inbound"] = true,
+					["convo"] = "Lucìferø",
+				}, -- [43]
+				{
+					["type"] = 1,
+					["time"] = 1487283560,
+					["from"] = "Lucìferø",
+					["msg"] = "adesso ho anche la connessio op xd ",
+					["inbound"] = true,
+					["convo"] = "Lucìferø",
+				}, -- [44]
+				{
+					["type"] = 1,
+					["time"] = 1487283562,
+					["from"] = "Lucìferø",
+					["msg"] = "hihih ",
+					["inbound"] = true,
+					["convo"] = "Lucìferø",
+				}, -- [45]
+				{
+					["type"] = 1,
+					["time"] = 1487283575,
+					["from"] = "Lucìferø",
+					["msg"] = "penso che mi diverto de piu a giocare",
+					["inbound"] = true,
+					["convo"] = "Lucìferø",
+				}, -- [46]
 				["info"] = {
 				},
 			},
 			["Luigi#2210"] = {
 				{
 					["type"] = 1,
-					["time"] = 1485702375,
-					["from"] = "Luigi#2210",
-					["msg"] = "we",
-					["inbound"] = true,
+					["time"] = 1487023104,
+					["from"] = "Alitfaier",
+					["msg"] = "scusa non è per fare polemica ma 4 pezzi?",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1485702387,
+					["time"] = 1487023108,
 					["from"] = "Alitfaier",
-					["msg"] = "ciao",
+					["msg"] = "in 20?",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1485711152,
+					["time"] = 1487023131,
 					["from"] = "Alitfaier",
-					["msg"] = "cmq q me sta rompendo il cazzo, questo lanciare il sasso e nascondere la mano di kate..",
+					["msg"] = "almeno 4 erano indati",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [3]
 				{
 					["type"] = 1,
-					["time"] = 1485711178,
-					["from"] = "Luigi#2210",
-					["msg"] = "diglielo ",
-					["inbound"] = true,
+					["time"] = 1487023140,
+					["from"] = "Alitfaier",
+					["msg"] = "ci sei?",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [4]
 				{
 					["type"] = 1,
-					["time"] = 1485711194,
+					["time"] = 1487023153,
 					["from"] = "Luigi#2210",
-					["msg"] = "a tuto rischio e pericolo hahahahaha",
+					["msg"] = "si ora si",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [5]
 				{
 					["type"] = 1,
-					["time"] = 1485711199,
-					["from"] = "Alitfaier",
-					["msg"] = "cioè se ha problemi con me che venga a dirmelo in faccia",
-					["inbound"] = false,
+					["time"] = 1487023169,
+					["from"] = "Luigi#2210",
+					["msg"] = "certo gente l'ha gia fatto",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [6]
 				{
 					["type"] = 1,
-					["time"] = 1485711237,
+					["time"] = 1487024605,
 					["from"] = "Alitfaier",
-					["msg"] = "ci sono altre gilde social che raidano",
+					["msg"] = "kate ha detto che non e vero ",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [7]
 				{
 					["type"] = 1,
-					["time"] = 1485711249,
+					["time"] = 1487024615,
 					["from"] = "Alitfaier",
-					["msg"] = "anche meglio",
+					["msg"] = "dice che solo haxxe era bindato",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [8]
 				{
 					["type"] = 1,
-					["time"] = 1485711257,
+					["time"] = 1487024704,
 					["from"] = "Luigi#2210",
-					["msg"] = "anche peggio",
+					["msg"] = "haxxe e l'unico che sa per certo",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [9]
 				{
 					["type"] = 1,
-					["time"] = 1485711323,
-					["from"] = "Alitfaier",
-					["msg"] = "si ho capito ma se devo stare in una gilda come dice lei semi- hardcore.... voglio che lo sia",
-					["inbound"] = false,
+					["time"] = 1487024728,
+					["from"] = "Luigi#2210",
+					["msg"] = "scusa ma interfaccia fa kaboom",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [10]
 				{
 					["type"] = 1,
-					["time"] = 1485711351,
-					["from"] = "Alitfaier",
-					["msg"] = "cioè ha sparato la cazzata.... almeno di si va bene scusa ho detto la cazzata.",
-					["inbound"] = false,
+					["time"] = 1487024743,
+					["from"] = "Luigi#2210",
+					["msg"] = "devo levarla supervillain troppi errorri in raid",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [11]
 				{
 					["type"] = 1,
-					["time"] = 1485711352,
+					["time"] = 1487024838,
 					["from"] = "Luigi#2210",
-					["msg"] = "allora la prendi in parte e gli parli ",
+					["msg"] = "mi piaceva un sacco sta interfaccia ma peccato troppi errori ",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [12]
 				{
 					["type"] = 1,
-					["time"] = 1485711376,
-					["from"] = "Alitfaier",
-					["msg"] = "perchè è una con cui puoi parlare?",
-					["inbound"] = false,
+					["time"] = 1487024852,
+					["from"] = "Luigi#2210",
+					["msg"] = "ritornero a quella precedente",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [13]
 				{
 					["type"] = 1,
-					["time"] = 1485711379,
-					["from"] = "Luigi#2210",
-					["msg"] = "io oggi niente discussioni ",
-					["inbound"] = true,
+					["time"] = 1487024859,
+					["from"] = "Alitfaier",
+					["msg"] = "posso provare a fixarla se mi dici quali errori sono",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [14]
 				{
 					["type"] = 1,
-					["time"] = 1485711393,
+					["time"] = 1487024874,
 					["from"] = "Luigi#2210",
-					["msg"] = "si se hai tanta pazienza",
+					["msg"] = "me ne ha dati 44",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [15]
 				{
 					["type"] = 1,
-					["time"] = 1485711406,
+					["time"] = 1487024891,
 					["from"] = "Alitfaier",
-					["msg"] = "sai che sono come te... non ho pazienza",
+					["msg"] = "errori lua",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [16]
 				{
 					["type"] = 1,
-					["time"] = 1485711415,
-					["from"] = "Luigi#2210",
-					["msg"] = "e sopratutto il modo che usi per dirle le cose e tutto",
-					["inbound"] = true,
+					["time"] = 1487024895,
+					["from"] = "Alitfaier",
+					["msg"] = "intendi?",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [17]
 				{
 					["type"] = 1,
-					["time"] = 1485711426,
+					["time"] = 1487024930,
 					["from"] = "Alitfaier",
-					["msg"] = "ci ho già provato e ho trovato una persona chiusa.",
+					["msg"] = "dopo la provo",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [18]
 				{
 					["type"] = 1,
-					["time"] = 1485711428,
+					["time"] = 1487025001,
 					["from"] = "Luigi#2210",
-					["msg"] = "da piu peso a quello che a cio che dici",
+					["msg"] = "inviati",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [19]
 				{
 					["type"] = 1,
-					["time"] = 1485711452,
+					["time"] = 1487025081,
 					["from"] = "Alitfaier",
-					["msg"] = "ci ho già provato... ",
+					["msg"] = "a ma si quelli non pregiudicano  la giocabilità",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [20]
 				{
 					["type"] = 1,
-					["time"] = 1485711460,
+					["time"] = 1487025089,
 					["from"] = "Alitfaier",
-					["msg"] = "per me è chiuso il discorso...",
+					["msg"] = "fregatene",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [21]
 				{
 					["type"] = 1,
-					["time"] = 1485711478,
+					["time"] = 1487025109,
 					["from"] = "Alitfaier",
-					["msg"] = "quando sarò stanco me ne vado",
+					["msg"] = "li chiudi e bona",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [22]
 				{
 					["type"] = 1,
-					["time"] = 1485711494,
-					["from"] = "Alitfaier",
-					["msg"] = "tanto so già che andrai via prima tu... quindi :P",
-					["inbound"] = false,
+					["time"] = 1487025137,
+					["from"] = "Luigi#2210",
+					["msg"] = "si ma mi appaiono mille scritte gialle in chat che mi dicono che ci sono troppi errorri e mi fa un suono in cuffie per ogni errore",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [23]
 				{
 					["type"] = 1,
-					["time"] = 1485711503,
+					["time"] = 1487025154,
 					["from"] = "Alitfaier",
-					["msg"] = "a dopo che vado a preaparare la cena",
+					["msg"] = "disabilitali no?",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [24]
 				{
 					["type"] = 1,
-					["time"] = 1485711506,
+					["time"] = 1487025168,
 					["from"] = "Luigi#2210",
-					["msg"] = "non vado via io",
+					["msg"] = "non so come",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [25]
 				{
 					["type"] = 1,
-					["time"] = 1485711515,
+					["time"] = 1487027028,
 					["from"] = "Alitfaier",
-					["msg"] = "si va bene...",
+					["msg"] = "ma ma ma... rangi il 2 pezzo lo aveva già",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [26]
 				{
 					["type"] = 1,
-					["time"] = 1485711519,
-					["from"] = "Alitfaier",
-					["msg"] = "a dopo",
-					["inbound"] = false,
+					["time"] = 1487027055,
+					["from"] = "Luigi#2210",
+					["msg"] = "mi sembra pure a me",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [27]
 				{
 					["type"] = 1,
-					["time"] = 1485808804,
-					["from"] = "Alitfaier",
-					["msg"] = "ciao",
-					["inbound"] = false,
+					["time"] = 1487027064,
+					["from"] = "Luigi#2210",
+					["msg"] = "si e tolto qualche pezzo",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [28]
 				{
 					["type"] = 1,
-					["time"] = 1485808821,
-					["from"] = "Luigi#2210",
-					["msg"] = "SERA capitano",
-					["inbound"] = true,
+					["time"] = 1487027092,
+					["from"] = "Alitfaier",
+					["msg"] = "questo è furbo ",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [29]
 				{
 					["type"] = 1,
-					["time"] = 1485808823,
+					["time"] = 1487027098,
 					["from"] = "Alitfaier",
-					["msg"] = "porco cane ogni giorno c'è ne una",
+					["msg"] = "bisogna controllarlo",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [30]
 				{
 					["type"] = 1,
-					["time"] = 1485808843,
+					["time"] = 1487027124,
 					["from"] = "Luigi#2210",
-					["msg"] = "hai mai pensato di andare a lourdes",
+					["msg"] = "vado altro ts ",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [31]
 				{
 					["type"] = 1,
-					["time"] = 1485808851,
+					["time"] = 1487027131,
 					["from"] = "Alitfaier",
-					["msg"] = "gia fatto",
+					["msg"] = "k",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [32]
 				{
 					["type"] = 1,
-					["time"] = 1485808855,
+					["time"] = 1487031114,
 					["from"] = "Luigi#2210",
-					["msg"] = "che e successo oggi?",
+					["msg"] = " |Hitem:140789::::::::110:65::5:3:3444:1482:1813:::|h[Esoscheletro Animato]|h |Hitem:137400::::::::110:65::35:3:3510:1537:3337:::|h[Residuo del Pozzo Oscuro Coagulato]|h ",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [33]
 				{
 					["type"] = 1,
-					["time"] = 1485808864,
-					["from"] = "Alitfaier",
-					["msg"] = "stanotte è sttamale la gatta",
-					["inbound"] = false,
+					["time"] = 1487031124,
+					["from"] = "Luigi#2210",
+					["msg"] = " |Hitem:144249::::::::110:65:::2:3529:3530:::|h[Odio Rinato di Archimonde]|h",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [34]
 				{
 					["type"] = 1,
-					["time"] = 1485808879,
+					["time"] = 1487108668,
 					["from"] = "Luigi#2210",
-					["msg"] = "povera che ha?",
+					["msg"] = "io gli lo detto che luca non e quello che crede lei ma mi diceva sempre che sbaglio ",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [35]
 				{
 					["type"] = 1,
-					["time"] = 1485808883,
+					["time"] = 1487108739,
 					["from"] = "Alitfaier",
-					["msg"] = "bo",
+					["msg"] = "sbagliavo...",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [36]
 				{
 					["type"] = 1,
-					["time"] = 1485808891,
-					["from"] = "Alitfaier",
-					["msg"] = "adesso è li",
-					["inbound"] = false,
+					["time"] = 1487108748,
+					["from"] = "Luigi#2210",
+					["msg"] = "di solito quando inquadro male uno non sbaglio quasi mai",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [37]
 				{
 					["type"] = 1,
-					["time"] = 1485808896,
-					["from"] = "Alitfaier",
-					["msg"] = "sta meglio ha mangiato",
-					["inbound"] = false,
+					["time"] = 1487108762,
+					["from"] = "Luigi#2210",
+					["msg"] = "si sbagliavo",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [38]
 				{
 					["type"] = 1,
-					["time"] = 1485812238,
+					["time"] = 1487108770,
 					["from"] = "Alitfaier",
-					["msg"] = "cmq porco zio... le donne hanno sempre problemi con gli addon..",
+					["msg"] = "cmq sinceramente ho parlato con gli ashes due settimane fa... ",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [39]
 				{
 					["type"] = 1,
-					["time"] = 1485812253,
+					["time"] = 1487108791,
 					["from"] = "Alitfaier",
-					["msg"] = "chissà come mai...",
+					["msg"] = "e non mi sembrno personaccie almeno quei tre con cui ho parlato",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [40]
 				{
 					["type"] = 1,
-					["time"] = 1485812261,
+					["time"] = 1487108811,
 					["from"] = "Luigi#2210",
-					["msg"] = "sono donne",
+					["msg"] = "si ma tue sei estero hai loro problemi",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [41]
 				{
 					["type"] = 1,
-					["time"] = 1485812784,
+					["time"] = 1487108813,
 					["from"] = "Alitfaier",
-					["msg"] = "ma su pawn come fai a dirgli di mettere i pesi di wowhead?",
+					["msg"] = "ma si sono divisi perchè, kate è troppo complessata",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [42]
 				{
 					["type"] = 1,
-					["time"] = 1485812828,
+					["time"] = 1487108824,
 					["from"] = "Luigi#2210",
-					["msg"] = "li metti a mano",
+					["msg"] = "non penso",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [43]
 				{
 					["type"] = 1,
-					["time"] = 1485812834,
+					["time"] = 1487108853,
 					["from"] = "Alitfaier",
-					["msg"] = "c'è l'opzione normalizza i valori ma non funziona",
+					["msg"] = "cmq non mi frega na mazza",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [44]
 				{
 					["type"] = 1,
-					["time"] = 1485812837,
+					["time"] = 1487108903,
 					["from"] = "Luigi#2210",
-					["msg"] = "poi ti spiego",
+					["msg"] = "cmq se ti sei schierato con kate e non li volevi in raid poi tutto dun tratto vai a raidare da loro",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [45]
 				{
 					["type"] = 1,
-					["time"] = 1485812857,
-					["from"] = "Luigi#2210",
-					["msg"] = "si ce il modo di importarli ",
-					["inbound"] = true,
+					["time"] = 1487108948,
+					["from"] = "Alitfaier",
+					["msg"] = "si è schierato con kate perchè negli ashes non gli davano la RL qua si...",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [46]
 				{
 					["type"] = 1,
-					["time"] = 1485812864,
+					["time"] = 1487108969,
 					["from"] = "Alitfaier",
-					["msg"] = "kk",
+					["msg"] = "poi quq a sto giro la rl non l'aveva e quindi non aveva più ",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [47]
 				{
 					["type"] = 1,
-					["time"] = 1485812865,
+					["time"] = 1487109043,
 					["from"] = "Luigi#2210",
-					["msg"] = "isi",
+					["msg"] = "non ceri a riunione tu e stato lui a rifiutarla kate lo faceva ancora RL e lui che si e rifiutato quindi non e quello il discorso",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [48]
 				{
 					["type"] = 1,
-					["time"] = 1485815541,
-					["from"] = "Luigi#2210",
-					["msg"] = "si ma non siamo manco a meta boss e tutti healer senza mana",
-					["inbound"] = true,
+					["time"] = 1487109187,
+					["from"] = "Alitfaier",
+					["msg"] = "bo allora non so",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [49]
 				{
 					["type"] = 1,
-					["time"] = 1485815550,
-					["from"] = "Alitfaier",
-					["msg"] = "ho visto",
-					["inbound"] = false,
+					["time"] = 1487109214,
+					["from"] = "Luigi#2210",
+					["msg"] = "stavo quasi per sbroccare in riunione tanto kate insisteva",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [50]
 				{
 					["type"] = 1,
-					["time"] = 1485815605,
-					["from"] = "Alitfaier",
-					["msg"] = "per me è presto fare questo..",
-					["inbound"] = false,
+					["time"] = 1487109241,
+					["from"] = "Luigi#2210",
+					["msg"] = "poi lui a detto che non voleva ho tirato un sospiro ",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [51]
 				{
 					["type"] = 1,
-					["time"] = 1485815630,
+					["time"] = 1487109318,
 					["from"] = "Luigi#2210",
-					["msg"] = "non hai altro",
+					["msg"] = "cmq ho osservato un po rangi pd e inchiodato al suolo",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [52]
 				{
 					["type"] = 1,
-					["time"] = 1485815645,
-					["from"] = "Alitfaier",
-					["msg"] = "cmq mancqno due dps forti",
-					["inbound"] = false,
+					["time"] = 1487190562,
+					["from"] = "Luigi#2210",
+					["msg"] = "lei progress serio ",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [53]
 				{
 					["type"] = 1,
-					["time"] = 1485815655,
-					["from"] = "Alitfaier",
-					["msg"] = "manca asia che con fire qua fa i buchi",
-					["inbound"] = false,
+					["time"] = 1487190570,
+					["from"] = "Luigi#2210",
+					["msg"] = "aiuto poverini",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [54]
 				{
 					["type"] = 1,
-					["time"] = 1485815661,
-					["from"] = "Luigi#2210",
-					["msg"] = "si ma non cambia ",
-					["inbound"] = true,
+					["time"] = 1487190577,
+					["from"] = "Alitfaier",
+					["msg"] = "si però poi la skill non era richiesta",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [55]
 				{
 					["type"] = 1,
-					["time"] = 1485815725,
-					["from"] = "Alitfaier",
-					["msg"] = "ha parlato dio...",
-					["inbound"] = false,
+					["time"] = 1487190585,
+					["from"] = "Luigi#2210",
+					["msg"] = "lol",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [56]
 				{
 					["type"] = 1,
-					["time"] = 1485815762,
-					["from"] = "Luigi#2210",
-					["msg"] = "minchi se sta zitto mi fa un favore",
-					["inbound"] = true,
+					["time"] = 1487190617,
+					["from"] = "Alitfaier",
+					["msg"] = "scusa se gli altri facevano progress serio noi cosa facciamo?",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [57]
 				{
 					["type"] = 1,
-					["time"] = 1485815780,
+					["time"] = 1487190627,
 					["from"] = "Alitfaier",
-					["msg"] = "cioè le fasi problematiche sono apertamente aoe",
+					["msg"] = "sprogress?",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [58]
 				{
 					["type"] = 1,
-					["time"] = 1485815789,
+					["time"] = 1487190636,
 					["from"] = "Alitfaier",
-					["msg"] = "come fai a dire che non bisogna mettersi aoe..",
+					["msg"] = "deprogress",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [59]
 				{
 					["type"] = 1,
-					["time"] = 1485818556,
+					["time"] = 1487190662,
 					["from"] = "Alitfaier",
-					["msg"] = "attenzione che dio, ha capito che il grosso del danno deriva da noi...",
+					["msg"] = "non possiamo partire senzza rangi? tanto è come se non ci fosse in riad",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [60]
 				{
 					["type"] = 1,
-					["time"] = 1485818579,
+					["time"] = 1487190666,
 					["from"] = "Luigi#2210",
-					["msg"] = "si ma non capisce un cazzo ",
+					["msg"] = "e questo il problema non siamo tutti con la stessa mentalita qui dentro",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [61]
 				{
 					["type"] = 1,
-					["time"] = 1485818598,
+					["time"] = 1487190712,
 					["from"] = "Alitfaier",
-					["msg"] = "tu ci fai pure le mitiche + assieme",
+					["msg"] = "e... che ci vuoi fare?",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [62]
 				{
 					["type"] = 1,
-					["time"] = 1485818626,
+					["time"] = 1487190719,
 					["from"] = "Luigi#2210",
-					["msg"] = "ma vaff ne ho fatta una solo per fargli vedere che so tankare a quel cretino",
+					["msg"] = "la gilda secondo kate e semi harcore ma per molti e solo social ",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [63]
 				{
 					["type"] = 1,
-					["time"] = 1485818989,
+					["time"] = 1487190740,
 					["from"] = "Alitfaier",
-					["msg"] = "ma non l'ha capito",
+					["msg"] = "ma ancora tu che ascolti kate..",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [64]
 				{
 					["type"] = 1,
-					["time"] = 1485819083,
+					["time"] = 1487190756,
 					["from"] = "Luigi#2210",
-					["msg"] = "cosa?",
+					["msg"] = "sni",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [65]
 				{
 					["type"] = 1,
-					["time"] = 1485819101,
+					["time"] = 1487190758,
 					["from"] = "Alitfaier",
-					["msg"] = "che sai tankare",
+					["msg"] = "e soprattutto ci perdi oredietro a spiegarlgi l cose",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [66]
 				{
 					["type"] = 1,
-					["time"] = 1485819107,
+					["time"] = 1487190777,
 					["from"] = "Alitfaier",
-					["msg"] = "vaia  a nanna?",
+					["msg"] = "tra i due sei quello che sbaglia lo sai?",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [67]
 				{
 					["type"] = 1,
-					["time"] = 1485819113,
+					["time"] = 1487190789,
 					["from"] = "Luigi#2210",
-					["msg"] = "nu +",
+					["msg"] = "come sbaglio",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [68]
 				{
 					["type"] = 1,
-					["time"] = 1485820197,
+					["time"] = 1487190894,
 					["from"] = "Luigi#2210",
-					["msg"] = "pirla",
+					["msg"] = "il tempo mi da sempre ragione vedi erucarcas gli lo detto che non c'èra da fidarsi ieri mi ha scritto che e rimasta delusa da erucarcas io gli ho scritto non dirmi nulla ti avevo avvisato mi hai detto che non capivo ora sono cazzi tuoi ti sta bene",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [69]
 				{
 					["type"] = 1,
-					["time"] = 1485981508,
-					["from"] = "Alitfaier",
-					["msg"] = "cioè... poverini tutti poverini quello e l'altro, ho avuto una giornata di merda, mi sono dimenticato a segnarmi e mi fa storie...",
-					["inbound"] = false,
+					["time"] = 1487190908,
+					["from"] = "Luigi#2210",
+					["msg"] = "quindi alla fine ho avuto ragione io ",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [70]
 				{
 					["type"] = 1,
-					["time"] = 1485982165,
-					["from"] = "Alitfaier",
-					["msg"] = "mi si è resettata l'addon dei bis",
-					["inbound"] = false,
+					["time"] = 1487191028,
+					["from"] = "Luigi#2210",
+					["msg"] = "qualcuno non raida hihihihihi",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [71]
 				{
 					["type"] = 1,
-					["time"] = 1485982177,
+					["time"] = 1487191092,
 					["from"] = "Luigi#2210",
-					["msg"] = "metti su mitic",
+					["msg"] = "fate eroico?",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [72]
 				{
 					["type"] = 1,
-					["time"] = 1485982183,
-					["from"] = "Luigi#2210",
-					["msg"] = "e nighthold",
-					["inbound"] = true,
+					["time"] = 1487191119,
+					["from"] = "Alitfaier",
+					["msg"] = "giusto come mai non sei in raid?",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [73]
 				{
 					["type"] = 1,
-					["time"] = 1485982200,
+					["time"] = 1487191143,
 					["from"] = "Luigi#2210",
-					["msg"] = "perche hai impostato solo mitic come se",
+					["msg"] = "non mi sono segnato non ho voglia di curare",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [74]
 				{
 					["type"] = 1,
-					["time"] = 1485982205,
+					["time"] = 1487191209,
 					["from"] = "Luigi#2210",
-					["msg"] = "bis",
+					["msg"] = "ma che modalita state facendo?",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [75]
 				{
 					["type"] = 1,
-					["time"] = 1485982219,
-					["from"] = "Luigi#2210",
-					["msg"] = "e lui si auto mette su quella in cui sei",
-					["inbound"] = true,
+					["time"] = 1487191214,
+					["from"] = "Alitfaier",
+					["msg"] = "normal",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [76]
 				{
 					["type"] = 1,
-					["time"] = 1485982229,
+					["time"] = 1487191225,
 					["from"] = "Alitfaier",
-					["msg"] = "...  si hai ragione e che sono molto nervoso",
+					["msg"] = "se lo sapevo mi guardavo un film",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [77]
 				{
 					["type"] = 1,
-					["time"] = 1485982303,
-					["from"] = "Alitfaier",
-					["msg"] = "che domande... che testa vuoi che abbia...",
-					["inbound"] = false,
+					["time"] = 1487191345,
+					["from"] = "Luigi#2210",
+					["msg"] = "neddo due cose dal normal che mi elmo e stivali per 5 itlvl ",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [78]
 				{
 					["type"] = 1,
-					["time"] = 1485982311,
+					["time"] = 1487191384,
 					["from"] = "Alitfaier",
-					["msg"] = "di cazzo no?",
+					["msg"] = "cmq per me dovresti segnarti da tank poi se ti dice di gruppare gli dici che gruppi solo se tanki",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [79]
 				{
 					["type"] = 1,
-					["time"] = 1485982320,
+					["time"] = 1487191415,
 					["from"] = "Luigi#2210",
-					["msg"] = "cia un culo rangi",
+					["msg"] = "ci avevo pensato stasera",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [80]
 				{
 					["type"] = 1,
-					["time"] = 1485982370,
+					["time"] = 1487191419,
 					["from"] = "Alitfaier",
-					["msg"] = "riesci a farmi un incanto al volo?",
+					["msg"] = "oppure fai come ha fatto uno in gilda da me, ha venduto tutto l'equippe da helar per non curare più",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [81]
 				{
 					["type"] = 1,
-					["time"] = 1485982378,
+					["time"] = 1487191432,
 					["from"] = "Luigi#2210",
-					["msg"] = "nu dopo",
+					["msg"] = "lol",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [82]
 				{
 					["type"] = 1,
-					["time"] = 1486050434,
+					["time"] = 1487286747,
 					["from"] = "Alitfaier",
-					["msg"] = "ue",
+					["msg"] = "se usassero tutti le prepozze... sarebbe morto",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [83]
 				{
 					["type"] = 1,
-					["time"] = 1486050441,
+					["time"] = 1487286814,
 					["from"] = "Luigi#2210",
-					["msg"] = "we",
+					["msg"] = "si vedo pure gente che usa cibo da 300",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [84]
 				{
 					["type"] = 1,
-					["time"] = 1486050443,
-					["from"] = "Alitfaier",
-					["msg"] = "sei sul ts di gilda?",
-					["inbound"] = false,
+					["time"] = 1487286826,
+					["from"] = "Luigi#2210",
+					["msg"] = "da raid ridicolo",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [85]
 				{
 					["type"] = 1,
-					["time"] = 1486050460,
-					["from"] = "Luigi#2210",
-					["msg"] = "y",
-					["inbound"] = true,
+					["time"] = 1487362052,
+					["from"] = "Alitfaier",
+					["msg"] = "ma scusa come mai hai lasciato la gilda?",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [86]
 				{
 					["type"] = 1,
-					["time"] = 1486055350,
-					["from"] = "Luigi#2210",
-					["msg"] = "eccomi",
-					["inbound"] = true,
+					["time"] = 1487362060,
+					["from"] = "Alitfaier",
+					["msg"] = "devo venire sull'altro ts?",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [87]
 				{
 					["type"] = 1,
-					["time"] = 1486055418,
-					["from"] = "Luigi#2210",
-					["msg"] = "sorry ma dovevo riposarmi un oretta mi si chiudevano occhio ieri non ho dormito molto e stamattina mi son svegliato presto",
-					["inbound"] = true,
+					["time"] = 1487365733,
+					["from"] = "Alitfaier",
+					["msg"] = "rangi ha fatto una 14",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [88]
 				{
 					["type"] = 1,
-					["time"] = 1486055722,
+					["time"] = 1487365746,
 					["from"] = "Luigi#2210",
-					["msg"] = "se vuoi fare qualcosa ci sono",
+					["msg"] = "dobbiamo rimediare",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [89]
 				{
 					["type"] = 1,
-					["time"] = 1486057014,
+					["time"] = 1487426407,
 					["from"] = "Luigi#2210",
-					["msg"] = "wq",
+					["msg"] = "we",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [90]
 				{
 					["type"] = 1,
-					["time"] = 1486076317,
+					["time"] = 1487426417,
 					["from"] = "Alitfaier",
-					["msg"] = "rangi è andato...",
+					["msg"] = "we sto sloggando",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [91]
 				{
 					["type"] = 1,
-					["time"] = 1486076328,
+					["time"] = 1487426426,
 					["from"] = "Alitfaier",
-					["msg"] = "domani sarà caduta la linea internet",
+					["msg"] = "sorry",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [92]
 				{
 					["type"] = 1,
-					["time"] = 1486076360,
+					["time"] = 1487426428,
 					["from"] = "Luigi#2210",
-					["msg"] = "lol",
+					["msg"] = "come",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [93]
 				{
 					["type"] = 1,
-					["time"] = 1486077125,
+					["time"] = 1487426451,
 					["from"] = "Alitfaier",
-					["msg"] = "mi ressi pls? devo adnare in bagno",
+					["msg"] = "devo andare a fare l'impasto per le tigelle e poi spesa ",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [94]
 				{
 					["type"] = 1,
-					["time"] = 1486077170,
+					["time"] = 1487426457,
 					["from"] = "Luigi#2210",
-					["msg"] = "oik",
+					["msg"] = "cmq non torno in gilda",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [95]
 				{
 					["type"] = 1,
-					["time"] = 1486077277,
+					["time"] = 1487426467,
 					["from"] = "Alitfaier",
-					["msg"] = "tnx",
+					["msg"] = "a curare?",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [96]
 				{
 					["type"] = 1,
-					["time"] = 1486077747,
-					["from"] = "Alitfaier",
-					["msg"] = "domani ci sei per m+?",
-					["inbound"] = false,
+					["time"] = 1487426470,
+					["from"] = "Luigi#2210",
+					["msg"] = "bravo a dopo",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [97]
 				{
 					["type"] = 1,
-					["time"] = 1486077764,
+					["time"] = 1487426486,
 					["from"] = "Luigi#2210",
-					["msg"] = "si dopo le 16 pero",
+					["msg"] = "no non torno.",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [98]
 				{
 					["type"] = 1,
-					["time"] = 1486131134,
+					["time"] = 1487426498,
 					["from"] = "Alitfaier",
-					["msg"] = "hai sentito le due novità blizzard?",
+					["msg"] = "a non torni?",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [99]
 				{
 					["type"] = 1,
-					["time"] = 1486131176,
-					["from"] = "Alitfaier",
-					["msg"] = "più che altro sei sul tuo ts che parliamo?",
-					["inbound"] = false,
+					["time"] = 1487426499,
+					["from"] = "Luigi#2210",
+					["msg"] = "mi tocca cercarne una ",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [100]
 				{
 					["type"] = 1,
-					["time"] = 1486131220,
-					["from"] = "Luigi#2210",
-					["msg"] = "si altro ts?",
-					["inbound"] = true,
+					["time"] = 1487426517,
+					["from"] = "Alitfaier",
+					["msg"] = "ma hai riparlato con kate?",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [101]
 				{
 					["type"] = 1,
-					["time"] = 1486131274,
-					["from"] = "Alitfaier",
-					["msg"] = "si solo che mi ha connesso in automatico qua",
-					["inbound"] = false,
+					["time"] = 1487426522,
+					["from"] = "Luigi#2210",
+					["msg"] = "si",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [102]
 				{
 					["type"] = 1,
-					["time"] = 1486131380,
-					["from"] = "Luigi#2210",
-					["msg"] = "sono altro ts",
-					["inbound"] = true,
+					["time"] = 1487426529,
+					["from"] = "Alitfaier",
+					["msg"] = "litigato di nuovo?",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [103]
 				{
 					["type"] = 1,
-					["time"] = 1486137961,
+					["time"] = 1487426599,
 					["from"] = "Luigi#2210",
-					["msg"] = "visto che sei gia andato famo stasera mi vado a riposare che e tutta settimana che mi alzo presto e vado a letto tardi a dopo",
+					["msg"] = "e fuori di testa",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [104]
 				{
 					["type"] = 1,
-					["time"] = 1486137974,
+					["time"] = 1487426656,
 					["from"] = "Alitfaier",
-					["msg"] = "sto aiutando asia a fare una hero",
+					["msg"] = "quello lo sapevamo",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [105]
 				{
 					["type"] = 1,
-					["time"] = 1486137983,
+					["time"] = 1487426688,
 					["from"] = "Alitfaier",
-					["msg"] = "cmq a dopo",
+					["msg"] = "che ti ha detto?",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [106]
 				{
 					["type"] = 1,
-					["time"] = 1486137997,
+					["time"] = 1487426725,
 					["from"] = "Luigi#2210",
-					["msg"] = "ok a doo",
+					["msg"] = "niente va lascia perdere ci sei stasera che facciamo qualcosa?",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [107]
 				{
 					["type"] = 1,
-					["time"] = 1486138001,
-					["from"] = "Luigi#2210",
-					["msg"] = "dopo",
-					["inbound"] = true,
+					["time"] = 1487426747,
+					["from"] = "Alitfaier",
+					["msg"] = "si che ci sono",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [108]
 				{
 					["type"] = 1,
-					["time"] = 1486139325,
+					["time"] = 1487426754,
 					["from"] = "Alitfaier",
-					["msg"] = "non vai a letto?",
+					["msg"] = "a dopo",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [109]
 				{
 					["type"] = 1,
-					["time"] = 1486399263,
+					["time"] = 1487426756,
 					["from"] = "Luigi#2210",
-					["msg"] = "we",
+					["msg"] = "ok a dopo allora",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [110]
 				{
 					["type"] = 1,
-					["time"] = 1486399276,
+					["time"] = 1487426780,
 					["from"] = "Alitfaier",
-					["msg"] = "ciao luigi",
+					["msg"] = "quindi d'ora in poi ci si becca su discord?",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [111]
 				{
 					["type"] = 1,
-					["time"] = 1486399288,
+					["time"] = 1487516117,
 					["from"] = "Luigi#2210",
-					["msg"] = "ciao",
+					["msg"] = "c'è kate in ts ",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [112]
 				{
 					["type"] = 1,
-					["time"] = 1486399296,
+					["time"] = 1487516125,
 					["from"] = "Luigi#2210",
-					["msg"] = "sono in ts",
+					["msg"] = "non dire nulla ",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [113]
 				{
 					["type"] = 1,
-					["time"] = 1486399307,
+					["time"] = 1487516138,
 					["from"] = "Alitfaier",
-					["msg"] = "ok vengo",
+					["msg"] = "e.... ma potrebbe essere  afare mitica",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [114]
 				{
 					["type"] = 1,
-					["time"] = 1486417979,
+					["time"] = 1487537400,
 					["from"] = "Alitfaier",
-					["msg"] = "è un figt che finisci la mana?",
+					["msg"] = "ogni votla che chiedo a nano un craft, non gli arrivano i mat..",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [115]
 				{
 					["type"] = 1,
-					["time"] = 1486418022,
+					["time"] = 1487537407,
 					["from"] = "Alitfaier",
-					["msg"] = "perche su word of log gli ehaler qua usano tutti 2 pozioni del potere",
+					["msg"] = "sempre...",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [116]
 				{
 					["type"] = 1,
-					["time"] = 1486418029,
-					["from"] = "Luigi#2210",
-					["msg"] = "che ne  so manco comincia fight",
-					["inbound"] = true,
+					["time"] = 1487537445,
+					["from"] = "Alitfaier",
+					["msg"] = "settimana scorsa gli ho mandato i mat per fare 5 gemme 200 stat e non gli sono arrivati...",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [117]
 				{
 					["type"] = 1,
-					["time"] = 1486418052,
-					["from"] = "Luigi#2210",
-					["msg"] = "si la prima la buttano",
-					["inbound"] = true,
+					["time"] = 1487537454,
+					["from"] = "Alitfaier",
+					["msg"] = "oggi stessa cosa e ho controllato il nome..",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [118]
 				{
 					["type"] = 1,
-					["time"] = 1486418169,
-					["from"] = "Luigi#2210",
-					["msg"] = "metto cronometro e ti dico quando e se ne sfrutti un po",
-					["inbound"] = true,
+					["time"] = 1487539084,
+					["from"] = "Alitfaier",
+					["msg"] = "quindi non i fa nulla stesera?",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [119]
 				{
 					["type"] = 1,
-					["time"] = 1486418180,
-					["from"] = "Luigi#2210",
-					["msg"] = "da healer ",
-					["inbound"] = true,
+					["time"] = 1487545589,
+					["from"] = "Alitfaier",
+					["msg"] = "guarda li to trovato pure un alibi per dirgli fatti i cazzi tua!",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [120]
 				{
 					["type"] = 1,
-					["time"] = 1486418192,
+					["time"] = 1487623121,
 					["from"] = "Alitfaier",
-					["msg"] = "kk",
+					["msg"] = "alla fine, della fiera... healer!!!",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [121]
 				{
 					["type"] = 1,
-					["time"] = 1486418433,
-					["from"] = "Luigi#2210",
-					["msg"] = "ok la sfrutto abbastanza si puo tirare",
-					["inbound"] = true,
+					["time"] = 1487623137,
+					["from"] = "Alitfaier",
+					["msg"] = "hai fatto tre giorni d'esilio, per fare cosa?",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [122]
 				{
 					["type"] = 1,
-					["time"] = 1486418443,
-					["from"] = "Luigi#2210",
-					["msg"] = "ora la tiro",
-					["inbound"] = true,
+					["time"] = 1487623146,
+					["from"] = "Alitfaier",
+					["msg"] = "d'ora in poi te chiamo napoleone",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [123]
 				{
 					["type"] = 1,
-					["time"] = 1486420231,
+					["time"] = 1487623176,
 					["from"] = "Alitfaier",
-					["msg"] = "si ma coddio fa una minchiata dietro l'altra...",
+					["msg"] = "quindi nuovo soprannome \"napo\"",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [124]
 				{
 					["type"] = 1,
-					["time"] = 1486421705,
-					["from"] = "Alitfaier",
-					["msg"] = "dio cristo... sempre a inventarsi cose inesistenti... cristo santo.",
-					["inbound"] = false,
+					["time"] = 1487623233,
+					["from"] = "Luigi#2210",
+					["msg"] = "bello figo grazie",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [125]
 				{
 					["type"] = 1,
-					["time"] = 1486423855,
+					["time"] = 1487870572,
 					["from"] = "Luigi#2210",
-					["msg"] = "cmq buttare fuori qualcuno ",
+					["msg"] = "non ci sei in ts",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [126]
 				{
 					["type"] = 1,
-					["time"] = 1486423881,
-					["from"] = "Luigi#2210",
-					["msg"] = "sarebbe da provare ci aiuta a farlo in meno tempo e facilitarsi",
-					["inbound"] = true,
+					["time"] = 1487870805,
+					["from"] = "Alitfaier",
+					["msg"] = "eccomi",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [127]
 				{
 					["type"] = 1,
-					["time"] = 1486423901,
-					["from"] = "Alitfaier",
-					["msg"] = "e ma il problema questa erano principalmente i tank",
-					["inbound"] = false,
+					["time"] = 1487872697,
+					["from"] = "Luigi#2210",
+					["msg"] = "n",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [128]
 				{
 					["type"] = 1,
-					["time"] = 1486423903,
-					["from"] = "Luigi#2210",
-					["msg"] = "cmq se c'e propblema ranged dps bilancia raid ",
-					["inbound"] = true,
+					["time"] = 1487880427,
+					["from"] = "Alitfaier",
+					["msg"] = "SONO ANCORA IN GILDA?",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [129]
 				{
 					["type"] = 1,
-					["time"] = 1486423927,
+					["time"] = 1487880797,
 					["from"] = "Luigi#2210",
-					["msg"] = "y",
+					["msg"] = "si pero scusati",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [130]
 				{
 					["type"] = 1,
-					["time"] = 1486423929,
-					["from"] = "Luigi#2210",
-					["msg"] = "notte",
-					["inbound"] = true,
+					["time"] = 1487880845,
+					["from"] = "Alitfaier",
+					["msg"] = "mi spieghi perchè ci tieni così tanto a stare qua?",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [131]
 				{
 					["type"] = 1,
-					["time"] = 1486423932,
-					["from"] = "Alitfaier",
-					["msg"] = "notte",
-					["inbound"] = false,
+					["time"] = 1487880896,
+					["from"] = "Luigi#2210",
+					["msg"] = "ma sei un po pirla mi hai fatto tu discorso di tornare",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [132]
 				{
 					["type"] = 1,
-					["time"] = 1486487798,
-					["from"] = "Luigi#2210",
-					["msg"] = "we",
-					["inbound"] = true,
+					["time"] = 1487880997,
+					["from"] = "Alitfaier",
+					["msg"] = "io?",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [133]
 				{
 					["type"] = 1,
-					["time"] = 1486487803,
-					["from"] = "Alitfaier",
-					["msg"] = "we",
-					["inbound"] = false,
+					["time"] = 1487881012,
+					["from"] = "Luigi#2210",
+					["msg"] = "non ti ricordi nemmeno",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [134]
 				{
 					["type"] = 1,
-					["time"] = 1486487814,
+					["time"] = 1487881027,
 					["from"] = "Alitfaier",
-					["msg"] = "adesso devo andare ",
+					["msg"] = "mmm probabilmente era l'altra mia personalità",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [135]
 				{
 					["type"] = 1,
-					["time"] = 1486487817,
-					["from"] = "Alitfaier",
-					["msg"] = "sorry",
-					["inbound"] = false,
+					["time"] = 1487881031,
+					["from"] = "Luigi#2210",
+					["msg"] = "ne riparliamo ",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [136]
 				{
 					["type"] = 1,
-					["time"] = 1486487830,
+					["time"] = 1487881051,
 					["from"] = "Luigi#2210",
-					["msg"] = "ciao",
+					["msg"] = "puo essere",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [137]
 				{
 					["type"] = 1,
-					["time"] = 1486499915,
+					["time"] = 1487881079,
 					["from"] = "Alitfaier",
-					["msg"] = "cmq adesso il gettone è altissimo",
+					["msg"] = "allora ripeto la domanda.. perchè ci teniamo così tanto a stare qua????",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [138]
 				{
 					["type"] = 1,
-					["time"] = 1486499926,
-					["from"] = "Luigi#2210",
-					["msg"] = "tipo",
-					["inbound"] = true,
+					["time"] = 1487881114,
+					["from"] = "Alitfaier",
+					["msg"] = "perchè in un'altra gilda bisogna riambientarsi ecc ecc ecc..",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [139]
 				{
 					["type"] = 1,
-					["time"] = 1486499931,
-					["from"] = "Alitfaier",
-					["msg"] = "172k",
-					["inbound"] = false,
+					["time"] = 1487881172,
+					["from"] = "Luigi#2210",
+					["msg"] = "perche c'è kate",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [140]
 				{
 					["type"] = 1,
-					["time"] = 1486499938,
+					["time"] = 1487881189,
 					["from"] = "Alitfaier",
-					["msg"] = "oggi alle 2 era a 201",
+					["msg"] = "ci vogliamo proprio male.",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [141]
 				{
 					["type"] = 1,
-					["time"] = 1486499939,
+					["time"] = 1487881244,
 					["from"] = "Luigi#2210",
-					["msg"] = "lol",
+					["msg"] = "ma alla fine non si sta male qui devo solo migliorare raid cosi boss cadono",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [142]
 				{
 					["type"] = 1,
-					["time"] = 1486501019,
-					["from"] = "Alitfaier",
-					["msg"] = "adesso mi hai sentito?",
-					["inbound"] = false,
+					["time"] = 1487881262,
+					["from"] = "Luigi#2210",
+					["msg"] = "non devo ma si deve",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [143]
 				{
 					["type"] = 1,
-					["time"] = 1486501051,
-					["from"] = "Luigi#2210",
-					["msg"] = "no",
-					["inbound"] = true,
+					["time"] = 1487881263,
+					["from"] = "Alitfaier",
+					["msg"] = "luigi, ma gli altri non vogliono migliorare",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [144]
 				{
 					["type"] = 1,
-					["time"] = 1486501313,
-					["from"] = "Alitfaier",
-					["msg"] = "per farlo abbassare da 200k a 170 in un pomeriggio ",
-					["inbound"] = false,
+					["time"] = 1487881335,
+					["from"] = "Luigi#2210",
+					["msg"] = "non penso valga per tutti",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [145]
 				{
 					["type"] = 1,
-					["time"] = 1486501326,
+					["time"] = 1487881376,
 					["from"] = "Alitfaier",
-					["msg"] = "secondo me la blizzard ha incassato un tot di euro oggi..",
+					["msg"] = "si ma tra quelli che non vogliono cambiare c'è la persona che gestisce il tutto.",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [146]
 				{
 					["type"] = 1,
-					["time"] = 1486732731,
+					["time"] = 1487881473,
 					["from"] = "Luigi#2210",
-					["msg"] = "we",
+					["msg"] = "il problema sono gli altri che vogliono fare e non dicono nulla",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [147]
 				{
 					["type"] = 1,
-					["time"] = 1486733019,
-					["from"] = "Luigi#2210",
-					["msg"] = "ci sei?",
-					["inbound"] = true,
+					["time"] = 1487881520,
+					["from"] = "Alitfaier",
+					["msg"] = "perchè, vedono che quando tu proponi, trovi un muro... e allora ci rinunciano.",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [148]
 				{
 					["type"] = 1,
-					["time"] = 1486733039,
-					["from"] = "Alitfaier",
-					["msg"] = "si",
-					["inbound"] = false,
+					["time"] = 1487881568,
+					["from"] = "Luigi#2210",
+					["msg"] = "non propongono nulla e quello problema",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [149]
 				{
 					["type"] = 1,
-					["time"] = 1486739171,
-					["from"] = "Alitfaier",
-					["msg"] = "a dopo",
-					["inbound"] = false,
+					["time"] = 1487881586,
+					["from"] = "Luigi#2210",
+					["msg"] = "il muro lo troviamo noi non  loro",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [150]
 				{
 					["type"] = 1,
-					["time"] = 1486893330,
-					["from"] = "Luigi#2210",
-					["msg"] = "sono in ts",
-					["inbound"] = true,
+					["time"] = 1487881624,
+					["from"] = "Alitfaier",
+					["msg"] = "si, ma tanto poi quando è esasperata, ti dice di si e poi fa sempre come gli pare, tutto di nascosto, e come vuole",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [151]
 				{
 					["type"] = 1,
-					["time"] = 1486893353,
-					["from"] = "Alitfaier",
-					["msg"] = "beato te... io sono ancora in coma..",
-					["inbound"] = false,
+					["time"] = 1487881667,
+					["from"] = "Luigi#2210",
+					["msg"] = "su quello sbagli e ti sei fatto idea sbagliata",
+					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [152]
+				{
+					["type"] = 1,
+					["time"] = 1487881693,
+					["from"] = "Alitfaier",
+					["msg"] = "sarà, ma a me è sempre successo così",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [153]
+				{
+					["type"] = 1,
+					["time"] = 1487881738,
+					["from"] = "Luigi#2210",
+					["msg"] = "ceto ti lanci sempre a muso duro ",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [154]
+				{
+					["type"] = 1,
+					["time"] = 1487881743,
+					["from"] = "Alitfaier",
+					["msg"] = "le spalle che erano bis solo per me le ha date ad axe, che non erano bis e la seconda settimana non mi ha dato un trinket perchè era off per tempest ed ero nuovo",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [155]
+				{
+					["type"] = 1,
+					["time"] = 1487881769,
+					["from"] = "Luigi#2210",
+					["msg"] = "lo so ma te la sei tirata un po contro",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [156]
+				{
+					["type"] = 1,
+					["time"] = 1487881796,
+					["from"] = "Alitfaier",
+					["msg"] = "bè tanto non mi sta neanche gruppando per raid quindi posso anche leftare la gilda, io non ci sto a farmi trattare come uno schiavo, se vuole essere la comandina cazzi suoi",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [157]
+				{
+					["type"] = 1,
+					["time"] = 1487881798,
+					["from"] = "Luigi#2210",
+					["msg"] = "e quando gli parli fai uscite come quella di oggi",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [158]
+				{
+					["type"] = 1,
+					["time"] = 1487881818,
+					["from"] = "Luigi#2210",
+					["msg"] = "ti sei almeno scusato per oggi?",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [159]
+				{
+					["type"] = 1,
+					["time"] = 1487881826,
+					["from"] = "Alitfaier",
+					["msg"] = "io?",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [160]
+				{
+					["type"] = 1,
+					["time"] = 1487881831,
+					["from"] = "Alitfaier",
+					["msg"] = "scusarmi?",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [161]
+				{
+					["type"] = 1,
+					["time"] = 1487881851,
+					["from"] = "Luigi#2210",
+					["msg"] = "non sono io che lha fatto uscita sul personale",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [162]
+				{
+					["type"] = 1,
+					["time"] = 1487881857,
+					["from"] = "Alitfaier",
+					["msg"] = "ripeto, io non mi devo scusare, è lei che ha iniziato a urlarmi in faccia, magari è lei che deve scusarsi",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [163]
+				{
+					["type"] = 1,
+					["time"] = 1487881891,
+					["from"] = "Alitfaier",
+					["msg"] = "cmq ho capito",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [164]
+				{
+					["type"] = 1,
+					["time"] = 1487881895,
+					["from"] = "Luigi#2210",
+					["msg"] = "vabbe tutte due orgogliosi come ho detto a lei vi state comportando da bambini orgogliosi ",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [165]
+				{
+					["type"] = 1,
+					["time"] = 1487881913,
+					["from"] = "Alitfaier",
+					["msg"] = "faccio come fa lei",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [166]
+				{
+					["type"] = 1,
+					["time"] = 1487881918,
+					["from"] = "Alitfaier",
+					["msg"] = "ne più ne meno.",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [167]
+				{
+					["type"] = 1,
+					["time"] = 1487881942,
+					["from"] = "Alitfaier",
+					["msg"] = "gilde per raidare ne trovo",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [168]
+				{
+					["type"] = 1,
+					["time"] = 1487881947,
+					["from"] = "Alitfaier",
+					["msg"] = "non c'è solo questa ",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [169]
+				{
+					["type"] = 1,
+					["time"] = 1487881961,
+					["from"] = "Alitfaier",
+					["msg"] = "quindi è inutile che fa la bambina a tenermi fuori dal raid",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [170]
+				{
+					["type"] = 1,
+					["time"] = 1487881986,
+					["from"] = "Luigi#2210",
+					["msg"] = "lo fa perche in gilda si sono lamentati del tuo comportamento",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [171]
+				{
+					["type"] = 1,
+					["time"] = 1487882016,
+					["from"] = "Alitfaier",
+					["msg"] = "si, come no... voglio i nomi",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [172]
+				{
+					["type"] = 1,
+					["time"] = 1487882033,
+					["from"] = "Alitfaier",
+					["msg"] = "perchè son sicuro che è una puttanata che ha detto lei adesso.",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [173]
+				{
+					["type"] = 1,
+					["time"] = 1487882049,
+					["from"] = "Luigi#2210",
+					["msg"] = "mi sono rotto davvero oggi fate quel cazzo che volete",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [174]
+				{
+					["type"] = 1,
+					["time"] = 1487882061,
+					["from"] = "Alitfaier",
+					["msg"] = "chi si è lamentato rangi perchè l'altra sera ha sbagliato e ho deto che ha sbalgiato?",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [175]
+				{
+					["type"] = 1,
+					["time"] = 1487882093,
+					["from"] = "Luigi#2210",
+					["msg"] = "non lo so e non mi frega niente siete due bambini vizziati ora ",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [176]
+				{
+					["type"] = 1,
+					["time"] = 1487882335,
+					["from"] = "Alitfaier",
+					["msg"] = "be non mi risponde nemmeno quindi, che vada a fanculo",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [177]
+				{
+					["type"] = 1,
+					["time"] = 1487882351,
+					["from"] = "Luigi#2210",
+					["msg"] = "e im raid sta facendo altro",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [178]
+				{
+					["type"] = 1,
+					["time"] = 1487882445,
+					["from"] = "Alitfaier",
+					["msg"] = "si va bene dagli la scusante..",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [179]
+				{
+					["type"] = 1,
+					["time"] = 1487882454,
+					["from"] = "Alitfaier",
+					["msg"] = "vabè ho capito.",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [180]
+				{
+					["type"] = 1,
+					["time"] = 1487882502,
+					["from"] = "Luigi#2210",
+					["msg"] = "mi dice hce non hgli e arrivato nulla",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [181]
+				{
+					["type"] = 1,
+					["time"] = 1487882514,
+					["from"] = "Luigi#2210",
+					["msg"] = "perche aveva caricamento",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [182]
+				{
+					["type"] = 1,
+					["time"] = 1487882514,
+					["from"] = "Alitfaier",
+					["msg"] = "si si come no. ",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [183]
+				{
+					["type"] = 1,
+					["time"] = 1487882537,
+					["from"] = "Luigi#2210",
+					["msg"] = "lo sai che aha caricamenti di tre ora",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [184]
+				{
+					["type"] = 1,
+					["time"] = 1487882549,
+					["from"] = "Luigi#2210",
+					["msg"] = "adetto che guarda",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [185]
+				{
+					["type"] = 1,
+					["time"] = 1487882551,
+					["from"] = "Alitfaier",
+					["msg"] = "bè non è pi",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [186]
+				{
+					["type"] = 1,
+					["time"] = 1487882559,
+					["from"] = "Alitfaier",
+					["msg"] = "più un problema mio",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [187]
+				{
+					["type"] = 1,
+					["time"] = 1487883271,
+					["from"] = "Alitfaier",
+					["msg"] = "tu, ragazzo mio ti stai inguaiando",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [188]
+				{
+					["type"] = 1,
+					["time"] = 1487883280,
+					["from"] = "Alitfaier",
+					["msg"] = "come dicono i napoletani",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [189]
+				{
+					["type"] = 1,
+					["time"] = 1487883289,
+					["from"] = "Alitfaier",
+					["msg"] = "sappilo",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [190]
+				{
+					["type"] = 1,
+					["time"] = 1487883299,
+					["from"] = "Alitfaier",
+					["msg"] = "gli dici a capice z",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [191]
+				{
+					["type"] = 1,
+					["time"] = 1487883308,
+					["from"] = "Luigi#2210",
+					["msg"] = "si ma perche parli con lei e tiri in ballo me",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [192]
+				{
+					["type"] = 1,
+					["time"] = 1487883314,
+					["from"] = "Alitfaier",
+					["msg"] = "manco b o c... che sarebbe meglio",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [193]
+				{
+					["type"] = 1,
+					["time"] = 1487883342,
+					["from"] = "Luigi#2210",
+					["msg"] = "io ho rapporto diverso ",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [194]
+				{
+					["type"] = 1,
+					["time"] = 1487883348,
+					["from"] = "Alitfaier",
+					["msg"] = "gli ho detto che non volevo offenderla, e gli ho spiegato il mio punto di vista.",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [195]
+				{
+					["type"] = 1,
+					["time"] = 1487883365,
+					["from"] = "Alitfaier",
+					["msg"] = "si luigi... non sono mica nato ieri.",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [196]
+				{
+					["type"] = 1,
+					["time"] = 1487883416,
+					["from"] = "Alitfaier",
+					["msg"] = "mi ha detto che non devo dire cose in giro vostre... e infatti io non ho mai detot niente in giro di cose vostre... anche eprchè non so nulla.",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [197]
+				{
+					["type"] = 1,
+					["time"] = 1487959790,
+					["from"] = "Alitfaier",
+					["msg"] = "ci sei?",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [198]
+				{
+					["type"] = 1,
+					["time"] = 1487959797,
+					["from"] = "Luigi#2210",
+					["msg"] = "si",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [199]
+				{
+					["type"] = 1,
+					["time"] = 1487959818,
+					["from"] = "Alitfaier",
+					["msg"] = "dai facciamo sta chiacchierata con kate, che così me la tolgo dalle palle.",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [200]
+				{
+					["type"] = 1,
+					["time"] = 1487961342,
+					["from"] = "Alitfaier",
+					["msg"] = "vabè... lei dice che si sono lamentati.. ecc ecc..",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [201]
+				{
+					["type"] = 1,
+					["time"] = 1487961410,
+					["from"] = "Luigi#2210",
+					["msg"] = "te lo detto",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [202]
+				{
+					["type"] = 1,
+					["time"] = 1487961441,
+					["from"] = "Alitfaier",
+					["msg"] = "ma si non mi frega una mazza... perchè, come vedi ne ho parecchie anche io verso di loro...",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [203]
+				{
+					["type"] = 1,
+					["time"] = 1487964336,
+					["from"] = "Alitfaier",
+					["msg"] = "cmq, non cambierà, niente. Lei è convinta di star facendo bene, e niente.",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [204]
+				{
+					["type"] = 1,
+					["time"] = 1487964384,
+					["from"] = "Luigi#2210",
+					["msg"] = "no ma mi sta parlando e colpa pure di andrea CHE NON  ha le palle di gestire raid",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [205]
+				{
+					["type"] = 1,
+					["time"] = 1487964388,
+					["from"] = "Alitfaier",
+					["msg"] = "è inutile che rientro in gilda per continuare ad avere le stesse cose... anche il fatto che mi ha detto che ha fatto la bis solo per avere un minimo di chiarezza, e basta.",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [206]
+				{
+					["type"] = 1,
+					["time"] = 1487964415,
+					["from"] = "Alitfaier",
+					["msg"] = "si ofeo che ha le capacità non lo fa fare.",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [207]
+				{
+					["type"] = 1,
+					["time"] = 1487964427,
+					["from"] = "Alitfaier",
+					["msg"] = "poi la gilda è piena di conigli...",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [208]
+				{
+					["type"] = 1,
+					["time"] = 1487964432,
+					["from"] = "Luigi#2210",
+					["msg"] = "sempre questione di modi",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [209]
+				{
+					["type"] = 1,
+					["time"] = 1487964471,
+					["from"] = "Alitfaier",
+					["msg"] = "si si... va bene. che vada avanti con le sue questioni di modi!",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [210]
+				{
+					["type"] = 1,
+					["time"] = 1488053013,
+					["from"] = "Alitfaier",
+					["msg"] = "mi faccio rigildare",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [211]
+				{
+					["type"] = 1,
+					["time"] = 1488053053,
+					["from"] = "Luigi#2210",
+					["msg"] = "ci hai ripensato",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [212]
+				{
+					["type"] = 1,
+					["time"] = 1488053086,
+					["from"] = "Alitfaier",
+					["msg"] = "no è solo sado-masochismo.",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [213]
+				{
+					["type"] = 1,
+					["time"] = 1488053165,
+					["from"] = "Luigi#2210",
+					["msg"] = "lol",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [214]
+				{
+					["type"] = 1,
+					["time"] = 1488053200,
+					["from"] = "Luigi#2210",
+					["msg"] = "che modo carino",
+					["inbound"] = true,
+					["convo"] = "Luigi#2210",
+				}, -- [215]
+				{
+					["type"] = 1,
+					["time"] = 1488053231,
+					["from"] = "Alitfaier",
+					["msg"] = "ma come no!",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [216]
+				{
+					["type"] = 1,
+					["time"] = 1488053237,
+					["from"] = "Alitfaier",
+					["msg"] = "sonos tato gentilissimo",
+					["inbound"] = false,
+					["convo"] = "Luigi#2210",
+				}, -- [217]
 				["info"] = {
 				},
 			},
-			["Sweetdeath#2810"] = {
+			["Raila"] = {
 				{
 					["type"] = 1,
-					["time"] = 1485706186,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "bella diego",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
+					["time"] = 1487022579,
+					["from"] = "Alitfaier",
+					["msg"] = "cmq 4 pezzi vuole dire che mezzo raid era bindato",
+					["inbound"] = false,
+					["convo"] = "Raila",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1485706191,
-					["from"] = "Alitfaier",
-					["msg"] = "ciao",
-					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
+					["time"] = 1487022587,
+					["from"] = "Raila",
+					["msg"] = "no ",
+					["inbound"] = true,
+					["convo"] = "Raila",
 				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1485798524,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "bella diego",
+					["time"] = 1487022596,
+					["from"] = "Raila",
+					["msg"] = "nessuno era bindato aparte a uno",
 					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
+					["convo"] = "Raila",
 				}, -- [3]
 				{
 					["type"] = 1,
-					["time"] = 1485798535,
+					["time"] = 1487022623,
 					["from"] = "Alitfaier",
-					["msg"] = "sono lorenzo",
+					["msg"] = "io rispetto le regole che non mi devo bindare ma vedo che non tutti lo fanno, quindi dalla prossima settimana mi spiace, ma puggo anche io.",
 					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
+					["convo"] = "Raila",
 				}, -- [4]
 				{
 					["type"] = 1,
-					["time"] = 1485798567,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "ah ciao :)",
+					["time"] = 1487022643,
+					["from"] = "Raila",
+					["msg"] = "diego erano tutti non bindati aparte a haxxe che ha chiesto",
 					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
+					["convo"] = "Raila",
 				}, -- [5]
 				{
 					["type"] = 1,
-					["time"] = 1485821982,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "notte diego :)",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
+					["time"] = 1487022653,
+					["from"] = "Alitfaier",
+					["msg"] = "no kate perche dovevano uscire 6 pezzi e lo sai pure tu",
+					["inbound"] = false,
+					["convo"] = "Raila",
 				}, -- [6]
 				{
 					["type"] = 1,
-					["time"] = 1485875325,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "bella diego",
+					["time"] = 1487022665,
+					["from"] = "Raila",
+					["msg"] = "6 pezzi escono in 30",
 					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
+					["convo"] = "Raila",
 				}, -- [7]
 				{
 					["type"] = 1,
-					["time"] = 1485875332,
+					["time"] = 1487022676,
 					["from"] = "Alitfaier",
-					["msg"] = "ciao",
+					["msg"] = "no in 30 escono 8 pezzi",
 					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
+					["convo"] = "Raila",
 				}, -- [8]
 				{
 					["type"] = 1,
-					["time"] = 1485992220,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "notte Diego :) ..azzo Xeal era proprio arrabbiato",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
+					["time"] = 1487022696,
+					["from"] = "Alitfaier",
+					["msg"] = "lo so er certo",
+					["inbound"] = false,
+					["convo"] = "Raila",
 				}, -- [9]
 				{
 					["type"] = 1,
-					["time"] = 1485992225,
-					["from"] = "Alitfaier",
-					["msg"] = "notte",
-					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
+					["time"] = 1487022724,
+					["from"] = "Raila",
+					["msg"] = "anchio ne sono certa che non era nessuno altro bindato",
+					["inbound"] = true,
+					["convo"] = "Raila",
 				}, -- [10]
 				{
 					["type"] = 1,
-					["time"] = 1486047664,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "bella Die",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
+					["time"] = 1487022745,
+					["from"] = "Alitfaier",
+					["msg"] = "ma...",
+					["inbound"] = false,
+					["convo"] = "Raila",
 				}, -- [11]
 				{
 					["type"] = 1,
-					["time"] = 1486047689,
+					["time"] = 1487022756,
 					["from"] = "Alitfaier",
-					["msg"] = "ciao",
+					["msg"] = "vabè...",
 					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
+					["convo"] = "Raila",
 				}, -- [12]
 				{
 					["type"] = 1,
-					["time"] = 1486066478,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "bella die :)",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
+					["time"] = 1487027181,
+					["from"] = "Alitfaier",
+					["msg"] = "scusa ma prima quando hai chiesto chi fa il 2 bonus rangi ha detto che lui lo aveva già",
+					["inbound"] = false,
+					["convo"] = "Raila",
 				}, -- [13]
 				{
 					["type"] = 1,
-					["time"] = 1486079653,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "ma come faccio ad ottenere l'invito per il circolo dei combattenti?",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
+					["time"] = 1487027189,
+					["from"] = "Alitfaier",
+					["msg"] = "ora a questo non lo aveva più?",
+					["inbound"] = false,
+					["convo"] = "Raila",
 				}, -- [14]
 				{
 					["type"] = 1,
-					["time"] = 1486079661,
-					["from"] = "Alitfaier",
-					["msg"] = "o lo droppi",
-					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
+					["time"] = 1487027262,
+					["from"] = "Raila",
+					["msg"] = "era il suo secondo bis e per tutti gli altri era upgrade diego, se needavi lo scrivevi anche te ",
+					["inbound"] = true,
+					["convo"] = "Raila",
 				}, -- [15]
 				{
 					["type"] = 1,
-					["time"] = 1486079674,
-					["from"] = "Alitfaier",
-					["msg"] = "o  te lo fai dare da qualcuno che la fa",
-					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
+					["time"] = 1487027278,
+					["from"] = "Raila",
+					["msg"] = "ha scritto bis secondo",
+					["inbound"] = true,
+					["convo"] = "Raila",
 				}, -- [16]
 				{
 					["type"] = 1,
-					["time"] = 1486079678,
+					["time"] = 1487027284,
 					["from"] = "Alitfaier",
-					["msg"] = "o lo compri in ah",
+					["msg"] = "no no non mi interessa ma stai attenta che mi sa che sta facendo il furbetto",
 					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
+					["convo"] = "Raila",
 				}, -- [17]
 				{
 					["type"] = 1,
-					["time"] = 1486079684,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "ah ok",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
+					["time"] = 1487027290,
+					["from"] = "Alitfaier",
+					["msg"] = "ho già il pezzo",
+					["inbound"] = false,
+					["convo"] = "Raila",
 				}, -- [18]
 				{
 					["type"] = 1,
-					["time"] = 1486079727,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "vado anchio buona notte Diego :)",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
+					["time"] = 1487027291,
+					["from"] = "Alitfaier",
+					["msg"] = "io",
+					["inbound"] = false,
+					["convo"] = "Raila",
 				}, -- [19]
 				{
 					["type"] = 1,
-					["time"] = 1486079732,
+					["time"] = 1487027299,
 					["from"] = "Alitfaier",
-					["msg"] = "notte",
+					["msg"] = "quindi non sono in competizione",
 					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
+					["convo"] = "Raila",
 				}, -- [20]
 				{
 					["type"] = 1,
-					["time"] = 1486132965,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "bella diego :)",
+					["time"] = 1487027317,
+					["from"] = "Raila",
+					["msg"] = "non fa il furbetto  io avevo capito cosa intendeva perche mi scrivo cosa do ogni volta ",
 					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
+					["convo"] = "Raila",
 				}, -- [21]
 				{
 					["type"] = 1,
-					["time"] = 1486133121,
+					["time"] = 1487027332,
 					["from"] = "Alitfaier",
-					["msg"] = "ciao :P",
+					["msg"] = "e ma leu prima a guldan aveva detto che aveva già il bonus... ora no?",
 					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
+					["convo"] = "Raila",
 				}, -- [22]
 				{
 					["type"] = 1,
-					["time"] = 1486410916,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "bella :D",
+					["time"] = 1487027347,
+					["from"] = "Raila",
+					["msg"] = "ma non ti ha detto che non ha il bonus ",
 					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
+					["convo"] = "Raila",
 				}, -- [23]
 				{
 					["type"] = 1,
-					["time"] = 1486415163,
+					["time"] = 1487027364,
 					["from"] = "Alitfaier",
-					["msg"] = "cmq sto libro si sanderson è stupendo",
+					["msg"] = "si si ha detto ho già il bonus",
 					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
+					["convo"] = "Raila",
 				}, -- [24]
 				{
 					["type"] = 1,
-					["time"] = 1486415171,
-					["from"] = "Alitfaier",
-					["msg"] = "molto epico e pieno di magia",
-					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
+					["time"] = 1487027368,
+					["from"] = "Raila",
+					["msg"] = "ha detto che e il suo secondo bis, perche il bonus era con normal ",
+					["inbound"] = true,
+					["convo"] = "Raila",
 				}, -- [25]
 				{
 					["type"] = 1,
-					["time"] = 1486415188,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "hmm devom darci un occhiata allora",
+					["time"] = 1487027379,
+					["from"] = "Raila",
+					["msg"] = "e rimane a 2 pezzi bonus",
 					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
+					["convo"] = "Raila",
 				}, -- [26]
 				{
 					["type"] = 1,
-					["time"] = 1486416029,
-					["from"] = "Alitfaier",
-					["msg"] = "ho gli ebook",
-					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
+					["time"] = 1487027391,
+					["from"] = "Raila",
+					["msg"] = "comunque ho capito io ragazzi e basta cosi ",
+					["inbound"] = true,
+					["convo"] = "Raila",
 				}, -- [27]
 				{
 					["type"] = 1,
-					["time"] = 1486416047,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "passameli",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
+					["time"] = 1487027391,
+					["from"] = "Alitfaier",
+					["msg"] = "bo vabè... ma quello e da tenere controllato.",
+					["inbound"] = false,
+					["convo"] = "Raila",
 				}, -- [28]
 				{
 					["type"] = 1,
-					["time"] = 1486416051,
-					["from"] = "Alitfaier",
-					["msg"] = "non so se li leggi",
-					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
-				}, -- [29]
-				{
-					["type"] = 1,
-					["time"] = 1486416063,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "bè si se mi prende",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
-				}, -- [30]
-				{
-					["type"] = 1,
-					["time"] = 1486565444,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "bella die",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
-				}, -- [31]
-				{
-					["type"] = 1,
-					["time"] = 1486565457,
-					["from"] = "Alitfaier",
-					["msg"] = "ciao",
-					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
-				}, -- [32]
-				{
-					["type"] = 1,
-					["time"] = 1486597341,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "ma che cazzo è successo stasera che nn ho mica capito",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
-				}, -- [33]
-				{
-					["type"] = 1,
-					["time"] = 1486597359,
-					["from"] = "Alitfaier",
-					["msg"] = "che kate ha rotto il cazzo",
-					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
-				}, -- [34]
-				{
-					["type"] = 1,
-					["time"] = 1486597373,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "si ho notato",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
-				}, -- [35]
-				{
-					["type"] = 1,
-					["time"] = 1486597388,
-					["from"] = "Alitfaier",
-					["msg"] = "cioè dimmi se io da gm mi sono mai comportato così",
-					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
-				}, -- [36]
-				{
-					["type"] = 1,
-					["time"] = 1486597400,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "mai",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
-				}, -- [37]
-				{
-					["type"] = 1,
-					["time"] = 1486597415,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "avrà le sue cose",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
-				}, -- [38]
-				{
-					["type"] = 1,
-					["time"] = 1486597428,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "troppa smania di potere come dice xeal",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
-				}, -- [39]
-				{
-					["type"] = 1,
-					["time"] = 1486597541,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "ma da cosa è nato il suo strippo?",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
-				}, -- [40]
-				{
-					["type"] = 1,
-					["time"] = 1486597554,
-					["from"] = "Alitfaier",
-					["msg"] = "ma che ne so",
-					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
-				}, -- [41]
-				{
-					["type"] = 1,
-					["time"] = 1486597573,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "oltre che xeal ha fatto finta di avere problemi di connessioone :P lo conosco",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
-				}, -- [42]
-				{
-					["type"] = 1,
-					["time"] = 1486597599,
-					["from"] = "Alitfaier",
-					["msg"] = "si si me lo ha detto",
-					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
-				}, -- [43]
-				{
-					["type"] = 1,
-					["time"] = 1486597655,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "si se restava stippava lui e poi addio",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
-				}, -- [44]
-				{
-					["type"] = 1,
-					["time"] = 1486597665,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "strippava",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
-				}, -- [45]
-				{
-					["type"] = 1,
-					["time"] = 1486597840,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "bon vado a letto anchio che domani incredibilmente devo alzarmi presto sul serio :P",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
-				}, -- [46]
-				{
-					["type"] = 1,
-					["time"] = 1486597853,
-					["from"] = "Alitfaier",
-					["msg"] = "si per giocare a cosa",
-					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
-				}, -- [47]
-				{
-					["type"] = 1,
-					["time"] = 1486597857,
-					["from"] = "Alitfaier",
-					["msg"] = "?",
-					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
-				}, -- [48]
-				{
-					["type"] = 1,
-					["time"] = 1486597882,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "hahaha no no devo sentire un amico x un lavoro part  time :P",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
-				}, -- [49]
-				{
-					["type"] = 1,
-					["time"] = 1486597931,
+					["time"] = 1487027401,
 					["from"] = "Alitfaier",
 					["msg"] = "ok",
 					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
+					["convo"] = "Raila",
+				}, -- [29]
+				{
+					["type"] = 1,
+					["time"] = 1487027450,
+					["from"] = "Raila",
+					["msg"] = "a me non m interessa chi sta sul cazzo a chi, quindi per cortesia smettiamo a whispare a tutta la raid che gia si whispa a tanti e l idea non mi piace tantissimo ",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [30]
+				{
+					["type"] = 1,
+					["time"] = 1487027483,
+					["from"] = "Alitfaier",
+					["msg"] = "no no allora a me non sta sulle palle.",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [31]
+				{
+					["type"] = 1,
+					["time"] = 1487027489,
+					["from"] = "Raila",
+					["msg"] = "so cosa sto facendo benissimo con questi loot tenendo in conto tutto ",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [32]
+				{
+					["type"] = 1,
+					["time"] = 1487027504,
+					["from"] = "Raila",
+					["msg"] = "non avevo mai problemi nella mia vita non iniziero adesso",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [33]
+				{
+					["type"] = 1,
+					["time"] = 1487027547,
+					["from"] = "Alitfaier",
+					["msg"] = "bo vabè",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [34]
+				{
+					["type"] = 1,
+					["time"] = 1487027647,
+					["from"] = "Raila",
+					["msg"] = "ama il loot ma tanto sa che per quel offspec da tank non prendera pezzi almeno se non needano prima luigi, tempest, xeal e sharkarod ",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [35]
+				{
+					["type"] = 1,
+					["time"] = 1487027679,
+					["from"] = "Raila",
+					["msg"] = "se tutti questi con questa sequenza di priorita non needano, puo prendere, se no nada ",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [36]
+				{
+					["type"] = 1,
+					["time"] = 1487027740,
+					["from"] = "Alitfaier",
+					["msg"] = "kate a me non interessa che gli dai i pezzi mi da fastidio chi dice le bugie",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [37]
+				{
+					["type"] = 1,
+					["time"] = 1487027746,
+					["from"] = "Alitfaier",
+					["msg"] = "tutto qua",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [38]
+				{
+					["type"] = 1,
+					["time"] = 1487027784,
+					["from"] = "Alitfaier",
+					["msg"] = "infatti io non ti ho detto e hai sbalgiato a dare il pezzo qua e la...",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [39]
+				{
+					["type"] = 1,
+					["time"] = 1487027784,
+					["from"] = "Raila",
+					["msg"] = "non dice bugie , comunque basta che capisco io per ora e gg",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [40]
+				{
+					["type"] = 1,
+					["time"] = 1487027807,
+					["from"] = "Raila",
+					["msg"] = "troppe cose misinterpretate ogni tanto ",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [41]
+				{
+					["type"] = 1,
+					["time"] = 1487027818,
+					["from"] = "Alitfaier",
+					["msg"] = "ti ho detto che ha affermato che non ha il primo bonus ora quando poco fa ha dichiarato di averlo..",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [42]
+				{
+					["type"] = 1,
+					["time"] = 1487027862,
+					["from"] = "Raila",
+					["msg"] = "ha detto bis secondo intendendo che e il suo bis secondo di tier ",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [43]
+				{
+					["type"] = 1,
+					["time"] = 1487027910,
+					["from"] = "Alitfaier",
+					["msg"] = "kate, va bene.",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [44]
+				{
+					["type"] = 1,
+					["time"] = 1487104568,
+					["from"] = "Alitfaier",
+					["msg"] = "ma non si raida?",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [45]
+				{
+					["type"] = 1,
+					["time"] = 1487104649,
+					["from"] = "Raila",
+					["msg"] = "siamo su ts",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [46]
+				{
+					["type"] = 1,
+					["time"] = 1487288300,
+					["from"] = "Alitfaier",
+					["msg"] = "kate... non avrei intenzione di gildare quel coso...",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [47]
+				{
+					["type"] = 1,
+					["time"] = 1487288304,
+					["from"] = "Alitfaier",
+					["msg"] = "avrai...",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [48]
+				{
+					["type"] = 1,
+					["time"] = 1487288346,
+					["from"] = "Alitfaier",
+					["msg"] = "fa pena da dps... non samo mica l'unitalsi che dobbiamo raccogliere tutti i disabili del server... basto io come invalido civile in gilda!!!",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [49]
+				{
+					["type"] = 1,
+					["time"] = 1487288580,
+					["from"] = "Raila",
+					["msg"] = " non rispondo nemmeno",
+					["inbound"] = true,
+					["convo"] = "Raila",
 				}, -- [50]
 				{
 					["type"] = 1,
-					["time"] = 1486597956,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "nn ti ho convinto :P",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
+					["time"] = 1487288592,
+					["from"] = "Alitfaier",
+					["msg"] = "è la verità",
+					["inbound"] = false,
+					["convo"] = "Raila",
 				}, -- [51]
 				{
 					["type"] = 1,
-					["time"] = 1486597970,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "dai a domani Diego :) notte",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
+					["time"] = 1487288597,
+					["from"] = "Alitfaier",
+					["msg"] = "fa pena...",
+					["inbound"] = false,
+					["convo"] = "Raila",
 				}, -- [52]
 				{
 					["type"] = 1,
-					["time"] = 1486597976,
+					["time"] = 1487288604,
 					["from"] = "Alitfaier",
-					["msg"] = "notte",
+					["msg"] = "è un'altra zavorra..",
 					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
+					["convo"] = "Raila",
 				}, -- [53]
 				{
 					["type"] = 1,
-					["time"] = 1486645944,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "buongiorno diego :)",
-					["inbound"] = true,
-					["convo"] = "Sweetdeath#2810",
+					["time"] = 1487627338,
+					["from"] = "Alitfaier",
+					["msg"] = "mi passi dei mangiarini?",
+					["inbound"] = false,
+					["convo"] = "Raila",
 				}, -- [54]
 				{
 					["type"] = 1,
-					["time"] = 1486645959,
+					["time"] = 1487627343,
 					["from"] = "Alitfaier",
-					["msg"] = "ciao",
+					["msg"] = "li ho finit",
 					["inbound"] = false,
-					["convo"] = "Sweetdeath#2810",
+					["convo"] = "Raila",
 				}, -- [55]
+				{
+					["type"] = 1,
+					["time"] = 1487787590,
+					["from"] = "Alitfaier",
+					["msg"] = "sei un {angel}",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [56]
+				{
+					["type"] = 1,
+					["time"] = 1487797664,
+					["from"] = "Raila",
+					["msg"] = "Allora Diego a me queste scenate e leftiamo la raid non vanno bene quando ci pare ",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [57]
+				{
+					["type"] = 1,
+					["time"] = 1487797682,
+					["from"] = "Raila",
+					["msg"] = "L ha needato di main spec, aveva uno schiffo andato a lui e punto",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [58]
+				{
+					["type"] = 1,
+					["time"] = 1487797684,
+					["from"] = "Alitfaier",
+					["msg"] = "senti tu vuoi che uno rispetta le regole... io le rispetto e la prendo in culo",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [59]
+				{
+					["type"] = 1,
+					["time"] = 1487797689,
+					["from"] = "Alitfaier",
+					["msg"] = "non ci sto.",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [60]
+				{
+					["type"] = 1,
+					["time"] = 1487797710,
+					["from"] = "Raila",
+					["msg"] = "io le rispetto benissimo le regole, non l ho gildato adesso ",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [61]
+				{
+					["type"] = 1,
+					["time"] = 1487797715,
+					["from"] = "Alitfaier",
+					["msg"] = "le regole dicono che uno nedda in chat e poi soprattutto quello è uno pure nuovo e gli dai i pezzi...",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [62]
+				{
+					["type"] = 1,
+					["time"] = 1487797729,
+					["from"] = "Alitfaier",
+					["msg"] = "visto che fai come vuoi non mi posso fidare di come fai anche in futiro",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [63]
+				{
+					["type"] = 1,
+					["time"] = 1487797738,
+					["from"] = "Alitfaier",
+					["msg"] = "futuro, mi spiace",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [64]
+				{
+					["type"] = 1,
+					["time"] = 1487797742,
+					["from"] = "Raila",
+					["msg"] = "e qui da un bel po  e sta equippando ",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [65]
+				{
+					["type"] = 1,
+					["time"] = 1487797743,
+					["from"] = "Alitfaier",
+					["msg"] = "ma così non mi va.",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [66]
+				{
+					["type"] = 1,
+					["time"] = 1487797757,
+					["from"] = "Raila",
+					["msg"] = "lo needava di main spec, ms ha priorita ",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [67]
+				{
+					["type"] = 1,
+					["time"] = 1487797765,
+					["from"] = "Alitfaier",
+					["msg"] = "non mi frega, hai sempre detto che i pezzi vanno cheisti scivendo in chat",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [68]
+				{
+					["type"] = 1,
+					["time"] = 1487797766,
+					["from"] = "Raila",
+					["msg"] = "<Deadly Boss Mods> Raila is busy fighting against Normal - Spellblade Aluriel (95%, 19/19 people alive)",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [69]
+				{
+					["type"] = 1,
+					["time"] = 1487797766,
+					["from"] = "Raila",
+					["msg"] = "c e nelle regole, legetele meglio ",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [70]
+				{
+					["type"] = 1,
+					["time"] = 1487797797,
+					["from"] = "Alitfaier",
+					["msg"] = "quello è dps non è tnak",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [71]
+				{
+					["type"] = 1,
+					["time"] = 1487797845,
+					["from"] = "Raila",
+					["msg"] = "quello e dps e lo ha adosso perche aveva uno schiffo e lo sta usando  per il critico , non e che morirai se passi un trinket os ",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [72]
+				{
+					["type"] = 1,
+					["time"] = 1487797854,
+					["from"] = "Alitfaier",
+					["msg"] = "scusa... quello è tank? e lo rifiuti a luigi il posto da tank? SAi che se lo sa luigi ti svuota la gilda.",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [73]
+				{
+					["type"] = 1,
+					["time"] = 1487797868,
+					["from"] = "Raila",
+					["msg"] = "<DBM> Raila has wiped on Normal - Spellblade Aluriel at 68%",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [74]
+				{
+					["type"] = 1,
+					["time"] = 1487797868,
+					["from"] = "Raila",
+					["msg"] = "ma te stai fuori ",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [75]
+				{
+					["type"] = 1,
+					["time"] = 1487797888,
+					["from"] = "Raila",
+					["msg"] = "ti ho detto che quello e dps e lui usa quel trinket come dps perche il suo fa schiffo",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [76]
+				{
+					["type"] = 1,
+					["time"] = 1487797906,
+					["from"] = "Raila",
+					["msg"] = "e non minacciarmi die, cosa io con luigi lo so io e luigi ",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [77]
+				{
+					["type"] = 1,
+					["time"] = 1487797914,
+					["from"] = "Raila",
+					["msg"] = "e non e affare di nessuno",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [78]
+				{
+					["type"] = 1,
+					["time"] = 1487797930,
+					["from"] = "Alitfaier",
+					["msg"] = "io non ti ho minacciato ti ho detto cosa potrebbe succedere se lo sa luigi.",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [79]
+				{
+					["type"] = 1,
+					["time"] = 1487797943,
+					["from"] = "Raila",
+					["msg"] = "ma hai capito o non capisci?",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [80]
+				{
+					["type"] = 1,
+					["time"] = 1487797946,
+					["from"] = "Raila",
+					["msg"] = "LUI E DPS ",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [81]
+				{
+					["type"] = 1,
+					["time"] = 1487797953,
+					["from"] = "Raila",
+					["msg"] = "usa sto trinket come DPS",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [82]
+				{
+					["type"] = 1,
+					["time"] = 1487797961,
+					["from"] = "Raila",
+					["msg"] = "perche ha uno schiffo ",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [83]
+				{
+					["type"] = 1,
+					["time"] = 1487797966,
+					["from"] = "Raila",
+					["msg"] = "infatti lo ha adosso mio dio",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [84]
+				{
+					["type"] = 1,
+					["time"] = 1487797993,
+					["from"] = "Alitfaier",
+					["msg"] = "si si va bene. fai come ti pare, già mi hai risposto male all'inzio per grupparmi.",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [85]
+				{
+					["type"] = 1,
+					["time"] = 1487798002,
+					["from"] = "Alitfaier",
+					["msg"] = "e mi sono inversato. ",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [86]
+				{
+					["type"] = 1,
+					["time"] = 1487798004,
+					["from"] = "Raila",
+					["msg"] = "no die sei tu che parli male ",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [87]
+				{
+					["type"] = 1,
+					["time"] = 1487798013,
+					["from"] = "Raila",
+					["msg"] = "dai su gruppami ",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [88]
+				{
+					["type"] = 1,
+					["time"] = 1487798021,
+					["from"] = "Raila",
+					["msg"] = "che modo e, come parlate ",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [89]
+				{
+					["type"] = 1,
+					["time"] = 1487798050,
+					["from"] = "Raila",
+					["msg"] = "a me o si parla bene o si parla bene, se parlate cosi avrete la risposta adeguata",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [90]
+				{
+					["type"] = 1,
+					["time"] = 1487798157,
+					["from"] = "Alitfaier",
+					["msg"] = "ti ho chiesto di grupparmi... non ti ho mancato di rispetto. ",
+					["inbound"] = false,
+					["convo"] = "Raila",
+				}, -- [91]
+				{
+					["type"] = 1,
+					["time"] = 1487798157,
+					["from"] = "Raila",
+					["msg"] = "<Deadly Boss Mods> Raila is busy fighting against Normal - Spellblade Aluriel (66%, 19/19 people alive)",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [92]
+				{
+					["type"] = 1,
+					["time"] = 1487798362,
+					["from"] = "Raila",
+					["msg"] = "<DBM> Raila has defeated Normal - Spellblade Aluriel!",
+					["inbound"] = true,
+					["convo"] = "Raila",
+				}, -- [93]
 				["info"] = {
 				},
 			},
 			["Jacinda"] = {
 				{
 					["type"] = 1,
-					["time"] = 1485991064,
-					["from"] = "Jacinda",
-					["msg"] = "chi non la segue?",
-					["inbound"] = true,
+					["time"] = 1487018064,
+					["from"] = "Alitfaier",
+					["msg"] = "siamo a cavallo..",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1485991079,
+					["time"] = 1487018071,
 					["from"] = "Alitfaier",
-					["msg"] = "ha dato il pezzo ad haxxe anche se non era bis",
+					["msg"] = "cura lui",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1485991102,
+					["time"] = 1487091805,
 					["from"] = "Alitfaier",
-					["msg"] = "e ha detto fa nulla se non è bis",
+					["msg"] = "ma quindi questa sera pugghi?",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [3]
 				{
 					["type"] = 1,
-					["time"] = 1485991109,
+					["time"] = 1487091818,
 					["from"] = "Jacinda",
-					["msg"] = "erano 2 le spalle",
+					["msg"] = "non so ",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [4]
 				{
 					["type"] = 1,
-					["time"] = 1485991116,
+					["time"] = 1487091829,
 					["from"] = "Jacinda",
-					["msg"] = "e normal ",
+					["msg"] = "dipende che voglia ho piu tardi",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [5]
 				{
 					["type"] = 1,
-					["time"] = 1485991123,
+					["time"] = 1487091838,
 					["from"] = "Alitfaier",
-					["msg"] = "vabè",
+					["msg"] = "si vabè..",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [6]
 				{
 					["type"] = 1,
-					["time"] = 1485991126,
-					["from"] = "Alitfaier",
-					["msg"] = "pace",
-					["inbound"] = false,
+					["time"] = 1487102613,
+					["from"] = "Jacinda",
+					["msg"] = "no grazie ",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [7]
 				{
 					["type"] = 1,
-					["time"] = 1485991132,
-					["from"] = "Jacinda",
-					["msg"] = "e faceva due pezzi quindi set bonus",
-					["inbound"] = true,
+					["time"] = 1487106075,
+					["from"] = "Alitfaier",
+					["msg"] = "non è uno che si fa i cazzi suoi rangi... nooooo",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [8]
 				{
 					["type"] = 1,
-					["time"] = 1485991234,
-					["from"] = "Alitfaier",
-					["msg"] = "cmq per i popup il tipo che fa adbloc è stato portato in causa dalle aziende di pubblicità americane",
-					["inbound"] = false,
+					["time"] = 1487106122,
+					["from"] = "Jacinda",
+					["msg"] = "quelli di tutti",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [9]
 				{
 					["type"] = 1,
-					["time"] = 1485991250,
+					["time"] = 1487106341,
 					["from"] = "Alitfaier",
-					["msg"] = "e quindi per ora è fermo lo sviluppo del codice",
+					["msg"] = "io non capisco... quando hanno visto che c'era poca gente... non era meglio fullare in pug?",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [10]
 				{
 					["type"] = 1,
-					["time"] = 1485991339,
-					["from"] = "Alitfaier",
-					["msg"] = "cmq puoi usare ublock origin",
-					["inbound"] = false,
+					["time"] = 1487106405,
+					["from"] = "Jacinda",
+					["msg"] = "coi pug e un casino",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [11]
 				{
 					["type"] = 1,
-					["time"] = 1485991351,
+					["time"] = 1487106423,
 					["from"] = "Alitfaier",
-					["msg"] = "che è un forck unoffy del progetto originale",
+					["msg"] = "perchè?",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [12]
 				{
 					["type"] = 1,
-					["time"] = 1485991370,
+					["time"] = 1487106444,
 					["from"] = "Alitfaier",
-					["msg"] = "e la versione di chrome che si chiama ironchromium",
+					["msg"] = "scusa se i boss li fanno in pug non vedo dove sia il problema..",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [13]
 				{
 					["type"] = 1,
-					["time"] = 1485991383,
-					["from"] = "Alitfaier",
-					["msg"] = "che nasconde le addon che hai e non le carica in ram",
-					["inbound"] = false,
+					["time"] = 1487106469,
+					["from"] = "Jacinda",
+					["msg"] = "devi gruppare quelli boni ",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [14]
 				{
 					["type"] = 1,
-					["time"] = 1485991391,
+					["time"] = 1487106487,
 					["from"] = "Jacinda",
-					["msg"] = "non e utilissimo quel trinket per uno che sa giocare per lei che muore  da aluriel ogni volta che finisce fase 3 e utilissimo",
+					["msg"] = "c'è riscio che gruppi 5 fanny e 5 donzacapa",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [15]
 				{
 					["type"] = 1,
-					["time"] = 1485991421,
+					["time"] = 1487106506,
 					["from"] = "Alitfaier",
-					["msg"] = "ma si tu ti ci metti a parlare con quella?",
+					["msg"] = "li trovi guardi l'armory",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [16]
 				{
 					["type"] = 1,
-					["time"] = 1485991428,
+					["time"] = 1487106521,
 					["from"] = "Jacinda",
-					["msg"] = "scendi di canale non ci ho capito na mazza",
+					["msg"] = "io te lo detto che non mi è mai piaciuto e per esperienza non sbaglio mai a giudicare le persone",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [17]
 				{
 					["type"] = 1,
-					["time"] = 1485991429,
+					["time"] = 1487106793,
 					["from"] = "Alitfaier",
-					["msg"] = "ma io manco morto",
+					["msg"] = "???",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [18]
 				{
 					["type"] = 1,
-					["time"] = 1486050604,
+					["time"] = 1487106798,
 					["from"] = "Alitfaier",
-					["msg"] = "la wq dei kirin tor quella della botte",
+					["msg"] = "che staia  di?",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [19]
 				{
 					["type"] = 1,
-					["time"] = 1486050619,
-					["from"] = "Alitfaier",
-					["msg"] = "quando da il pezzo.. più barili arrivi più alto da il pezzo",
-					["inbound"] = false,
+					["time"] = 1487106862,
+					["from"] = "Jacinda",
+					["msg"] = "sorry errato ",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [20]
 				{
 					["type"] = 1,
-					["time"] = 1486050665,
+					["time"] = 1487106876,
 					["from"] = "Alitfaier",
-					["msg"] = "io l'ho fatta tre giorni fa che c'era la reliqui a vevo 8 barili e il pezzo è stato 840",
+					["msg"] = "sempre dietro a sparlare",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [21]
 				{
 					["type"] = 1,
-					["time"] = 1486050670,
+					["time"] = 1487107125,
 					["from"] = "Alitfaier",
-					["msg"] = "quindi è na stronzata",
+					["msg"] = "ma non gli si può dire di parlare di meno e concentrarsi di +?",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [22]
 				{
 					["type"] = 1,
-					["time"] = 1486050747,
+					["time"] = 1487107192,
 					["from"] = "Jacinda",
-					["msg"] = "'",
+					["msg"] = "si e messo tutto a sinistra non a poreso un marchio ",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [23]
 				{
 					["type"] = 1,
-					["time"] = 1486050755,
-					["from"] = "Jacinda",
-					["msg"] = "e quindi?",
-					["inbound"] = true,
+					["time"] = 1487107221,
+					["from"] = "Alitfaier",
+					["msg"] = "lo so",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [24]
 				{
 					["type"] = 1,
-					["time"] = 1486050763,
-					["from"] = "Alitfaier",
-					["msg"] = "niente..",
-					["inbound"] = false,
+					["time"] = 1487107496,
+					["from"] = "Jacinda",
+					["msg"] = "pd rangi se fermato sopra pd ",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [25]
 				{
 					["type"] = 1,
-					["time"] = 1486051203,
-					["from"] = "Alitfaier",
-					["msg"] = "il panettone secondo te è un prodotto di pasticceria o panetteria?",
-					["inbound"] = false,
+					["time"] = 1487107713,
+					["from"] = "Jacinda",
+					["msg"] = "non e mai andato bene",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [26]
 				{
 					["type"] = 1,
-					["time"] = 1486051228,
+					["time"] = 1487107729,
 					["from"] = "Jacinda",
-					["msg"] = "panetteria",
+					["msg"] = "che non vengano a raccontarmela un siumbolo e una cagata",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [27]
 				{
 					["type"] = 1,
-					["time"] = 1486051265,
-					["from"] = "Alitfaier",
-					["msg"] = "ieri sono andato a prendere una torna per ilaria, in pasticeria... arrivato a casa l'ho tagliata e non è fatta con il pan di spagna, ma con il panettone",
-					["inbound"] = false,
+					["time"] = 1487107741,
+					["from"] = "Jacinda",
+					["msg"] = "perche pure in tanti ce sto problema ",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [28]
 				{
 					["type"] = 1,
-					["time"] = 1486051276,
-					["from"] = "Alitfaier",
-					["msg"] = "e a ilaria non gli piace il panettone",
-					["inbound"] = false,
+					["time"] = 1487108190,
+					["from"] = "Jacinda",
+					["msg"] = "devi mettegli i marchi a questi perche hai la fiamma rasso un anno prima e si spostano quando fen nchima che fa  pozze",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [29]
 				{
 					["type"] = 1,
-					["time"] = 1486051297,
-					["from"] = "Alitfaier",
-					["msg"] = "sono tornato a lamntarmi perchè sopra c'è scritto prodotto di pasticcieria..",
-					["inbound"] = false,
+					["time"] = 1487108196,
+					["from"] = "Jacinda",
+					["msg"] = "senza senso",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [30]
 				{
 					["type"] = 1,
-					["time"] = 1486051303,
-					["from"] = "Alitfaier",
-					["msg"] = "invece non e vero..",
-					["inbound"] = false,
+					["time"] = 1487108246,
+					["from"] = "Jacinda",
+					["msg"] = "e da lesi farle toccare da ritardati",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [31]
 				{
 					["type"] = 1,
-					["time"] = 1486051314,
+					["time"] = 1487109477,
 					["from"] = "Alitfaier",
-					["msg"] = "ho dovuto chiamare altroconsumo per farmi ridare i soldi...",
+					["msg"] = "facciamo mitica?",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [32]
 				{
 					["type"] = 1,
-					["time"] = 1486051359,
+					["time"] = 1487188787,
 					["from"] = "Alitfaier",
-					["msg"] = "sicuramente ci torno in quella pasticceria...",
+					["msg"] = "ma perchè sul sito il mio stato è maybe?",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [33]
 				{
 					["type"] = 1,
-					["time"] = 1486051809,
-					["from"] = "Alitfaier",
-					["msg"] = "facciamo qualche mitica?",
-					["inbound"] = false,
+					["time"] = 1487188862,
+					["from"] = "Jacinda",
+					["msg"] = "e che ne so io",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [34]
 				{
 					["type"] = 1,
-					["time"] = 1486066497,
+					["time"] = 1487195019,
 					["from"] = "Alitfaier",
-					["msg"] = "qualè il primo boss che facciamo questa sera?",
+					["msg"] = "3 pezzi, qui c'è qualcuno bindato..",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [35]
 				{
 					["type"] = 1,
-					["time"] = 1486066840,
-					["from"] = "Alitfaier",
-					["msg"] = "come mai gruppi tu?",
-					["inbound"] = false,
+					["time"] = 1487195290,
+					["from"] = "Jacinda",
+					["msg"] = "non so si e resettato oggi",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [36]
 				{
 					["type"] = 1,
-					["time"] = 1486066851,
-					["from"] = "Alitfaier",
-					["msg"] = "potresti essere linciato",
-					["inbound"] = false,
+					["time"] = 1487195371,
+					["from"] = "Jacinda",
+					["msg"] = "qualcuno lo ha fatto nel pome mi sembra strano",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [37]
 				{
 					["type"] = 1,
-					["time"] = 1486066852,
-					["from"] = "Jacinda",
-					["msg"] = "PERCHE SONO PIU BELLO",
-					["inbound"] = true,
+					["time"] = 1487195383,
+					["from"] = "Alitfaier",
+					["msg"] = "si xeal",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [38]
 				{
 					["type"] = 1,
-					["time"] = 1486066866,
+					["time"] = 1487195387,
 					["from"] = "Alitfaier",
-					["msg"] = "vado a portare giù la monnezza",
+					["msg"] = "era in raid oggi",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [39]
 				{
 					["type"] = 1,
-					["time"] = 1486066874,
-					["from"] = "Alitfaier",
-					["msg"] = "5 minuti e ci sono",
-					["inbound"] = false,
+					["time"] = 1487195429,
+					["from"] = "Jacinda",
+					["msg"] = "basta provare ad assegnarli un pezzo e lo dira che non puo riceverlo",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [40]
 				{
 					["type"] = 1,
-					["time"] = 1486066935,
-					["from"] = "Jacinda",
-					["msg"] = "OK",
-					["inbound"] = true,
+					["time"] = 1487195435,
+					["from"] = "Alitfaier",
+					["msg"] = "infatti mi ha detto che lo ha fatto oggi, che tra l'altro pensava di essere in hc e invece era in normal",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [41]
 				{
 					["type"] = 1,
-					["time"] = 1486067296,
-					["from"] = "Alitfaier",
-					["msg"] = "che succede?",
-					["inbound"] = false,
+					["time"] = 1487195448,
+					["from"] = "Jacinda",
+					["msg"] = "lol",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [42]
 				{
 					["type"] = 1,
-					["time"] = 1486067563,
-					["from"] = "Alitfaier",
-					["msg"] = "per usare exorsus ",
-					["inbound"] = false,
+					["time"] = 1487195532,
+					["from"] = "Jacinda",
+					["msg"] = "io venivo sapere che facevate normal in hc posso non venire fino a quando non facciamo krosus",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [43]
 				{
 					["type"] = 1,
-					["time"] = 1486067567,
-					["from"] = "Alitfaier",
-					["msg"] = "hai due modi",
-					["inbound"] = false,
+					["time"] = 1487195579,
+					["from"] = "Jacinda",
+					["msg"] = "la faro domani normal",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [44]
 				{
 					["type"] = 1,
-					["time"] = 1486067593,
-					["from"] = "Jacinda",
-					["msg"] = "si cmq kate doveva riavviare pc mi ha chiesto di invitare nel mentre",
-					["inbound"] = true,
+					["time"] = 1487195666,
+					["from"] = "Alitfaier",
+					["msg"] = "ma non fare il pirla... lo sai che il mercole si fa normal",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [45]
 				{
 					["type"] = 1,
-					["time"] = 1486067614,
-					["from"] = "Alitfaier",
-					["msg"] = "uno puoi fare un mass invite ma prende i nomi dal calendario",
-					["inbound"] = false,
+					["time"] = 1487195693,
+					["from"] = "Jacinda",
+					["msg"] = "non perforza",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [46]
 				{
 					["type"] = 1,
-					["time"] = 1486067616,
+					["time"] = 1487195710,
 					["from"] = "Alitfaier",
-					["msg"] = "del gioco",
+					["msg"] = "ma smettila",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [47]
 				{
 					["type"] = 1,
-					["time"] = 1486067636,
+					["time"] = 1487195723,
 					["from"] = "Alitfaier",
-					["msg"] = "e non lo puoi fare visto che si usa quel sito di merda",
+					["msg"] = "pensi che a fare il bambino in questo modo ti faccia tankare?",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [48]
 				{
 					["type"] = 1,
-					["time"] = 1486067648,
-					["from"] = "Alitfaier",
-					["msg"] = "l'altro metti delle parole chiave e ti fai wispare",
-					["inbound"] = false,
+					["time"] = 1487195758,
+					["from"] = "Jacinda",
+					["msg"] = "non e fare bambino non avevo voglia di curare ",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [49]
 				{
 					["type"] = 1,
-					["time"] = 1486067663,
+					["time"] = 1487195774,
 					["from"] = "Jacinda",
-					["msg"] = "si ma su invite tools dice che puoi invitare per rank di gilda",
+					["msg"] = "venivo in normal per loot ",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [50]
 				{
 					["type"] = 1,
-					["time"] = 1486067747,
+					["time"] = 1487195782,
 					["from"] = "Alitfaier",
-					["msg"] = "ma porc ho preso la flas",
+					["msg"] = "si ma allora lo dici chiaro",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [51]
 				{
 					["type"] = 1,
-					["time"] = 1486067759,
-					["from"] = "Alitfaier",
-					["msg"] = "non puoi tankare tu?",
-					["inbound"] = false,
+					["time"] = 1487195790,
+					["from"] = "Jacinda",
+					["msg"] = "per prendere due pezzi che mi mancano",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [52]
 				{
 					["type"] = 1,
-					["time"] = 1486067850,
-					["from"] = "Jacinda",
-					["msg"] = "in teoria si ",
-					["inbound"] = true,
+					["time"] = 1487195794,
+					["from"] = "Alitfaier",
+					["msg"] = "a kate io voglio tankare in caso cambio gilda...",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [53]
 				{
 					["type"] = 1,
-					["time"] = 1486067856,
+					["time"] = 1487195802,
 					["from"] = "Jacinda",
-					["msg"] = "ma sta arrivando",
+					["msg"] = "gia lo sa",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [54]
 				{
 					["type"] = 1,
-					["time"] = 1486067885,
+					["time"] = 1487195806,
 					["from"] = "Jacinda",
-					["msg"] = "questi sono motivi x avere 3 tank in gilda",
+					["msg"] = "gia detto",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [55]
 				{
 					["type"] = 1,
-					["time"] = 1486068356,
+					["time"] = 1487195817,
 					["from"] = "Alitfaier",
-					["msg"] = "no dai... ",
+					["msg"] = "tanto non ti fa tankare e non venire in ria d ci perdi tu non lei",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [56]
 				{
 					["type"] = 1,
-					["time"] = 1486068375,
+					["time"] = 1487195845,
 					["from"] = "Alitfaier",
-					["msg"] = "sei morto prima di lucrezia?",
+					["msg"] = "in ongi caso lei comanda e tu lo prendi in culo",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [57]
 				{
 					["type"] = 1,
-					["time"] = 1486068375,
+					["time"] = 1487195868,
 					["from"] = "Jacinda",
-					["msg"] = "cosa",
+					["msg"] = "non ci perdo nulla a non venire non mi serve nulla ",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [58]
 				{
 					["type"] = 1,
-					["time"] = 1486068384,
+					["time"] = 1487195878,
 					["from"] = "Jacinda",
-					["msg"] = "e mancavano cure",
+					["msg"] = "dai cazzo di boss che facciamo",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [59]
 				{
 					["type"] = 1,
-					["time"] = 1486068399,
+					["time"] = 1487195897,
 					["from"] = "Jacinda",
-					["msg"] = "non ho preso danni extra",
+					["msg"] = "mi servono quelli HC che non facciamo",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [60]
 				{
 					["type"] = 1,
-					["time"] = 1486068412,
-					["from"] = "Alitfaier",
-					["msg"] = "va bene dai",
-					["inbound"] = false,
+					["time"] = 1487197256,
+					["from"] = "Jacinda",
+					["msg"] = "come sono i primal force?",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [61]
 				{
 					["type"] = 1,
-					["time"] = 1486068425,
-					["from"] = "Jacinda",
-					["msg"] = "scusa se sono un po teso ",
-					["inbound"] = true,
+					["time"] = 1487197281,
+					["from"] = "Alitfaier",
+					["msg"] = "bo ti faccios apere domani",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [62]
 				{
 					["type"] = 1,
-					["time"] = 1486068447,
+					["time"] = 1487197288,
 					["from"] = "Alitfaier",
-					["msg"] = "come mai sei teso?",
+					["msg"] = "o dopo ",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [63]
 				{
 					["type"] = 1,
-					["time"] = 1486068460,
-					["from"] = "Jacinda",
-					["msg"] = "poi ti spiego",
-					["inbound"] = true,
+					["time"] = 1487197296,
+					["from"] = "Alitfaier",
+					["msg"] = "guardo chi c'è in gilda",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [64]
 				{
 					["type"] = 1,
-					["time"] = 1486068486,
-					["from"] = "Alitfaier",
-					["msg"] = "cmq io lo sapevo, la rpima volta che tanki tankerai con lei... hahhahaa",
-					["inbound"] = false,
+					["time"] = 1487197318,
+					["from"] = "Jacinda",
+					["msg"] = "e un po che spammano che cercano tank",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [65]
 				{
 					["type"] = 1,
-					["time"] = 1486068486,
-					["from"] = "Jacinda",
-					["msg"] = "si ma se ho io boss lei segue me e viceversa",
-					["inbound"] = true,
+					["time"] = 1487197406,
+					["from"] = "Alitfaier",
+					["msg"] = "un paio di quelli in gilda li conosco",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [66]
 				{
 					["type"] = 1,
-					["time"] = 1486068495,
-					["from"] = "Jacinda",
-					["msg"] = "io tenevo boss",
-					["inbound"] = true,
+					["time"] = 1487197428,
+					["from"] = "Alitfaier",
+					["msg"] = "2 sono bravi e uno è normale",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [67]
 				{
 					["type"] = 1,
-					["time"] = 1486068965,
-					["from"] = "Jacinda",
-					["msg"] = "cmq non sono morto per errori miei entrambe le volte",
-					["inbound"] = true,
+					["time"] = 1487197437,
+					["from"] = "Alitfaier",
+					["msg"] = "gli altri non conoscono cmq sono in tanti",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [68]
 				{
 					["type"] = 1,
-					["time"] = 1486068995,
+					["time"] = 1487197485,
 					["from"] = "Alitfaier",
-					["msg"] = "si lo so, ho letto",
+					["msg"] = "in ogni caso hanno tre war a me non mi prenderanno mai",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [69]
 				{
 					["type"] = 1,
-					["time"] = 1486069017,
+					["time"] = 1487197701,
 					["from"] = "Jacinda",
-					["msg"] = "loro tankano con 5 healer a me tocca con 3",
+					["msg"] = "bo domani provo e ciparlo e vedo tanto se prendono me devono prendere te orfeo e lucio ",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [70]
 				{
 					["type"] = 1,
-					["time"] = 1486069054,
-					["from"] = "Alitfaier",
-					["msg"] = "e be...",
-					["inbound"] = false,
+					["time"] = 1487197723,
+					["from"] = "Jacinda",
+					["msg"] = "o tutti o nessuno",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [71]
 				{
 					["type"] = 1,
-					["time"] = 1486071320,
+					["time"] = 1487197951,
 					["from"] = "Jacinda",
-					["msg"] = "si bella idea di andrea non parliamone continuiamo a morire come stronzi aspettando miracolo che la gente si svegli",
+					["msg"] = "merda sono usciti un sacco di pezzi che neddo 880 porca miseria",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [72]
 				{
 					["type"] = 1,
-					["time"] = 1486071955,
+					["time"] = 1487197965,
 					["from"] = "Alitfaier",
-					["msg"] = "io non ne posso più ",
+					["msg"] = "sei un pirla.... e li ha presi tutti rangi",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [73]
 				{
 					["type"] = 1,
-					["time"] = 1486072022,
+					["time"] = 1487197981,
 					["from"] = "Jacinda",
-					["msg"] = "a fine serata guardo chi non ne ha preso nemmeno uno di fetta tossica poi cago il cazzo",
+					["msg"] = "cazzo dici non usa plate idiota+",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [74]
 				{
 					["type"] = 1,
-					["time"] = 1486072618,
+					["time"] = 1487198010,
 					["from"] = "Alitfaier",
-					["msg"] = "a sto giro ho preso 7 robottini e 8 torte...",
+					["msg"] = "era per farti rosicare di +",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [75]
 				{
 					["type"] = 1,
-					["time"] = 1486072953,
+					["time"] = 1487200213,
 					["from"] = "Jacinda",
-					["msg"] = "tra un po devo raidare da healer con equip da tank",
+					["msg"] = "a che boss state?",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [76]
 				{
 					["type"] = 1,
-					["time"] = 1486073031,
-					["from"] = "Jacinda",
-					["msg"] = "sto neddando bis da tank ",
-					["inbound"] = true,
+					["time"] = 1487200330,
+					["from"] = "Alitfaier",
+					["msg"] = "elisande ma non lo si fa",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [77]
 				{
 					["type"] = 1,
-					["time"] = 1486073034,
-					["from"] = "Alitfaier",
-					["msg"] = "io tra un po' raido con le palle sul carrellino",
-					["inbound"] = false,
+					["time"] = 1487200358,
+					["from"] = "Jacinda",
+					["msg"] = "perche ? lo abbiamo gia fatto",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [78]
 				{
 					["type"] = 1,
-					["time"] = 1486073056,
-					["from"] = "Jacinda",
-					["msg"] = "e la relic non posso meterla su arma da healer ",
-					["inbound"] = true,
+					["time"] = 1487200396,
+					["from"] = "Alitfaier",
+					["msg"] = "non si ricordano come funziona ",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [79]
 				{
 					["type"] = 1,
-					["time"] = 1486073539,
-					["from"] = "Alitfaier",
-					["msg"] = "in verità non l'ho visto in nessun video mi è venuta in mente, dal bos di arcavia :P",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [80]
-				{
-					["type"] = 1,
-					["time"] = 1486073561,
+					["time"] = 1487200421,
 					["from"] = "Jacinda",
 					["msg"] = "lol",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
+				}, -- [80]
+				{
+					["type"] = 1,
+					["time"] = 1487200449,
+					["from"] = "Alitfaier",
+					["msg"] = "e io voglio andare a letto",
+					["inbound"] = false,
+					["convo"] = "Jacinda",
 				}, -- [81]
 				{
 					["type"] = 1,
-					["time"] = 1486073572,
+					["time"] = 1487201636,
 					["from"] = "Alitfaier",
-					["msg"] = "poi ho cercato su mmochamiob  e uno ha messo un video che in mitico la sua gilda lo fanno osì",
+					["msg"] = "a domani pomeriggio",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [82]
 				{
 					["type"] = 1,
-					["time"] = 1486073586,
+					["time"] = 1487261573,
 					["from"] = "Alitfaier",
-					["msg"] = "però non e facile tenerne tre in cc",
+					["msg"] = "cmq il sistema loot ho trovato la falla...",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [83]
 				{
 					["type"] = 1,
-					["time"] = 1486073590,
-					["from"] = "Alitfaier",
-					["msg"] = "tutto il figth",
-					["inbound"] = false,
+					["time"] = 1487261594,
+					["from"] = "Jacinda",
+					["msg"] = "si",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [84]
 				{
 					["type"] = 1,
-					["time"] = 1486073615,
-					["from"] = "Jacinda",
-					["msg"] = "nu",
-					["inbound"] = true,
+					["time"] = 1487261594,
+					["from"] = "Alitfaier",
+					["msg"] = "se prendi il bis quando non lo vuole nessuno non lo segna",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [85]
 				{
 					["type"] = 1,
-					["time"] = 1486074500,
-					["from"] = "Alitfaier",
-					["msg"] = "domani m+?",
-					["inbound"] = false,
+					["time"] = 1487261677,
+					["from"] = "Jacinda",
+					["msg"] = "quindi aspetta sempre per ultimo a scrivere vedi che scrivo altri se nessuno scrive biss o need ma off ",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [86]
 				{
 					["type"] = 1,
-					["time"] = 1486074510,
-					["from"] = "Jacinda",
-					["msg"] = "yes",
-					["inbound"] = true,
+					["time"] = 1487261691,
+					["from"] = "Alitfaier",
+					["msg"] = "si infatti",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [87]
 				{
 					["type"] = 1,
-					["time"] = 1486076716,
+					["time"] = 1487261707,
 					["from"] = "Jacinda",
-					["msg"] = "vedi e tornato e noi che pensiamo male",
+					["msg"] = "te scrivi solo upg  e gg anche se  ebis cosi non lo segna",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [88]
 				{
 					["type"] = 1,
-					["time"] = 1486076724,
-					["from"] = "Jacinda",
-					["msg"] = "hahahahahahaha",
-					["inbound"] = true,
+					["time"] = 1487261708,
+					["from"] = "Alitfaier",
+					["msg"] = "quindi rimango che epgp è il top",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [89]
 				{
 					["type"] = 1,
-					["time"] = 1486077804,
+					["time"] = 1487261726,
 					["from"] = "Jacinda",
-					["msg"] = "16/17 dovrei essere a casa",
+					["msg"] = "e lo prendi",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [90]
 				{
 					["type"] = 1,
-					["time"] = 1486077849,
+					["time"] = 1487262533,
 					["from"] = "Alitfaier",
-					["msg"] = "che è sta scenata... ",
+					["msg"] = "cmq rob e lacadrega per me vanno con erucarcas",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [91]
 				{
 					["type"] = 1,
-					["time"] = 1486077858,
-					["from"] = "Jacinda",
-					["msg"] = "bo bambino",
-					["inbound"] = true,
+					["time"] = 1487262808,
+					["from"] = "Alitfaier",
+					["msg"] = "luigi, non sei geloso dell'ex d kate?",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [92]
 				{
 					["type"] = 1,
-					["time"] = 1486078225,
-					["from"] = "Alitfaier",
-					["msg"] = "erucarcas se ne va?",
-					["inbound"] = false,
+					["time"] = 1487262832,
+					["from"] = "Jacinda",
+					["msg"] = "no ",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [93]
 				{
 					["type"] = 1,
-					["time"] = 1486078233,
+					["time"] = 1487262837,
 					["from"] = "Jacinda",
-					["msg"] = "si",
+					["msg"] = "chisse ",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [94]
 				{
 					["type"] = 1,
-					["time"] = 1486078239,
+					["time"] = 1487262845,
 					["from"] = "Alitfaier",
-					["msg"] = "ok andiamo a festeggiare ad ironforge?",
+					["msg"] = "ok",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [95]
 				{
 					["type"] = 1,
-					["time"] = 1486079703,
+					["time"] = 1487262849,
 					["from"] = "Jacinda",
-					["msg"] = "che persona squallida erucarcas mamma mia ",
+					["msg"] = "e che mo lo fatta arrabbiare ",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [96]
 				{
 					["type"] = 1,
-					["time"] = 1486079722,
-					["from"] = "Jacinda",
-					["msg"] = "meglio fuori dai coglioni",
-					["inbound"] = true,
+					["time"] = 1487262856,
+					["from"] = "Alitfaier",
+					["msg"] = "perchè?",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [97]
 				{
 					["type"] = 1,
-					["time"] = 1486079722,
-					["from"] = "Alitfaier",
-					["msg"] = "ma si... sta facendo la scenetta per non fare le 4 sere",
-					["inbound"] = false,
+					["time"] = 1487262866,
+					["from"] = "Jacinda",
+					["msg"] = "gli ho chiesto della storia del tank ",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [98]
 				{
 					["type"] = 1,
-					["time"] = 1486079783,
-					["from"] = "Jacinda",
-					["msg"] = "bo mi sembra solo un cretino",
-					["inbound"] = true,
+					["time"] = 1487262876,
+					["from"] = "Alitfaier",
+					["msg"] = "hahahaha e?",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [99]
 				{
 					["type"] = 1,
-					["time"] = 1486079811,
+					["time"] = 1487262897,
 					["from"] = "Jacinda",
-					["msg"] = "vado nanna sveglia presto domani",
+					["msg"] = "mi ha detto di portare pazienza che mancano healer e che deve introdurre cosa con andrea graduatamente ",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [100]
 				{
 					["type"] = 1,
-					["time"] = 1486158497,
-					["from"] = "Alitfaier",
-					["msg"] = "in che gilda è andato il tuo amico?",
-					["inbound"] = false,
+					["time"] = 1487262914,
+					["from"] = "Jacinda",
+					["msg"] = "e che ora a problema di shama ",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [101]
 				{
 					["type"] = 1,
-					["time"] = 1486158512,
-					["from"] = "Jacinda",
-					["msg"] = "nessuna fina a qualche ora fa",
-					["inbound"] = true,
+					["time"] = 1487262920,
+					["from"] = "Alitfaier",
+					["msg"] = "si un healer l'ha cacciato",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [102]
 				{
 					["type"] = 1,
-					["time"] = 1486159472,
+					["time"] = 1487262931,
 					["from"] = "Alitfaier",
-					["msg"] = "ti ricordi il video di merda di riae?",
+					["msg"] = "shamano? perchè?",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [103]
 				{
 					["type"] = 1,
-					["time"] = 1486159499,
+					["time"] = 1487262950,
 					["from"] = "Jacinda",
-					["msg"] = "no",
+					["msg"] = "gli ho scritto che visto come stanno le cose che healer mancano e mancheranno sempre non tankero mai qui che da oggi cerco gilda e se trovo vado",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [104]
 				{
 					["type"] = 1,
-					["time"] = 1486159506,
-					["from"] = "Alitfaier",
-					["msg"] = "gli ho scritto un commento che il video non era granchè e mi ha risposto, che anche secndo lei faceva cagare",
-					["inbound"] = false,
+					["time"] = 1487262967,
+					["from"] = "Jacinda",
+					["msg"] = "perche shama a detto che smette quando nasce bambina",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [105]
 				{
 					["type"] = 1,
-					["time"] = 1486159518,
+					["time"] = 1487262972,
 					["from"] = "Alitfaier",
-					["msg"] = "la tizia con il tatuaggio del cuore in mezzo alle tette",
+					["msg"] = "allora è andata ad accendere un cero?",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [106]
 				{
 					["type"] = 1,
-					["time"] = 1486159528,
-					["from"] = "Jacinda",
-					["msg"] = "mai visto",
-					["inbound"] = true,
+					["time"] = 1487262985,
+					["from"] = "Alitfaier",
+					["msg"] = "azz...",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [107]
 				{
 					["type"] = 1,
-					["time"] = 1486159554,
+					["time"] = 1487262997,
 					["from"] = "Alitfaier",
-					["msg"] = "ma cosa... l'hai visto e hai detto che fa cagare..",
+					["msg"] = "definitivamente?",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [108]
 				{
 					["type"] = 1,
-					["time"] = 1486159567,
+					["time"] = 1487263040,
 					["from"] = "Jacinda",
-					["msg"] = "a si ora ricordo",
+					["msg"] = "non so se definitivamente shama ma ha detto che dovra aiutare la moglie",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [109]
 				{
 					["type"] = 1,
-					["time"] = 1486159595,
-					["from"] = "Alitfaier",
-					["msg"] = "e mi aveva risposto, e ieri mi ha mandato due biglietti per andare a una fiera a milano dove c'è anche lei",
-					["inbound"] = false,
+					["time"] = 1487263053,
+					["from"] = "Jacinda",
+					["msg"] = "l'ha detto ieri mi sembra",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [110]
 				{
 					["type"] = 1,
-					["time"] = 1486159613,
+					["time"] = 1487263063,
 					["from"] = "Alitfaier",
-					["msg"] = "una fiera sui tatuatori..",
+					["msg"] = "e bè dipende, dal bimbo se dorme o no per i primi mesi",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [111]
 				{
 					["type"] = 1,
-					["time"] = 1486159633,
+					["time"] = 1487263071,
 					["from"] = "Alitfaier",
-					["msg"] = "e un tatuaggio in omaggio nel suo stend",
+					["msg"] = "vvio",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [112]
 				{
 					["type"] = 1,
-					["time"] = 1486159661,
+					["time"] = 1487263075,
 					["from"] = "Alitfaier",
-					["msg"] = "ma gli ho risposto che grazie ma, mi piacciono i tatuaggi su lei ma non su di me.",
+					["msg"] = "ovvio",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [113]
 				{
 					["type"] = 1,
-					["time"] = 1486159749,
-					["from"] = "Alitfaier",
-					["msg"] = "poi mi ha chiesto di andare ugualmente che è una bella fiera bla bla bla... e potevo conoscerla. Poi mi è scappato, ma io ti voglio conoscere da sola, con con mille persone attorno.",
-					["inbound"] = false,
+					["time"] = 1487263266,
+					["from"] = "Jacinda",
+					["msg"] = "stacco a dopo",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [114]
 				{
 					["type"] = 1,
-					["time"] = 1486159763,
+					["time"] = 1487263272,
 					["from"] = "Alitfaier",
-					["msg"] = "e mi ha risposto con l'emoticon della lingua.",
+					["msg"] = "a dopo",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [115]
 				{
 					["type"] = 1,
-					["time"] = 1486159769,
-					["from"] = "Alitfaier",
-					["msg"] = "ora siamo fermi li.",
-					["inbound"] = false,
+					["time"] = 1487276824,
+					["from"] = "Jacinda",
+					["msg"] = "gurda rangi se messo tank",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [116]
 				{
 					["type"] = 1,
-					["time"] = 1486159811,
+					["time"] = 1487276832,
 					["from"] = "Jacinda",
-					["msg"] = "bravo lo sa ilaria",
+					["msg"] = "hahahahaha",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [117]
 				{
 					["type"] = 1,
-					["time"] = 1486159820,
-					["from"] = "Alitfaier",
-					["msg"] = "ovvio che no..",
-					["inbound"] = false,
+					["time"] = 1487276861,
+					["from"] = "Jacinda",
+					["msg"] = "ha 2 anni non ventie e pass",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [118]
 				{
 					["type"] = 1,
-					["time"] = 1486159826,
+					["time"] = 1487277295,
 					["from"] = "Alitfaier",
-					["msg"] = "ma non ci andrei mai.",
+					["msg"] = "vedi che è una stronzata che ha detto kate?",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [119]
 				{
 					["type"] = 1,
-					["time"] = 1486159842,
-					["from"] = "Alitfaier",
-					["msg"] = "appena mi vede scappa via.",
-					["inbound"] = false,
+					["time"] = 1487277308,
+					["from"] = "Jacinda",
+					["msg"] = "no lo sentito io",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [120]
 				{
 					["type"] = 1,
-					["time"] = 1486163878,
-					["from"] = "Alitfaier",
-					["msg"] = "quando fa così, sembra la madonna pentita... in carcere.",
-					["inbound"] = false,
+					["time"] = 1487277318,
+					["from"] = "Jacinda",
+					["msg"] = "nonme lo ha riferito kat",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [121]
 				{
 					["type"] = 1,
-					["time"] = 1486163910,
+					["time"] = 1487277342,
 					["from"] = "Jacinda",
-					["msg"] = "ma non gli ne lasci passare una ",
+					["msg"] = "non ha preso ferie ",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [122]
 				{
 					["type"] = 1,
-					["time"] = 1486163945,
-					["from"] = "Alitfaier",
-					["msg"] = "hahaha",
-					["inbound"] = false,
+					["time"] = 1487277354,
+					["from"] = "Jacinda",
+					["msg"] = "ma lo a ribadito prima che parlavamo di OW",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [123]
 				{
 					["type"] = 1,
-					["time"] = 1486163963,
+					["time"] = 1487277380,
 					["from"] = "Alitfaier",
-					["msg"] = "ma cristo è uscita... vai a farti una bevuta con l'amica porco zio...",
+					["msg"] = "l'ho detto come battuta... o shamano non ha capito... o è stordito",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [124]
 				{
 					["type"] = 1,
-					["time"] = 1486163980,
+					["time"] = 1487277388,
 					["from"] = "Jacinda",
-					["msg"] = "ma chi ti dice che non la fatto",
+					["msg"] = "e mi ha detto che rsara il suo gioco dopo perche richiede meno tempo per partite",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [125]
 				{
 					["type"] = 1,
-					["time"] = 1486163987,
+					["time"] = 1487277554,
 					["from"] = "Alitfaier",
-					["msg"] = "lei",
+					["msg"] = "gli ho wispato ma non mi risponde...",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [126]
 				{
 					["type"] = 1,
-					["time"] = 1486165367,
+					["time"] = 1487277557,
 					["from"] = "Alitfaier",
-					["msg"] = " |cffa335ee|Hitem:140906::::::::110:72::5:4:3516:1808:1497:3336:::|h[Anello della Servitù Esclusiva]|h|r",
+					["msg"] = "vabè",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [127]
 				{
 					["type"] = 1,
-					["time"] = 1486329194,
+					["time"] = 1487277585,
 					["from"] = "Alitfaier",
-					["msg"] = "cioè alla fine della fiera, lo fa davvero conti il sanremo?",
+					["msg"] = ".... ma deve invitare gente nuova a fine raid?",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [128]
 				{
 					["type"] = 1,
-					["time"] = 1486329212,
+					["time"] = 1487277594,
 					["from"] = "Alitfaier",
-					["msg"] = "io se fossi in lui mi vergognerei",
+					["msg"] = "zio can",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [129]
 				{
 					["type"] = 1,
-					["time"] = 1486329252,
-					["from"] = "Alitfaier",
-					["msg"] = "non metto indubbio che sia bravo e si sia fatto il culo per farsi una buona reputazione ecc ecc... ma è una cifra immonda.",
-					["inbound"] = false,
+					["time"] = 1487277605,
+					["from"] = "Jacinda",
+					["msg"] = "certo qui e cosi siamo semiharcore",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [130]
 				{
 					["type"] = 1,
-					["time"] = 1486399751,
-					["from"] = "Alitfaier",
-					["msg"] = "capisco",
-					["inbound"] = false,
+					["time"] = 1487277612,
+					["from"] = "Jacinda",
+					["msg"] = "e sto boss e in farming",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [131]
 				{
 					["type"] = 1,
-					["time"] = 1486413725,
-					["from"] = "Alitfaier",
-					["msg"] = "mi tiri un summon?",
-					["inbound"] = false,
+					["time"] = 1487277615,
+					["from"] = "Jacinda",
+					["msg"] = "hahahahahahaha",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [132]
 				{
 					["type"] = 1,
-					["time"] = 1486413758,
+					["time"] = 1487278680,
 					["from"] = "Jacinda",
-					["msg"] = "non ce bara",
+					["msg"] = "sembra che ci siamo spostati n oi li ",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [133]
 				{
 					["type"] = 1,
-					["time"] = 1486413796,
-					["from"] = "Alitfaier",
-					["msg"] = "dai clikka",
-					["inbound"] = false,
+					["time"] = 1487278708,
+					["from"] = "Jacinda",
+					["msg"] = "perche dall altro lato c'èera la bolla blu di la dove non c'èra boss",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [134]
 				{
 					["type"] = 1,
-					["time"] = 1486422875,
-					["from"] = "Jacinda",
-					["msg"] = "grande",
-					["inbound"] = true,
+					["time"] = 1487278727,
+					["from"] = "Alitfaier",
+					["msg"] = "le bolle erano due",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [135]
 				{
 					["type"] = 1,
-					["time"] = 1486422894,
+					["time"] = 1487278735,
 					["from"] = "Alitfaier",
-					["msg"] = "... ho chargiato a caso",
+					["msg"] = "siamo andati in quella sbagliata",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [136]
 				{
 					["type"] = 1,
-					["time"] = 1486499118,
-					["from"] = "Alitfaier",
-					["msg"] = "dai gruppa",
-					["inbound"] = false,
+					["time"] = 1487278743,
+					["from"] = "Jacinda",
+					["msg"] = "si ma ci siamo spostati noi sulla seconda",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [137]
 				{
 					["type"] = 1,
-					["time"] = 1486499174,
-					["from"] = "Jacinda",
-					["msg"] = "non posso",
-					["inbound"] = true,
+					["time"] = 1487278744,
+					["from"] = "Alitfaier",
+					["msg"] = "ma si faceva uguale",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [138]
 				{
 					["type"] = 1,
-					["time"] = 1486499194,
-					["from"] = "Alitfaier",
-					["msg"] = "sei sempre il solito.... inutile, come la data di scadenza della nutella",
-					["inbound"] = false,
+					["time"] = 1487278755,
+					["from"] = "Jacinda",
+					["msg"] = "si sono spostati i tank li",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [139]
 				{
 					["type"] = 1,
-					["time"] = 1486500048,
+					["time"] = 1487278757,
 					["from"] = "Alitfaier",
-					["msg"] = "adesso conto le volte che si muore per colpa sua",
+					["msg"] = "eravamo già li",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [140]
 				{
 					["type"] = 1,
-					["time"] = 1486500134,
-					["from"] = "Jacinda",
-					["msg"] = "lol",
-					["inbound"] = true,
+					["time"] = 1487278786,
+					["from"] = "Alitfaier",
+					["msg"] = "cmq il boss è tankato malissimo",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [141]
 				{
 					["type"] = 1,
-					["time"] = 1486500201,
-					["from"] = "Alitfaier",
-					["msg"] = "siamo già a due",
-					["inbound"] = false,
+					["time"] = 1487278788,
+					["from"] = "Jacinda",
+					["msg"] = "la prima volta che siamo venuti non e mai successa sta cosa",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [142]
 				{
 					["type"] = 1,
-					["time"] = 1486500634,
+					["time"] = 1487278800,
 					["from"] = "Alitfaier",
-					["msg"] = "e caduta di sotot?",
+					["msg"] = "perchè abbiamo sempre fatto una bolla alla volta",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [143]
 				{
 					["type"] = 1,
-					["time"] = 1486500643,
+					["time"] = 1487278807,
 					["from"] = "Jacinda",
-					["msg"] = "si",
+					["msg"] = "certo",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [144]
 				{
 					["type"] = 1,
-					["time"] = 1486500658,
+					["time"] = 1487278819,
 					["from"] = "Jacinda",
-					["msg"] = "2",
+					["msg"] = "e quello che hanno sbagliato",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [145]
 				{
 					["type"] = 1,
-					["time"] = 1486500673,
+					["time"] = 1487278829,
 					["from"] = "Alitfaier",
-					["msg"] = " ma che due sono già tre",
+					["msg"] = "poi il boss è sempre dove non deve essere... bo",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [146]
 				{
 					["type"] = 1,
-					["time"] = 1486500697,
+					["time"] = 1487278836,
 					["from"] = "Jacinda",
-					["msg"] = "ma non e il secondo",
+					["msg"] = "perche non facevano seconda eravamo nel punto giusto e non dal altro lato",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [147]
 				{
 					["type"] = 1,
-					["time"] = 1486500764,
-					["from"] = "Alitfaier",
-					["msg"] = "ma cosa ci ha shottati anche al word boss",
-					["inbound"] = false,
+					["time"] = 1487279027,
+					["from"] = "Jacinda",
+					["msg"] = "erorre dei tank ",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [148]
 				{
 					["type"] = 1,
-					["time"] = 1486500794,
+					["time"] = 1487279037,
 					["from"] = "Jacinda",
-					["msg"] = "quello nopn conta",
+					["msg"] = "non devono fare secondo blu cosi presto",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [149]
 				{
 					["type"] = 1,
-					["time"] = 1486500847,
+					["time"] = 1487279717,
 					["from"] = "Alitfaier",
-					["msg"] = "ok questqa 3",
+					["msg"] = "se vabè...",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [150]
 				{
 					["type"] = 1,
-					["time"] = 1486500860,
+					["time"] = 1487279771,
 					["from"] = "Jacinda",
-					["msg"] = "yes",
+					["msg"] = "cosa?",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [151]
 				{
 					["type"] = 1,
-					["time"] = 1486500892,
+					["time"] = 1487279777,
 					["from"] = "Alitfaier",
-					["msg"] = "ha leftato?",
+					["msg"] = "ho capito... quello ieri sera se preso pure un token per provare il wf ma quelli ovviamente non contano",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [152]
 				{
 					["type"] = 1,
-					["time"] = 1486500901,
-					["from"] = "Alitfaier",
-					["msg"] = "ma mi sentite su ts?",
-					["inbound"] = false,
+					["time"] = 1487279806,
+					["from"] = "Jacinda",
+					["msg"] = "no perche tanto andava shardato",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [153]
 				{
 					["type"] = 1,
-					["time"] = 1486500915,
-					["from"] = "Jacinda",
-					["msg"] = "no",
-					["inbound"] = true,
+					["time"] = 1487279828,
+					["from"] = "Alitfaier",
+					["msg"] = "il tocken non andava shardato di certo",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [154]
 				{
 					["type"] = 1,
-					["time"] = 1486500928,
-					["from"] = "Alitfaier",
-					["msg"] = "si il mic era impostato su quello usb",
-					["inbound"] = false,
+					["time"] = 1487279837,
+					["from"] = "Jacinda",
+					["msg"] = "rengi prende pezzi tutte le sere",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [155]
 				{
 					["type"] = 1,
-					["time"] = 1486501831,
-					["from"] = "Jacinda",
-					["msg"] = "perche non vedi enrage muoriremo prima hahahahaha",
-					["inbound"] = true,
+					["time"] = 1487279867,
+					["from"] = "Alitfaier",
+					["msg"] = "si ma non uno.... e cmq non puoi dire nulla perchè non hai un file da controllare, è tutto fumo...",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [156]
 				{
 					["type"] = 1,
-					["time"] = 1486501839,
+					["time"] = 1487279872,
 					["from"] = "Jacinda",
-					["msg"] = "lo vogliono fare tirato",
+					["msg"] = "e perche lo ha dato ha lui ieri se gia lo aveva?",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [157]
 				{
 					["type"] = 1,
-					["time"] = 1486501849,
-					["from"] = "Jacinda",
-					["msg"] = "piu va avanti piu dura x healer",
-					["inbound"] = true,
+					["time"] = 1487279885,
+					["from"] = "Alitfaier",
+					["msg"] = "per fargli provare il wf",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [158]
 				{
 					["type"] = 1,
-					["time"] = 1486501860,
-					["from"] = "Alitfaier",
-					["msg"] = "si ma siete un healer in più",
-					["inbound"] = false,
+					["time"] = 1487279912,
+					["from"] = "Jacinda",
+					["msg"] = "e non b l'ìha needdato nessunaltro?",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [159]
 				{
 					["type"] = 1,
-					["time"] = 1486501870,
-					["from"] = "Jacinda",
-					["msg"] = "quindi prima muore meglio e",
-					["inbound"] = true,
+					["time"] = 1487279945,
+					["from"] = "Alitfaier",
+					["msg"] = "io ho un 895 ho detto lo lascio aglia ltri... ",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [160]
 				{
 					["type"] = 1,
-					["time"] = 1486501879,
-					["from"] = "Alitfaier",
-					["msg"] = "ho visto video che lo fanno con due healer in 20",
-					["inbound"] = false,
+					["time"] = 1487279958,
+					["from"] = "Jacinda",
+					["msg"] = "non hai risposto",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [161]
 				{
 					["type"] = 1,
-					["time"] = 1486501899,
-					["from"] = "Jacinda",
-					["msg"] = "la fase dura per healer e lultima",
-					["inbound"] = true,
+					["time"] = 1487279965,
+					["from"] = "Alitfaier",
+					["msg"] = "lui aveva un 880 e un'altro lo aveva 875",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [162]
 				{
 					["type"] = 1,
-					["time"] = 1486501911,
-					["from"] = "Jacinda",
-					["msg"] = "non hanno capito un cavolo di sto boss",
-					["inbound"] = true,
+					["time"] = 1487279974,
+					["from"] = "Alitfaier",
+					["msg"] = "e kate ha detto allora rollatelo",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [163]
 				{
 					["type"] = 1,
-					["time"] = 1486502133,
+					["time"] = 1487279991,
 					["from"] = "Alitfaier",
-					["msg"] = "cazzo fai...",
+					["msg"] = "io mi sono rifiutato lo lasciamo aprire a chi lo ha 875",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [164]
 				{
 					["type"] = 1,
-					["time"] = 1486502144,
-					["from"] = "Alitfaier",
-					["msg"] = "le pozze non sono un parcheggio...",
-					["inbound"] = false,
+					["time"] = 1487279997,
+					["from"] = "Jacinda",
+					["msg"] = "l'ha vinto al roll?",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [165]
 				{
 					["type"] = 1,
-					["time"] = 1486502147,
+					["time"] = 1487280007,
 					["from"] = "Jacinda",
-					["msg"] = "cazzo vuoi",
+					["msg"] = "noncapoisco piu un cazzo",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [166]
 				{
 					["type"] = 1,
-					["time"] = 1486505881,
+					["time"] = 1487280014,
 					["from"] = "Alitfaier",
-					["msg"] = "madonna mia...",
+					["msg"] = "rangi invece l'ha rollato perchè ha detto che tanto 5 il non fa differenza",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [167]
 				{
 					["type"] = 1,
-					["time"] = 1486505901,
+					["time"] = 1487280329,
 					["from"] = "Jacinda",
-					["msg"] = "un pandemoni per far uscire qualcuno ",
+					["msg"] = "con bolla ho preso zero danni dai raggetti",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [168]
 				{
 					["type"] = 1,
-					["time"] = 1486505917,
+					["time"] = 1487280837,
 					["from"] = "Jacinda",
-					["msg"] = "tra laltro la gente noin si fa problemi ad uscire ",
+					["msg"] = " |cffa335ee|Hitem:140807::::::::110:65::3:4:3515:40:1482:3336:::|h[Costrutto Infernale]|h|r come sto coso?",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [169]
 				{
 					["type"] = 1,
-					["time"] = 1486505928,
-					["from"] = "Jacinda",
-					["msg"] = "non capisco",
-					["inbound"] = true,
+					["time"] = 1487280880,
+					["from"] = "Alitfaier",
+					["msg"] = "prima te li toglie poi te li fa prendere...",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [170]
 				{
 					["type"] = 1,
-					["time"] = 1486505939,
-					["from"] = "Jacinda",
-					["msg"] = "hai rotto con sto assente",
-					["inbound"] = true,
+					["time"] = 1487280886,
+					["from"] = "Alitfaier",
+					["msg"] = "è un trinket di merda",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [171]
 				{
 					["type"] = 1,
-					["time"] = 1486506628,
-					["from"] = "Alitfaier",
-					["msg"] = "5",
-					["inbound"] = false,
+					["time"] = 1487280913,
+					["from"] = "Jacinda",
+					["msg"] = "i trinket da tank qui fannoproprio cagare",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [172]
 				{
 					["type"] = 1,
-					["time"] = 1486506662,
-					["from"] = "Alitfaier",
-					["msg"] = "senza contare le altre due che non ha tountato",
-					["inbound"] = false,
+					["time"] = 1487280935,
+					["from"] = "Jacinda",
+					["msg"] = "li ho tutti ",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [173]
 				{
 					["type"] = 1,
-					["time"] = 1486506676,
-					["from"] = "Jacinda",
-					["msg"] = "quindi 7",
-					["inbound"] = true,
+					["time"] = 1487280936,
+					["from"] = "Alitfaier",
+					["msg"] = "si quelli delle mitiche + se li droppi 900 sono meglio",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [174]
 				{
 					["type"] = 1,
-					["time"] = 1486506683,
-					["from"] = "Alitfaier",
-					["msg"] = "e si",
-					["inbound"] = false,
+					["time"] = 1487282006,
+					["from"] = "Jacinda",
+					["msg"] = "stasera sto da dio ho mutato monica e rangi",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [175]
 				{
 					["type"] = 1,
-					["time"] = 1486506704,
+					["time"] = 1487282214,
 					["from"] = "Alitfaier",
-					["msg"] = "quando fenrish muore è perchè non si ripiglia il boss e fenris accumula troppe stak",
+					["msg"] = "cmq rangi prima, subito a fare le pulci sui loot",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [176]
 				{
 					["type"] = 1,
-					["time"] = 1486506719,
+					["time"] = 1487282273,
 					["from"] = "Jacinda",
-					["msg"] = "piu tempo per me tra untry e laltro per montare audio sul video di arcavia",
+					["msg"] = "non lo sento",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [177]
 				{
 					["type"] = 1,
-					["time"] = 1486506727,
+					["time"] = 1487282311,
 					["from"] = "Jacinda",
-					["msg"] = "11",
+					["msg"] = "che ha detto",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [178]
 				{
 					["type"] = 1,
-					["time"] = 1486506980,
+					["time"] = 1487282325,
 					["from"] = "Alitfaier",
-					["msg"] = "8",
+					["msg"] = "ha detto:-monica sai che chiave mi è uscita?",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [179]
 				{
 					["type"] = 1,
-					["time"] = 1486507051,
-					["from"] = "Jacinda",
-					["msg"] = "qui non mi sembra colpa sua",
-					["inbound"] = true,
+					["time"] = 1487282336,
+					["from"] = "Alitfaier",
+					["msg"] = "e io l'ho anticipato... quella di sasha gray",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [180]
 				{
 					["type"] = 1,
-					["time"] = 1486507066,
+					["time"] = 1487282341,
 					["from"] = "Jacinda",
-					["msg"] = "era bassa di vita mancate cure e morta kate",
+					["msg"] = "no pulce su loot",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [181]
 				{
 					["type"] = 1,
-					["time"] = 1486507085,
-					["from"] = "Jacinda",
-					["msg"] = "levaTI ASSENTE",
-					["inbound"] = true,
+					["time"] = 1487282351,
+					["from"] = "Alitfaier",
+					["msg"] = "quando hai preso la reliquia",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [182]
 				{
 					["type"] = 1,
-					["time"] = 1486507099,
-					["from"] = "Alitfaier",
-					["msg"] = "si poteva anche tirarsi una cura  da sola è druido cristo...",
-					["inbound"] = false,
+					["time"] = 1487282363,
+					["from"] = "Jacinda",
+					["msg"] = "si perche non si fa cazzi suoi",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [183]
 				{
 					["type"] = 1,
-					["time"] = 1486507131,
-					["from"] = "Jacinda",
-					["msg"] = "se era in cd?",
-					["inbound"] = true,
+					["time"] = 1487282451,
+					["from"] = "Alitfaier",
+					["msg"] = "ovvio",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [184]
 				{
 					["type"] = 1,
-					["time"] = 1486508792,
+					["time"] = 1487282480,
 					["from"] = "Jacinda",
-					["msg"] = "non mi sembra che c'è tutto sto dps",
+					["msg"] = "non ho preso relic",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [185]
 				{
 					["type"] = 1,
-					["time"] = 1486508803,
+					["time"] = 1487282490,
 					["from"] = "Alitfaier",
-					["msg"] = "no siamo troppo bassi",
+					["msg"] = "si però l'hai neddata",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [186]
 				{
 					["type"] = 1,
-					["time"] = 1486508816,
+					["time"] = 1487282497,
 					["from"] = "Jacinda",
-					["msg"] = "non so cosa cazzo vedono",
+					["msg"] = "l'ho neddata come biss",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [187]
 				{
 					["type"] = 1,
-					["time"] = 1486508826,
+					["time"] = 1487282510,
 					["from"] = "Alitfaier",
-					["msg"] = "siamo un ehaler in più",
+					["msg"] = "te la stava dando e rangi ha detto ma da holy la runa che cazzo ne so non c'è",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [188]
 				{
 					["type"] = 1,
-					["time"] = 1486575726,
-					["from"] = "Alitfaier",
-					["msg"] = "strano... parli del raid e compare",
-					["inbound"] = false,
+					["time"] = 1487282515,
+					["from"] = "Jacinda",
+					["msg"] = "ovvio e sulla mia bis list",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [189]
 				{
 					["type"] = 1,
-					["time"] = 1486575747,
-					["from"] = "Jacinda",
-					["msg"] = "no gli ho scritto io che ero online",
-					["inbound"] = true,
+					["time"] = 1487282528,
+					["from"] = "Alitfaier",
+					["msg"] = "e non te l'ha data",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [190]
 				{
 					["type"] = 1,
-					["time"] = 1486585288,
-					["from"] = "Alitfaier",
-					["msg"] = "dio cristo volevo fare la foto... ",
-					["inbound"] = false,
+					["time"] = 1487282553,
+					["from"] = "Jacinda",
+					["msg"] = "infatti ho scritto a rangi di farsi i cazzi suoi che non e lui a dare loot",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [191]
 				{
 					["type"] = 1,
-					["time"] = 1486585300,
+					["time"] = 1487282577,
 					["from"] = "Alitfaier",
-					["msg"] = "ci ho guardato ieri pomeriggio e non c'era",
+					["msg"] = "pensi che cambi qualcosa?",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [192]
 				{
 					["type"] = 1,
-					["time"] = 1486585351,
-					["from"] = "Jacinda",
-					["msg"] = "che foto",
-					["inbound"] = true,
+					["time"] = 1487282639,
+					["from"] = "Alitfaier",
+					["msg"] = "cmq sto prete è una sega",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [193]
 				{
 					["type"] = 1,
-					["time"] = 1486585362,
+					["time"] = 1487282649,
 					["from"] = "Alitfaier",
-					["msg"] = "del culo della padella",
+					["msg"] = "peggio di donzachiappa",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [194]
 				{
 					["type"] = 1,
-					["time"] = 1486585395,
+					["time"] = 1487282739,
 					["from"] = "Jacinda",
-					["msg"] = "?",
+					["msg"] = "no comment",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [195]
 				{
 					["type"] = 1,
-					["time"] = 1486586378,
+					["time"] = 1487282819,
 					["from"] = "Jacinda",
-					["msg"] = "21.40 ancora non  siamo partiti",
+					["msg"] = "kate si e accorta solo perche lo ha detto rangi",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [196]
 				{
 					["type"] = 1,
-					["time"] = 1486586856,
+					["time"] = 1487287234,
 					["from"] = "Jacinda",
-					["msg"] = "puo essere che mi son gia rotto di raidare stasera",
+					["msg"] = "si lo notano ora ma lo si s a dal primom try fatto sta cosa delle  pozze",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [197]
 				{
 					["type"] = 1,
-					["time"] = 1486587367,
+					["time"] = 1487287265,
 					["from"] = "Alitfaier",
-					["msg"] = "cosa stiamo aspettando?",
+					["msg"] = "a sto giro le pozze sono andate",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [198]
 				{
 					["type"] = 1,
-					["time"] = 1486587373,
-					["from"] = "Jacinda",
-					["msg"] = "kate",
-					["inbound"] = true,
+					["time"] = 1487287274,
+					["from"] = "Alitfaier",
+					["msg"] = "le hanno tirate ma eravamo indietro..",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [199]
 				{
 					["type"] = 1,
-					["time"] = 1486587380,
+					["time"] = 1487287326,
 					["from"] = "Jacinda",
-					["msg"] = "mi sono gia rotto",
+					["msg"] = "si sei lunico che ne ha usate due pero",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [200]
 				{
 					["type"] = 1,
-					["time"] = 1486587382,
+					["time"] = 1487287340,
 					["from"] = "Alitfaier",
-					["msg"] = "dovè andata?",
+					["msg"] = "perchè ero vivo",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [201]
 				{
 					["type"] = 1,
-					["time"] = 1486587390,
+					["time"] = 1487287354,
 					["from"] = "Jacinda",
-					["msg"] = "e noi siamo semiharcore",
+					["msg"] = "non solo tu eri vivo",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [202]
 				{
 					["type"] = 1,
-					["time"] = 1486587395,
-					["from"] = "Jacinda",
-					["msg"] = "hahahahahahahahahaha+",
-					["inbound"] = true,
+					["time"] = 1487287374,
+					["from"] = "Alitfaier",
+					["msg"] = "no no anche kayn  are ime asia licrezia tempest e te",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [203]
 				{
 					["type"] = 1,
-					["time"] = 1486587779,
+					["time"] = 1487287386,
 					["from"] = "Alitfaier",
-					["msg"] = "io vglio dire... sai che sbagli molto... e ti incasini... stai zitta e concentrati almeno...",
+					["msg"] = "poi glia ltri so morti",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [204]
 				{
 					["type"] = 1,
-					["time"] = 1486587790,
-					["from"] = "Alitfaier",
-					["msg"] = "un tank che muore qua fa ridere",
-					["inbound"] = false,
+					["time"] = 1487287412,
+					["from"] = "Jacinda",
+					["msg"] = "si una non due",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [205]
 				{
 					["type"] = 1,
-					["time"] = 1486587821,
-					["from"] = "Jacinda",
-					["msg"] = "si ma qui fanno quel cazzo che vogliono",
-					["inbound"] = true,
+					["time"] = 1487288129,
+					["from"] = "Alitfaier",
+					["msg"] = "tanto non ti fa tankare",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [206]
 				{
 					["type"] = 1,
-					["time"] = 1486587845,
+					["time"] = 1487288147,
 					["from"] = "Jacinda",
-					["msg"] = "era meglio orfeo come raid leader avrebbe messo un po piu di disciplina",
+					["msg"] = "ma infatti gli ho detto che cerco gilda ",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [207]
 				{
 					["type"] = 1,
-					["time"] = 1486587857,
+					["time"] = 1487288161,
 					["from"] = "Jacinda",
-					["msg"] = "andrea nonmim piace come raidleader",
+					["msg"] = "non ho piu sto problema appena trovo ciao ciao",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [208]
 				{
 					["type"] = 1,
-					["time"] = 1486587868,
+					["time"] = 1487288194,
 					["from"] = "Jacinda",
-					["msg"] = "come Kate troppo acondiscendente",
+					["msg"] = "un paio di range d ",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [209]
 				{
 					["type"] = 1,
-					["time"] = 1486587882,
-					["from"] = "Alitfaier",
-					["msg"] = "no ",
-					["inbound"] = false,
+					["time"] = 1487288214,
+					["from"] = "Jacinda",
+					["msg"] = "e va giu ma quando mai che abbio gente che fa 200k",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [210]
 				{
 					["type"] = 1,
-					["time"] = 1486587898,
+					["time"] = 1487288223,
 					["from"] = "Alitfaier",
-					["msg"] = "penso che non sia così... per me è kate che non lo lascia fare",
+					["msg"] = "il fatot e che l'hai minacciato tante di quelle volte che ormai non ti credono più",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [211]
 				{
 					["type"] = 1,
-					["time"] = 1486587909,
+					["time"] = 1487288237,
 					["from"] = "Jacinda",
-					["msg"] = "no secondo me no",
+					["msg"] = "e poi se il problema e quello levi melee e bilanci il raid ",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [212]
 				{
 					["type"] = 1,
-					["time"] = 1486587965,
+					["time"] = 1487288254,
 					["from"] = "Jacinda",
-					["msg"] = "alle 21.30 io pullo il boss chi ce ce chi non ce si attacca ",
+					["msg"] = "non che mi fai whippare a cazzo per portare tutti ",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [213]
 				{
 					["type"] = 1,
-					["time"] = 1486587970,
+					["time"] = 1487288387,
 					["from"] = "Jacinda",
-					["msg"] = "qui si aspetta sempre",
+					["msg"] = "cerchiamo per puggare e fare ultimi boss hc domani? o facciamo mitiche?",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [214]
 				{
 					["type"] = 1,
-					["time"] = 1486587999,
+					["time"] = 1487288397,
 					["from"] = "Alitfaier",
-					["msg"] = "{rain}",
+					["msg"] = "come preferisci",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [215]
 				{
 					["type"] = 1,
-					["time"] = 1486588030,
+					["time"] = 1487288404,
 					["from"] = "Jacinda",
-					["msg"] = "non prendo na falsk e ne un cibo voglio vedere se mi dicono qualcosa",
+					["msg"] = "e uguale",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [216]
 				{
 					["type"] = 1,
-					["time"] = 1486589149,
+					["time"] = 1487288409,
 					["from"] = "Alitfaier",
-					["msg"] = "bè prima l'ha detto",
+					["msg"] = "io devo fare elisande a manetta",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [217]
 				{
 					["type"] = 1,
-					["time"] = 1486589163,
-					["from"] = "Jacinda",
-					["msg"] = "cosa?",
-					["inbound"] = true,
+					["time"] = 1487288422,
+					["from"] = "Alitfaier",
+					["msg"] = "ho 9 monetine da buttare li",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [218]
 				{
 					["type"] = 1,
-					["time"] = 1486589177,
+					["time"] = 1487288432,
 					["from"] = "Alitfaier",
-					["msg"] = "delle flask e mangiarini",
+					["msg"] = "devo droppare il trinket",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [219]
 				{
 					["type"] = 1,
-					["time"] = 1486589186,
+					["time"] = 1487288440,
 					["from"] = "Jacinda",
-					["msg"] = "a me?",
+					["msg"] = "io etraeus",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [220]
 				{
 					["type"] = 1,
-					["time"] = 1486589194,
-					["from"] = "Alitfaier",
-					["msg"] = "no in generale",
-					["inbound"] = false,
+					["time"] = 1487288451,
+					["from"] = "Jacinda",
+					["msg"] = "mi da 4 bis",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [221]
 				{
 					["type"] = 1,
-					["time"] = 1486589201,
+					["time"] = 1487288531,
 					["from"] = "Alitfaier",
-					["msg"] = "ovvero è come non dirlo",
+					["msg"] = "comincia a rompere a kate per non gildare quella merda di preppio perfavore...",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [222]
 				{
 					["type"] = 1,
-					["time"] = 1486589210,
-					["from"] = "Jacinda",
-					["msg"] = "infatti",
-					["inbound"] = true,
+					["time"] = 1487288547,
+					["from"] = "Alitfaier",
+					["msg"] = "opponiti con tutto il tuo essere... quello è un'altro da rancare...",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [223]
 				{
 					["type"] = 1,
-					["time"] = 1486589299,
+					["time"] = 1487288612,
 					["from"] = "Jacinda",
-					["msg"] = "vedi perche non si va avanti si perdono in un bicchiere dacqua",
+					["msg"] = "ma se cerco per andare via vuol dire che quello che succede qui non me ne fotte un cazzo anzi spingero per farlo gildare ",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [224]
 				{
 					["type"] = 1,
-					["time"] = 1486589343,
+					["time"] = 1487288633,
 					["from"] = "Alitfaier",
-					["msg"] = "ma cosa hanno sbagliato a fare need o greed o pass?",
+					["msg"] = "e te pareva che avresti fatto il contrqrio",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [225]
 				{
 					["type"] = 1,
-					["time"] = 1486589384,
+					["time"] = 1487288698,
 					["from"] = "Jacinda",
-					["msg"] = "ci credo che andiamo male ",
+					["msg"] = "cazzo ci fa qua sto coglione in ts non se ne era andato",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [226]
 				{
 					["type"] = 1,
-					["time"] = 1486589394,
-					["from"] = "Alitfaier",
-					["msg"] = "mamma mia.",
-					["inbound"] = false,
+					["time"] = 1487288711,
+					["from"] = "Jacinda",
+					["msg"] = "non puo farle con la sua nuova gilda",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [227]
 				{
 					["type"] = 1,
-					["time"] = 1486589404,
+					["time"] = 1487288713,
 					["from"] = "Alitfaier",
-					["msg"] = "dio scandio",
+					["msg"] = "ma si che ti frega",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [228]
 				{
 					["type"] = 1,
-					["time"] = 1486589413,
+					["time"] = 1487288728,
 					["from"] = "Jacinda",
-					["msg"] = "tutto sto problema per un drop normal ",
+					["msg"] = "mi sta sul cazzo e la sua voce mi irrita",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [229]
 				{
 					["type"] = 1,
-					["time"] = 1486589426,
-					["from"] = "Jacinda",
-					["msg"] = "se kate manca una sera che si fa non si danno loot",
-					["inbound"] = true,
+					["time"] = 1487288731,
+					["from"] = "Alitfaier",
+					["msg"] = "non hai detot che vai via e non ti interessa cosa succede?",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [230]
 				{
 					["type"] = 1,
-					["time"] = 1486589902,
-					["from"] = "Alitfaier",
-					["msg"] = "secondo me pensa di essere la madonna scesa dal cielo",
-					["inbound"] = false,
+					["time"] = 1487288747,
+					["from"] = "Jacinda",
+					["msg"] = "si ma mi irrita ora che e in ts ",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [231]
 				{
 					["type"] = 1,
-					["time"] = 1486589946,
+					["time"] = 1487288757,
 					["from"] = "Jacinda",
-					["msg"] = "chi?",
+					["msg"] = "che centra con il vado via",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [232]
 				{
 					["type"] = 1,
-					["time"] = 1486589953,
-					["from"] = "Alitfaier",
-					["msg"] = "kate",
-					["inbound"] = false,
+					["time"] = 1487288793,
+					["from"] = "Jacinda",
+					["msg"] = "cmq se vado devo prendere pure orfeo e chi mi segue",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [233]
 				{
 					["type"] = 1,
-					["time"] = 1486589968,
+					["time"] = 1487288817,
 					["from"] = "Alitfaier",
-					["msg"] = "e l'altra la sorella minore,",
+					["msg"] = "orfeo oggi, mi ha detto che dipende da dove vai",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [234]
 				{
 					["type"] = 1,
-					["time"] = 1486590624,
+					["time"] = 1487288834,
 					["from"] = "Alitfaier",
-					["msg"] = "chiedere a uno riprendi giocare è come chiedere se sei maggiorenne sui siti porno",
+					["msg"] = "quindi o me la raccontate diversa... o mi state trollando",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [235]
 				{
 					["type"] = 1,
-					["time"] = 1486590635,
-					["from"] = "Jacinda",
-					["msg"] = "lol",
-					["inbound"] = true,
+					["time"] = 1487539736,
+					["from"] = "Alitfaier",
+					["msg"] = "cioè alla fine hai fatto tanta fiera e torni in gilda con la coda nelle gambe?",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [236]
 				{
 					["type"] = 1,
-					["time"] = 1486590931,
+					["time"] = 1487539787,
 					["from"] = "Jacinda",
-					["msg"] = "a fine serata kate mi cazzia di brutto hahahahahaha",
+					["msg"] = "ma sei scemo allora",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [237]
 				{
 					["type"] = 1,
-					["time"] = 1486590962,
+					["time"] = 1487539816,
 					["from"] = "Alitfaier",
-					["msg"] = "a me può dire quello che vuole",
+					["msg"] = "ma va.. dai.",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [238]
 				{
 					["type"] = 1,
-					["time"] = 1486591020,
-					["from"] = "Jacinda",
-					["msg"] = "non per quello",
-					["inbound"] = true,
+					["time"] = 1487539882,
+					["from"] = "Alitfaier",
+					["msg"] = "hai leftato incazzato hai fatto na scenata da checca isterica.. lasciando la gilda... e mo torni?",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [239]
 				{
 					["type"] = 1,
-					["time"] = 1486591032,
-					["from"] = "Jacinda",
-					["msg"] = "perche ho sguppato e lasciato ts",
-					["inbound"] = true,
+					["time"] = 1487545302,
+					["from"] = "Alitfaier",
+					["msg"] = "proviamoa  cercare una 15?",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [240]
 				{
 					["type"] = 1,
-					["time"] = 1486591042,
-					["from"] = "Alitfaier",
-					["msg"] = "mi hai preceduto...",
-					["inbound"] = false,
+					["time"] = 1487545339,
+					["from"] = "Jacinda",
+					["msg"] = "si",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [241]
 				{
 					["type"] = 1,
-					["time"] = 1486591047,
+					["time"] = 1487545643,
 					["from"] = "Alitfaier",
-					["msg"] = "lo stqavo facendo io",
+					["msg"] = "vuoi fare la 10 o la 15 di donzachiappa?",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [242]
 				{
 					["type"] = 1,
-					["time"] = 1486591080,
+					["time"] = 1487545664,
 					["from"] = "Jacinda",
-					["msg"] = "si si e lanciato a spada tratta come un coglione",
+					["msg"] = "15 chi ha la 15?",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [243]
 				{
 					["type"] = 1,
-					["time"] = 1486591105,
-					["from"] = "Jacinda",
-					["msg"] = "a difendera la sua donna che ah detto una cazzata",
-					["inbound"] = true,
+					["time"] = 1487545670,
+					["from"] = "Alitfaier",
+					["msg"] = "la cerchiamo",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [244]
 				{
 					["type"] = 1,
-					["time"] = 1486591125,
-					["from"] = "Jacinda",
-					["msg"] = "perche non sa tankare e non sa stare zitta",
-					["inbound"] = true,
+					["time"] = 1487545692,
+					["from"] = "Alitfaier",
+					["msg"] = "prima quando mi ha detto e ma sto tankando bla bla bla ero dentro una 15",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [245]
 				{
 					["type"] = 1,
-					["time"] = 1486591138,
-					["from"] = "Jacinda",
-					["msg"] = "il raid sembra suo ",
-					["inbound"] = true,
+					["time"] = 1487545704,
+					["from"] = "Alitfaier",
+					["msg"] = "poi ho leftato per venire con te.",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [246]
 				{
 					["type"] = 1,
-					["time"] = 1486591161,
+					["time"] = 1487545719,
 					["from"] = "Jacinda",
-					["msg"] = "parla piu lei del raid leader",
+					["msg"] = "chi?",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [247]
 				{
 					["type"] = 1,
-					["time"] = 1486591171,
-					["from"] = "Alitfaier",
-					["msg"] = "io non avevo nulla con lei gli stavo spiegando che mi son messo tank per non perdere tempo inutile",
-					["inbound"] = false,
+					["time"] = 1487545838,
+					["from"] = "Jacinda",
+					["msg"] = "quale?",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [248]
 				{
 					["type"] = 1,
-					["time"] = 1486591199,
-					["from"] = "Jacinda",
-					["msg"] = "si mati hanno aggredito che coglioni senza motivo",
-					["inbound"] = true,
+					["time"] = 1487548559,
+					["from"] = "Alitfaier",
+					["msg"] = "quidi cerchiamo una 15?",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [249]
 				{
 					["type"] = 1,
-					["time"] = 1486591213,
-					["from"] = "Alitfaier",
-					["msg"] = "cmq con kain me ne sarei stato zitto, ho capito subito che stava prendendo le parti della moglie.",
-					["inbound"] = false,
+					["time"] = 1487623677,
+					["from"] = "Jacinda",
+					["msg"] = "mi sto gia rompendo le palle",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [250]
 				{
 					["type"] = 1,
-					["time"] = 1486591243,
-					["from"] = "Jacinda",
-					["msg"] = "si ma se mia moglie dice una stronzata",
-					["inbound"] = true,
+					["time"] = 1487623713,
+					["from"] = "Alitfaier",
+					["msg"] = "io lo sapevo",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [251]
 				{
 					["type"] = 1,
-					["time"] = 1486591245,
+					["time"] = 1487623728,
 					["from"] = "Alitfaier",
-					["msg"] = "so coglioni",
+					["msg"] = "che te devo di napo... lefta",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [252]
 				{
 					["type"] = 1,
-					["time"] = 1486591276,
-					["from"] = "Alitfaier",
-					["msg"] = "ma non ha fatto nulla...",
-					["inbound"] = false,
+					["time"] = 1487623809,
+					["from"] = "Jacinda",
+					["msg"] = "non di quello",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [253]
 				{
 					["type"] = 1,
-					["time"] = 1486591311,
-					["from"] = "Jacinda",
-					["msg"] = "cerco gilda domani",
-					["inbound"] = true,
+					["time"] = 1487623822,
+					["from"] = "Alitfaier",
+					["msg"] = "e di cosa?",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [254]
 				{
 					["type"] = 1,
-					["time"] = 1486591322,
-					["from"] = "Alitfaier",
-					["msg"] = "cerchiamo gilda domani.",
-					["inbound"] = false,
+					["time"] = 1487623825,
+					["from"] = "Jacinda",
+					["msg"] = "ma de sto raid minchia moriamo come lesi",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [255]
 				{
 					["type"] = 1,
-					["time"] = 1486591353,
-					["from"] = "Alitfaier",
-					["msg"] = "ma... secondo me ha il ciclo...",
-					["inbound"] = false,
+					["time"] = 1487623838,
+					["from"] = "Jacinda",
+					["msg"] = "che il boss e appena iniziato",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [256]
 				{
 					["type"] = 1,
-					["time"] = 1486591372,
+					["time"] = 1487624224,
 					["from"] = "Jacinda",
-					["msg"] = "no gli da fastidio chi crea polemiche",
+					["msg"] = "si ma prendeteli pure tanto mica succede nulla poi continui a raidare",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [257]
 				{
 					["type"] = 1,
-					["time"] = 1486591397,
+					["time"] = 1487624481,
 					["from"] = "Alitfaier",
-					["msg"] = "gli da fastidio chi ha un'idea... è diverso",
+					["msg"] = "svegliate...",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [258]
 				{
 					["type"] = 1,
-					["time"] = 1486591457,
+					["time"] = 1487624491,
 					["from"] = "Alitfaier",
-					["msg"] = "ora arriva un meteorite ...",
+					["msg"] = "mori più di rangi stasera",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [259]
 				{
 					["type"] = 1,
-					["time"] = 1486591471,
-					["from"] = "Alitfaier",
-					["msg"] = "rangi ha detto: che lui pensa come gruppo...",
-					["inbound"] = false,
+					["time"] = 1487624492,
+					["from"] = "Jacinda",
+					["msg"] = "e?",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [260]
 				{
 					["type"] = 1,
-					["time"] = 1486591658,
-					["from"] = "Alitfaier",
-					["msg"] = "cioè non si è mai lamentato di niente... ",
-					["inbound"] = false,
+					["time"] = 1487624508,
+					["from"] = "Jacinda",
+					["msg"] = "non mi rompere il cazzo ok ",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [261]
 				{
 					["type"] = 1,
-					["time"] = 1486592219,
+					["time"] = 1487624557,
 					["from"] = "Jacinda",
-					["msg"] = "cerco gilda perche si mi ha detto che mi fa tankare ma se comicnia a kikkare healer cosi non mi sta bene",
+					["msg"] = "ti avviso in raid non mi dire certe cose perche sto nervoso e rispondo male",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [262]
 				{
 					["type"] = 1,
-					["time"] = 1486592239,
-					["from"] = "Alitfaier",
-					["msg"] = "non volevo dirtelo...",
-					["inbound"] = false,
+					["time"] = 1487624560,
+					["from"] = "Jacinda",
+					["msg"] = "ok",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [263]
 				{
 					["type"] = 1,
-					["time"] = 1486592244,
-					["from"] = "Alitfaier",
-					["msg"] = "ma si è così",
-					["inbound"] = false,
+					["time"] = 1487624612,
+					["from"] = "Jacinda",
+					["msg"] = "sono morto perche me girtato il cazzo non riesco a giocare che me chiamano tutto mi distrae ",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [264]
 				{
 					["type"] = 1,
-					["time"] = 1486592255,
-					["from"] = "Alitfaier",
-					["msg"] = "non ha mai avuto intenzione di farti tankare..",
-					["inbound"] = false,
+					["time"] = 1487624681,
+					["from"] = "Jacinda",
+					["msg"] = "non mi sembra ti ho detto nulla del genere settimana scorsa che te prendevi raggi in faccia",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [265]
 				{
 					["type"] = 1,
-					["time"] = 1486592482,
-					["from"] = "Alitfaier",
-					["msg"] = "che tipo di gilda vuoi cercare?",
-					["inbound"] = false,
+					["time"] = 1487624711,
+					["from"] = "Jacinda",
+					["msg"] = "e innervosirmi ancora di piou non aiouta a far si che muoio meno",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [266]
 				{
 					["type"] = 1,
-					["time"] = 1486592507,
-					["from"] = "Alitfaier",
-					["msg"] = "ti dico io non vengo nei paranoial activity",
-					["inbound"] = false,
+					["time"] = 1487625106,
+					["from"] = "Jacinda",
+					["msg"] = "manca dps",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [267]
 				{
 					["type"] = 1,
-					["time"] = 1486594517,
+					["time"] = 1487625121,
 					["from"] = "Alitfaier",
-					["msg"] = "dai ressami",
+					["msg"] = "se non morivano era fatto",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [268]
 				{
 					["type"] = 1,
-					["time"] = 1486594566,
+					["time"] = 1487625130,
 					["from"] = "Jacinda",
-					["msg"] = "nelle pause gardo serie tv",
+					["msg"] = "si ma manca dps ",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [269]
 				{
 					["type"] = 1,
-					["time"] = 1486594591,
-					["from"] = "Alitfaier",
-					["msg"] = "io leggo",
-					["inbound"] = false,
+					["time"] = 1487625135,
+					["from"] = "Jacinda",
+					["msg"] = "siamo troppo tirati",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [270]
 				{
 					["type"] = 1,
-					["time"] = 1486594606,
-					["from"] = "Jacinda",
-					["msg"] = "lagghi?",
-					["inbound"] = true,
+					["time"] = 1487625322,
+					["from"] = "Alitfaier",
+					["msg"] = "cmq su worcraft log le kill non sono oltre i 4:33",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [271]
 				{
 					["type"] = 1,
-					["time"] = 1486594612,
-					["from"] = "Jacinda",
-					["msg"] = "hahahahahahahahaha",
-					["inbound"] = true,
+					["time"] = 1487625337,
+					["from"] = "Alitfaier",
+					["msg"] = "oltre non l'ha fatto nessuno",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [272]
 				{
 					["type"] = 1,
-					["time"] = 1486595313,
+					["time"] = 1487625342,
 					["from"] = "Alitfaier",
-					["msg"] = "mi dispiace troppo per sinshoo",
+					["msg"] = "passiamoa lla storia",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [273]
 				{
 					["type"] = 1,
-					["time"] = 1486595331,
+					["time"] = 1487625363,
 					["from"] = "Jacinda",
-					["msg"] = "si ",
+					["msg"] = "manca dps",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [274]
 				{
 					["type"] = 1,
-					["time"] = 1486595340,
-					["from"] = "Jacinda",
-					["msg"] = "secondo me e bravo",
-					["inbound"] = true,
+					["time"] = 1487626056,
+					["from"] = "Alitfaier",
+					["msg"] = "ma perchè rangi sta sucando a mele?",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [275]
 				{
 					["type"] = 1,
-					["time"] = 1486595353,
+					["time"] = 1487626211,
 					["from"] = "Jacinda",
-					["msg"] = "e non ho ancora capito perche kikkarlo",
+					["msg"] = "che ne so io",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [276]
 				{
 					["type"] = 1,
-					["time"] = 1486595367,
-					["from"] = "Alitfaier",
-					["msg"] = "si non ha mai rotto, ha sempre wippato senza dire ba",
-					["inbound"] = false,
+					["time"] = 1487626217,
+					["from"] = "Jacinda",
+					["msg"] = "non gioco monk",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [277]
 				{
 					["type"] = 1,
-					["time"] = 1486595380,
+					["time"] = 1487626236,
 					["from"] = "Alitfaier",
-					["msg"] = "sempre in orario",
+					["msg"] = "perchè non giochi monk?",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [278]
 				{
 					["type"] = 1,
-					["time"] = 1486595387,
-					["from"] = "Jacinda",
-					["msg"] = "kate dice che rompeva e non pensava al gruppo",
-					["inbound"] = true,
+					["time"] = 1487626245,
+					["from"] = "Alitfaier",
+					["msg"] = "perchè non lo sai?",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [279]
 				{
 					["type"] = 1,
-					["time"] = 1486595400,
-					["from"] = "Alitfaier",
-					["msg"] = "molto indubbia",
-					["inbound"] = false,
+					["time"] = 1487627175,
+					["from"] = "Jacinda",
+					["msg"] = "manca dps ",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [280]
 				{
 					["type"] = 1,
-					["time"] = 1486595402,
+					["time"] = 1487627187,
 					["from"] = "Alitfaier",
-					["msg"] = "sta cosa",
+					["msg"] = "ma c'erano due morti",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [281]
 				{
 					["type"] = 1,
-					["time"] = 1486595414,
-					["from"] = "Alitfaier",
-					["msg"] = "perchè io non l'ho mai sentito lamentarsi",
-					["inbound"] = false,
+					["time"] = 1487627200,
+					["from"] = "Jacinda",
+					["msg"] = "si ma pd siamo troppo tirati",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [282]
 				{
 					["type"] = 1,
-					["time"] = 1486595431,
+					["time"] = 1487627214,
 					["from"] = "Jacinda",
-					["msg"] = "ma se si e girato dps tutte le volte che kate gli diceva di farlo",
+					["msg"] = "non si faceva cmq",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [283]
 				{
 					["type"] = 1,
-					["time"] = 1486595440,
-					["from"] = "Alitfaier",
-					["msg"] = "infatti",
-					["inbound"] = false,
+					["time"] = 1487627247,
+					["from"] = "Jacinda",
+					["msg"] = "in ultima fase non fai tutto sto dps devi muoverti sempre",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [284]
 				{
 					["type"] = 1,
-					["time"] = 1486595468,
+					["time"] = 1487627343,
 					["from"] = "Jacinda",
-					["msg"] = "si ha fatto fine di lucio che era dps ma passava il temp healer ",
+					["msg"] = "poi sti qua pd se lagghi cazzo fai esci subito stai qui a far crepare alre persone",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [285]
 				{
 					["type"] = 1,
-					["time"] = 1486595482,
-					["from"] = "Jacinda",
-					["msg"] = "finche poi si e rotto e a smesso",
-					["inbound"] = true,
+					["time"] = 1487627378,
+					["from"] = "Alitfaier",
+					["msg"] = "non ci credo che butta fuori gente",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [286]
 				{
 					["type"] = 1,
-					["time"] = 1486596201,
-					["from"] = "Jacinda",
-					["msg"] = "perche morti enrage?",
-					["inbound"] = true,
+					["time"] = 1487627382,
+					["from"] = "Alitfaier",
+					["msg"] = "manco se lo vedo",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [287]
 				{
 					["type"] = 1,
-					["time"] = 1486596236,
-					["from"] = "Alitfaier",
-					["msg"] = "il terzo add quando esce ha la stessa vita che ha il boss",
-					["inbound"] = false,
+					["time"] = 1487627394,
+					["from"] = "Jacinda",
+					["msg"] = "la gia fatto in passato",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [288]
 				{
 					["type"] = 1,
-					["time"] = 1486596252,
+					["time"] = 1487627473,
 					["from"] = "Jacinda",
-					["msg"] = "ma perche siamo morti",
+					["msg"] = "non so come si fa prendere raggio da dps",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [289]
 				{
 					["type"] = 1,
-					["time"] = 1486596257,
+					["time"] = 1487627606,
 					["from"] = "Jacinda",
-					["msg"] = "?",
+					["msg"] = "cmq ho visto monica balzare e prendere cerchietti quasi in fotto ",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [290]
 				{
 					["type"] = 1,
-					["time"] = 1486596257,
-					["from"] = "Alitfaier",
-					["msg"] = "enrage",
-					["inbound"] = false,
+					["time"] = 1487627609,
+					["from"] = "Jacinda",
+					["msg"] = "aiutooo",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [291]
 				{
 					["type"] = 1,
-					["time"] = 1486596264,
+					["time"] = 1487627630,
 					["from"] = "Jacinda",
-					["msg"] = "in normal  gg",
+					["msg"] = "fondo",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [292]
 				{
 					["type"] = 1,
-					["time"] = 1486597001,
+					["time"] = 1487627966,
 					["from"] = "Jacinda",
-					["msg"] = "come ragiona col culo kate",
+					["msg"] = "rangi butta cd all inizio che non serve poi ora che serviva non c'è lha ",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [293]
 				{
 					["type"] = 1,
-					["time"] = 1486597007,
-					["from"] = "Alitfaier",
-					["msg"] = "ma quel trinket a me segna che è da dps",
-					["inbound"] = false,
+					["time"] = 1487627970,
+					["from"] = "Jacinda",
+					["msg"] = "mi fa ridere",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [294]
 				{
 					["type"] = 1,
-					["time"] = 1486597014,
+					["time"] = 1487628950,
 					["from"] = "Jacinda",
-					["msg"] = "no ",
+					["msg"] = "naye nensy e donza fuori",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [295]
 				{
 					["type"] = 1,
-					["time"] = 1486597016,
+					["time"] = 1487628979,
 					["from"] = "Alitfaier",
-					["msg"] = "cmq va bp",
+					["msg"] = "ma nensy aveva detto già da prima che leftava",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [296]
 				{
 					["type"] = 1,
-					["time"] = 1486597018,
+					["time"] = 1487629001,
 					["from"] = "Jacinda",
-					["msg"] = "bis healer",
+					["msg"] = "si ma poi a detto ora sempbra andare",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [297]
 				{
 					["type"] = 1,
-					["time"] = 1486597025,
+					["time"] = 1487629026,
 					["from"] = "Alitfaier",
-					["msg"] = "si si ok",
+					["msg"] = "sto paio di palle",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [298]
 				{
 					["type"] = 1,
-					["time"] = 1486597040,
+					["time"] = 1487629128,
 					["from"] = "Jacinda",
-					["msg"] = "incantesimi di cura",
+					["msg"] = "solo nensy",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [299]
 				{
 					["type"] = 1,
-					["time"] = 1486597041,
-					["from"] = "Alitfaier",
-					["msg"] = "che ragiona a culo lo sappiamo ",
-					["inbound"] = false,
+					["time"] = 1487629165,
+					["from"] = "Jacinda",
+					["msg"] = "ora pure donza ciuppa",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [300]
 				{
 					["type"] = 1,
-					["time"] = 1486597064,
+					["time"] = 1487629175,
 					["from"] = "Alitfaier",
-					["msg"] = "leggilo in inglese... non specifica healer",
+					["msg"] = "donzachiapa",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [301]
 				{
 					["type"] = 1,
-					["time"] = 1486597070,
+					["time"] = 1487629180,
 					["from"] = "Alitfaier",
-					["msg"] = "è tradotto male",
+					["msg"] = "chiappa",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [302]
 				{
 					["type"] = 1,
-					["time"] = 1486597076,
-					["from"] = "Jacinda",
-					["msg"] = "rangi non c'è mai in progres ultimamente cazzo lo passi a lui",
-					["inbound"] = true,
+					["time"] = 1487629184,
+					["from"] = "Alitfaier",
+					["msg"] = "non ciuppa",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [303]
 				{
 					["type"] = 1,
-					["time"] = 1486597091,
-					["from"] = "Alitfaier",
-					["msg"] = "è  suo amico",
-					["inbound"] = false,
+					["time"] = 1487629809,
+					["from"] = "Jacinda",
+					["msg"] = "ancora un ora di sta agonia",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [304]
 				{
 					["type"] = 1,
-					["time"] = 1486597095,
-					["from"] = "Alitfaier",
-					["msg"] = "cosa pensi...",
-					["inbound"] = false,
+					["time"] = 1487631281,
+					["from"] = "Jacinda",
+					["msg"] = "grande ti lovvo",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [305]
 				{
 					["type"] = 1,
-					["time"] = 1486597144,
-					["from"] = "Alitfaier",
-					["msg"] = "cmq mi è aumentato ancora il danno dell'arma...",
-					["inbound"] = false,
+					["time"] = 1487631285,
+					["from"] = "Jacinda",
+					["msg"] = "hahahahahahaah",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [306]
 				{
 					["type"] = 1,
-					["time"] = 1486597163,
-					["from"] = "Jacinda",
-					["msg"] = "ottimo",
-					["inbound"] = true,
+					["time"] = 1487631290,
+					["from"] = "Alitfaier",
+					["msg"] = "si sta laggando",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [307]
 				{
 					["type"] = 1,
-					["time"] = 1486597171,
-					["from"] = "Alitfaier",
-					["msg"] = "ma devo trovarle tutte 910 ",
-					["inbound"] = false,
+					["time"] = 1487631316,
+					["from"] = "Jacinda",
+					["msg"] = "si non ha detto nulla e lagga ora giusto giusto",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [308]
 				{
 					["type"] = 1,
-					["time"] = 1486597187,
-					["from"] = "Alitfaier",
-					["msg"] = "senò è come se meno con armi di plastica..",
-					["inbound"] = false,
+					["time"] = 1487631925,
+					["from"] = "Jacinda",
+					["msg"] = "ci muore sempre li da quando stiamo facendo sto coso",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [309]
 				{
 					["type"] = 1,
-					["time"] = 1486597236,
-					["from"] = "Jacinda",
-					["msg"] = "mi serve relic ferro ",
-					["inbound"] = true,
+					["time"] = 1487632493,
+					["from"] = "Alitfaier",
+					["msg"] = "io capisco che ci muore sempre li... ma però non l'hai curata..",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [310]
 				{
 					["type"] = 1,
-					["time"] = 1486597237,
-					["from"] = "Alitfaier",
-					["msg"] = "cmq io ho smepre pensato una cosa...",
-					["inbound"] = false,
+					["time"] = 1487632538,
+					["from"] = "Jacinda",
+					["msg"] = "come no",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [311]
 				{
 					["type"] = 1,
-					["time"] = 1486597246,
+					["time"] = 1487632550,
 					["from"] = "Alitfaier",
-					["msg"] = "che uno deve giocare come gli piace..",
+					["msg"] = "gli ultimi 10 secondi ha ricevuto tre cure",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [312]
 				{
 					["type"] = 1,
-					["time"] = 1486597252,
+					["time"] = 1487632592,
 					["from"] = "Jacinda",
-					["msg"] = "e la piu bassa che ho 865 ",
+					["msg"] = "io ho persone da curar",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [313]
 				{
 					["type"] = 1,
-					["time"] = 1486597260,
+					["time"] = 1487633544,
 					["from"] = "Alitfaier",
-					["msg"] = "e infatti io ho sempre dato liberta di scelta hai player ",
+					["msg"] = "si si non sa cosa sta dicendo",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [314]
 				{
 					["type"] = 1,
-					["time"] = 1486597263,
+					["time"] = 1487633574,
 					["from"] = "Jacinda",
-					["msg"] = "si ma non lo capiscono",
+					["msg"] = "ero fuori gruppo melee tutto alla sua destra",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [315]
 				{
 					["type"] = 1,
-					["time"] = 1486597282,
-					["from"] = "Jacinda",
-					["msg"] = "qui c'è liberta solo per alcuni",
-					["inbound"] = true,
+					["time"] = 1487633588,
+					["from"] = "Alitfaier",
+					["msg"] = "ma si non lo vedi che tanka di schiena?",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [316]
 				{
 					["type"] = 1,
-					["time"] = 1486597284,
-					["from"] = "Alitfaier",
-					["msg"] = "se poi mi trovavo con più healer o tank, si facevano rotazioni",
-					["inbound"] = false,
+					["time"] = 1487633594,
+					["from"] = "Jacinda",
+					["msg"] = "ero sul viola",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [317]
 				{
 					["type"] = 1,
-					["time"] = 1486597290,
+					["time"] = 1487633633,
 					["from"] = "Jacinda",
-					["msg"] = "che fanno come gli pare",
+					["msg"] = "tankare di shiena no ",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [318]
 				{
 					["type"] = 1,
-					["time"] = 1486597305,
-					["from"] = "Jacinda",
-					["msg"] = "certo come fanno tutte le gilde",
-					["inbound"] = true,
+					["time"] = 1487634036,
+					["from"] = "Alitfaier",
+					["msg"] = "15?",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [319]
 				{
 					["type"] = 1,
-					["time"] = 1486597306,
+					["time"] = 1487634040,
 					["from"] = "Alitfaier",
-					["msg"] = "o si mettevano off spec",
+					["msg"] = "14?",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [320]
 				{
 					["type"] = 1,
-					["time"] = 1486597333,
+					["time"] = 1487634116,
 					["from"] = "Jacinda",
-					["msg"] = "solo qui non si fa rotazione non si tiene fuori nessuno ",
+					["msg"] = "chiariamo dopo raid non faccio mitiche ",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [321]
 				{
 					["type"] = 1,
-					["time"] = 1486597345,
+					["time"] = 1487634126,
 					["from"] = "Alitfaier",
-					["msg"] = "se a uno la off non l'aveva pace... poi al massimo si parlava in gilda e si vedeva come incastrarsi",
+					["msg"] = "perchè?",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [322]
 				{
 					["type"] = 1,
-					["time"] = 1486597355,
+					["time"] = 1487634140,
 					["from"] = "Jacinda",
-					["msg"] = "cmq parlando con kate altro giorno mi ha confermato che siamo semiharcore",
+					["msg"] = "PERCHE MI SONO GIA STRESSATO 3 ORE ",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [323]
 				{
 					["type"] = 1,
-					["time"] = 1486597421,
-					["from"] = "Alitfaier",
-					["msg"] = "lei non sa nemmeno cosa sia semiharcore",
-					["inbound"] = false,
+					["time"] = 1487634147,
+					["from"] = "Jacinda",
+					["msg"] = "sorry caps",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [324]
 				{
 					["type"] = 1,
-					["time"] = 1486597432,
-					["from"] = "Jacinda",
-					["msg"] = "fauci +9",
-					["inbound"] = true,
+					["time"] = 1487634150,
+					["from"] = "Alitfaier",
+					["msg"] = "vabè allora scuriamo... dai non fare il freno andiamo a fare una mitica",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [325]
 				{
 					["type"] = 1,
-					["time"] = 1486597433,
-					["from"] = "Alitfaier",
-					["msg"] = "non a caso è stata cacciata dagli exordium",
-					["inbound"] = false,
+					["time"] = 1487634159,
+					["from"] = "Jacinda",
+					["msg"] = "cambio ts",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [326]
 				{
 					["type"] = 1,
-					["time"] = 1486597437,
+					["time"] = 1487767810,
 					["from"] = "Alitfaier",
-					["msg"] = "ok",
+					["msg"] = "non male",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [327]
 				{
 					["type"] = 1,
-					["time"] = 1486597469,
-					["from"] = "Jacinda",
-					["msg"] = "si ma gli lo detto ",
-					["inbound"] = true,
+					["time"] = 1487767813,
+					["from"] = "Alitfaier",
+					["msg"] = " |cffa335ee|Hitem:134141::::::::110:72::35:3:3534:1552:3337:::|h[Calzari Rocciosi]|h|r",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [328]
 				{
 					["type"] = 1,
-					["time"] = 1486597482,
-					["from"] = "Jacinda",
-					["msg"] = "che lo siamo perche lo dice lei ma non con i fatti",
-					["inbound"] = true,
+					["time"] = 1487767818,
+					["from"] = "Alitfaier",
+					["msg"] = " |cffa335ee|Hitem:138019::::::::110:72:8257536:::1501:10:7:2:10:1:::|h[Chiave del Potere]|h|r",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [329]
 				{
 					["type"] = 1,
-					["time"] = 1486597490,
+					["time"] = 1487767862,
 					["from"] = "Alitfaier",
-					["msg"] = "cmq in parecchi mi hanno wispato stasera",
+					["msg"] = "cmq ieri sera sono andato a vedere  i gruppi che fanno 14 e 15, e sono tutti con il doppio bonus di ricca della notte...",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [330]
 				{
 					["type"] = 1,
-					["time"] = 1486597493,
+					["time"] = 1487767871,
 					["from"] = "Alitfaier",
-					["msg"] = "non so a te",
+					["msg"] = "rocca..",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [331]
 				{
 					["type"] = 1,
-					["time"] = 1486597500,
-					["from"] = "Jacinda",
-					["msg"] = "per?",
-					["inbound"] = true,
+					["time"] = 1487767899,
+					["from"] = "Alitfaier",
+					["msg"] = "siamo poco vestiti per ora... e in gilda si stanno vestendo prima gli altri.. perchè i pezzi kate li da a muzzo",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [332]
 				{
 					["type"] = 1,
-					["time"] = 1486597506,
+					["time"] = 1487768294,
 					["from"] = "Jacinda",
-					["msg"] = "non a me nessuno",
+					["msg"] = "ts",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [333]
 				{
 					["type"] = 1,
-					["time"] = 1486597509,
+					["time"] = 1487768357,
 					["from"] = "Alitfaier",
-					["msg"] = "per il comportamento che ha avuto kate",
+					["msg"] = "fra mezz'ora arrivo",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [334]
 				{
 					["type"] = 1,
-					["time"] = 1486597523,
-					["from"] = "Alitfaier",
-					["msg"] = "mi ha wispato funny xeal shamano te",
-					["inbound"] = false,
+					["time"] = 1487768484,
+					["from"] = "Jacinda",
+					["msg"] = "ok",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [335]
 				{
 					["type"] = 1,
-					["time"] = 1486597523,
-					["from"] = "Jacinda",
-					["msg"] = "ki ti ha wispato",
-					["inbound"] = true,
+					["time"] = 1487796156,
+					["from"] = "Alitfaier",
+					["msg"] = "che combini?",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [336]
 				{
 					["type"] = 1,
-					["time"] = 1486597539,
-					["from"] = "Jacinda",
-					["msg"] = "ovvio",
-					["inbound"] = true,
+					["time"] = 1487796462,
+					["from"] = "Alitfaier",
+					["msg"] = "ci seiiiii",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [337]
 				{
 					["type"] = 1,
-					["time"] = 1486597554,
-					["from"] = "Jacinda",
-					["msg"] = "tutti i nuovi si preoccupano",
-					["inbound"] = true,
+					["time"] = 1487796471,
+					["from"] = "Alitfaier",
+					["msg"] = "luigiiiii",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [338]
 				{
 					["type"] = 1,
-					["time"] = 1486597571,
+					["time"] = 1487797499,
 					["from"] = "Alitfaier",
-					["msg"] = "vorrei parlare con asia per sentire cosa ne pensa",
+					["msg"] = "vieni sul tuo ts?",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [339]
 				{
 					["type"] = 1,
-					["time"] = 1486597590,
-					["from"] = "Alitfaier",
-					["msg"] = "ma ho paura che poi, vada a parlarne con lei",
-					["inbound"] = false,
+					["time"] = 1487797599,
+					["from"] = "Jacinda",
+					["msg"] = "ci sono",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [340]
 				{
 					["type"] = 1,
-					["time"] = 1486597608,
-					["from"] = "Alitfaier",
-					["msg"] = "xeal ha detto che domani cambia gilda",
-					["inbound"] = false,
+					["time"] = 1487800340,
+					["from"] = "Jacinda",
+					["msg"] = "i nedd",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [341]
 				{
 					["type"] = 1,
-					["time"] = 1486597622,
+					["time"] = 1487862988,
 					["from"] = "Alitfaier",
-					["msg"] = "anzi no scusa di cambiare gilda",
+					["msg"] = "ci sei?",
 					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [342]
 				{
 					["type"] = 1,
-					["time"] = 1486597633,
-					["from"] = "Alitfaier",
-					["msg"] = "o gm",
-					["inbound"] = false,
+					["time"] = 1487863106,
+					["from"] = "Jacinda",
+					["msg"] = "stai tranquillo",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [343]
 				{
 					["type"] = 1,
-					["time"] = 1486597779,
+					["time"] = 1487863288,
 					["from"] = "Jacinda",
-					["msg"] = "orfeo mi ha detto che mi segue",
+					["msg"] = "tranquillo",
 					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [344]
 				{
 					["type"] = 1,
-					["time"] = 1486597831,
-					["from"] = "Alitfaier",
-					["msg"] = "bo",
-					["inbound"] = false,
+					["time"] = 1487863294,
+					["from"] = "Jacinda",
+					["msg"] = "non dire parolacce",
+					["inbound"] = true,
 					["convo"] = "Jacinda",
 				}, -- [345]
 				{
 					["type"] = 1,
-					["time"] = 1486597840,
-					["from"] = "Jacinda",
-					["msg"] = "bo cosa?",
-					["inbound"] = true,
+					["time"] = 1487865825,
+					["from"] = "Alitfaier",
+					["msg"] = "cmq porco zio... bisogna essere sempre li a dire zi badrona..",
+					["inbound"] = false,
 					["convo"] = "Jacinda",
 				}, -- [346]
-				{
-					["type"] = 1,
-					["time"] = 1486597853,
-					["from"] = "Jacinda",
-					["msg"] = "caqmbiare gm e impossibile",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [347]
-				{
-					["type"] = 1,
-					["time"] = 1486597874,
-					["from"] = "Jacinda",
-					["msg"] = "almeno che non lo chiediamo in tanti",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [348]
-				{
-					["type"] = 1,
-					["time"] = 1486597874,
-					["from"] = "Alitfaier",
-					["msg"] = "quando ha tirato la cosa... come se fosse una minaccia",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [349]
-				{
-					["type"] = 1,
-					["time"] = 1486597887,
-					["from"] = "Alitfaier",
-					["msg"] = "bisognava dirgli, ok va bene",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [350]
-				{
-					["type"] = 1,
-					["time"] = 1486597891,
-					["from"] = "Alitfaier",
-					["msg"] = "passa la gm",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [351]
-				{
-					["type"] = 1,
-					["time"] = 1486597894,
-					["from"] = "Jacinda",
-					["msg"] = "si ha fatto una brutta uscita",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [352]
-				{
-					["type"] = 1,
-					["time"] = 1486597896,
-					["from"] = "Alitfaier",
-					["msg"] = "e togliti dalle palle..",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [353]
-				{
-					["type"] = 1,
-					["time"] = 1486597917,
-					["from"] = "Alitfaier",
-					["msg"] = "anche perchè non vuole che uno parla in raid e poi lei fa più casino degli altri",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [354]
-				{
-					["type"] = 1,
-					["time"] = 1486597934,
-					["from"] = "Jacinda",
-					["msg"] = "e che ha permesso a un sacco di gente di fare quello che voleva e poi a shinsoo reagisci cosi",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [355]
-				{
-					["type"] = 1,
-					["time"] = 1486597937,
-					["from"] = "Jacinda",
-					["msg"] = "bo ",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [356]
-				{
-					["type"] = 1,
-					["time"] = 1486597970,
-					["from"] = "Alitfaier",
-					["msg"] = "si per dare l'esempio? ma di cosa? che puoi kikkare?",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [357]
-				{
-					["type"] = 1,
-					["time"] = 1486597990,
-					["from"] = "Alitfaier",
-					["msg"] = "domani ne trovo 10 di gilde merda come questa...",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [358]
-				{
-					["type"] = 1,
-					["time"] = 1486597992,
-					["from"] = "Jacinda",
-					["msg"] = "no chge chi rompe lo kikka",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [359]
-				{
-					["type"] = 1,
-					["time"] = 1486597998,
-					["from"] = "Jacinda",
-					["msg"] = "be si",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [360]
-				{
-					["type"] = 1,
-					["time"] = 1486598004,
-					["from"] = "Alitfaier",
-					["msg"] = "e allora?",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [361]
-				{
-					["type"] = 1,
-					["time"] = 1486598016,
-					["from"] = "Jacinda",
-					["msg"] = "abbiamo fatto a pelo un boss dove siamo overvestiti",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [362]
-				{
-					["type"] = 1,
-					["time"] = 1486598046,
-					["from"] = "Jacinda",
-					["msg"] = "dovremmo aprirla la normal per come siamo vestiti",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [363]
-				{
-					["type"] = 1,
-					["time"] = 1486598051,
-					["from"] = "Alitfaier",
-					["msg"] = "e si ma luigi abbiamo tre dps che sono sotto di dps",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [364]
-				{
-					["type"] = 1,
-					["time"] = 1486598068,
-					["from"] = "Jacinda",
-					["msg"] = "si ma non li tiene fuori",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [365]
-				{
-					["type"] = 1,
-					["time"] = 1486598074,
-					["from"] = "Alitfaier",
-					["msg"] = "excintion fa 281 naye 315 che è morta e funny che fa pena",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [366]
-				{
-					["type"] = 1,
-					["time"] = 1486598106,
-					["from"] = "Alitfaier",
-					["msg"] = "ti dico a me va bene, non mi frega",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [367]
-				{
-					["type"] = 1,
-					["time"] = 1486598131,
-					["from"] = "Alitfaier",
-					["msg"] = "il boss si è fatto in ogni caso... ma poi non mi vieni a dire che vuoi gilda semi hardcore..",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [368]
-				{
-					["type"] = 1,
-					["time"] = 1486598141,
-					["from"] = "Jacinda",
-					["msg"] = "Skada: Danno per Astromante Etraeus (5): 00:24 (7 min 23 s):",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [369]
-				{
-					["type"] = 1,
-					["time"] = 1486598141,
-					["from"] = "Jacinda",
-					["msg"] = " 1. Asiia   249.58M (565.9K, 9.4%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [370]
-				{
-					["type"] = 1,
-					["time"] = 1486598141,
-					["from"] = "Jacinda",
-					["msg"] = " 2. Nanoshooter   217.52M (493.2K, 8.2%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [371]
-				{
-					["type"] = 1,
-					["time"] = 1486598141,
-					["from"] = "Jacinda",
-					["msg"] = " 3. Naillika   216.83M (490.6K, 8.2%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [372]
-				{
-					["type"] = 1,
-					["time"] = 1486598141,
-					["from"] = "Jacinda",
-					["msg"] = " 4. Nensy   210.52M (476.3K, 7.9%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [373]
-				{
-					["type"] = 1,
-					["time"] = 1486598141,
-					["from"] = "Jacinda",
-					["msg"] = " 5. Ime   206.21M (466.5K, 7.8%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [374]
-				{
-					["type"] = 1,
-					["time"] = 1486598141,
-					["from"] = "Jacinda",
-					["msg"] = " 6. Areaviel   201.72M (456.4K, 7.6%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [375]
-				{
-					["type"] = 1,
-					["time"] = 1486598141,
-					["from"] = "Jacinda",
-					["msg"] = " 7. Kayn   193.57M (437.9K, 7.3%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [376]
-				{
-					["type"] = 1,
-					["time"] = 1486598141,
-					["from"] = "Jacinda",
-					["msg"] = " 8. Alitfaier   193.43M (438.6K, 7.3%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [377]
-				{
-					["type"] = 1,
-					["time"] = 1486598141,
-					["from"] = "Jacinda",
-					["msg"] = " 9. Tempest   192.39M (436.3K, 7.2%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [378]
-				{
-					["type"] = 1,
-					["time"] = 1486598141,
-					["from"] = "Jacinda",
-					["msg"] = "10. Samurosun   170.72M (387.1K, 6.4%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [379]
-				{
-					["type"] = 1,
-					["time"] = 1486598160,
-					["from"] = "Jacinda",
-					["msg"] = "Skada: Danno per Astromante Etraeus (5): 00:24 (7 min 23 s):",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [380]
-				{
-					["type"] = 1,
-					["time"] = 1486598160,
-					["from"] = "Jacinda",
-					["msg"] = " 1. Asiia   249.58M (565.9K, 9.4%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [381]
-				{
-					["type"] = 1,
-					["time"] = 1486598160,
-					["from"] = "Jacinda",
-					["msg"] = " 2. Nanoshooter   217.52M (493.2K, 8.2%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [382]
-				{
-					["type"] = 1,
-					["time"] = 1486598160,
-					["from"] = "Jacinda",
-					["msg"] = " 3. Naillika   216.83M (490.6K, 8.2%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [383]
-				{
-					["type"] = 1,
-					["time"] = 1486598160,
-					["from"] = "Jacinda",
-					["msg"] = " 4. Nensy   210.52M (476.3K, 7.9%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [384]
-				{
-					["type"] = 1,
-					["time"] = 1486598160,
-					["from"] = "Jacinda",
-					["msg"] = " 5. Ime   206.21M (466.5K, 7.8%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [385]
-				{
-					["type"] = 1,
-					["time"] = 1486598160,
-					["from"] = "Jacinda",
-					["msg"] = " 6. Areaviel   201.72M (456.4K, 7.6%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [386]
-				{
-					["type"] = 1,
-					["time"] = 1486598160,
-					["from"] = "Jacinda",
-					["msg"] = " 7. Kayn   193.57M (437.9K, 7.3%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [387]
-				{
-					["type"] = 1,
-					["time"] = 1486598160,
-					["from"] = "Jacinda",
-					["msg"] = " 8. Alitfaier   193.43M (438.6K, 7.3%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [388]
-				{
-					["type"] = 1,
-					["time"] = 1486598160,
-					["from"] = "Jacinda",
-					["msg"] = " 9. Tempest   192.39M (436.3K, 7.2%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [389]
-				{
-					["type"] = 1,
-					["time"] = 1486598160,
-					["from"] = "Jacinda",
-					["msg"] = "10. Samurosun   170.72M (387.1K, 6.4%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [390]
-				{
-					["type"] = 1,
-					["time"] = 1486598160,
-					["from"] = "Jacinda",
-					["msg"] = "11. Funnydeath   162.37M (368.2K, 6.1%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [391]
-				{
-					["type"] = 1,
-					["time"] = 1486598160,
-					["from"] = "Jacinda",
-					["msg"] = "12. Nayè   139.11M (314.7K, 5.2%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [392]
-				{
-					["type"] = 1,
-					["time"] = 1486598169,
-					["from"] = "Alitfaier",
-					["msg"] = "a no in 4 sotto il dps limite",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [393]
-				{
-					["type"] = 1,
-					["time"] = 1486598173,
-					["from"] = "Jacinda",
-					["msg"] = "Skada: Danno per Astromante Etraeus (5): 00:24 (7 min 23 s):",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [394]
-				{
-					["type"] = 1,
-					["time"] = 1486598173,
-					["from"] = "Jacinda",
-					["msg"] = " 1. Asiia   249.58M (565.9K, 9.4%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [395]
-				{
-					["type"] = 1,
-					["time"] = 1486598173,
-					["from"] = "Jacinda",
-					["msg"] = " 2. Nanoshooter   217.52M (493.2K, 8.2%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [396]
-				{
-					["type"] = 1,
-					["time"] = 1486598173,
-					["from"] = "Jacinda",
-					["msg"] = " 3. Naillika   216.83M (490.6K, 8.2%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [397]
-				{
-					["type"] = 1,
-					["time"] = 1486598173,
-					["from"] = "Jacinda",
-					["msg"] = " 4. Nensy   210.52M (476.3K, 7.9%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [398]
-				{
-					["type"] = 1,
-					["time"] = 1486598173,
-					["from"] = "Jacinda",
-					["msg"] = " 5. Ime   206.21M (466.5K, 7.8%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [399]
-				{
-					["type"] = 1,
-					["time"] = 1486598173,
-					["from"] = "Jacinda",
-					["msg"] = " 6. Areaviel   201.72M (456.4K, 7.6%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [400]
-				{
-					["type"] = 1,
-					["time"] = 1486598173,
-					["from"] = "Jacinda",
-					["msg"] = " 7. Kayn   193.57M (437.9K, 7.3%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [401]
-				{
-					["type"] = 1,
-					["time"] = 1486598173,
-					["from"] = "Jacinda",
-					["msg"] = " 8. Alitfaier   193.43M (438.6K, 7.3%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [402]
-				{
-					["type"] = 1,
-					["time"] = 1486598173,
-					["from"] = "Jacinda",
-					["msg"] = " 9. Tempest   192.39M (436.3K, 7.2%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [403]
-				{
-					["type"] = 1,
-					["time"] = 1486598173,
-					["from"] = "Jacinda",
-					["msg"] = "10. Samurosun   170.72M (387.1K, 6.4%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [404]
-				{
-					["type"] = 1,
-					["time"] = 1486598173,
-					["from"] = "Jacinda",
-					["msg"] = "11. Funnydeath   162.37M (368.2K, 6.1%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [405]
-				{
-					["type"] = 1,
-					["time"] = 1486598173,
-					["from"] = "Jacinda",
-					["msg"] = "12. Nayè   139.11M (314.7K, 5.2%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [406]
-				{
-					["type"] = 1,
-					["time"] = 1486598173,
-					["from"] = "Jacinda",
-					["msg"] = "13. Exctintion   124.14M (280.9K, 4.7%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [407]
-				{
-					["type"] = 1,
-					["time"] = 1486598173,
-					["from"] = "Jacinda",
-					["msg"] = "14. Lùcrèzia   77.04M (174.3K, 2.9%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [408]
-				{
-					["type"] = 1,
-					["time"] = 1486598173,
-					["from"] = "Jacinda",
-					["msg"] = "15. Fenriswolf   73.69M (166.7K, 2.8%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [409]
-				{
-					["type"] = 1,
-					["time"] = 1486598181,
-					["from"] = "Alitfaier",
-					["msg"] = "il dps limite di sto raid in normal è 400k",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [410]
-				{
-					["type"] = 1,
-					["time"] = 1486598190,
-					["from"] = "Alitfaier",
-					["msg"] = "non puoi fare di meno",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [411]
-				{
-					["type"] = 1,
-					["time"] = 1486598199,
-					["from"] = "Jacinda",
-					["msg"] = "ok da tempest in giu tempest salvo il resto da lasciare fuori",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [412]
-				{
-					["type"] = 1,
-					["time"] = 1486598216,
-					["from"] = "Alitfaier",
-					["msg"] = "e si",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [413]
-				{
-					["type"] = 1,
-					["time"] = 1486598225,
-					["from"] = "Jacinda",
-					["msg"] = "quindi 4 persone",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [414]
-				{
-					["type"] = 1,
-					["time"] = 1486598252,
-					["from"] = "Jacinda",
-					["msg"] = "cazzo a portato samurosun che e mesi che non raida",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [415]
-				{
-					["type"] = 1,
-					["time"] = 1486598253,
-					["from"] = "Alitfaier",
-					["msg"] = "poi considera che io non avevo la flask",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [416]
-				{
-					["type"] = 1,
-					["time"] = 1486598261,
-					["from"] = "Jacinda",
-					["msg"] = "per fargli fare passeggiata",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [417]
-				{
-					["type"] = 1,
-					["time"] = 1486598276,
-					["from"] = "Alitfaier",
-					["msg"] = "perchè non mi tiro una flask quando ci sono altri che non usano le pozze",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [418]
-				{
-					["type"] = 1,
-					["time"] = 1486598302,
-					["from"] = "Alitfaier",
-					["msg"] = "e ho usato le pozzette quelle blu e non quelle della guerra",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [419]
-				{
-					["type"] = 1,
-					["time"] = 1486598307,
-					["from"] = "Jacinda",
-					["msg"] = "Skada: Cure per Astromante Etraeus (5): 00:24 (7 min 23 s):",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [420]
-				{
-					["type"] = 1,
-					["time"] = 1486598307,
-					["from"] = "Jacinda",
-					["msg"] = " 1. Rangikou   136.90M (309.0K, 20.4%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [421]
-				{
-					["type"] = 1,
-					["time"] = 1486598307,
-					["from"] = "Jacinda",
-					["msg"] = " 2. Jacinda   134.94M (306.0K, 20.1%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [422]
-				{
-					["type"] = 1,
-					["time"] = 1486598307,
-					["from"] = "Jacinda",
-					["msg"] = " 3. Shamavision   123.61M (282.2K, 18.4%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [423]
-				{
-					["type"] = 1,
-					["time"] = 1486598307,
-					["from"] = "Jacinda",
-					["msg"] = " 4. Raila   104.78M (238.1K, 15.6%)",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [424]
-				{
-					["type"] = 1,
-					["time"] = 1486598309,
-					["from"] = "Alitfaier",
-					["msg"] = "e sono circa 100k",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [425]
-				{
-					["type"] = 1,
-					["time"] = 1486598323,
-					["from"] = "Jacinda",
-					["msg"] = "sono circa 20 item sotto gli altri healer",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [426]
-				{
-					["type"] = 1,
-					["time"] = 1486598353,
-					["from"] = "Jacinda",
-					["msg"] = "Rangi e giusto 20 itlvl piu di me ",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [427]
-				{
-					["type"] = 1,
-					["time"] = 1486598395,
-					["from"] = "Alitfaier",
-					["msg"] = "e ma anche raila...",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [428]
-				{
-					["type"] = 1,
-					["time"] = 1486598399,
-					["from"] = "Alitfaier",
-					["msg"] = "ha fatto pena",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [429]
-				{
-					["type"] = 1,
-					["time"] = 1486598460,
-					["from"] = "Alitfaier",
-					["msg"] = "cmq lucrezia come tank la percentuale di capacità è attorno al 21% quindi c'è chi è messo peggio",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [430]
-				{
-					["type"] = 1,
-					["time"] = 1486598477,
-					["from"] = "Alitfaier",
-					["msg"] = "ma ha un activity inguardabile",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [431]
-				{
-					["type"] = 1,
-					["time"] = 1486598493,
-					["from"] = "Alitfaier",
-					["msg"] = "passa anche 6-7 secondi senza fare niente",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [432]
-				{
-					["type"] = 1,
-					["time"] = 1486598500,
-					["from"] = "Alitfaier",
-					["msg"] = "senza pigaire nessun tasto",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [433]
-				{
-					["type"] = 1,
-					["time"] = 1486598508,
-					["from"] = "Alitfaier",
-					["msg"] = "in certi casi anche 10",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [434]
-				{
-					["type"] = 1,
-					["time"] = 1486598523,
-					["from"] = "Jacinda",
-					["msg"] = "non guardare questo boss pero",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [435]
-				{
-					["type"] = 1,
-					["time"] = 1486598538,
-					["from"] = "Alitfaier",
-					["msg"] = "no ho guardato una sera di raid completa",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [436]
-				{
-					["type"] = 1,
-					["time"] = 1486598590,
-					["from"] = "Alitfaier",
-					["msg"] = "allora io non voglio essere stronzo",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [437]
-				{
-					["type"] = 1,
-					["time"] = 1486598597,
-					["from"] = "Alitfaier",
-					["msg"] = "e me ne sto zitto",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [438]
-				{
-					["type"] = 1,
-					["time"] = 1486598606,
-					["from"] = "Alitfaier",
-					["msg"] = "ma una volta l'avrei detto..",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [439]
-				{
-					["type"] = 1,
-					["time"] = 1486598626,
-					["from"] = "Alitfaier",
-					["msg"] = "e l'avrei smerdata davanti tutti, poi non ho più 24 anni..",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [440]
-				{
-					["type"] = 1,
-					["time"] = 1486598627,
-					["from"] = "Jacinda",
-					["msg"] = "a ok perche sto boss quando non tanka e in giro a pulire stanza",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [441]
-				{
-					["type"] = 1,
-					["time"] = 1486598633,
-					["from"] = "Alitfaier",
-					["msg"] = "e ste cose non le faccio più",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [442]
-				{
-					["type"] = 1,
-					["time"] = 1486598651,
-					["from"] = "Alitfaier",
-					["msg"] = "si ma i tasti per muoverti li pigi",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [443]
-				{
-					["type"] = 1,
-					["time"] = 1486598663,
-					["from"] = "Alitfaier",
-					["msg"] = "quindi sei attivo",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [444]
-				{
-					["type"] = 1,
-					["time"] = 1486598742,
-					["from"] = "Jacinda",
-					["msg"] = "si",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [445]
-				{
-					["type"] = 1,
-					["time"] = 1486644079,
-					["from"] = "Alitfaier",
-					["msg"] = "ma ci sei?",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [446]
-				{
-					["type"] = 1,
-					["time"] = 1486644086,
-					["from"] = "Alitfaier",
-					["msg"] = "è 10 minuti che ti chiamo",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [447]
-				{
-					["type"] = 1,
-					["time"] = 1486644150,
-					["from"] = "Jacinda",
-					["msg"] = "sorry",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [448]
-				{
-					["type"] = 1,
-					["time"] = 1486644154,
-					["from"] = "Alitfaier",
-					["msg"] = "LUIGIIII",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [449]
-				{
-					["type"] = 1,
-					["time"] = 1486644164,
-					["from"] = "Alitfaier",
-					["msg"] = "stai pranzando?",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [450]
-				{
-					["type"] = 1,
-					["time"] = 1486644174,
-					["from"] = "Jacinda",
-					["msg"] = "mi si e scaricate cuffie e me ne sono accorto ora che ho cambiato chat",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [451]
-				{
-					["type"] = 1,
-					["time"] = 1486644198,
-					["from"] = "Alitfaier",
-					["msg"] = "sei il peggiore",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [452]
-				{
-					["type"] = 1,
-					["time"] = 1486644214,
-					["from"] = "Jacinda",
-					["msg"] = "cambia ts che facciamo fauci",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [453]
-				{
-					["type"] = 1,
-					["time"] = 1486644215,
-					["from"] = "Alitfaier",
-					["msg"] = "l'antitecnologia per eccellenza",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [454]
-				{
-					["type"] = 1,
-					["time"] = 1486644222,
-					["from"] = "Alitfaier",
-					["msg"] = "con kate?",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [455]
-				{
-					["type"] = 1,
-					["time"] = 1486644240,
-					["from"] = "Alitfaier",
-					["msg"] = "basta che non fa le sue piantonate...",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [456]
-				{
-					["type"] = 1,
-					["time"] = 1486644252,
-					["from"] = "Jacinda",
-					["msg"] = "non penso venga",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [457]
-				{
-					["type"] = 1,
-					["time"] = 1486646833,
-					["from"] = "Alitfaier",
-					["msg"] = "xeal, mi ha appena detto su ws che non viene più in raid in gilda...",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [458]
-				{
-					["type"] = 1,
-					["time"] = 1486646845,
-					["from"] = "Jacinda",
-					["msg"] = "ok",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [459]
-				{
-					["type"] = 1,
-					["time"] = 1486646878,
-					["from"] = "Jacinda",
-					["msg"] = "a che io pensavo di saltare tutti imartedi e puggare",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [460]
-				{
-					["type"] = 1,
-					["time"] = 1486646885,
-					["from"] = "Alitfaier",
-					["msg"] = "mi ha detto: non mi metto certo a passare le serate per soddisfare i suoi bisogni di controllo.",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [461]
-				{
-					["type"] = 1,
-					["time"] = 1486646903,
-					["from"] = "Jacinda",
-					["msg"] = "lol",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [462]
-				{
-					["type"] = 1,
-					["time"] = 1486646913,
-					["from"] = "Alitfaier",
-					["msg"] = "e purtroppo ha ragione",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [463]
-				{
-					["type"] = 1,
-					["time"] = 1486678663,
-					["from"] = "Alitfaier",
-					["msg"] = "che boss di merda è?",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [464]
-				{
-					["type"] = 1,
-					["time"] = 1486678694,
-					["from"] = "Alitfaier",
-					["msg"] = "sulle guide del warrior dicono di mettersi aoe... ma qua di aoe non c'e nè in sostanza..",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [465]
-				{
-					["type"] = 1,
-					["time"] = 1486681464,
-					["from"] = "Alitfaier",
-					["msg"] = "uff non le capisce mai nessuno le mie battute...",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [466]
-				{
-					["type"] = 1,
-					["time"] = 1486682258,
-					["from"] = "Alitfaier",
-					["msg"] = "ma, mi viene un dubbio... ma lucrezia, lo sa che per prendere un mob non è necessarioa  vere il tount? basta che ci va contro e lo mena e fa aggro...",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [467]
-				{
-					["type"] = 1,
-					["time"] = 1486682312,
-					["from"] = "Jacinda",
-					["msg"] = "non lo so e di lei non me ne fotte un cazzo per me e inutile",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [468]
-				{
-					["type"] = 1,
-					["time"] = 1486683406,
-					["from"] = "Alitfaier",
-					["msg"] = "notte",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [469]
-				{
-					["type"] = 1,
-					["time"] = 1486683414,
-					["from"] = "Jacinda",
-					["msg"] = "vai di gia",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [470]
-				{
-					["type"] = 1,
-					["time"] = 1486683419,
-					["from"] = "Alitfaier",
-					["msg"] = "si sono stanchissimo",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [471]
-				{
-					["type"] = 1,
-					["time"] = 1486683424,
-					["from"] = "Alitfaier",
-					["msg"] = "a domani mattina",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [472]
-				{
-					["type"] = 1,
-					["time"] = 1486683429,
-					["from"] = "Jacinda",
-					["msg"] = "a domani",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [473]
-				{
-					["type"] = 1,
-					["time"] = 1486683438,
-					["from"] = "Alitfaier",
-					["msg"] = "tanto non ti fa takare...",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [474]
-				{
-					["type"] = 1,
-					["time"] = 1486726406,
-					["from"] = "Jacinda",
-					["msg"] = "che fai?",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [475]
-				{
-					["type"] = 1,
-					["time"] = 1486726413,
-					["from"] = "Alitfaier",
-					["msg"] = "word quest",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [476]
-				{
-					["type"] = 1,
-					["time"] = 1486726436,
-					["from"] = "Jacinda",
-					["msg"] = "tra un oretta loggo",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [477]
-				{
-					["type"] = 1,
-					["time"] = 1486726524,
-					["from"] = "Alitfaier",
-					["msg"] = "ok",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [478]
-				{
-					["type"] = 1,
-					["time"] = 1486734669,
-					["from"] = "Alitfaier",
-					["msg"] = "noi stiamo qua a farci sottomettere da una isterica",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [479]
-				{
-					["type"] = 1,
-					["time"] = 1486735056,
-					["from"] = "Alitfaier",
-					["msg"] = "luigi questo è uno che parla",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [480]
-				{
-					["type"] = 1,
-					["time"] = 1486735067,
-					["from"] = "Alitfaier",
-					["msg"] = "e capisce quello che vuole",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [481]
-				{
-					["type"] = 1,
-					["time"] = 1486735068,
-					["from"] = "Jacinda",
-					["msg"] = "lo so meglio",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [482]
-				{
-					["type"] = 1,
-					["time"] = 1486735087,
-					["from"] = "Jacinda",
-					["msg"] = "il mio problema lo sanno ",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [483]
-				{
-					["type"] = 1,
-					["time"] = 1486761430,
-					["from"] = "Alitfaier",
-					["msg"] = "a te ha mai chiesto quante seghe ti fai?",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [484]
-				{
-					["type"] = 1,
-					["time"] = 1486761440,
-					["from"] = "Jacinda",
-					["msg"] = "no",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [485]
-				{
-					["type"] = 1,
-					["time"] = 1486761496,
-					["from"] = "Alitfaier",
-					["msg"] = "hanno fatot una 10 con lucrezia tank?",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [486]
-				{
-					["type"] = 1,
-					["time"] = 1486761525,
-					["from"] = "Alitfaier",
-					["msg"] = "per dimostrare che sei meglio devi fare una 15 sta settimana senò ti prenderò per il culo a vita",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [487]
-				{
-					["type"] = 1,
-					["time"] = 1486761567,
-					["from"] = "Jacinda",
-					["msg"] = "tu scherzi ieri mi sono messo in coda per delle 15 ma non mi hanno gruppato",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [488]
-				{
-					["type"] = 1,
-					["time"] = 1486761596,
-					["from"] = "Jacinda",
-					["msg"] = "ma hanno finito?",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [489]
-				{
-					["type"] = 1,
-					["time"] = 1486761708,
-					["from"] = "Alitfaier",
-					["msg"] = "bo wispa asiia",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [490]
-				{
-					["type"] = 1,
-					["time"] = 1486763287,
-					["from"] = "Jacinda",
-					["msg"] = "si lei fa +10 ma whippano e non la fanno in tempo io le mie 10 e 11 in tempo le ho fatte e le 10  con 2 casse ",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [491]
-				{
-					["type"] = 1,
-					["time"] = 1486763302,
-					["from"] = "Jacinda",
-					["msg"] = "quindi che si fotta",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [492]
-				{
-					["type"] = 1,
-					["time"] = 1486763349,
-					["from"] = "Jacinda",
-					["msg"] = " |cffffff00|Hachievement:11185:Player-1309-089A3387:1:1:28:17:4294967295:4294967295:4294967295:4294967295|h[Conquistatore delle Chiavi]|h|r questo manco lo ha",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [493]
-				{
-					["type"] = 1,
-					["time"] = 1486763898,
-					["from"] = "Jacinda",
-					["msg"] = "lucrezia colpisce ancora",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [494]
-				{
-					["type"] = 1,
-					["time"] = 1486763904,
-					["from"] = "Jacinda",
-					["msg"] = "hahahahahaha",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [495]
-				{
-					["type"] = 1,
-					["time"] = 1486766325,
-					["from"] = "Alitfaier",
-					["msg"] = "si cmq qua stanno tutti puggando il normal ",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [496]
-				{
-					["type"] = 1,
-					["time"] = 1486766339,
-					["from"] = "Alitfaier",
-					["msg"] = "a sto punto puggo anche io",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [497]
-				{
-					["type"] = 1,
-					["time"] = 1486766352,
-					["from"] = "Jacinda",
-					["msg"] = "il nornal tanto siamo a guldan ",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [498]
-				{
-					["type"] = 1,
-					["time"] = 1486766366,
-					["from"] = "Jacinda",
-					["msg"] = "quindi che problema c'è",
-					["inbound"] = true,
-					["convo"] = "Jacinda",
-				}, -- [499]
-				{
-					["type"] = 1,
-					["time"] = 1486766367,
-					["from"] = "Alitfaier",
-					["msg"] = "allora puggo l'hc",
-					["inbound"] = false,
-					["convo"] = "Jacinda",
-				}, -- [500]
-				["info"] = {
-				},
-			},
-			["Ime"] = {
-				{
-					["type"] = 1,
-					["time"] = 1485703724,
-					["from"] = "Ime",
-					["msg"] = "sale del valora +12?",
-					["inbound"] = true,
-					["convo"] = "Ime",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1485703730,
-					["from"] = "Ime",
-					["msg"] = "si parte subito",
-					["inbound"] = true,
-					["convo"] = "Ime",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1485703735,
-					["from"] = "Alitfaier",
-					["msg"] = "ok",
-					["inbound"] = false,
-					["convo"] = "Ime",
-				}, -- [3]
-				["info"] = {
-				},
-			},
-			["Xèal"] = {
-				{
-					["type"] = 1,
-					["time"] = 1485710972,
-					["from"] = "Alitfaier",
-					["msg"] = "se vai in pug fai la quaglia, poi rompe le palle kate...",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1485710996,
-					["from"] = "Xèal",
-					["msg"] = "me ne sbatto il cazzo, io la voglio finire sto raid",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1485711024,
-					["from"] = "Xèal",
-					["msg"] = "qelli fanno hc prendendo cani e porci",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1485711024,
-					["from"] = "Alitfaier",
-					["msg"] = "vabè allora è inutile che stai in una gilda, se pensi solo a te.",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1485711045,
-					["from"] = "Xèal",
-					["msg"] = "questa gilda ha una mentalita che è opposta alla mia in tutto",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1485711046,
-					["from"] = "Alitfaier",
-					["msg"] = "allora dislielo",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [6]
-				{
-					["type"] = 1,
-					["time"] = 1485711051,
-					["from"] = "Xèal",
-					["msg"] = "gia fatto",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [7]
-				{
-					["type"] = 1,
-					["time"] = 1485711060,
-					["from"] = "Alitfaier",
-					["msg"] = "e cosa ti ha detto?",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [8]
-				{
-					["type"] = 1,
-					["time"] = 1485711061,
-					["from"] = "Xèal",
-					["msg"] = "durante il raid e ieri in wisp",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [9]
-				{
-					["type"] = 1,
-					["time"] = 1485711069,
-					["from"] = "Xèal",
-					["msg"] = "che comanda il raid leader",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [10]
-				{
-					["type"] = 1,
-					["time"] = 1485711080,
-					["from"] = "Xèal",
-					["msg"] = "e dobbiam fare quello che dice lui",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [11]
-				{
-					["type"] = 1,
-					["time"] = 1485711083,
-					["from"] = "Alitfaier",
-					["msg"] = "ieri sera la gm ha detto che la gilda è semi-hardcore",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [12]
-				{
-					["type"] = 1,
-					["time"] = 1485711091,
-					["from"] = "Xèal",
-					["msg"] = "looool",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [13]
-				{
-					["type"] = 1,
-					["time"] = 1485711095,
-					["from"] = "Alitfaier",
-					["msg"] = "e gli ho riso in faccia",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [14]
-				{
-					["type"] = 1,
-					["time"] = 1485711097,
-					["from"] = "Xèal",
-					["msg"] = "e' ultra socuial",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [15]
-				{
-					["type"] = 1,
-					["time"] = 1485711123,
-					["from"] = "Xèal",
-					["msg"] = "appunto.. poi xke mi rompe i coglioni kmq? io ci vengo kmq cn voi anche se nnn  droppo",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [16]
-				{
-					["type"] = 1,
-					["time"] = 1485711151,
-					["from"] = "Xèal",
-					["msg"] = "e mi deve anxche ringraziare",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [17]
-				{
-					["type"] = 1,
-					["time"] = 1485814406,
-					["from"] = "Xèal",
-					["msg"] = "sto fight nn riesco a far buon dps",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [18]
-				{
-					["type"] = 1,
-					["time"] = 1485814418,
-					["from"] = "Alitfaier",
-					["msg"] = "metti tutto aoe",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [19]
-				{
-					["type"] = 1,
-					["time"] = 1485814428,
-					["from"] = "Xèal",
-					["msg"] = "nn l avevo fatto",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [20]
-				{
-					["type"] = 1,
-					["time"] = 1485814434,
-					["from"] = "Xèal",
-					["msg"] = "ho sbagliato",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [21]
-				{
-					["type"] = 1,
-					["time"] = 1485814449,
-					["from"] = "Xèal",
-					["msg"] = "son tutto single, ma nn e' solo quello",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [22]
-				{
-					["type"] = 1,
-					["time"] = 1485814469,
-					["from"] = "Xèal",
-					["msg"] = "son sti cazzo di spostamenti..",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [23]
-				{
-					["type"] = 1,
-					["time"] = 1485814474,
-					["from"] = "Alitfaier",
-					["msg"] = "il problema del boss sono le fasi aoe",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [24]
-				{
-					["type"] = 1,
-					["time"] = 1485814485,
-					["from"] = "Xèal",
-					["msg"] = "me ne so accorto",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [25]
-				{
-					["type"] = 1,
-					["time"] = 1485814487,
-					["from"] = "Alitfaier",
-					["msg"] = "il dps in singolo non serve granchè",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [26]
-				{
-					["type"] = 1,
-					["time"] = 1485814569,
-					["from"] = "Xèal",
-					["msg"] = "si puo metter lucrezia in ignore chat vocale?",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [27]
-				{
-					["type"] = 1,
-					["time"] = 1485814696,
-					["from"] = "Alitfaier",
-					["msg"] = "si",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [28]
-				{
-					["type"] = 1,
-					["time"] = 1485814739,
-					["from"] = "Xèal",
-					["msg"] = "scherzavo.. intendevo che  nn sento la sua voce ints",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [29]
-				{
-					["type"] = 1,
-					["time"] = 1485814746,
-					["from"] = "Xèal",
-					["msg"] = "e possibile davvero?",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [30]
-				{
-					["type"] = 1,
-					["time"] = 1485814753,
-					["from"] = "Alitfaier",
-					["msg"] = "si",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [31]
-				{
-					["type"] = 1,
-					["time"] = 1485814764,
-					["from"] = "Xèal",
-					["msg"] = "malloooool",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [32]
-				{
-					["type"] = 1,
-					["time"] = 1485816799,
-					["from"] = "Alitfaier",
-					["msg"] = "non è un figth aoe no no...",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [33]
-				{
-					["type"] = 1,
-					["time"] = 1485816812,
-					["from"] = "Alitfaier",
-					["msg"] = "siamo morti in una fase singol target",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [34]
-				{
-					["type"] = 1,
-					["time"] = 1485816818,
-					["from"] = "Alitfaier",
-					["msg"] = "infatti...",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [35]
-				{
-					["type"] = 1,
-					["time"] = 1485819679,
-					["from"] = "Alitfaier",
-					["msg"] = "cosa sta dicendo arucarcas...",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [36]
-				{
-					["type"] = 1,
-					["time"] = 1485819693,
-					["from"] = "Alitfaier",
-					["msg"] = "va bene il focus... ma li devi fare aoe...",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [37]
-				{
-					["type"] = 1,
-					["time"] = 1485819697,
-					["from"] = "Xèal",
-					["msg"] = "son uscito da ts",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [38]
-				{
-					["type"] = 1,
-					["time"] = 1485819701,
-					["from"] = "Alitfaier",
-					["msg"] = "a ok",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [39]
-				{
-					["type"] = 1,
-					["time"] = 1485819708,
-					["from"] = "Xèal",
-					["msg"] = "azz opeccato",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [40]
-				{
-					["type"] = 1,
-					["time"] = 1485819726,
-					["from"] = "Xèal",
-					["msg"] = "ma arucarcas eì come sharkarod",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [41]
-				{
-					["type"] = 1,
-					["time"] = 1485819733,
-					["from"] = "Xèal",
-					["msg"] = "gran opening",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [42]
-				{
-					["type"] = 1,
-					["time"] = 1485819745,
-					["from"] = "Xèal",
-					["msg"] = "poi crollano e si perdono nel fight",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [43]
-				{
-					["type"] = 1,
-					["time"] = 1485820021,
-					["from"] = "Alitfaier",
-					["msg"] = "perchè sanno fare bene l'opening e poi non sanno mantenerlo",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [44]
-				{
-					["type"] = 1,
-					["time"] = 1485820030,
-					["from"] = "Alitfaier",
-					["msg"] = "non sanno muoversi",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [45]
-				{
-					["type"] = 1,
-					["time"] = 1485820035,
-					["from"] = "Xèal",
-					["msg"] = "si ho notato",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [46]
-				{
-					["type"] = 1,
-					["time"] = 1485820060,
-					["from"] = "Xèal",
-					["msg"] = "si perdono nel fight, nell openiong son piu alti di me te e araviel spesso",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [47]
-				{
-					["type"] = 1,
-					["time"] = 1485820078,
-					["from"] = "Xèal",
-					["msg"] = "ma finiscon bassissimi, gia a meta nn li vedo piu",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [48]
-				{
-					["type"] = 1,
-					["time"] = 1485820080,
-					["from"] = "Alitfaier",
-					["msg"] = "spe... io mi son messo aoe",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [49]
-				{
-					["type"] = 1,
-					["time"] = 1485820094,
-					["from"] = "Alitfaier",
-					["msg"] = "e faccio un opening più leggero",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [50]
-				{
-					["type"] = 1,
-					["time"] = 1485820149,
-					["from"] = "Xèal",
-					["msg"] = "tu hai ricetta x far cibo 300 mastery?",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [51]
-				{
-					["type"] = 1,
-					["time"] = 1485820193,
-					["from"] = "Xèal",
-					["msg"] = "che devo far cibi a funny, qello se li compra 375 iun asta e si dissangua",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [52]
-				{
-					["type"] = 1,
-					["time"] = 1485820234,
-					["from"] = "Xèal",
-					["msg"] = "ho la ricetta 375 ma nn la 300",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [53]
-				{
-					["type"] = 1,
-					["time"] = 1485820272,
-					["from"] = "Alitfaier",
-					["msg"] = "se mandi i mat a kate ogni raid ti manda 20 mangiarin",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [54]
-				{
-					["type"] = 1,
-					["time"] = 1485820299,
-					["from"] = "Xèal",
-					["msg"] = "no ma io me li faccio da solo i mniei, ho tutte le ricette x me",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [55]
-				{
-					["type"] = 1,
-					["time"] = 1485820330,
-					["from"] = "Xèal",
-					["msg"] = "sloggo a domani",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [56]
-				{
-					["type"] = 1,
-					["time"] = 1485895707,
-					["from"] = "Alitfaier",
-					["msg"] = "qalcsa mi dice che stai insultando funny",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [57]
-				{
-					["type"] = 1,
-					["time"] = 1485895718,
-					["from"] = "Xèal",
-					["msg"] = "no nn era lui",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [58]
-				{
-					["type"] = 1,
-					["time"] = 1485896022,
-					["from"] = "Alitfaier",
-					["msg"] = "prossimo bind vediamo che debuff ci sono nelle m+",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [59]
-				{
-					["type"] = 1,
-					["time"] = 1485896039,
-					["from"] = "Alitfaier",
-					["msg"] = "se sono fattibili proviamo a fare la 15?",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [60]
-				{
-					["type"] = 1,
-					["time"] = 1485896047,
-					["from"] = "Xèal",
-					["msg"] = "ok",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [61]
-				{
-					["type"] = 1,
-					["time"] = 1485896048,
-					["from"] = "Alitfaier",
-					["msg"] = "uppimao una chiave nostra",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [62]
-				{
-					["type"] = 1,
-					["time"] = 1485896052,
-					["from"] = "Xèal",
-					["msg"] = "ok",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [63]
-				{
-					["type"] = 1,
-					["time"] = 1485896444,
-					["from"] = "Xèal",
-					["msg"] = "nn mi convince.. come caxo a capire se tu vai a sx o dx, cioe all inizio ci sto dietro",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [64]
-				{
-					["type"] = 1,
-					["time"] = 1485896473,
-					["from"] = "Xèal",
-					["msg"] = "ma quando son markati in tanti come azz si fa a capire dove e' andato il mio",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [65]
-				{
-					["type"] = 1,
-					["time"] = 1485896484,
-					["from"] = "Xèal",
-					["msg"] = "cioe prima tu",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [66]
-				{
-					["type"] = 1,
-					["time"] = 1486053482,
-					["from"] = "Alitfaier",
-					["msg"] = "vulcano penso sia il peggiore...",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [67]
-				{
-					["type"] = 1,
-					["time"] = 1486053492,
-					["from"] = "Alitfaier",
-					["msg"] = "non si vede mai... quando ci sono altri effetti",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [68]
-				{
-					["type"] = 1,
-					["time"] = 1486053526,
-					["from"] = "Xèal",
-					["msg"] = "ops",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [69]
-				{
-					["type"] = 1,
-					["time"] = 1486053532,
-					["from"] = "Xèal",
-					["msg"] = "mi sa che ero afk",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [70]
-				{
-					["type"] = 1,
-					["time"] = 1486053579,
-					["from"] = "Xèal",
-					["msg"] = "xke nn so di che stai parlando eheh",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [71]
-				{
-					["type"] = 1,
-					["time"] = 1486053644,
-					["from"] = "Xèal",
-					["msg"] = "e ovviamente la chat di dalaran in sto periodo e starcolma",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [72]
-				{
-					["type"] = 1,
-					["time"] = 1486053682,
-					["from"] = "Xèal",
-					["msg"] = "ahh volcanic",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [73]
-				{
-					["type"] = 1,
-					["time"] = 1486053687,
-					["from"] = "Xèal",
-					["msg"] = "nabbooooonnneeeeeee",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [74]
-				{
-					["type"] = 1,
-					["time"] = 1486053690,
-					["from"] = "Xèal",
-					["msg"] = "eheh",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [75]
-				{
-					["type"] = 1,
-					["time"] = 1486054527,
-					["from"] = "Alitfaier",
-					["msg"] = "ieri hanno fatto un'altra retata sui  bot",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [76]
-				{
-					["type"] = 1,
-					["time"] = 1486054535,
-					["from"] = "Alitfaier",
-					["msg"] = "qui su wow",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [77]
-				{
-					["type"] = 1,
-					["time"] = 1486054543,
-					["from"] = "Alitfaier",
-					["msg"] = "sul nostro server ne hanno bannati una marea",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [78]
-				{
-					["type"] = 1,
-					["time"] = 1486054546,
-					["from"] = "Xèal",
-					["msg"] = "han fatto bene",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [79]
-				{
-					["type"] = 1,
-					["time"] = 1486054576,
-					["from"] = "Xèal",
-					["msg"] = "ma scusa, ma è legale vendere in cambio di soldi veri boost in mitic+15",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [80]
-				{
-					["type"] = 1,
-					["time"] = 1486054585,
-					["from"] = "Alitfaier",
-					["msg"] = "no",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [81]
-				{
-					["type"] = 1,
-					["time"] = 1486054587,
-					["from"] = "Xèal",
-					["msg"] = "legale x il regolamento di wow intendo",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [82]
-				{
-					["type"] = 1,
-					["time"] = 1486054619,
-					["from"] = "Xèal",
-					["msg"] = "sto cazzo di sugarbaby che gioca da un botto d anni e vende ste cose da sempre com è possibile che mai l han bannato",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [83]
-				{
-					["type"] = 1,
-					["time"] = 1486054634,
-					["from"] = "Xèal",
-					["msg"] = "x me è un amico di gm o gm lui stesso",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [84]
-				{
-					["type"] = 1,
-					["time"] = 1486054640,
-					["from"] = "Alitfaier",
-					["msg"] = "i america e canada dove la legislazione è fatta meglio per internet è pure illegale per la legge",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [85]
-				{
-					["type"] = 1,
-					["time"] = 1486054663,
-					["from"] = "Xèal",
-					["msg"] = "è da una vita che vedo sugarbaby vendere ste cose in chat",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [86]
-				{
-					["type"] = 1,
-					["time"] = 1486054678,
-					["from"] = "Xèal",
-					["msg"] = "x me se lo reporti ti trovi bannato te lol",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [87]
-				{
-					["type"] = 1,
-					["time"] = 1486054721,
-					["from"] = "Xèal",
-					["msg"] = "dopotutto quando hanno fatto il server italiano cn gm italiani da dove credi che li abbia tirati fuori la blizz?",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [88]
-				{
-					["type"] = 1,
-					["time"] = 1486054741,
-					["from"] = "Xèal",
-					["msg"] = "si sara rivolta a vecchi player espertio ma che giocano ancora",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [89]
-				{
-					["type"] = 1,
-					["time"] = 1486054778,
-					["from"] = "Xèal",
-					["msg"] = "funny mi raccontava della mafia che c era tra gm italiani e giocatori a daoc",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [90]
-				{
-					["type"] = 1,
-					["time"] = 1486054786,
-					["from"] = "Alitfaier",
-					["msg"] = "macchè sono francesi che parlano italiano",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [91]
-				{
-					["type"] = 1,
-					["time"] = 1486054791,
-					["from"] = "Xèal",
-					["msg"] = "dici?",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [92]
-				{
-					["type"] = 1,
-					["time"] = 1486054796,
-					["from"] = "Xèal",
-					["msg"] = "x fortuna",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [93]
-				{
-					["type"] = 1,
-					["time"] = 1486054800,
-					["from"] = "Xèal",
-					["msg"] = "lo spero bene",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [94]
-				{
-					["type"] = 1,
-					["time"] = 1486054810,
-					["from"] = "Xèal",
-					["msg"] = "nn mi fido degli italiani",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [95]
-				{
-					["type"] = 1,
-					["time"] = 1486054875,
-					["from"] = "Alitfaier",
-					["msg"] = "la sede di blizzard europa è in francia..",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [96]
-				{
-					["type"] = 1,
-					["time"] = 1486054900,
-					["from"] = "Alitfaier",
-					["msg"] = "non avrebbero mai aperto in italia, olo per non aver a che fare con la mafia italiana",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [97]
-				{
-					["type"] = 1,
-					["time"] = 1486054903,
-					["from"] = "Xèal",
-					["msg"] = "kmq a me rompe il cazzo il boost in mitic plus in cambio di denaro, diventa come i giochi x cellulare o il vwecchio diablo, in cui chi paga è meglio vestito di chi si fa il culo",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [98]
-				{
-					["type"] = 1,
-					["time"] = 1486054919,
-					["from"] = "Alitfaier",
-					["msg"] = "altro motivo per cui non volevano fare il goco in italiano",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [99]
-				{
-					["type"] = 1,
-					["time"] = 1486054934,
-					["from"] = "Alitfaier",
-					["msg"] = "e lo so",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [100]
-				{
-					["type"] = 1,
-					["time"] = 1486054943,
-					["from"] = "Alitfaier",
-					["msg"] = "ma stanno cercando di contrastare la cosa",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [101]
-				{
-					["type"] = 1,
-					["time"] = 1486055000,
-					["from"] = "Xèal",
-					["msg"] = "puoi anche far finta di fregartene, m,a quando poi usi la tua chiave e gruppi un 900 il che nn sa nemmeno focussare i nemici quando c è l affix dell enrage o robe simili gira il cazzo",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [102]
-				{
-					["type"] = 1,
-					["time"] = 1486055022,
-					["from"] = "Alitfaier",
-					["msg"] = "e lo so",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [103]
-				{
-					["type"] = 1,
-					["time"] = 1486067997,
-					["from"] = "Xèal",
-					["msg"] = "sei cattivissimo stasera",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [104]
-				{
-					["type"] = 1,
-					["time"] = 1486068005,
-					["from"] = "Xèal",
-					["msg"] = "cn quei due mazzoni",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [105]
-				{
-					["type"] = 1,
-					["time"] = 1486068012,
-					["from"] = "Xèal",
-					["msg"] = "nn li avevo notati",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [106]
-				{
-					["type"] = 1,
-					["time"] = 1486068013,
-					["from"] = "Alitfaier",
-					["msg"] = "è un mese che li ho",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [107]
-				{
-					["type"] = 1,
-					["time"] = 1486068023,
-					["from"] = "Xèal",
-					["msg"] = "lol, si ora che ci penso",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [108]
-				{
-					["type"] = 1,
-					["time"] = 1486068049,
-					["from"] = "Xèal",
-					["msg"] = "cazzo di guanti hai",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [109]
-				{
-					["type"] = 1,
-					["time"] = 1486068053,
-					["from"] = "Alitfaier",
-					["msg"] = "mi piacerebbe prendere la spada pvp ",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [110]
-				{
-					["type"] = 1,
-					["time"] = 1486068063,
-					["from"] = "Alitfaier",
-					["msg"] = "e non sono del set",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [111]
-				{
-					["type"] = 1,
-					["time"] = 1486068740,
-					["from"] = "Alitfaier",
-					["msg"] = "funny sta giocando con tutte due le mani",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [112]
-				{
-					["type"] = 1,
-					["time"] = 1486068764,
-					["from"] = "Xèal",
-					["msg"] = "gli chiedo se sta ckliccando",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [113]
-				{
-					["type"] = 1,
-					["time"] = 1486068772,
-					["from"] = "Xèal",
-					["msg"] = "xke x giocar bene clicca ancora",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [114]
-				{
-					["type"] = 1,
-					["time"] = 1486068869,
-					["from"] = "Xèal",
-					["msg"] = "sta cliccando.. l ho cazziato, gli ho detto che doamni deve imparare",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [115]
-				{
-					["type"] = 1,
-					["time"] = 1486068893,
-					["from"] = "Xèal",
-					["msg"] = "ma almeno ha incrementato dps",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [116]
-				{
-					["type"] = 1,
-					["time"] = 1486068932,
-					["from"] = "Xèal",
-					["msg"] = "ha una fortuna enorme.. nn ha rivali e droppa tutto, quindi incrementera danni anche giocando coi piedi",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [117]
-				{
-					["type"] = 1,
-					["time"] = 1486068949,
-					["from"] = "Alitfaier",
-					["msg"] = "c'è ime",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [118]
-				{
-					["type"] = 1,
-					["time"] = 1486068951,
-					["from"] = "Xèal",
-					["msg"] = "si far full equip prima di me e te che siam tutti plate sta gilda",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [119]
-				{
-					["type"] = 1,
-					["time"] = 1486068972,
-					["from"] = "Xèal",
-					["msg"] = "si ma differnt bis, poi e gia vestito, e kmq son 2",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [120]
-				{
-					["type"] = 1,
-					["time"] = 1486068982,
-					["from"] = "Xèal",
-					["msg"] = "i plate son tantissimi",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [121]
-				{
-					["type"] = 1,
-					["time"] = 1486068982,
-					["from"] = "Alitfaier",
-					["msg"] = "la palla di cristallo mi dice che al massimo staremo qua un altro mese..",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [122]
-				{
-					["type"] = 1,
-					["time"] = 1486068992,
-					["from"] = "Xèal",
-					["msg"] = "la mia no",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [123]
-				{
-					["type"] = 1,
-					["time"] = 1486069000,
-					["from"] = "Xèal",
-					["msg"] = "qua in che senso?",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [124]
-				{
-					["type"] = 1,
-					["time"] = 1486069008,
-					["from"] = "Alitfaier",
-					["msg"] = "in questa gilda",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [125]
-				{
-					["type"] = 1,
-					["time"] = 1486069013,
-					["from"] = "Xèal",
-					["msg"] = "ahhhh",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [126]
-				{
-					["type"] = 1,
-					["time"] = 1486069017,
-					["from"] = "Xèal",
-					["msg"] = "okok",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [127]
-				{
-					["type"] = 1,
-					["time"] = 1486069027,
-					["from"] = "Xèal",
-					["msg"] = "allora son daccordo con la palla",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [128]
-				{
-					["type"] = 1,
-					["time"] = 1486069116,
-					["from"] = "Alitfaier",
-					["msg"] = "si quella destra in genere ci becca spesso... quella sinistra un po' meno...",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [129]
-				{
-					["type"] = 1,
-					["time"] = 1486069133,
-					["from"] = "Alitfaier",
-					["msg"] = "poi 'è pasquale quello centrale, che media e da la risposta..",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [130]
-				{
-					["type"] = 1,
-					["time"] = 1486069133,
-					["from"] = "Xèal",
-					["msg"] = "lool",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [131]
-				{
-					["type"] = 1,
-					["time"] = 1486070358,
-					["from"] = "Alitfaier",
-					["msg"] = "se non c'era donzachiappa era fatto",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [132]
-				{
-					["type"] = 1,
-					["time"] = 1486070370,
-					["from"] = "Xèal",
-					["msg"] = "lol",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [133]
-				{
-					["type"] = 1,
-					["time"] = 1486070377,
-					["from"] = "Xèal",
-					["msg"] = "xo e' simpatico",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [134]
-				{
-					["type"] = 1,
-					["time"] = 1486071114,
-					["from"] = "Alitfaier",
-					["msg"] = "ma diocane se è mongola...",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [135]
-				{
-					["type"] = 1,
-					["time"] = 1486071133,
-					["from"] = "Alitfaier",
-					["msg"] = "è riuscita a morire... quando il boss non fa danni...",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [136]
-				{
-					["type"] = 1,
-					["time"] = 1486071135,
-					["from"] = "Xèal",
-					["msg"] = "porca troia lucrezia e raila muoiono a turno a ogni try",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [137]
-				{
-					["type"] = 1,
-					["time"] = 1486071139,
-					["from"] = "Xèal",
-					["msg"] = "tutte 2",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [138]
-				{
-					["type"] = 1,
-					["time"] = 1486071145,
-					["from"] = "Xèal",
-					["msg"] = "ma nn ce la fanno",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [139]
-				{
-					["type"] = 1,
-					["time"] = 1486071149,
-					["from"] = "Xèal",
-					["msg"] = "entrambe",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [140]
-				{
-					["type"] = 1,
-					["time"] = 1486071166,
-					["from"] = "Xèal",
-					["msg"] = "muoiono o tutte 2 a ogni try o 1 delle 2",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [141]
-				{
-					["type"] = 1,
-					["time"] = 1486071166,
-					["from"] = "Alitfaier",
-					["msg"] = "non è che muoiono a turno",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [142]
-				{
-					["type"] = 1,
-					["time"] = 1486071177,
-					["from"] = "Alitfaier",
-					["msg"] = "muoiono sempre entrambe ad ogni try",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [143]
-				{
-					["type"] = 1,
-					["time"] = 1486071179,
-					["from"] = "Xèal",
-					["msg"] = "muoion sempre lol",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [144]
-				{
-					["type"] = 1,
-					["time"] = 1486076940,
-					["from"] = "Xèal",
-					["msg"] = "scusa",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [145]
-				{
-					["type"] = 1,
-					["time"] = 1486077766,
-					["from"] = "Xèal",
-					["msg"] = "nn è vero funny dorme domattina lol",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [146]
-				{
-					["type"] = 1,
-					["time"] = 1486077779,
-					["from"] = "Xèal",
-					["msg"] = "fino all 14",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [147]
-				{
-					["type"] = 1,
-					["time"] = 1486077826,
-					["from"] = "Xèal",
-					["msg"] = "loooool",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [148]
-				{
-					["type"] = 1,
-					["time"] = 1486486356,
-					["from"] = "Alitfaier",
-					["msg"] = "vieni su discord?",
-					["inbound"] = false,
-					["convo"] = "Xèal",
-				}, -- [149]
-				{
-					["type"] = 1,
-					["time"] = 1486486366,
-					["from"] = "Xèal",
-					["msg"] = "ok",
-					["inbound"] = true,
-					["convo"] = "Xèal",
-				}, -- [150]
-				["info"] = {
-				},
-			},
-			["kate#2817"] = {
-				{
-					["type"] = 1,
-					["time"] = 1485807924,
-					["from"] = "Alitfaier",
-					["msg"] = "un gatto quando ha un infarto, trema tutto?",
-					["inbound"] = false,
-					["convo"] = "kate#2817",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1485808069,
-					["from"] = "kate#2817",
-					["msg"] = "non e detto",
-					["inbound"] = true,
-					["convo"] = "kate#2817",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1485808100,
-					["from"] = "kate#2817",
-					["msg"] = "sta uscendo da casa?",
-					["inbound"] = true,
-					["convo"] = "kate#2817",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1485808422,
-					["from"] = "Alitfaier",
-					["msg"] = "si",
-					["inbound"] = false,
-					["convo"] = "kate#2817",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1485808443,
-					["from"] = "kate#2817",
-					["msg"] = "ha anche saliva?",
-					["inbound"] = true,
-					["convo"] = "kate#2817",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1485808447,
-					["from"] = "Alitfaier",
-					["msg"] = "no",
-					["inbound"] = false,
-					["convo"] = "kate#2817",
-				}, -- [6]
-				{
-					["type"] = 1,
-					["time"] = 1485808452,
-					["from"] = "kate#2817",
-					["msg"] = "o solo trema? ",
-					["inbound"] = true,
-					["convo"] = "kate#2817",
-				}, -- [7]
-				{
-					["type"] = 1,
-					["time"] = 1485808460,
-					["from"] = "Alitfaier",
-					["msg"] = "ha tremato per un po'",
-					["inbound"] = false,
-					["convo"] = "kate#2817",
-				}, -- [8]
-				{
-					["type"] = 1,
-					["time"] = 1485808472,
-					["from"] = "Alitfaier",
-					["msg"] = "poi è li arrotolata da ieri sera",
-					["inbound"] = false,
-					["convo"] = "kate#2817",
-				}, -- [9]
-				{
-					["type"] = 1,
-					["time"] = 1486325858,
-					["from"] = "Alitfaier",
-					["msg"] = "mi daresti una forgia portatile?",
-					["inbound"] = false,
-					["convo"] = "kate#2817",
-				}, -- [10]
-				{
-					["type"] = 1,
-					["time"] = 1486325873,
-					["from"] = "Alitfaier",
-					["msg"] = "tab 2",
-					["inbound"] = false,
-					["convo"] = "kate#2817",
-				}, -- [11]
 				["info"] = {
 				},
 			},
 			["Shamavision"] = {
 				{
 					["type"] = 1,
-					["time"] = 1485821223,
+					["time"] = 1487270545,
 					["from"] = "Alitfaier",
-					["msg"] = "bo... io non so ma qua fanno tutti come gli pare.",
+					["msg"] = "ciao shamano",
 					["inbound"] = false,
 					["convo"] = "Shamavision",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1485893557,
+					["time"] = 1487270553,
 					["from"] = "Alitfaier",
-					["msg"] = "te li mando io e gem chip",
+					["msg"] = "ma ho sentito che smetti di giocare...",
 					["inbound"] = false,
 					["convo"] = "Shamavision",
 				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1485893561,
+					["time"] = 1487277438,
 					["from"] = "Alitfaier",
-					["msg"] = "aspe",
+					["msg"] = "mi hanno detto che smetti di giocare a wow, quando nasce il bimbo.",
 					["inbound"] = false,
 					["convo"] = "Shamavision",
 				}, -- [3]
 				{
 					["type"] = 1,
-					["time"] = 1485895406,
+					["time"] = 1487277451,
 					["from"] = "Alitfaier",
-					["msg"] = "ne hai una anche per me di vantus??",
+					["msg"] = "intendevo quello, per preso ferie!",
 					["inbound"] = false,
 					["convo"] = "Shamavision",
 				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1485983118,
-					["from"] = "Alitfaier",
-					["msg"] = "mi fai un incanto?",
-					["inbound"] = false,
-					["convo"] = "Shamavision",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1485983568,
-					["from"] = "Alitfaier",
-					["msg"] = "shamano mi fai un incanto?",
-					["inbound"] = false,
-					["convo"] = "Shamavision",
-				}, -- [6]
-				{
-					["type"] = 1,
-					["time"] = 1485983586,
-					["from"] = "Shamavision",
-					["msg"] = "quale ti serve??",
-					["inbound"] = true,
-					["convo"] = "Shamavision",
-				}, -- [7]
-				{
-					["type"] = 1,
-					["time"] = 1485983592,
-					["from"] = "Alitfaier",
-					["msg"] = "anello ho i mat",
-					["inbound"] = false,
-					["convo"] = "Shamavision",
-				}, -- [8]
-				{
-					["type"] = 1,
-					["time"] = 1485983607,
-					["from"] = "Alitfaier",
-					["msg"] = "200 haste",
-					["inbound"] = false,
-					["convo"] = "Shamavision",
-				}, -- [9]
-				{
-					["type"] = 1,
-					["time"] = 1485989279,
-					["from"] = "Alitfaier",
-					["msg"] = "te lo ricordi draemorto?",
-					["inbound"] = false,
-					["convo"] = "Shamavision",
-				}, -- [10]
-				{
-					["type"] = 1,
-					["time"] = 1485989305,
-					["from"] = "Alitfaier",
-					["msg"] = "lui era il mago senza tavolino",
-					["inbound"] = false,
-					["convo"] = "Shamavision",
-				}, -- [11]
-				{
-					["type"] = 1,
-					["time"] = 1485989324,
-					["from"] = "Alitfaier",
-					["msg"] = "rangi è il monk senza palingenesi",
-					["inbound"] = false,
-					["convo"] = "Shamavision",
-				}, -- [12]
-				{
-					["type"] = 1,
-					["time"] = 1486592330,
-					["from"] = "Alitfaier",
-					["msg"] = "raila è fuori di testa... poi  si lamentavano di me...",
-					["inbound"] = false,
-					["convo"] = "Shamavision",
-				}, -- [13]
 				["info"] = {
 				},
 			},
-			["Lacadrega"] = {
+			["Xèal"] = {
 				{
 					["type"] = 1,
-					["time"] = 1486736667,
+					["time"] = 1487018194,
 					["from"] = "Alitfaier",
-					["msg"] = "ti serve l'elmo?",
+					["msg"] = "ci pensa donzachiappa a curare... ",
 					["inbound"] = false,
-					["convo"] = "Lacadrega",
+					["convo"] = "Xèal",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1486736702,
-					["from"] = "Lacadrega",
-					["msg"] = "nha thx ",
+					["time"] = 1487018201,
+					["from"] = "Xèal",
+					["msg"] = "loool",
 					["inbound"] = true,
-					["convo"] = "Lacadrega",
+					["convo"] = "Xèal",
 				}, -- [2]
-				["info"] = {
-				},
-			},
-			["Asiia"] = {
 				{
 					["type"] = 1,
-					["time"] = 1486078307,
+					["time"] = 1487018210,
 					["from"] = "Alitfaier",
-					["msg"] = "ma come mai non giochi fire a sto boss?",
+					["msg"] = "non hai spec healer vero?",
 					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1486078316,
-					["from"] = "Asiia",
-					["msg"] = "fire sto boss ?",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1486078320,
-					["from"] = "Asiia",
-					["msg"] = "no",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [3]
 				{
 					["type"] = 1,
-					["time"] = 1486078324,
-					["from"] = "Asiia",
-					["msg"] = "faccio + danno frost",
+					["time"] = 1487021133,
+					["from"] = "Xèal",
+					["msg"] = "quando va castata l abilita extra?",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [4]
 				{
 					["type"] = 1,
-					["time"] = 1486078335,
-					["from"] = "Asiia",
-					["msg"] = "per ora",
+					["time"] = 1487021145,
+					["from"] = "Xèal",
+					["msg"] = "time dilatation",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [5]
 				{
 					["type"] = 1,
-					["time"] = 1486078342,
+					["time"] = 1487021173,
 					["from"] = "Alitfaier",
-					["msg"] = "a ok... no perchè ho visto il la maggior parte dei maghi girano fire su questo",
+					["msg"] = "sempre a cd",
 					["inbound"] = false,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [6]
 				{
 					["type"] = 1,
-					["time"] = 1486078352,
-					["from"] = "Asiia",
-					["msg"] = "se hanno equip e talenti si",
+					["time"] = 1487021180,
+					["from"] = "Xèal",
+					["msg"] = "ok",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [7]
 				{
 					["type"] = 1,
-					["time"] = 1486078377,
+					["time"] = 1487021518,
 					["from"] = "Alitfaier",
-					["msg"] = "in verità in mitico portano sempre due maghi uno frost e uno fire",
+					["msg"] = "1 ora 1 tri",
 					["inbound"] = false,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [8]
 				{
 					["type"] = 1,
-					["time"] = 1486078391,
-					["from"] = "Asiia",
-					["msg"] = "arrivo comunque a quasi 600 K che non è malacci",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487021528,
+					["from"] = "Alitfaier",
+					["msg"] = "55 minuti di spiegazione",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [9]
 				{
 					["type"] = 1,
-					["time"] = 1486078393,
+					["time"] = 1487023418,
 					["from"] = "Alitfaier",
-					["msg"] = "non so perchè",
+					["msg"] = "ma che cazzo pausa per 2 ore di raid...",
 					["inbound"] = false,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [10]
 				{
 					["type"] = 1,
-					["time"] = 1486078406,
+					["time"] = 1487026857,
 					["from"] = "Alitfaier",
-					["msg"] = "no no la mia era una domanda... non conosco la classe",
+					["msg"] = "funny primo in dps",
 					["inbound"] = false,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [11]
 				{
 					["type"] = 1,
-					["time"] = 1486078406,
-					["from"] = "Asiia",
-					["msg"] = "fire da giocare fai danno anceh se hai 6 ann",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487026873,
+					["from"] = "Alitfaier",
+					["msg"] = "ma non ha preso una torta manco per sbalgio",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [12]
 				{
 					["type"] = 1,
-					["time"] = 1486078411,
-					["from"] = "Asiia",
-					["msg"] = "frost è + difficile",
+					["time"] = 1487026893,
+					["from"] = "Xèal",
+					["msg"] = "si li ho fatto i complimenti. sai com è ha droppato 10 pezzi in 3 raid",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [13]
 				{
 					["type"] = 1,
-					["time"] = 1486078420,
-					["from"] = "Asiia",
-					["msg"] = "in realtà Diego dipende dal leggendario",
+					["time"] = 1487026934,
+					["from"] = "Xèal",
+					["msg"] = "io mi son fatto plus a nastro x mesi e un mazzo tanto, lui ha cazzeggiato, entra in raid s è fatto equip in 2 giorni",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [14]
 				{
 					["type"] = 1,
-					["time"] = 1486078429,
-					["from"] = "Asiia",
-					["msg"] = "se ha  |cffff8000|Hitem:133970::::::::110:64:::2:3458:3455:::|h[Zann'esu Journey]|h|r puoi andare frost",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487026949,
+					["from"] = "Alitfaier",
+					["msg"] = "heheehe",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [15]
 				{
 					["type"] = 1,
-					["time"] = 1486078434,
-					["from"] = "Asiia",
-					["msg"] = "altrimenti meglio fire",
+					["time"] = 1487026973,
+					["from"] = "Xèal",
+					["msg"] = "siam tutti plate esce tutto mail o leather",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [16]
 				{
 					["type"] = 1,
-					["time"] = 1486078446,
-					["from"] = "Alitfaier",
-					["msg"] = "a ok spiegato l'arcano",
-					["inbound"] = false,
-					["convo"] = "Asiia",
+					["time"] = 1487027031,
+					["from"] = "Xèal",
+					["msg"] = "a mepuggare conviene circa 10 volte a pezzi",
+					["inbound"] = true,
+					["convo"] = "Xèal",
 				}, -- [17]
 				{
 					["type"] = 1,
-					["time"] = 1486078449,
-					["from"] = "Asiia",
-					["msg"] = "vedrai che nei log è questo leg. che fa differenza sus wow log",
+					["time"] = 1487027052,
+					["from"] = "Xèal",
+					["msg"] = "qui nn droppo mai, son fermo da quando raido cn loro",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [18]
 				{
 					["type"] = 1,
-					["time"] = 1486078465,
-					["from"] = "Asiia",
-					["msg"] = "carichi a bomba blizzard e la spara durante aoe",
+					["time"] = 1487027206,
+					["from"] = "Xèal",
+					["msg"] = "nano shooter ha tutto",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [19]
 				{
 					["type"] = 1,
-					["time"] = 1486078472,
-					["from"] = "Asiia",
-					["msg"] = "senza non fai aoe in frost",
+					["time"] = 1487027221,
+					["from"] = "Xèal",
+					["msg"] = "deve far a gara x nn farsi dare il 7 pezzo del set",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [20]
 				{
 					["type"] = 1,
-					["time"] = 1486078532,
-					["from"] = "Asiia",
-					["msg"] = "forse ora meglio ancara c'è arcane senza niente faccio un aoe spaventoso",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487027226,
+					["from"] = "Alitfaier",
+					["msg"] = "si pugga a  nastro",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [21]
 				{
 					["type"] = 1,
-					["time"] = 1486078574,
-					["from"] = "Asiia",
-					["msg"] = "comunque aoe meglio sempre fire, ma dopo rimande indietro su boss, uno e uno è il top",
+					["time"] = 1487027260,
+					["from"] = "Xèal",
+					["msg"] = "cioe lui e lucrezia si beccan un titanforgiato a sera",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [22]
 				{
 					["type"] = 1,
-					["time"] = 1486078592,
-					["from"] = "Alitfaier",
-					["msg"] = "a ok",
-					["inbound"] = false,
-					["convo"] = "Asiia",
+					["time"] = 1487027268,
+					["from"] = "Xèal",
+					["msg"] = "bo",
+					["inbound"] = true,
+					["convo"] = "Xèal",
 				}, -- [23]
 				{
 					["type"] = 1,
-					["time"] = 1486078617,
+					["time"] = 1487105864,
 					["from"] = "Alitfaier",
-					["msg"] = "io  |cffff8000|Hitem:137087::::::::110:72:::2:3459:3458:::|h[Vertebra di Naj'entus]|h|r  |cff71d5ff|Htalent:22379|h[Demolitore]|h|r",
+					["msg"] = "cmq io con i tricket sempre problemi",
 					["inbound"] = false,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [24]
 				{
 					["type"] = 1,
-					["time"] = 1486078621,
+					["time"] = 1487107673,
 					["from"] = "Alitfaier",
-					["msg"] = "aoe spaventoso",
+					["msg"] = "che meccanica di merda..",
 					["inbound"] = false,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [25]
 				{
 					["type"] = 1,
-					["time"] = 1486078660,
-					["from"] = "Asiia",
-					["msg"] = "comunque su wow log su questo boss sono tutti arcane se guardi",
+					["time"] = 1487190871,
+					["from"] = "Xèal",
+					["msg"] = "ma io lo wispo davvero sto diaclo",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [26]
 				{
 					["type"] = 1,
-					["time"] = 1486078666,
-					["from"] = "Asiia",
-					["msg"] = "ma li non ho una mazza di niente",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487191664,
+					["from"] = "Alitfaier",
+					["msg"] = "ci litighi il giorno dopo ",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [27]
 				{
 					["type"] = 1,
-					["time"] = 1486078675,
+					["time"] = 1487191672,
 					["from"] = "Alitfaier",
-					["msg"] = "a ok",
+					["msg"] = "è peggio di kate quello",
 					["inbound"] = false,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [28]
 				{
 					["type"] = 1,
-					["time"] = 1486078676,
-					["from"] = "Asiia",
-					["msg"] = "e poi non mi piace una spell tutto il boss",
+					["time"] = 1487191689,
+					["from"] = "Xèal",
+					["msg"] = "o mio dio",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [29]
 				{
 					["type"] = 1,
-					["time"] = 1486078684,
-					["from"] = "Asiia",
-					["msg"] = "un tasto lol ",
+					["time"] = 1487191705,
+					["from"] = "Xèal",
+					["msg"] = "non se po",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [30]
 				{
 					["type"] = 1,
-					["time"] = 1486078688,
-					["from"] = "Alitfaier",
-					["msg"] = "allora ho visto male.",
-					["inbound"] = false,
-					["convo"] = "Asiia",
+					["time"] = 1487191718,
+					["from"] = "Xèal",
+					["msg"] = "ma che ci facciamo in nm?",
+					["inbound"] = true,
+					["convo"] = "Xèal",
 				}, -- [31]
 				{
 					["type"] = 1,
-					["time"] = 1486078711,
-					["from"] = "Asiia",
-					["msg"] = "no può darsi avessi visto benone",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487191724,
+					["from"] = "Alitfaier",
+					["msg"] = "kate era in gilda con lui due anni fa... l'ha kikkata",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [32]
 				{
 					["type"] = 1,
-					["time"] = 1486078716,
-					["from"] = "Asiia",
-					["msg"] = "è cambiato tutto negli ultimi 10 giorni",
+					["time"] = 1487191735,
+					["from"] = "Xèal",
+					["msg"] = "non doveva esser solo la scorsa week x fare achi?",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [33]
 				{
 					["type"] = 1,
-					["time"] = 1486078735,
-					["from"] = "Asiia",
-					["msg"] = "mano a mano che si rimettono equip e artifact cambiano",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487193871,
+					["from"] = "Alitfaier",
+					["msg"] = "ma se spamma i pezzi almeno a chi intgeressa si ferma e chi non frega va avanti",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [34]
 				{
 					["type"] = 1,
-					["time"] = 1486079919,
+					["time"] = 1487198717,
 					["from"] = "Alitfaier",
-					["msg"] = "cmq ho fatto i conti...",
+					["msg"] = "cmq il war in raid non rende come in mitica...",
 					["inbound"] = false,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [35]
 				{
 					["type"] = 1,
-					["time"] = 1486079929,
+					["time"] = 1487198741,
 					["from"] = "Alitfaier",
-					["msg"] = "quello che dice erucarcas è una cagata...",
+					["msg"] = "e in singolo scende troppo...",
 					["inbound"] = false,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [36]
 				{
 					["type"] = 1,
-					["time"] = 1486079962,
-					["from"] = "Alitfaier",
-					["msg"] = "le fasi aoe del boss sono più alte delle fasi singolo",
-					["inbound"] = false,
-					["convo"] = "Asiia",
+					["time"] = 1487198741,
+					["from"] = "Xèal",
+					["msg"] = "bo io stas nn sto guardando nemmeno",
+					["inbound"] = true,
+					["convo"] = "Xèal",
 				}, -- [37]
 				{
 					["type"] = 1,
-					["time"] = 1486079978,
-					["from"] = "Alitfaier",
-					["msg"] = "esempio la fese di ghiaccio dura 35 secondi",
-					["inbound"] = false,
-					["convo"] = "Asiia",
+					["time"] = 1487198755,
+					["from"] = "Xèal",
+					["msg"] = "sto cliccando a schermo lol",
+					["inbound"] = true,
+					["convo"] = "Xèal",
 				}, -- [38]
 				{
 					["type"] = 1,
-					["time"] = 1486079992,
-					["from"] = "Asiia",
-					["msg"] = "la fase arcane è una bomba",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487198756,
+					["from"] = "Alitfaier",
+					["msg"] = "dovrei mettermi arms ma non mi paice",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [39]
 				{
 					["type"] = 1,
-					["time"] = 1486079995,
-					["from"] = "Alitfaier",
-					["msg"] = "se metti 4 persone a fare singolo",
-					["inbound"] = false,
-					["convo"] = "Asiia",
+					["time"] = 1487198770,
+					["from"] = "Xèal",
+					["msg"] = "ti capisco manco a me piace",
+					["inbound"] = true,
+					["convo"] = "Xèal",
 				}, -- [40]
 				{
 					["type"] = 1,
-					["time"] = 1486080001,
-					["from"] = "Asiia",
-					["msg"] = "hanno 35 M e sono 8/9",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487201530,
+					["from"] = "Alitfaier",
+					["msg"] = "elisande in hc l'hai già fatta?",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [41]
 				{
 					["type"] = 1,
-					["time"] = 1486080013,
-					["from"] = "Alitfaier",
-					["msg"] = "e gli altri a fare aoe... gli add durano 30 secondi",
-					["inbound"] = false,
-					["convo"] = "Asiia",
+					["time"] = 1487201539,
+					["from"] = "Xèal",
+					["msg"] = "no",
+					["inbound"] = true,
+					["convo"] = "Xèal",
 				}, -- [42]
 				{
 					["type"] = 1,
-					["time"] = 1486080023,
-					["from"] = "Alitfaier",
-					["msg"] = "ma solo 5 fanno dps sul boss",
-					["inbound"] = false,
-					["convo"] = "Asiia",
+					["time"] = 1487201566,
+					["from"] = "Xèal",
+					["msg"] = "cazzo voleva kayn cn qello spam?",
+					["inbound"] = true,
+					["convo"] = "Xèal",
 				}, -- [43]
 				{
 					["type"] = 1,
-					["time"] = 1486080029,
-					["from"] = "Alitfaier",
-					["msg"] = "e gli togli tot",
-					["inbound"] = false,
-					["convo"] = "Asiia",
+					["time"] = 1487201575,
+					["from"] = "Xèal",
+					["msg"] = "che mi sta a rompe le palle a me",
+					["inbound"] = true,
+					["convo"] = "Xèal",
 				}, -- [44]
 				{
 					["type"] = 1,
-					["time"] = 1486080047,
+					["time"] = 1487201583,
 					["from"] = "Alitfaier",
-					["msg"] = "se invece la fase aoe la fanno tuti e dura 15 secondi e tutti poi sono liberi dal fare dps sul boss",
+					["msg"] = "qule spam?",
 					["inbound"] = false,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [45]
 				{
 					["type"] = 1,
-					["time"] = 1486080063,
-					["from"] = "Alitfaier",
-					["msg"] = "gli togli moooolto di più che 5 persone fanno singolo",
-					["inbound"] = false,
-					["convo"] = "Asiia",
+					["time"] = 1487201600,
+					["from"] = "Xèal",
+					["msg"] = "che gioco senza impegnarmi cliccando e faccio meglio della maggior parte",
+					["inbound"] = true,
+					["convo"] = "Xèal",
 				}, -- [46]
 				{
 					["type"] = 1,
-					["time"] = 1486080070,
-					["from"] = "Asiia",
-					["msg"] = "no infatti se vedo che è così non è detto che faccia AOE con arcane",
+					["time"] = 1487201605,
+					["from"] = "Xèal",
+					["msg"] = "nn l hai visto<?",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [47]
 				{
 					["type"] = 1,
-					["time"] = 1486080090,
-					["from"] = "Asiia",
-					["msg"] = "tanto farei da quel boss li come minimo lo stesso danno di frost secondo me",
+					["time"] = 1487201615,
+					["from"] = "Xèal",
+					["msg"] = "quello del dbm",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [48]
 				{
 					["type"] = 1,
-					["time"] = 1486080107,
-					["from"] = "Asiia",
-					["msg"] = "ma buttandolo tutto in aoe",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487201619,
+					["from"] = "Alitfaier",
+					["msg"] = "no avevo già sgruppato",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [49]
 				{
 					["type"] = 1,
-					["time"] = 1486080113,
+					["time"] = 1487277685,
 					["from"] = "Alitfaier",
-					["msg"] = "si si, ma è un boss aoe, le due fasi critiche sono apertamente aoe",
+					["msg"] = "vabè ma.... invitiamo gente nuova fuori gilda a boss che sono ancora in progress?",
 					["inbound"] = false,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [50]
 				{
 					["type"] = 1,
-					["time"] = 1486080114,
-					["from"] = "Asiia",
-					["msg"] = "che forse ci manca un po",
+					["time"] = 1487277696,
+					["from"] = "Xèal",
+					["msg"] = "lol",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [51]
 				{
 					["type"] = 1,
-					["time"] = 1486080137,
+					["time"] = 1487277721,
 					["from"] = "Alitfaier",
-					["msg"] = "è inutile fare singolo",
+					["msg"] = "già dobbiamo bustare haxe donza e naye... e samu...",
 					["inbound"] = false,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [52]
 				{
 					["type"] = 1,
-					["time"] = 1486080150,
-					["from"] = "Asiia",
-					["msg"] = "beh ci deve essere un buon compromesso",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487278174,
+					["from"] = "Alitfaier",
+					["msg"] = "8 prepozze... dove vogliono andare...",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [53]
 				{
 					["type"] = 1,
-					["time"] = 1486080158,
-					["from"] = "Asiia",
-					["msg"] = "il boss ha comunque 2000 M di punti",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487282661,
+					["from"] = "Alitfaier",
+					["msg"] = "sto preppo è una sega..",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [54]
 				{
 					["type"] = 1,
-					["time"] = 1486080160,
+					["time"] = 1487283209,
 					["from"] = "Alitfaier",
-					["msg"] = "l'importante che il boss finita la fase arcana sia non più alto del 45%",
+					["msg"] = "si ma 8 prepozze su 20...",
 					["inbound"] = false,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [55]
 				{
 					["type"] = 1,
-					["time"] = 1486080176,
-					["from"] = "Asiia",
-					["msg"] = "in realta non ci siamo ancora arrivati a 45",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487283234,
+					["from"] = "Alitfaier",
+					["msg"] = "hanno fortuna che non ci sono gilde che neddano mele... senò ero già andato via",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [56]
 				{
 					["type"] = 1,
-					["time"] = 1486080180,
-					["from"] = "Asiia",
-					["msg"] = "ci manca poco ma non ci siamo",
+					["time"] = 1487283250,
+					["from"] = "Xèal",
+					["msg"] = "lol",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [57]
 				{
 					["type"] = 1,
-					["time"] = 1486080182,
+					["time"] = 1487286284,
 					["from"] = "Alitfaier",
-					["msg"] = "si si...",
+					["msg"] = "sei caduto",
 					["inbound"] = false,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [58]
 				{
 					["type"] = 1,
-					["time"] = 1486080197,
+					["time"] = 1487286302,
 					["from"] = "Alitfaier",
-					["msg"] = "cmq manca poco perchè le fasi aoe durano troppo",
+					["msg"] = "al pelo",
 					["inbound"] = false,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [59]
 				{
 					["type"] = 1,
-					["time"] = 1486080228,
+					["time"] = 1487286316,
 					["from"] = "Alitfaier",
-					["msg"] = "se tutti facessero full aoe nella fase frost  e dura 20 secondi come dovrebbe essere ",
+					["msg"] = "se saltavi meglio ce la facevi",
 					["inbound"] = false,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [60]
 				{
 					["type"] = 1,
-					["time"] = 1486080240,
-					["from"] = "Alitfaier",
-					["msg"] = "hai 15 secondi buoni per fare dps su di lui",
-					["inbound"] = false,
-					["convo"] = "Asiia",
+					["time"] = 1487286332,
+					["from"] = "Xèal",
+					["msg"] = "mi son alzato durante ilò try rapa.....",
+					["inbound"] = true,
+					["convo"] = "Xèal",
 				}, -- [61]
 				{
 					["type"] = 1,
-					["time"] = 1486080248,
-					["from"] = "Alitfaier",
-					["msg"] = "forse anche di più",
-					["inbound"] = false,
-					["convo"] = "Asiia",
+					["time"] = 1487286346,
+					["from"] = "Xèal",
+					["msg"] = "a litigare cn la mia ex",
+					["inbound"] = true,
+					["convo"] = "Xèal",
 				}, -- [62]
 				{
 					["type"] = 1,
-					["time"] = 1486080257,
-					["from"] = "Asiia",
-					["msg"] = "da quel boss bisogna stare sui 500 K di dps con il nostro item",
+					["time"] = 1487286379,
+					["from"] = "Xèal",
+					["msg"] = "nn ti seio accorto che mison frmatp uimmobile durante il fight",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [63]
 				{
 					["type"] = 1,
-					["time"] = 1486080260,
+					["time"] = 1487286389,
 					["from"] = "Alitfaier",
-					["msg"] = "dovrei provare  a mettere un timer",
+					["msg"] = "no",
 					["inbound"] = false,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [64]
 				{
 					["type"] = 1,
-					["time"] = 1486080276,
-					["from"] = "Alitfaier",
-					["msg"] = "si",
-					["inbound"] = false,
-					["convo"] = "Asiia",
+					["time"] = 1487286436,
+					["from"] = "Xèal",
+					["msg"] = "mi son fermato in raid col pg, fermo immobile, ho ripreso poco prima del ponte",
+					["inbound"] = true,
+					["convo"] = "Xèal",
 				}, -- [65]
 				{
 					["type"] = 1,
-					["time"] = 1486080282,
-					["from"] = "Alitfaier",
-					["msg"] = "e vero",
-					["inbound"] = false,
-					["convo"] = "Asiia",
+					["time"] = 1487286448,
+					["from"] = "Xèal",
+					["msg"] = "stiam litigando durante il raid da 15 minuti",
+					["inbound"] = true,
+					["convo"] = "Xèal",
 				}, -- [66]
 				{
 					["type"] = 1,
-					["time"] = 1486080296,
+					["time"] = 1487286472,
 					["from"] = "Alitfaier",
-					["msg"] = "ma non volevo dirlo per non far passare la voglia",
+					["msg"] = "non a caso è la tua ex",
 					["inbound"] = false,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [67]
 				{
 					["type"] = 1,
-					["time"] = 1486080310,
-					["from"] = "Asiia",
-					["msg"] = "con frost sono arrivato al limite ho visto, adesso lunedì provo arcane",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487524586,
+					["from"] = "Alitfaier",
+					["msg"] = "ti ho mandato un po di mat",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [68]
 				{
 					["type"] = 1,
-					["time"] = 1486080324,
-					["from"] = "Asiia",
-					["msg"] = "con frost sono ormai nei log sempre a 90/95 % del braket",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487524593,
+					["from"] = "Alitfaier",
+					["msg"] = "per farmi i repair e la mascotte",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [69]
 				{
 					["type"] = 1,
-					["time"] = 1486080325,
-					["from"] = "Alitfaier",
-					["msg"] = "ma se riusciamo a fare la storia della bolla all'inc è un erosim gratis",
-					["inbound"] = false,
-					["convo"] = "Asiia",
+					["time"] = 1487524633,
+					["from"] = "Xèal",
+					["msg"] = "ok",
+					["inbound"] = true,
+					["convo"] = "Xèal",
 				}, -- [70]
 				{
 					["type"] = 1,
-					["time"] = 1486080330,
-					["from"] = "Asiia",
-					["msg"] = "credo di + non ce la fo",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487529084,
+					["from"] = "Alitfaier",
+					["msg"] = "tnx",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [71]
 				{
 					["type"] = 1,
-					["time"] = 1486080337,
-					["from"] = "Asiia",
-					["msg"] = "ah lo bruci",
+					["time"] = 1487529097,
+					["from"] = "Xèal",
+					["msg"] = "prego",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [72]
 				{
 					["type"] = 1,
-					["time"] = 1486080355,
-					["from"] = "Alitfaier",
-					["msg"] = "si decisamente",
-					["inbound"] = false,
-					["convo"] = "Asiia",
+					["time"] = 1487724557,
+					["from"] = "Xèal",
+					["msg"] = "mazza quanti online a quest ora",
+					["inbound"] = true,
+					["convo"] = "Xèal",
 				}, -- [73]
 				{
 					["type"] = 1,
-					["time"] = 1486080410,
-					["from"] = "Asiia",
-					["msg"] = "ormai frost mi mancano 4 punti",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487785637,
+					["from"] = "Alitfaier",
+					["msg"] = "ho fatto il botanista hc",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [74]
 				{
 					["type"] = 1,
-					["time"] = 1486080417,
-					["from"] = "Asiia",
-					["msg"] = "mi butto sulle altre arcane, fire non mi piace",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487785647,
+					["from"] = "Alitfaier",
+					["msg"] = "però ci sono due tank bravi qua...",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [75]
 				{
 					["type"] = 1,
-					["time"] = 1486080436,
-					["from"] = "Alitfaier",
-					["msg"] = "a quello lo devi vedere tu",
-					["inbound"] = false,
-					["convo"] = "Asiia",
+					["time"] = 1487785656,
+					["from"] = "Xèal",
+					["msg"] = "wow",
+					["inbound"] = true,
+					["convo"] = "Xèal",
 				}, -- [76]
 				{
 					["type"] = 1,
-					["time"] = 1486080463,
-					["from"] = "Asiia",
-					["msg"] = "tanto servono",
+					["time"] = 1487785659,
+					["from"] = "Xèal",
+					["msg"] = "gg",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [77]
 				{
 					["type"] = 1,
-					["time"] = 1486080470,
-					["from"] = "Asiia",
-					["msg"] = "per esempio dal betione a dominare è frost",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487785669,
+					["from"] = "Alitfaier",
+					["msg"] = "non mi prendere per il culo",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [78]
 				{
 					["type"] = 1,
-					["time"] = 1486080473,
-					["from"] = "Alitfaier",
-					["msg"] = "e che poi come fai con i leggendari?",
-					["inbound"] = false,
-					["convo"] = "Asiia",
+					["time"] = 1487785680,
+					["from"] = "Xèal",
+					["msg"] = "che dici?",
+					["inbound"] = true,
+					["convo"] = "Xèal",
 				}, -- [79]
 				{
 					["type"] = 1,
-					["time"] = 1486080477,
-					["from"] = "Asiia",
-					["msg"] = "*bestione Krosus",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487785683,
+					["from"] = "Alitfaier",
+					["msg"] = "cmq sono terzultimo in dps",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [80]
 				{
 					["type"] = 1,
-					["time"] = 1486080485,
-					["from"] = "Asiia",
-					["msg"] = "da altre arcane/fire",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487785695,
+					["from"] = "Alitfaier",
+					["msg"] = "e come item level sono ilpiù basso",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [81]
 				{
 					["type"] = 1,
-					["time"] = 1486080494,
-					["from"] = "Alitfaier",
-					["msg"] = "per me era meglio che mettevano un cacchio di vendor per questi leggendari",
-					["inbound"] = false,
-					["convo"] = "Asiia",
+					["time"] = 1487785695,
+					["from"] = "Xèal",
+					["msg"] = "xke? era un gg sincero",
+					["inbound"] = true,
+					["convo"] = "Xèal",
 				}, -- [82]
 				{
 					["type"] = 1,
-					["time"] = 1486080511,
+					["time"] = 1487785698,
 					["from"] = "Alitfaier",
-					["msg"] = "tu droppi un token e poi ritiri quello che ti interessa della spec che vuoi",
+					["msg"] = "ok",
 					["inbound"] = false,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [83]
 				{
 					["type"] = 1,
-					["time"] = 1486080517,
-					["from"] = "Asiia",
-					["msg"] = "è si cazzo",
+					["time"] = 1487785708,
+					["from"] = "Xèal",
+					["msg"] = "c ho provato pure io spesso, mai andato giu",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [84]
 				{
 					["type"] = 1,
-					["time"] = 1486080524,
-					["from"] = "Asiia",
-					["msg"] = "arcane ho 0 leg.",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487785713,
+					["from"] = "Alitfaier",
+					["msg"] = "ma non era per te non mi prendere per il culo ma per luigi",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [85]
 				{
 					["type"] = 1,
-					["time"] = 1486080530,
-					["from"] = "Asiia",
-					["msg"] = "ma il vero problema è un altro",
+					["time"] = 1487785720,
+					["from"] = "Xèal",
+					["msg"] = "lol",
 					["inbound"] = true,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [86]
 				{
 					["type"] = 1,
-					["time"] = 1486080533,
-					["from"] = "Asiia",
-					["msg"] = "sono i relic",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487785735,
+					["from"] = "Alitfaier",
+					["msg"] = "si ma sono in un party che ti dico sono il più basso",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [87]
 				{
 					["type"] = 1,
-					["time"] = 1486080675,
+					["time"] = 1487785753,
 					["from"] = "Alitfaier",
-					["msg"] = "minchia si quelli sono un bordello",
+					["msg"] = "e il war mi ha pure wispato per dirmi fai così fai cosà",
 					["inbound"] = false,
-					["convo"] = "Asiia",
+					["convo"] = "Xèal",
 				}, -- [88]
 				{
 					["type"] = 1,
-					["time"] = 1486080703,
-					["from"] = "Asiia",
-					["msg"] = "è si perchè rimani indietro facilmente",
-					["inbound"] = true,
-					["convo"] = "Asiia",
+					["time"] = 1487785760,
+					["from"] = "Alitfaier",
+					["msg"] = "e ho preso 100k ",
+					["inbound"] = false,
+					["convo"] = "Xèal",
 				}, -- [89]
 				{
 					["type"] = 1,
-					["time"] = 1486080758,
-					["from"] = "Alitfaier",
-					["msg"] = "cmq io ora vado a nanna... ma cmq il vero problema è che siamo dei legni secchi a muoverci.",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [90]
-				{
-					["type"] = 1,
-					["time"] = 1486080776,
-					["from"] = "Asiia",
-					["msg"] = "è un po si",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [91]
-				{
-					["type"] = 1,
-					["time"] = 1486080781,
-					["from"] = "Asiia",
-					["msg"] = "per quello mi piace fare pug",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [92]
-				{
-					["type"] = 1,
-					["time"] = 1486080788,
-					["from"] = "Asiia",
-					["msg"] = "perchè si impara a scantarsi",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [93]
-				{
-					["type"] = 1,
-					["time"] = 1486080801,
-					["from"] = "Alitfaier",
-					["msg"] = "e ma qua pug non puoi farlo quindi ciccia",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [94]
-				{
-					["type"] = 1,
-					["time"] = 1486138481,
-					["from"] = "Asiia",
-					["msg"] = "thx",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [95]
-				{
-					["type"] = 1,
-					["time"] = 1486138484,
-					["from"] = "Alitfaier",
-					["msg"] = "prego",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [96]
-				{
-					["type"] = 1,
-					["time"] = 1486138495,
-					["from"] = "Asiia",
-					["msg"] = "70 erbette non male :)",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [97]
-				{
-					["type"] = 1,
-					["time"] = 1486138510,
-					["from"] = "Alitfaier",
-					["msg"] = "non male",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [98]
-				{
-					["type"] = 1,
-					["time"] = 1486413961,
-					["from"] = "Asiia",
-					["msg"] = "mi son allenato tutta settimana per fare aoe con mitiche lol",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [99]
-				{
-					["type"] = 1,
-					["time"] = 1486413966,
-					["from"] = "Asiia",
-					["msg"] = "facciamo questo :)",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [100]
-				{
-					["type"] = 1,
-					["time"] = 1486413989,
-					["from"] = "Alitfaier",
-					["msg"] = "e pure io",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [101]
-				{
-					["type"] = 1,
-					["time"] = 1486414035,
-					["from"] = "Asiia",
-					["msg"] = "settimana prox dobbiamo fare +15 ",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [102]
-				{
-					["type"] = 1,
-					["time"] = 1486414050,
-					["from"] = "Asiia",
-					["msg"] = "non so come, ma dobbiamo farla :)",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [103]
-				{
-					["type"] = 1,
-					["time"] = 1486414078,
-					["from"] = "Alitfaier",
-					["msg"] = "speramo",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [104]
-				{
-					["type"] = 1,
-					["time"] = 1486414097,
-					["from"] = "Asiia",
-					["msg"] = "ormai equip per farlo ce lo abbiamo",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [105]
-				{
-					["type"] = 1,
-					["time"] = 1486414114,
-					["from"] = "Asiia",
-					["msg"] = "bisogna farle un po tutte per capire da 10 in su i problemi",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [106]
-				{
-					["type"] = 1,
-					["time"] = 1486414127,
-					["from"] = "Asiia",
-					["msg"] = "arca forse da 12 in su siamo tirati",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [107]
-				{
-					["type"] = 1,
-					["time"] = 1486414137,
-					["from"] = "Alitfaier",
-					["msg"] = "l'equippe non è propozionale alla skill purtroppo",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [108]
-				{
-					["type"] = 1,
-					["time"] = 1486414160,
-					["from"] = "Asiia",
-					["msg"] = "eh già",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [109]
-				{
-					["type"] = 1,
-					["time"] = 1486414183,
-					["from"] = "Alitfaier",
-					["msg"] = "almeno io più di così non riesco a fare e sono al 75% 80% delle potenzialità della classe...",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [110]
-				{
-					["type"] = 1,
-					["time"] = 1486414190,
-					["from"] = "Alitfaier",
-					["msg"] = "e in ogni caso sono alto",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [111]
-				{
-					["type"] = 1,
-					["time"] = 1486414203,
-					["from"] = "Asiia",
-					["msg"] = "io credo di averne ancora poco",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [112]
-				{
-					["type"] = 1,
-					["time"] = 1486414234,
-					["from"] = "Alitfaier",
-					["msg"] = "non saprei dirti... poi dipende dale run, alcune run mi dice che sono attorno al 90%",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [113]
-				{
-					["type"] = 1,
-					["time"] = 1486414251,
-					["from"] = "Alitfaier",
-					["msg"] = "altre 70 ma la media siamo al 75",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [114]
-				{
-					["type"] = 1,
-					["time"] = 1486414271,
-					["from"] = "Asiia",
-					["msg"] = "è siamo li sono tra 80 e 95",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [115]
-				{
-					["type"] = 1,
-					["time"] = 1486414273,
-					["from"] = "Alitfaier",
-					["msg"] = "poi basta che non usi una pozza a un pull e gia sei al 60",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [116]
-				{
-					["type"] = 1,
-					["time"] = 1486414316,
-					["from"] = "Alitfaier",
-					["msg"] = "cmq dovrei riguardare, perchè queste simulazioni le avevo fatte due mesi fa",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [117]
-				{
-					["type"] = 1,
-					["time"] = 1486414435,
-					["from"] = "Alitfaier",
-					["msg"] = "cmq sappi che è una media dei rank e cmq molti per rankare si tolgono un anello e ne metotno uno basso",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [118]
-				{
-					["type"] = 1,
-					["time"] = 1486414446,
-					["from"] = "Alitfaier",
-					["msg"] = "che non incide sul dps ma sull'item level",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [119]
-				{
-					["type"] = 1,
-					["time"] = 1486414455,
-					["from"] = "Asiia",
-					["msg"] = "ah quello si",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [120]
-				{
-					["type"] = 1,
-					["time"] = 1486414463,
-					["from"] = "Asiia",
-					["msg"] = "basta guardare equip di sti infami",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [121]
-				{
-					["type"] = 1,
-					["time"] = 1486414469,
-					["from"] = "Asiia",
-					["msg"] = "mettono trinket 840",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [122]
-				{
-					["type"] = 1,
-					["time"] = 1486414503,
-					["from"] = "Alitfaier",
-					["msg"] = "sull'armory potrebbero cambiarlo apposta",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [123]
-				{
-					["type"] = 1,
-					["time"] = 1486414529,
-					["from"] = "Alitfaier",
-					["msg"] = "è capitato spesso che vedi gente girare con un trinket perchè tizio lo ha smepre sull'armory con l'incanto sbagliato...",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [124]
-				{
-					["type"] = 1,
-					["time"] = 1486414550,
-					["from"] = "Alitfaier",
-					["msg"] = "poi vai su word of log e vedi che ha il pezzo giusto",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [125]
-				{
-					["type"] = 1,
-					["time"] = 1486414569,
-					["from"] = "Alitfaier",
-					["msg"] = "e lo cambiava apposta",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [126]
-				{
-					["type"] = 1,
-					["time"] = 1486414620,
-					["from"] = "Alitfaier",
-					["msg"] = "oppure come in wrat che mi prendvano per il culo per un trinket a icc",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [127]
-				{
-					["type"] = 1,
-					["time"] = 1486414625,
-					["from"] = "Asiia",
-					["msg"] = "ad ogni modo nel nel totale sei oltre 80 va già abbastanza bene",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [128]
-				{
-					["type"] = 1,
-					["time"] = 1486414635,
-					["from"] = "Alitfaier",
-					["msg"] = "che usavo uno da dps per tankare... quello da tank non mi ha mai droppato",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [129]
-				{
-					["type"] = 1,
-					["time"] = 1486414662,
-					["from"] = "Alitfaier",
-					["msg"] = "essere sopra l'80 per me sei giusto",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [130]
-				{
-					["type"] = 1,
-					["time"] = 1486414681,
-					["from"] = "Alitfaier",
-					["msg"] = "i 20 dopo sono discutibili...",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [131]
-				{
-					["type"] = 1,
-					["time"] = 1486414697,
-					["from"] = "Asiia",
-					["msg"] = "poi c'è chi è più bravo",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [132]
-				{
-					["type"] = 1,
-					["time"] = 1486414699,
-					["from"] = "Asiia",
-					["msg"] = "c'è poco da fare",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [133]
-				{
-					["type"] = 1,
-					["time"] = 1486414710,
-					["from"] = "Alitfaier",
-					["msg"] = "quello si",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [134]
-				{
-					["type"] = 1,
-					["time"] = 1486573638,
-					["from"] = "Alitfaier",
-					["msg"] = "che chiave ti ha dato?",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [135]
-				{
-					["type"] = 1,
-					["time"] = 1486573682,
-					["from"] = "Asiia",
-					["msg"] = " |cffa335ee|Hitem:138019::::::::110:64:6160384:::1492:9:5:4:1:::|h[Mythic Keystone]|h|r",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [136]
-				{
-					["type"] = 1,
-					["time"] = 1486573700,
-					["from"] = "Alitfaier",
-					["msg"] = " |cffa335ee|Hitem:138019::::::::110:72:6160384:::1477:9:5:4:1:::|h[Chiave del Potere]|h|r",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [137]
-				{
-					["type"] = 1,
-					["time"] = 1486573707,
-					["from"] = "Alitfaier",
-					["msg"] = "la mia mi sa che sta li nello zaino",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [138]
-				{
-					["type"] = 1,
-					["time"] = 1486573832,
-					["from"] = "Alitfaier",
-					["msg"] = "questa quest qua   |cffff8040|Hquest:40762:113|h[I doveri di uno zelota]|h|r",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [139]
-				{
-					["type"] = 1,
-					["time"] = 1486573832,
-					["from"] = "Asiia",
-					["msg"] = "<Deadly Boss Mods> Asiia is busy fighting against Looking For Raid - Skorpyron (46%, 25/25 people alive)",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [140]
-				{
-					["type"] = 1,
-					["time"] = 1486573843,
-					["from"] = "Alitfaier",
-					["msg"] = "sai dove si consegna?",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [141]
-				{
-					["type"] = 1,
-					["time"] = 1486573956,
-					["from"] = "Asiia",
-					["msg"] = "mmm no",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [142]
-				{
-					["type"] = 1,
-					["time"] = 1486574840,
-					["from"] = "Asiia",
-					["msg"] = "pensavo di upparla +12 si dovrebbe riuscire",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [143]
-				{
-					["type"] = 1,
-					["time"] = 1486760483,
-					["from"] = "Alitfaier",
-					["msg"] = "namo a fare le m+?",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [144]
-				{
-					["type"] = 1,
-					["time"] = 1486760846,
-					["from"] = "Asiia",
-					["msg"] = "eccomi scusa ero con quel pacco di Kayn che li ho aiutati a fare una +10",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [145]
-				{
-					["type"] = 1,
-					["time"] = 1486760866,
-					["from"] = "Alitfaier",
-					["msg"] = "k",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [146]
-				{
-					["type"] = 1,
-					["time"] = 1486760871,
-					["from"] = "Asiia",
-					["msg"] = "non ti ho visto arrivare",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [147]
-				{
-					["type"] = 1,
-					["time"] = 1486760888,
-					["from"] = "Alitfaier",
-					["msg"] = "si mi sto esercitando a fare il rogue",
-					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [148]
-				{
-					["type"] = 1,
-					["time"] = 1486760894,
-					["from"] = "Asiia",
-					["msg"] = "lol",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [149]
-				{
-					["type"] = 1,
-					["time"] = 1486818359,
-					["from"] = "Asiia",
-					["msg"] = "ieri ho tirato su un po la chiave",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [150]
-				{
-					["type"] = 1,
-					["time"] = 1486818363,
-					["from"] = "Asiia",
-					["msg"] = " |cffa335ee|Hitem:138019::::::::110:64:8257536:::1456:14:5:4:9:1:::|h[Mythic Keystone]|h|r",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [151]
-				{
-					["type"] = 1,
-					["time"] = 1486818376,
+					["time"] = 1487785763,
 					["from"] = "Alitfaier",
 					["msg"] = "LOL",
 					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [152]
+					["convo"] = "Xèal",
+				}, -- [90]
 				{
 					["type"] = 1,
-					["time"] = 1486818395,
-					["from"] = "Asiia",
-					["msg"] = "speravo di portarla a 15 per oggi lol",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [153]
-				{
-					["type"] = 1,
-					["time"] = 1486854741,
+					["time"] = 1487786596,
 					["from"] = "Alitfaier",
-					["msg"] = "mitiche a gogo",
+					["msg"] = "cmq non riesco a fare elisande",
 					["inbound"] = false,
-					["convo"] = "Asiia",
-				}, -- [154]
+					["convo"] = "Xèal",
+				}, -- [91]
 				{
 					["type"] = 1,
-					["time"] = 1486854741,
-					["from"] = "Asiia",
-					["msg"] = "<Deadly Boss Mods> Asiia is busy fighting against Mythic+ - Ularogg Cragshaper (14%, 5/5 people alive)",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [155]
+					["time"] = 1487786608,
+					["from"] = "Alitfaier",
+					["msg"] = "prendono solo gente 900+",
+					["inbound"] = false,
+					["convo"] = "Xèal",
+				}, -- [92]
 				{
 					["type"] = 1,
-					["time"] = 1486854753,
-					["from"] = "Asiia",
-					["msg"] = "<DBM> Asiia has defeated Mythic+ - Ularogg Cragshaper!",
-					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [156]
+					["time"] = 1487786619,
+					["from"] = "Alitfaier",
+					["msg"] = "e ora sono 892",
+					["inbound"] = false,
+					["convo"] = "Xèal",
+				}, -- [93]
 				{
 					["type"] = 1,
-					["time"] = 1486854807,
-					["from"] = "Asiia",
-					["msg"] = "yes :)",
+					["time"] = 1487786777,
+					["from"] = "Xèal",
+					["msg"] = "vabbe ma vedono il vestito.. sei 902, ho visto ieri, il fatto vero è che se scerivono 900+ significa che prendono 905+",
 					["inbound"] = true,
-					["convo"] = "Asiia",
-				}, -- [157]
+					["convo"] = "Xèal",
+				}, -- [94]
+				{
+					["type"] = 1,
+					["time"] = 1487786865,
+					["from"] = "Alitfaier",
+					["msg"] = "cmq un war stesso item level mio ma con il set fa 150k in più di dps",
+					["inbound"] = false,
+					["convo"] = "Xèal",
+				}, -- [95]
+				{
+					["type"] = 1,
+					["time"] = 1487867889,
+					["from"] = "Xèal",
+					["msg"] = "vieni?",
+					["inbound"] = true,
+					["convo"] = "Xèal",
+				}, -- [96]
+				{
+					["type"] = 1,
+					["time"] = 1488124417,
+					["from"] = "Xèal",
+					["msg"] = "delirio la +13 con skittish",
+					["inbound"] = true,
+					["convo"] = "Xèal",
+				}, -- [97]
+				{
+					["type"] = 1,
+					["time"] = 1488124435,
+					["from"] = "Xèal",
+					["msg"] = "la mia nn l ho fatta, ma nn cho piu tanta voglia oggi",
+					["inbound"] = true,
+					["convo"] = "Xèal",
+				}, -- [98]
+				{
+					["type"] = 1,
+					["time"] = 1488124459,
+					["from"] = "Xèal",
+					["msg"] = "abbiam fatto 2 volte boschetto delepted",
+					["inbound"] = true,
+					["convo"] = "Xèal",
+				}, -- [99]
+				{
+					["type"] = 1,
+					["time"] = 1488124488,
+					["from"] = "Xèal",
+					["msg"] = "e +13 halls.. fanculo che sberla",
+					["inbound"] = true,
+					["convo"] = "Xèal",
+				}, -- [100]
+				{
+					["type"] = 1,
+					["time"] = 1488124501,
+					["from"] = "Alitfaier",
+					["msg"] = "ok",
+					["inbound"] = false,
+					["convo"] = "Xèal",
+				}, -- [101]
+				{
+					["type"] = 1,
+					["time"] = 1488124512,
+					["from"] = "Alitfaier",
+					["msg"] = "ma non ha molto senso ricaricare le chiavi",
+					["inbound"] = false,
+					["convo"] = "Xèal",
+				}, -- [102]
+				{
+					["type"] = 1,
+					["time"] = 1488124522,
+					["from"] = "Alitfaier",
+					["msg"] = "speciamente poi con chi non sa come si faccia",
+					["inbound"] = false,
+					["convo"] = "Xèal",
+				}, -- [103]
+				{
+					["type"] = 1,
+					["time"] = 1488124529,
+					["from"] = "Xèal",
+					["msg"] = "si lo so ma me l han chiesto.. mi scocciava dire di no",
+					["inbound"] = true,
+					["convo"] = "Xèal",
+				}, -- [104]
+				{
+					["type"] = 1,
+					["time"] = 1488124564,
+					["from"] = "Alitfaier",
+					["msg"] = "capirai gli dici, la solita palla che mi dici a me... ho la ex a casa.",
+					["inbound"] = false,
+					["convo"] = "Xèal",
+				}, -- [105]
+				{
+					["type"] = 1,
+					["time"] = 1488124579,
+					["from"] = "Xèal",
+					["msg"] = "ahahaha caxo diciiii",
+					["inbound"] = true,
+					["convo"] = "Xèal",
+				}, -- [106]
+				{
+					["type"] = 1,
+					["time"] = 1488124597,
+					["from"] = "Alitfaier",
+					["msg"] = ":P",
+					["inbound"] = false,
+					["convo"] = "Xèal",
+				}, -- [107]
+				{
+					["type"] = 1,
+					["time"] = 1488124614,
+					["from"] = "Xèal",
+					["msg"] = "no vabbe alla fine abbiam fatto +13 che mi mancava sta week, vebene cosi",
+					["inbound"] = true,
+					["convo"] = "Xèal",
+				}, -- [108]
+				["info"] = {
+				},
+			},
+			["Nanoshooter"] = {
+				{
+					["type"] = 1,
+					["time"] = 1487529112,
+					["from"] = "Alitfaier",
+					["msg"] = "ciao, mi crafti la gemma 200 forza? ti mando i mat",
+					["inbound"] = false,
+					["convo"] = "Nanoshooter",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1487529131,
+					["from"] = "Alitfaier",
+					["msg"] = "al posto del sangue ti vanno bene tre rose lucestellare?",
+					["inbound"] = false,
+					["convo"] = "Nanoshooter",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1487529409,
+					["from"] = "Nanoshooter",
+					["msg"] = "sisi manda pure anche senza rose",
+					["inbound"] = true,
+					["convo"] = "Nanoshooter",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1487529505,
+					["from"] = "Alitfaier",
+					["msg"] = "ok",
+					["inbound"] = false,
+					["convo"] = "Nanoshooter",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1487536879,
+					["from"] = "Alitfaier",
+					["msg"] = "ti sono arrivati i mat per la gemma?",
+					["inbound"] = false,
+					["convo"] = "Nanoshooter",
+				}, -- [5]
+				{
+					["type"] = 1,
+					["time"] = 1487537274,
+					["from"] = "Nanoshooter",
+					["msg"] = "no nn è arrivato nulla",
+					["inbound"] = true,
+					["convo"] = "Nanoshooter",
+				}, -- [6]
+				{
+					["type"] = 1,
+					["time"] = 1487537283,
+					["from"] = "Nanoshooter",
+					["msg"] = "nn è che hai sbagliato",
+					["inbound"] = true,
+					["convo"] = "Nanoshooter",
+				}, -- [7]
+				{
+					["type"] = 1,
+					["time"] = 1487537494,
+					["from"] = "Alitfaier",
+					["msg"] = "o li ho mandato a questo o all'altro nano.",
+					["inbound"] = false,
+					["convo"] = "Nanoshooter",
+				}, -- [8]
+				{
+					["type"] = 1,
+					["time"] = 1487537503,
+					["from"] = "Alitfaier",
+					["msg"] = "che è sempre tuo il pg",
+					["inbound"] = false,
+					["convo"] = "Nanoshooter",
+				}, -- [9]
+				{
+					["type"] = 1,
+					["time"] = 1487537512,
+					["from"] = "Alitfaier",
+					["msg"] = "perfortuna",
+					["inbound"] = false,
+					["convo"] = "Nanoshooter",
+				}, -- [10]
+				{
+					["type"] = 1,
+					["time"] = 1487537515,
+					["from"] = "Nanoshooter",
+					["msg"] = "ah",
+					["inbound"] = true,
+					["convo"] = "Nanoshooter",
+				}, -- [11]
+				{
+					["type"] = 1,
+					["time"] = 1487537524,
+					["from"] = "Nanoshooter",
+					["msg"] = "ora guardo",
+					["inbound"] = true,
+					["convo"] = "Nanoshooter",
+				}, -- [12]
+				{
+					["type"] = 1,
+					["time"] = 1487538264,
+					["from"] = "Alitfaier",
+					["msg"] = "ti devo rimandare i mat?",
+					["inbound"] = false,
+					["convo"] = "Nanoshooter",
+				}, -- [13]
+				{
+					["type"] = 1,
+					["time"] = 1487538311,
+					["from"] = "Nanoshooter",
+					["msg"] = "no sono arrivati",
+					["inbound"] = true,
+					["convo"] = "Nanoshooter",
+				}, -- [14]
+				{
+					["type"] = 1,
+					["time"] = 1487538318,
+					["from"] = "Alitfaier",
+					["msg"] = "a ok",
+					["inbound"] = false,
+					["convo"] = "Nanoshooter",
+				}, -- [15]
+				{
+					["type"] = 1,
+					["time"] = 1487538319,
+					["from"] = "Nanoshooter",
+					["msg"] = "e ti ho spedito la gemma poco fa",
+					["inbound"] = true,
+					["convo"] = "Nanoshooter",
+				}, -- [16]
+				{
+					["type"] = 1,
+					["time"] = 1487538334,
+					["from"] = "Alitfaier",
+					["msg"] = "si si, infatti per quello dicevo.",
+					["inbound"] = false,
+					["convo"] = "Nanoshooter",
+				}, -- [17]
+				{
+					["type"] = 1,
+					["time"] = 1487538337,
+					["from"] = "Nanoshooter",
+					["msg"] = "strano arrivi cosi lentamente la roba",
+					["inbound"] = true,
+					["convo"] = "Nanoshooter",
+				}, -- [18]
+				{
+					["type"] = 1,
+					["time"] = 1487538346,
+					["from"] = "Alitfaier",
+					["msg"] = "hai rilogatto",
+					["inbound"] = false,
+					["convo"] = "Nanoshooter",
+				}, -- [19]
+				{
+					["type"] = 1,
+					["time"] = 1487538350,
+					["from"] = "Alitfaier",
+					["msg"] = "a volte capita",
+					["inbound"] = false,
+					["convo"] = "Nanoshooter",
+				}, -- [20]
+				{
+					["type"] = 1,
+					["time"] = 1487538356,
+					["from"] = "Nanoshooter",
+					["msg"] = "di solito tra gildani è piu veloce",
+					["inbound"] = true,
+					["convo"] = "Nanoshooter",
+				}, -- [21]
+				{
+					["type"] = 1,
+					["time"] = 1487538375,
+					["from"] = "Nanoshooter",
+					["msg"] = "cmq fatta e spedita",
+					["inbound"] = true,
+					["convo"] = "Nanoshooter",
+				}, -- [22]
+				{
+					["type"] = 1,
+					["time"] = 1487538382,
+					["from"] = "Alitfaier",
+					["msg"] = "si si già messa grazie",
+					["inbound"] = false,
+					["convo"] = "Nanoshooter",
+				}, -- [23]
 				["info"] = {
 				},
 			},
 			["AlexM#21650"] = {
 				{
 					["type"] = 1,
-					["time"] = 1485800881,
+					["time"] = 1487109223,
 					["from"] = "AlexM#21650",
-					["msg"] = "die",
+					["msg"] = "te avrai un bel da dire ma x me ime a volte è un cretino",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1485800887,
-					["from"] = "AlexM#21650",
-					["msg"] = "che combini?",
-					["inbound"] = true,
+					["time"] = 1487109242,
+					["from"] = "Alitfaier",
+					["msg"] = "si era rotto le palle ",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1485800945,
-					["from"] = "Alitfaier",
-					["msg"] = "adesso diego non c è ci sono io Lorenzo",
-					["inbound"] = false,
+					["time"] = 1487109247,
+					["from"] = "AlexM#21650",
+					["msg"] = "se l è presa nn so cn chi xke",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [3]
 				{
 					["type"] = 1,
-					["time"] = 1485800956,
+					["time"] = 1487109267,
 					["from"] = "AlexM#21650",
-					["msg"] = "ahhhh ciao :)",
+					["msg"] = "al try prima c era stato casino all arrivo degli add",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [4]
 				{
 					["type"] = 1,
-					["time"] = 1485800987,
-					["from"] = "Alitfaier",
-					["msg"] = "{zipper}",
-					["inbound"] = false,
+					["time"] = 1487109294,
+					["from"] = "AlexM#21650",
+					["msg"] = "qando il casino era che la gente aveva attaccato il debuff al tank e kmq eravam tutti incasinati",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [5]
 				{
 					["type"] = 1,
-					["time"] = 1485801000,
-					["from"] = "Alitfaier",
-					["msg"] = ":]",
-					["inbound"] = false,
+					["time"] = 1487109307,
+					["from"] = "AlexM#21650",
+					["msg"] = "ce ne eravamo dimenticati i maroni",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [6]
 				{
 					["type"] = 1,
-					["time"] = 1485807973,
+					["time"] = 1487109315,
 					["from"] = "AlexM#21650",
-					["msg"] = "ho wispato kate varie volte in sti giorni",
+					["msg"] = "funny scandaloso",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [7]
 				{
 					["type"] = 1,
-					["time"] = 1485807984,
-					["from"] = "Alitfaier",
-					["msg"] = "e?",
-					["inbound"] = false,
+					["time"] = 1487109320,
+					["from"] = "AlexM#21650",
+					["msg"] = "me so incazzato",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [8]
 				{
 					["type"] = 1,
-					["time"] = 1485807993,
-					["from"] = "Alitfaier",
-					["msg"] = "meglio dare testate a un muro?",
-					["inbound"] = false,
+					["time"] = 1487109331,
+					["from"] = "AlexM#21650",
+					["msg"] = "m ha chargato 2 volte addosso",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [9]
 				{
 					["type"] = 1,
-					["time"] = 1485807995,
+					["time"] = 1487109345,
 					["from"] = "AlexM#21650",
-					["msg"] = "secondo lei ha creato un sistema coi vantaggi di epgp ma senza i difetti di epgp",
+					["msg"] = "era col charge sulla x rosdsda",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [10]
 				{
 					["type"] = 1,
-					["time"] = 1485808006,
+					["time"] = 1487109358,
 					["from"] = "AlexM#21650",
-					["msg"] = "le ho risposto lol",
+					["msg"] = "e ha messo le pozze 2 try su qelle degli altrui",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [11]
 				{
 					["type"] = 1,
-					["time"] = 1485808049,
+					["time"] = 1487167853,
 					["from"] = "Alitfaier",
-					["msg"] = "si... peccato che epgp ha un solo difetto",
+					["msg"] = "ho letto che la blizzard per la prossima exp voglia eliminare la master loot",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [12]
 				{
 					["type"] = 1,
-					["time"] = 1485808051,
+					["time"] = 1487194443,
 					["from"] = "AlexM#21650",
-					["msg"] = "son 2 giorni ke le wispo su varie cose, stas mi girano, dopo varie sere perfetto stas ho una tattica d assalto",
+					["msg"] = "che catena che ho",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [13]
 				{
 					["type"] = 1,
-					["time"] = 1485808082,
-					["from"] = "AlexM#21650",
-					["msg"] = "mi son preso una boccia di vino, mi ubriaco , e se mi girano glie ne canto 4",
-					["inbound"] = true,
+					["time"] = 1487194486,
+					["from"] = "Alitfaier",
+					["msg"] = "catena?",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [14]
 				{
 					["type"] = 1,
-					["time"] = 1485808102,
+					["time"] = 1487194526,
 					["from"] = "AlexM#21650",
-					["msg"] = "no scherzo, xo davvero nn se po parlare cn lei",
+					["msg"] = "vuol dire che n c ho piu voglia di raidar cn sta gilda",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [15]
 				{
 					["type"] = 1,
-					["time"] = 1485808114,
+					["time"] = 1487194539,
 					["from"] = "AlexM#21650",
-					["msg"] = "poi e' accecata da fenriswolf",
+					["msg"] = "stas sto al 28 boss cn loro.. 1 drop",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [16]
 				{
 					["type"] = 1,
-					["time"] = 1485808179,
-					["from"] = "Alitfaier",
-					["msg"] = "no ma che... il suo pupillo è erucarcas",
-					["inbound"] = false,
+					["time"] = 1487194551,
+					["from"] = "AlexM#21650",
+					["msg"] = "li ho contati prima",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [17]
 				{
 					["type"] = 1,
-					["time"] = 1485808197,
-					["from"] = "AlexM#21650",
-					["msg"] = "nono",
-					["inbound"] = true,
+					["time"] = 1487194951,
+					["from"] = "Alitfaier",
+					["msg"] = "io ho preso 1 pezzo che mi ha obbligato a prendere 2 off e uno con la moneta",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [18]
 				{
 					["type"] = 1,
-					["time"] = 1485808207,
-					["from"] = "AlexM#21650",
-					["msg"] = "guarda no comment",
-					["inbound"] = true,
+					["time"] = 1487248773,
+					["from"] = "Alitfaier",
+					["msg"] = "sto cercando un'altra gilda ma sono tutte strapiene di mele...",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [19]
 				{
 					["type"] = 1,
-					["time"] = 1485808213,
+					["time"] = 1487248815,
 					["from"] = "Alitfaier",
-					["msg"] = "ma siccome per 5 volte gioca un po' poi appena si arriva al boss difficile molla tutti senza dire nulla",
+					["msg"] = "ho chiesto praticamente a tutte quelle che raidano in mitico o sono li li con i numeri..",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [20]
 				{
 					["type"] = 1,
-					["time"] = 1485808222,
+					["time"] = 1487248818,
 					["from"] = "Alitfaier",
-					["msg"] = "ci siamo imposti per cambiare rl",
+					["msg"] = "ma niente",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [21]
 				{
 					["type"] = 1,
-					["time"] = 1485808234,
-					["from"] = "Alitfaier",
-					["msg"] = "le scelte erano due o ime o fenris",
-					["inbound"] = false,
+					["time"] = 1487248847,
+					["from"] = "AlexM#21650",
+					["msg"] = "gia lo immaginavo, ma vabbe",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [22]
 				{
 					["type"] = 1,
-					["time"] = 1485808261,
-					["from"] = "AlexM#21650",
-					["msg"] = "allora xke droppa tutto lui e lei ha detto che si deve fa cio che dice lui, che i tank han la priorita su tutti i drop",
-					["inbound"] = true,
+					["time"] = 1487248891,
+					["from"] = "Alitfaier",
+					["msg"] = "ci sono i primal force che hanno due raid mitici, hanno 6 ranged in tutto...",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [23]
 				{
 					["type"] = 1,
-					["time"] = 1485808502,
-					["from"] = "AlexM#21650",
-					["msg"] = "era la salita di prima",
-					["inbound"] = true,
+					["time"] = 1487248946,
+					["from"] = "Alitfaier",
+					["msg"] = "praticametne un raid che è quello principale portano tutti i ranged che hanno l'altor è fatto solo da mele... e praticametne è fermo al terzo boss.",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [24]
 				{
 					["type"] = 1,
-					["time"] = 1485808510,
+					["time"] = 1487284749,
 					["from"] = "AlexM#21650",
-					["msg"] = "col cambio caricamento",
+					["msg"] = "nano è inumano",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [25]
 				{
 					["type"] = 1,
-					["time"] = 1485808526,
+					["time"] = 1487284757,
 					["from"] = "Alitfaier",
-					["msg"] = "dio che palle",
+					["msg"] = "si...",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [26]
 				{
 					["type"] = 1,
-					["time"] = 1485808544,
+					["time"] = 1487284766,
 					["from"] = "AlexM#21650",
-					["msg"] = "vai su da trilliax insomma",
+					["msg"] = "droppa come un negro a bologna",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [27]
 				{
 					["type"] = 1,
-					["time"] = 1485808648,
+					["time"] = 1487284788,
 					["from"] = "AlexM#21650",
-					["msg"] = "da trilliax dove sei ora vai su",
+					["msg"] = "l altra sera litigava x nn farsi dare il \"5\" pezzo del set",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [28]
 				{
 					["type"] = 1,
-					["time"] = 1485808665,
-					["from"] = "AlexM#21650",
-					["msg"] = "esatto",
-					["inbound"] = true,
+					["time"] = 1487284813,
+					["from"] = "Alitfaier",
+					["msg"] = "si che tra l'altro io neddavo il pezzo e l'ha dato a nano",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [29]
 				{
 					["type"] = 1,
-					["time"] = 1485808686,
+					["time"] = 1487284828,
 					["from"] = "AlexM#21650",
-					["msg"] = "oki entra li",
+					["msg"] = "è full vestito raid, nnha pezzi dropppati in plus... io ho droppato un pezzo in 30 boss dilda e son full mitic plus",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [30]
 				{
 					["type"] = 1,
-					["time"] = 1485808748,
+					["time"] = 1487284840,
 					["from"] = "AlexM#21650",
-					["msg"] = "ok sei arrivato.. sto cazzo di raid mi perdo sempre pur io",
+					["msg"] = "ma che culo ha quell uomo",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [31]
 				{
 					["type"] = 1,
-					["time"] = 1485813349,
+					["time"] = 1487284841,
 					["from"] = "Alitfaier",
-					["msg"] = "cioè... il war ha l'aoe più forte del gioco... e erucarcas non lo usa...",
+					["msg"] = "il 5 questa sera potevo fare il 4 bonus e poi vi facevo ciao con la manina...",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [32]
 				{
 					["type"] = 1,
-					["time"] = 1485813380,
+					["time"] = 1487284878,
 					["from"] = "AlexM#21650",
-					["msg"] = "mi sta sul caxo fenris",
+					["msg"] = "io ho droppato 1 relic da uqando sto cn la gilda, nemmeno tanto buono.. ;(",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [33]
 				{
 					["type"] = 1,
-					["time"] = 1485813394,
+					["time"] = 1487284893,
 					["from"] = "Alitfaier",
-					["msg"] = "ma perchè?",
+					["msg"] = "io questa sera sono a 2 pezzi.",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [34]
 				{
 					["type"] = 1,
-					["time"] = 1485813425,
+					["time"] = 1487288164,
 					["from"] = "AlexM#21650",
-					["msg"] = "che crdeva che nn avevo capito la storia che ci si corre incontro dai 2 flare... son 3 sere che lo famo, ma alla fine le cose van storte",
+					["msg"] = "stasera ero ubriaco fradicio.. avro giocaTO di merda, me ne so accorto",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [35]
 				{
 					["type"] = 1,
-					["time"] = 1485813429,
-					["from"] = "Alitfaier",
-					["msg"] = "è tranquillo e cmq sta cercando di fare RL in una condizione che non può decidere lui il setup...",
-					["inbound"] = false,
+					["time"] = 1487288174,
+					["from"] = "AlexM#21650",
+					["msg"] = "ma c è gente che nn sa qel che fa x me",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [36]
 				{
 					["type"] = 1,
-					["time"] = 1485813458,
-					["from"] = "AlexM#21650",
-					["msg"] = "nn e' la fase 1 incasinata, alla fine io e altri li vedo gironzolare col debuff",
-					["inbound"] = true,
+					["time"] = 1487288192,
+					["from"] = "Alitfaier",
+					["msg"] = "quello sicuro",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [37]
 				{
 					["type"] = 1,
-					["time"] = 1485813485,
+					["time"] = 1487288246,
 					["from"] = "AlexM#21650",
-					["msg"] = "ma che mi prende x scemo",
+					["msg"] = "vado a nnanna.. domani al corso mi devo impezzare la 19 rossa mentre parlo di stomie e fighe flaccide",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [38]
 				{
 					["type"] = 1,
-					["time"] = 1485813493,
-					["from"] = "Alitfaier",
-					["msg"] = "quello si anche io ... ma faccio il lep in testa a chi devo andare e faccio prima",
-					["inbound"] = false,
+					["time"] = 1487288250,
+					["from"] = "AlexM#21650",
+					["msg"] = "un impresa",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [39]
 				{
 					["type"] = 1,
-					["time"] = 1485813519,
+					["time"] = 1487288261,
 					["from"] = "AlexM#21650",
-					["msg"] = "poi fa mille spiegazioni tutte in una volta",
+					["msg"] = "ma se vedi sta rossa...",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [40]
 				{
 					["type"] = 1,
-					["time"] = 1485813532,
+					["time"] = 1487288272,
 					["from"] = "AlexM#21650",
-					["msg"] = "ma falle dilazionate man mano che le vediamo",
+					["msg"] = "troppo paassera.. vabbe notte",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [41]
 				{
 					["type"] = 1,
-					["time"] = 1485813556,
+					["time"] = 1487288287,
 					["from"] = "Alitfaier",
-					["msg"] = "a quello è raila che vuole così",
+					["msg"] = "notte",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [42]
 				{
 					["type"] = 1,
-					["time"] = 1485813902,
+					["time"] = 1487523607,
 					["from"] = "AlexM#21650",
-					["msg"] = "ma chi cazzo e' questa?",
+					["msg"] = "cristo nn avevo visto che jac ha leftato",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [43]
 				{
 					["type"] = 1,
-					["time"] = 1485813906,
+					["time"] = 1487523618,
 					["from"] = "AlexM#21650",
-					["msg"] = "e' kate?",
+					["msg"] = "è andato in ascendance immagino",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [44]
 				{
 					["type"] = 1,
-					["time"] = 1485813917,
+					["time"] = 1487523621,
 					["from"] = "Alitfaier",
-					["msg"] = "si",
+					["msg"] = "e... ci ha litigato di brutto",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [45]
 				{
 					["type"] = 1,
-					["time"] = 1485813925,
+					["time"] = 1487523676,
 					["from"] = "AlexM#21650",
-					["msg"] = "ma chi ha salutato cn sta voce ma lol",
+					["msg"] = "è un gran pacco.. di sto passo nn resta nulla",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [46]
 				{
 					["type"] = 1,
-					["time"] = 1485813936,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma la fa la scema questa",
-					["inbound"] = true,
+					["time"] = 1487523697,
+					["from"] = "Alitfaier",
+					["msg"] = "ha pure gildato quel prete pacco",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [47]
 				{
 					["type"] = 1,
-					["time"] = 1485813955,
-					["from"] = "Alitfaier",
-					["msg"] = "è una gatta morta te l'ho detto",
-					["inbound"] = false,
+					["time"] = 1487523712,
+					["from"] = "AlexM#21650",
+					["msg"] = "prima shinsoo e ora jac, cioe cosi la gilda nn va da nessuna parte",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [48]
 				{
 					["type"] = 1,
-					["time"] = 1485819210,
-					["from"] = "AlexM#21650",
-					["msg"] = "fenris sara un po stronzo ma e' l unico che ci campana qualcosa.. pure nano ogni tanto se ne esce cn certe cose che insomma",
-					["inbound"] = true,
+					["time"] = 1487523771,
+					["from"] = "Alitfaier",
+					["msg"] = "ma il fatto è che luigi era tank a inzio exp, e siccome mancava un healer ha dato la disponibilità di curare, come off...",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [49]
 				{
 					["type"] = 1,
-					["time"] = 1485819232,
-					["from"] = "AlexM#21650",
-					["msg"] = "kate sembra che capisca ma sbaglia come una polla",
-					["inbound"] = true,
+					["time"] = 1487523786,
+					["from"] = "Alitfaier",
+					["msg"] = "poi però non l'ha mai fatto tankare....",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [50]
 				{
 					["type"] = 1,
-					["time"] = 1485819233,
+					["time"] = 1487523804,
 					["from"] = "Alitfaier",
-					["msg"] = "vabè nano non conta niente",
+					["msg"] = "per far tankare quella merda di monica... e se mancava un tank faceva tankare tempest",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [51]
 				{
 					["type"] = 1,
-					["time"] = 1485819244,
+					["time"] = 1487523824,
 					["from"] = "Alitfaier",
-					["msg"] = "kate non capisce niente...",
+					["msg"] = "luigi se rotto il cazzo...",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [52]
 				{
 					["type"] = 1,
-					["time"] = 1485819254,
-					["from"] = "AlexM#21650",
-					["msg"] = "ime ha delle buone idee, almeno lui propone",
-					["inbound"] = true,
+					["time"] = 1487523832,
+					["from"] = "Alitfaier",
+					["msg"] = "e ha affrontato il discorsoo",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [53]
 				{
 					["type"] = 1,
-					["time"] = 1485819264,
+					["time"] = 1487523839,
 					["from"] = "Alitfaier",
-					["msg"] = "non ha capacità tattiche, e nemmeno da leader",
+					["msg"] = "poi hanno litigato e lui a leftto",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [54]
 				{
 					["type"] = 1,
-					["time"] = 1485819274,
-					["from"] = "Alitfaier",
-					["msg"] = "si ma lo considerano poco",
-					["inbound"] = false,
+					["time"] = 1487523866,
+					["from"] = "AlexM#21650",
+					["msg"] = "lo capisco, amch uio volevo tancare e glie l ho data su",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [55]
 				{
 					["type"] = 1,
-					["time"] = 1485819290,
-					["from"] = "AlexM#21650",
-					["msg"] = "poi alla fine hai sentito?",
-					["inbound"] = true,
+					["time"] = 1487523882,
+					["from"] = "Alitfaier",
+					["msg"] = "praticamente lei dice che non c'e solo luigi ma anche gli altri e se deve scegliere tra lui singolo e loro in due.. non sa come fare.",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [56]
 				{
 					["type"] = 1,
-					["time"] = 1485819308,
+					["time"] = 1487523887,
 					["from"] = "AlexM#21650",
-					["msg"] = "il tipo ha chiesto la stessa medesima cosa che avevo chiesto io ore fa",
+					["msg"] = "ma rompe il cazzo, soprattutto quando l altro tank non ne combuina una giusta",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [57]
 				{
 					["type"] = 1,
-					["time"] = 1485819318,
-					["from"] = "AlexM#21650",
-					["msg"] = "la stessa identica",
-					["inbound"] = true,
+					["time"] = 1487523903,
+					["from"] = "Alitfaier",
+					["msg"] = "infatti, si lamentano tutti di monica come tank",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [58]
 				{
 					["type"] = 1,
-					["time"] = 1485819320,
+					["time"] = 1487523925,
 					["from"] = "Alitfaier",
-					["msg"] = "si...",
+					["msg"] = "poi specialmente una che tanka perchè giocare con un dps, ti dice che muore troppo spesso.",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [59]
 				{
 					["type"] = 1,
-					["time"] = 1485819363,
+					["time"] = 1487523930,
 					["from"] = "AlexM#21650",
-					["msg"] = "io vado a nanna, oggi ho fatto piglia a funny una chiave",
+					["msg"] = "ma figurati, che scegliere e scegliere.. una soluzione si trovava",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [60]
 				{
 					["type"] = 1,
-					["time"] = 1485819374,
+					["time"] = 1487524001,
 					["from"] = "Alitfaier",
-					["msg"] = "che chiave?",
+					["msg"] = "cmq ha fatto andare via luigi erchè il prete nuovo gli ha dato disponibilità come dps e off healr... e vedrai che farà curare fisso a preppio... ",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [61]
 				{
 					["type"] = 1,
-					["time"] = 1485819379,
-					["from"] = "AlexM#21650",
-					["msg"] = "e gli ho fatto fare una +8 x la chest di fine settimana",
-					["inbound"] = true,
+					["time"] = 1487524028,
+					["from"] = "Alitfaier",
+					["msg"] = "che da quanto ci ho parlato ha sempre curato, ma ha cambiato gilda perchè non gli facevano mai far fare dps...",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [62]
 				{
 					["type"] = 1,
-					["time"] = 1485819392,
+					["time"] = 1487524038,
 					["from"] = "Alitfaier",
-					["msg"] = "e... ma fa poco dps",
+					["msg"] = "quindi non è che abbia risolto molto",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [63]
 				{
 					["type"] = 1,
-					["time"] = 1485819405,
+					["time"] = 1487795436,
 					["from"] = "AlexM#21650",
-					["msg"] = "ce l ha bassa, corte +2, l ha presa in una + 8 in cui l ho boostato",
+					["msg"] = "cazzo è carlantonio?",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [64]
 				{
 					["type"] = 1,
-					["time"] = 1485819423,
-					["from"] = "AlexM#21650",
-					["msg"] = "di un tipo che gli ha tirato trooopi nomi",
-					["inbound"] = true,
+					["time"] = 1487795447,
+					["from"] = "Alitfaier",
+					["msg"] = "bo",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [65]
 				{
 					["type"] = 1,
-					["time"] = 1485819434,
+					["time"] = 1487795448,
 					["from"] = "AlexM#21650",
-					["msg"] = "cazzo faceva meno dps di me tank",
+					["msg"] = "porcodio un altro pala in competizione",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [66]
 				{
 					["type"] = 1,
-					["time"] = 1485819464,
+					["time"] = 1487795465,
 					["from"] = "AlexM#21650",
-					["msg"] = "almeno si becca un drop... io nn capisco, anche il tipo rog nn capiva come facesse a far cosi poco dps",
+					["msg"] = "porcatroia gia mi girano i coglioni stasera",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [67]
 				{
 					["type"] = 1,
-					["time"] = 1485819526,
+					["time"] = 1487795473,
 					["from"] = "AlexM#21650",
-					["msg"] = "il tipo della chiave era un rog e ha detto che x il suo equip nn è normale il suo dps, ho cercato di aiutarlo, gli ho regalato tastiera e maouse, impostato addons e bindato i tasti, ma sbaglia qualcosa",
+					["msg"] = "stas va a finire male",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [68]
 				{
 					["type"] = 1,
-					["time"] = 1485819580,
-					["from"] = "AlexM#21650",
-					["msg"] = "domani gli tiro le orecchie",
-					["inbound"] = true,
+					["time"] = 1487795488,
+					["from"] = "Alitfaier",
+					["msg"] = "anche a me.",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [69]
 				{
 					["type"] = 1,
-					["time"] = 1485879904,
-					["from"] = "Alitfaier",
-					["msg"] = " |Hachievement:11162:Player-1309-07FA29F4:1:01:26:16:4294967295:4294967295:4294967295:4294967295|h[Maestro delle Chiavi]|h",
-					["inbound"] = false,
+					["time"] = 1487795509,
+					["from"] = "AlexM#21650",
+					["msg"] = "al corso di merda 3 ore a litigare cn la rossa dea di 19 anni, la prof che faceva da mediatrice",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [70]
 				{
 					["type"] = 1,
-					["time"] = 1485879911,
-					["from"] = "Alitfaier",
-					["msg"] = "taaaa daaaann",
-					["inbound"] = false,
+					["time"] = 1487795517,
+					["from"] = "AlexM#21650",
+					["msg"] = "giornata di merda",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [71]
 				{
 					["type"] = 1,
-					["time"] = 1485879920,
+					["time"] = 1487795532,
 					["from"] = "AlexM#21650",
-					["msg"] = "come cax hai fatto?",
+					["msg"] = "urli che son vebnuti a dirci di parlare piabo",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [72]
 				{
 					["type"] = 1,
-					["time"] = 1485879922,
-					["from"] = "Alitfaier",
-					["msg"] = "rosica rosica",
-					["inbound"] = false,
+					["time"] = 1487797380,
+					["from"] = "AlexM#21650",
+					["msg"] = "che fai vai via?",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [73]
 				{
 					["type"] = 1,
-					["time"] = 1485879929,
-					["from"] = "AlexM#21650",
-					["msg"] = "si rosico",
-					["inbound"] = true,
+					["time"] = 1487797399,
+					["from"] = "Alitfaier",
+					["msg"] = "si perchè non mi piace come fa le cose.",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [74]
 				{
 					["type"] = 1,
-					["time"] = 1485879937,
-					["from"] = "AlexM#21650",
-					["msg"] = "maledotto lol",
-					["inbound"] = true,
+					["time"] = 1487797406,
+					["from"] = "Alitfaier",
+					["msg"] = "mi spaice ma non mi va così",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [75]
 				{
 					["type"] = 1,
-					["time"] = 1485879942,
-					["from"] = "Alitfaier",
-					["msg"] = "prima o poi il fegato ti finisce...",
-					["inbound"] = false,
+					["time"] = 1487797413,
+					["from"] = "AlexM#21650",
+					["msg"] = "e te credo",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [76]
 				{
 					["type"] = 1,
-					["time"] = 1485879958,
-					["from"] = "AlexM#21650",
-					["msg"] = "cheppalle",
-					["inbound"] = true,
+					["time"] = 1487797425,
+					["from"] = "Alitfaier",
+					["msg"] = "anche se è un pezzo di offspec",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [77]
 				{
 					["type"] = 1,
-					["time"] = 1485879968,
+					["time"] = 1487865162,
 					["from"] = "AlexM#21650",
-					["msg"] = "avrei il dps ma mi manca l 895",
+					["msg"] = "vieni anche tu in ts?",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [78]
 				{
 					["type"] = 1,
-					["time"] = 1485879997,
-					["from"] = "AlexM#21650",
-					["msg"] = "la gente ti vede 895 e giustamente ti prende, a me 889 nn mi piglia nessuno",
-					["inbound"] = true,
+					["time"] = 1487865169,
+					["from"] = "Alitfaier",
+					["msg"] = "ci sono già",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [79]
 				{
 					["type"] = 1,
-					["time"] = 1485880011,
+					["time"] = 1487874244,
 					["from"] = "AlexM#21650",
-					["msg"] = "che 2 maroni.. compliments kmq",
+					["msg"] = "qual è la formazione giusto x gruppo da 30? 2-5 -23 o 2 5 22",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [80]
 				{
 					["type"] = 1,
-					["time"] = 1485904745,
-					["from"] = "AlexM#21650",
-					["msg"] = "be nn son amndati male",
-					["inbound"] = true,
+					["time"] = 1487874277,
+					["from"] = "Alitfaier",
+					["msg"] = "gli healer 5",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [81]
 				{
 					["type"] = 1,
-					["time"] = 1485904753,
-					["from"] = "AlexM#21650",
-					["msg"] = "alla fine andavamo bene",
-					["inbound"] = true,
+					["time"] = 1487874290,
+					["from"] = "Alitfaier",
+					["msg"] = "ogni healer puoi mettere 4 dps",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [82]
 				{
 					["type"] = 1,
-					["time"] = 1485904755,
-					["from"] = "Alitfaier",
-					["msg"] = "no ",
-					["inbound"] = false,
+					["time"] = 1487874298,
+					["from"] = "AlexM#21650",
+					["msg"] = "ok",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [83]
 				{
 					["type"] = 1,
-					["time"] = 1485904756,
-					["from"] = "AlexM#21650",
-					["msg"] = "no?",
-					["inbound"] = true,
+					["time"] = 1487874311,
+					["from"] = "Alitfaier",
+					["msg"] = "ma cmq da 22 a 23 non fa molta differenza",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [84]
 				{
 					["type"] = 1,
-					["time"] = 1485904762,
+					["time"] = 1487874333,
 					["from"] = "AlexM#21650",
-					["msg"] = "x me nn era male",
+					["msg"] = "intendevo 2 6 22",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [85]
 				{
 					["type"] = 1,
-					["time"] = 1485904772,
-					["from"] = "AlexM#21650",
-					["msg"] = "qualcuno nn ti e' piaciuto?",
-					["inbound"] = true,
+					["time"] = 1487874359,
+					["from"] = "Alitfaier",
+					["msg"] = "si anche",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [86]
 				{
 					["type"] = 1,
-					["time"] = 1485904773,
-					["from"] = "Alitfaier",
-					["msg"] = "siamo andati bene si",
-					["inbound"] = false,
+					["time"] = 1487874380,
+					["from"] = "AlexM#21650",
+					["msg"] = "kmq il tipo ha messo 5 healer come dicevi",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [87]
 				{
 					["type"] = 1,
-					["time"] = 1485904777,
-					["from"] = "Alitfaier",
-					["msg"] = "funny",
-					["inbound"] = false,
+					["time"] = 1487960051,
+					["from"] = "AlexM#21650",
+					["msg"] = "ho detto a raila che io te e funny siamo amici e di tenerlo in considerazione",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [88]
 				{
 					["type"] = 1,
-					["time"] = 1485904778,
-					["from"] = "AlexM#21650",
-					["msg"] = "a kk",
-					["inbound"] = true,
+					["time"] = 1487960060,
+					["from"] = "Alitfaier",
+					["msg"] = "tnx",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [89]
 				{
 					["type"] = 1,
-					["time"] = 1485904782,
+					["time"] = 1487960100,
 					["from"] = "AlexM#21650",
-					["msg"] = "eh eh lo so",
+					["msg"] = "nn potevo dirgli senno lefto senno incasinavo, ha detto che nn era x ieri solo ma xke dice che a volte le risp male o roba del genere",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [90]
 				{
 					["type"] = 1,
-					["time"] = 1485904785,
-					["from"] = "Alitfaier",
-					["msg"] = "porco zio troppo basso",
-					["inbound"] = false,
+					["time"] = 1487960109,
+					["from"] = "AlexM#21650",
+					["msg"] = "ha scritto 1 4 d ora",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [91]
 				{
 					["type"] = 1,
-					["time"] = 1485904791,
+					["time"] = 1487960147,
 					["from"] = "AlexM#21650",
-					["msg"] = "ho visto nn ci capicva un cazzo",
+					["msg"] = "le ho detto che si a volte hai dei modi che nn sono il massimo ma che sei un bravo player e una persona corretta e che ci sei sempre",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [92]
 				{
 					["type"] = 1,
-					["time"] = 1485904805,
-					["from"] = "Alitfaier",
-					["msg"] = "il dh sopperisce a funny ma senza dh si è corti",
-					["inbound"] = false,
+					["time"] = 1487960161,
+					["from"] = "AlexM#21650",
+					["msg"] = "lei ribatte dicendo che giocare bene nn è tutto",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [93]
 				{
 					["type"] = 1,
-					["time"] = 1485904831,
+					["time"] = 1487960174,
 					["from"] = "AlexM#21650",
-					["msg"] = "a domani scappo",
+					["msg"] = "si insomma ha sempre la risposta pronta ma vebbe",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [94]
 				{
 					["type"] = 1,
-					["time"] = 1485904848,
+					["time"] = 1487960179,
 					["from"] = "Alitfaier",
-					["msg"] = "a domani",
+					["msg"] = "ma si cmq non rientro in gilda",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [95]
 				{
 					["type"] = 1,
-					["time"] = 1485981498,
+					["time"] = 1487960206,
 					["from"] = "AlexM#21650",
-					["msg"] = "oooh",
+					["msg"] = "ne hai trovata una decente?",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [96]
 				{
 					["type"] = 1,
-					["time"] = 1485981506,
+					["time"] = 1487960226,
 					["from"] = "AlexM#21650",
-					["msg"] = "ritardatariooooooo",
+					["msg"] = "cazzo te ne frega",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [97]
 				{
 					["type"] = 1,
-					["time"] = 1485981520,
+					["time"] = 1487960245,
 					["from"] = "Alitfaier",
-					["msg"] = "sono loggato dalle 21.15",
+					["msg"] = "ho tre richieste in ballo",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [98]
 				{
 					["type"] = 1,
-					["time"] = 1485981531,
+					["time"] = 1487960273,
 					["from"] = "AlexM#21650",
-					["msg"] = "ahah nn c avevo fatto caso lol",
+					["msg"] = "lei ha detto che forse nn t avrebbe rifatto raidare subito, io le ho detto che lo capisco ma che da mercoledi dovresti tornare in raid",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [99]
 				{
 					["type"] = 1,
-					["time"] = 1485981545,
-					["from"] = "Alitfaier",
-					["msg"] = "mi ha fatto storie perchè non mi ero segnato",
-					["inbound"] = false,
+					["time"] = 1487960291,
+					["from"] = "AlexM#21650",
+					["msg"] = "ma cn chi?",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [100]
 				{
 					["type"] = 1,
-					["time"] = 1485981552,
+					["time"] = 1487960350,
 					["from"] = "AlexM#21650",
-					["msg"] = "....",
+					["msg"] = "che 2 coglioni die",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [101]
 				{
 					["type"] = 1,
-					["time"] = 1485981560,
+					["time"] = 1487960359,
 					["from"] = "AlexM#21650",
-					["msg"] = "fan storie a te",
+					["msg"] = "dai che te fotte",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [102]
 				{
 					["type"] = 1,
-					["time"] = 1485981566,
+					["time"] = 1487960372,
 					["from"] = "AlexM#21650",
-					["msg"] = "questa è bella",
+					["msg"] = "se nn si gioca tra amici che te frega dell il",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [103]
 				{
 					["type"] = 1,
-					["time"] = 1485981572,
-					["from"] = "Alitfaier",
-					["msg"] = "gli ho detto che se gli manca il wurster ne ho uno in frigor...",
-					["inbound"] = false,
+					["time"] = 1487960432,
+					["from"] = "AlexM#21650",
+					["msg"] = "ma che gilde son?",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [104]
 				{
 					["type"] = 1,
-					["time"] = 1485981579,
-					["from"] = "AlexM#21650",
-					["msg"] = "llool",
-					["inbound"] = true,
+					["time"] = 1487960440,
+					["from"] = "Alitfaier",
+					["msg"] = "no qua non si tratta dell'item level, si tratta che monica e nano valgono più degli altri",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [105]
 				{
 					["type"] = 1,
-					["time"] = 1485981597,
-					["from"] = "Alitfaier",
-					["msg"] = "porco cane... ho avuto una giornata di merda...",
-					["inbound"] = false,
+					["time"] = 1487960482,
+					["from"] = "AlexM#21650",
+					["msg"] = "a be quello si sa",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [106]
 				{
 					["type"] = 1,
-					["time"] = 1485981604,
-					["from"] = "Alitfaier",
-					["msg"] = "mi hanno tolto pure la patente...",
-					["inbound"] = false,
+					["time"] = 1487960489,
+					["from"] = "AlexM#21650",
+					["msg"] = "c è poco da dire",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [107]
 				{
 					["type"] = 1,
-					["time"] = 1485981624,
-					["from"] = "Alitfaier",
-					["msg"] = "e mi fa palle perchè  non mi sono segnato.",
-					["inbound"] = false,
+					["time"] = 1487960514,
+					["from"] = "AlexM#21650",
+					["msg"] = "devo scappare",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [108]
 				{
 					["type"] = 1,
-					["time"] = 1485981637,
+					["time"] = 1487960517,
 					["from"] = "AlexM#21650",
-					["msg"] = "cazzzzzzz",
+					["msg"] = "a dopo",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [109]
 				{
 					["type"] = 1,
-					["time"] = 1485981641,
+					["time"] = 1488039238,
 					["from"] = "AlexM#21650",
-					["msg"] = "mi spiace",
+					["msg"] = "torni in gilda?",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [110]
 				{
 					["type"] = 1,
-					["time"] = 1485983683,
-					["from"] = "AlexM#21650",
-					["msg"] = "che vuol dire upg?",
-					["inbound"] = true,
+					["time"] = 1488039296,
+					["from"] = "Alitfaier",
+					["msg"] = "allora sono appena andati via orfeo e luigi da casa mia",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [111]
 				{
 					["type"] = 1,
-					["time"] = 1485983699,
-					["from"] = "Alitfaier",
-					["msg"] = "upgrade, non è bis ma meglio di quello che hai",
-					["inbound"] = false,
+					["time"] = 1488039312,
+					["from"] = "AlexM#21650",
+					["msg"] = "ma davvero?",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [112]
 				{
 					["type"] = 1,
-					["time"] = 1485984903,
-					["from"] = "AlexM#21650",
-					["msg"] = "che è sto silenzio?",
-					["inbound"] = true,
+					["time"] = 1488039317,
+					["from"] = "Alitfaier",
+					["msg"] = "si",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [113]
 				{
 					["type"] = 1,
-					["time"] = 1485984916,
-					["from"] = "Alitfaier",
-					["msg"] = "e così",
-					["inbound"] = false,
+					["time"] = 1488039319,
+					["from"] = "AlexM#21650",
+					["msg"] = "che avete detto?",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [114]
 				{
 					["type"] = 1,
-					["time"] = 1485984936,
+					["time"] = 1488039324,
 					["from"] = "Alitfaier",
-					["msg"] = "dopo la risposta di cazzo dell'altra sera che mi ha dato non parlo più quando c'è lei",
+					["msg"] = "sono venuti a pranzo",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [115]
 				{
 					["type"] = 1,
-					["time"] = 1485984962,
-					["from"] = "AlexM#21650",
-					["msg"] = "capisco",
-					["inbound"] = true,
+					["time"] = 1488039361,
+					["from"] = "Alitfaier",
+					["msg"] = "e che per ora di stare qua perchè trovare un'altra gilda che prenda melè è impossibile",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [116]
 				{
 					["type"] = 1,
-					["time"] = 1485985056,
+					["time"] = 1488039380,
 					["from"] = "Alitfaier",
-					["msg"] = "poi stasera mi sta pungolando.. sta stronza.",
+					["msg"] = "e  di iniziare a spammare con un alt ",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [117]
 				{
 					["type"] = 1,
-					["time"] = 1485985573,
-					["from"] = "AlexM#21650",
-					["msg"] = "nn so se vengo ancora in raid cn voi",
-					["inbound"] = true,
+					["time"] = 1488039386,
+					["from"] = "Alitfaier",
+					["msg"] = "nella futura gilda",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [118]
 				{
 					["type"] = 1,
-					["time"] = 1485985578,
-					["from"] = "AlexM#21650",
-					["msg"] = "ad esempio",
-					["inbound"] = true,
+					["time"] = 1488039410,
+					["from"] = "Alitfaier",
+					["msg"] = "e verso fine della exp andare li e fare la gilda per la prossima exp",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [119]
 				{
 					["type"] = 1,
-					["time"] = 1485985589,
-					["from"] = "AlexM#21650",
-					["msg"] = "i guanti son molto upg x me",
-					["inbound"] = true,
+					["time"] = 1488039536,
+					["from"] = "Alitfaier",
+					["msg"] = "cmq, in 10 gilde che mi hanno contattato, solo una mi dava posto fisso da mele... tutte le altre tank /dps e a rotazione una settimana si e una no.",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [120]
 				{
 					["type"] = 1,
-					["time"] = 1485985602,
+					["time"] = 1488039632,
 					["from"] = "Alitfaier",
-					["msg"] = "vieni che te li do",
+					["msg"] = "i race l'unica gilda che potrebbe andare bene, vogliono che uno tiene la stessa classe per tutta l'exp",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [121]
 				{
 					["type"] = 1,
-					["time"] = 1485985612,
+					["time"] = 1488039656,
 					["from"] = "AlexM#21650",
-					["msg"] = "ma nn mi azzardo a needarli xke se mi gioco il drop cosi la prossima volta nn mi da nulla",
+					["msg"] = "e be cn sta espa qua c han ragione",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [122]
 				{
 					["type"] = 1,
-					["time"] = 1485985619,
-					["from"] = "AlexM#21650",
-					["msg"] = "nopno",
-					["inbound"] = true,
+					["time"] = 1488039687,
+					["from"] = "Alitfaier",
+					["msg"] = "si però se serve una classe specifica, potrebbero cheiderti di fartela rollare..",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [123]
 				{
 					["type"] = 1,
-					["time"] = 1485985626,
-					["from"] = "AlexM#21650",
-					["msg"] = "mi tengo i miei 865",
-					["inbound"] = true,
+					["time"] = 1488039705,
+					["from"] = "Alitfaier",
+					["msg"] = "se della tua classe ci sono più player",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [124]
 				{
 					["type"] = 1,
-					["time"] = 1485985634,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma sto metodo nn funziona",
-					["inbound"] = true,
+					["time"] = 1488039736,
+					["from"] = "Alitfaier",
+					["msg"] = "però porca puttana se uno è tank e se rompe le palle... cosa deve fare, abbandonare la gilda?",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [125]
 				{
 					["type"] = 1,
-					["time"] = 1485985665,
+					["time"] = 1488039736,
 					["from"] = "AlexM#21650",
-					["msg"] = "io nn kiedo ne upg ne offspec, senno la prossima volta che esce bis nn me lo da",
+					["msg"] = "lo capisco xo è una rottura, a me nn andrebbe bene",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [126]
 				{
 					["type"] = 1,
-					["time"] = 1485986492,
-					["from"] = "AlexM#21650",
-					["msg"] = "mi passa la voglia di giocare... rifare gli stessi raid mille volte serve solo se droppo",
-					["inbound"] = true,
+					["time"] = 1488039770,
+					["from"] = "Alitfaier",
+					["msg"] = "si infatti l'ho scartata subito",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [127]
 				{
 					["type"] = 1,
-					["time"] = 1485986635,
-					["from"] = "Alitfaier",
-					["msg"] = "maaaaa giocare per il gusto di giocare?",
-					["inbound"] = false,
+					["time"] = 1488039780,
+					["from"] = "AlexM#21650",
+					["msg"] = "si infatti, cristo alla fine mi voglio divertire.. fossimo i method capirei",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [128]
 				{
 					["type"] = 1,
-					["time"] = 1485986661,
-					["from"] = "AlexM#21650",
-					["msg"] = "quello finisce dopo 2 volte che faccio un raid",
-					["inbound"] = true,
+					["time"] = 1488039820,
+					["from"] = "Alitfaier",
+					["msg"] = "poi le altre che mi hanno contattato una da i loot con il roll",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [129]
 				{
 					["type"] = 1,
-					["time"] = 1485986676,
+					["time"] = 1488039822,
 					["from"] = "AlexM#21650",
-					["msg"] = "nn lo faccio 10 volte x il gusto di giocare",
+					["msg"] = "ma torna qua e fottitene dei drop come faccio io",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [130]
 				{
 					["type"] = 1,
-					["time"] = 1485986678,
+					["time"] = 1488039851,
 					["from"] = "Alitfaier",
-					["msg"] = "ma..",
+					["msg"] = "l'altra usa epgp, a caso... senza sapere come funziona realmente.",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [131]
 				{
 					["type"] = 1,
-					["time"] = 1485986694,
-					["from"] = "AlexM#21650",
-					["msg"] = "voglio,andare avanti",
-					["inbound"] = true,
+					["time"] = 1488039862,
+					["from"] = "Alitfaier",
+					["msg"] = "una usa dkp una lootcouncil",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [132]
 				{
 					["type"] = 1,
-					["time"] = 1485986705,
-					["from"] = "AlexM#21650",
-					["msg"] = "diventare piu forte e far mitic",
-					["inbound"] = true,
+					["time"] = 1488039887,
+					["from"] = "Alitfaier",
+					["msg"] = "ma cmq non hanno posto fisso ",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [133]
 				{
 					["type"] = 1,
-					["time"] = 1485986708,
+					["time"] = 1488039892,
 					["from"] = "Alitfaier",
-					["msg"] = "quindi dopo aver scopato una due o tre volte... non la scopi più?",
+					["msg"] = "e fanno solo hc",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [134]
 				{
 					["type"] = 1,
-					["time"] = 1485986719,
+					["time"] = 1488039907,
 					["from"] = "AlexM#21650",
-					["msg"] = "se rifaccio 20 volte hc è solo x equip",
+					["msg"] = "lo so rompe anche a me vedere nano che si piglia il 12 pezzzo del tier, ma chissene alla fine",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [135]
 				{
 					["type"] = 1,
-					["time"] = 1485986777,
+					["time"] = 1488039913,
 					["from"] = "Alitfaier",
-					["msg"] = "allora io ho fauci 9",
+					["msg"] = "l'unica che mi da il posto fisso sono in pochi e giocano due sere e fanno un cazzo",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [136]
 				{
 					["type"] = 1,
-					["time"] = 1485986780,
+					["time"] = 1488039979,
 					["from"] = "Alitfaier",
-					["msg"] = "tu?",
+					["msg"] = "si rientro ma, io vado in pug come mi pare e piace.",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [137]
 				{
 					["type"] = 1,
-					["time"] = 1485986800,
-					["from"] = "Alitfaier",
-					["msg"] = "se si fa buon parti  si può portare a 12",
-					["inbound"] = false,
+					["time"] = 1488039990,
+					["from"] = "AlexM#21650",
+					["msg"] = "bellaaaa",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [138]
 				{
 					["type"] = 1,
-					["time"] = 1485986807,
-					["from"] = "AlexM#21650",
-					["msg"] = " |Hitem:138019::::::::110:70:8257536:::1571:10:8:3:10:1:::|h[Mythic Keystone]|h",
-					["inbound"] = true,
+					["time"] = 1488040010,
+					["from"] = "Alitfaier",
+					["msg"] = "poi mi sposto il pala qua e inizio  spammare",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [139]
 				{
 					["type"] = 1,
-					["time"] = 1485986825,
-					["from"] = "Alitfaier",
-					["msg"] = "la tua si può portare a 10",
-					["inbound"] = false,
+					["time"] = 1488040020,
+					["from"] = "AlexM#21650",
+					["msg"] = "almeno ci facciamo qalche mitic assieme e pugghiam hc che nn abbiamo fatto",
+					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [140]
 				{
 					["type"] = 1,
-					["time"] = 1485986841,
+					["time"] = 1488040044,
 					["from"] = "Alitfaier",
-					["msg"] = "domani pome ci sei?",
+					["msg"] = "le mitic assieme posismao farcele in ogni caso e pug altrettanto",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [141]
 				{
 					["type"] = 1,
-					["time"] = 1485988641,
-					["from"] = "AlexM#21650",
-					["msg"] = "a sto giro ho voluto impegnarmi, tanto x ricordare che nn son un nabbo",
-					["inbound"] = true,
+					["time"] = 1488040054,
+					["from"] = "Alitfaier",
+					["msg"] = "non e che se cambio gilda metto un muro",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [142]
 				{
 					["type"] = 1,
-					["time"] = 1485988664,
-					["from"] = "AlexM#21650",
-					["msg"] = "visto che eran 2 boss che saltellavo in giro se tio sei accorto",
-					["inbound"] = true,
+					["time"] = 1488040061,
+					["from"] = "Alitfaier",
+					["msg"] = "non varo la frontiera",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [143]
 				{
 					["type"] = 1,
-					["time"] = 1485988727,
+					["time"] = 1488040061,
 					["from"] = "AlexM#21650",
-					["msg"] = "prima pensavo fenris si incqazzasse",
+					["msg"] = "si lo so ma farle di gilda come l altro giorno è meio",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [144]
 				{
 					["type"] = 1,
-					["time"] = 1485988744,
+					["time"] = 1488040167,
 					["from"] = "AlexM#21650",
-					["msg"] = "saltellavo come uno scemo intorno a raila lol",
+					["msg"] = "sisi lo so cosa stai pensando.. \"ma xeal tu pugghi sempre\"",
 					["inbound"] = true,
 					["convo"] = "AlexM#21650",
 				}, -- [145]
 				{
 					["type"] = 1,
-					["time"] = 1485988744,
+					["time"] = 1488040370,
 					["from"] = "Alitfaier",
-					["msg"] = "fenris non si incazza mai",
+					["msg"] = "hem no, non ci ho nemmeno pensato eprchè anche io puggo sempre",
 					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [146]
 				{
 					["type"] = 1,
-					["time"] = 1485988755,
-					["from"] = "AlexM#21650",
-					["msg"] = "senza fare dps",
-					["inbound"] = true,
+					["time"] = 1488119393,
+					["from"] = "Alitfaier",
+					["msg"] = "fatto?",
+					["inbound"] = false,
 					["convo"] = "AlexM#21650",
 				}, -- [147]
+				["info"] = {
+				},
+			},
+			["Nerisemita"] = {
 				{
 					["type"] = 1,
-					["time"] = 1485988766,
-					["from"] = "AlexM#21650",
-					["msg"] = "male kmq",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [148]
-				{
-					["type"] = 1,
-					["time"] = 1485988776,
-					["from"] = "AlexM#21650",
-					["msg"] = "io mi sarei kikkato dal raid",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [149]
-				{
-					["type"] = 1,
-					["time"] = 1485988782,
-					["from"] = "AlexM#21650",
-					["msg"] = "istant",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [150]
-				{
-					["type"] = 1,
-					["time"] = 1486078447,
-					["from"] = "AlexM#21650",
-					["msg"] = "vabbe almeno ci siam fatti 2 ghiggne",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [151]
-				{
-					["type"] = 1,
-					["time"] = 1486078460,
-					["from"] = "AlexM#21650",
-					["msg"] = "almeno mi son divertito stesera",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [152]
-				{
-					["type"] = 1,
-					["time"] = 1486078461,
-					["from"] = "Alitfaier",
-					["msg"] = "bè se luca se ne va son contento",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [153]
-				{
-					["type"] = 1,
-					["time"] = 1486078471,
-					["from"] = "AlexM#21650",
-					["msg"] = "chi è che se ne va?",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [154]
-				{
-					["type"] = 1,
-					["time"] = 1486078475,
-					["from"] = "Alitfaier",
-					["msg"] = "rimango l'unico war",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [155]
-				{
-					["type"] = 1,
-					["time"] = 1486078485,
-					["from"] = "AlexM#21650",
-					["msg"] = "erucarcas?",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [156]
-				{
-					["type"] = 1,
-					["time"] = 1486078496,
-					["from"] = "Alitfaier",
-					["msg"] = "y",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [157]
-				{
-					["type"] = 1,
-					["time"] = 1486078498,
-					["from"] = "AlexM#21650",
-					["msg"] = "maccheppalle",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [158]
-				{
-					["type"] = 1,
-					["time"] = 1486078508,
-					["from"] = "AlexM#21650",
-					["msg"] = "poteva andarsene un pala",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [159]
-				{
-					["type"] = 1,
-					["time"] = 1486078514,
-					["from"] = "AlexM#21650",
-					["msg"] = "diocristo",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [160]
-				{
-					["type"] = 1,
-					["time"] = 1486078523,
-					["from"] = "AlexM#21650",
-					["msg"] = "che 2 coglioni",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [161]
-				{
-					["type"] = 1,
-					["time"] = 1486078525,
-					["from"] = "Alitfaier",
-					["msg"] = "ma perfortuna... era una mina vagante... invece i due pala non rompono e fanno il loro",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [162]
-				{
-					["type"] = 1,
-					["time"] = 1486078538,
-					["from"] = "AlexM#21650",
-					["msg"] = "machecaazzo",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [163]
-				{
-					["type"] = 1,
-					["time"] = 1486078544,
-					["from"] = "AlexM#21650",
-					["msg"] = "io nn droppo na sega",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [164]
-				{
-					["type"] = 1,
-					["time"] = 1486078559,
-					["from"] = "Alitfaier",
-					["msg"] = "erucarcas voleva prendere i pezzi che voleva.. e voleva che il raid leader seguisse le sue tattiche",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [165]
-				{
-					["type"] = 1,
-					["time"] = 1486078564,
-					["from"] = "AlexM#21650",
-					["msg"] = "che 2 cogliono mo escogito un piano x farli kikkare",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [166]
-				{
-					["type"] = 1,
-					["time"] = 1486078590,
-					["from"] = "AlexM#21650",
-					["msg"] = "wispo a kate e gli dico che i 2 pala dicon che è una zoccola",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [167]
-				{
-					["type"] = 1,
-					["time"] = 1486078603,
-					["from"] = "AlexM#21650",
-					["msg"] = "piano geniale vero?",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [168]
-				{
-					["type"] = 1,
-					["time"] = 1486078614,
-					["from"] = "AlexM#21650",
-					["msg"] = "c ho messo una settimana a idearlo",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [169]
-				{
-					["type"] = 1,
-					["time"] = 1486078640,
-					["from"] = "AlexM#21650",
-					["msg"] = "che balle c è troppa competizione x me",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [170]
-				{
-					["type"] = 1,
-					["time"] = 1486078646,
-					["from"] = "Alitfaier",
-					["msg"] = "mmm",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [171]
-				{
-					["type"] = 1,
-					["time"] = 1486078818,
-					["from"] = "AlexM#21650",
-					["msg"] = "kmq ho detto io a diego \"nn è vero funny si sveglia alle 154\"",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [172]
-				{
-					["type"] = 1,
-					["time"] = 1486078840,
-					["from"] = "AlexM#21650",
-					["msg"] = "x qesto dopo lui l ha scritto ahahahahahahah",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [173]
-				{
-					["type"] = 1,
-					["time"] = 1486078847,
-					["from"] = "AlexM#21650",
-					["msg"] = "siiii",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [174]
-				{
-					["type"] = 1,
-					["time"] = 1486078852,
-					["from"] = "AlexM#21650",
-					["msg"] = "cazzo è?",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [175]
-				{
-					["type"] = 1,
-					["time"] = 1486078941,
-					["from"] = "AlexM#21650",
-					["msg"] = "vabbe me lo spieghi domani",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [176]
-				{
-					["type"] = 1,
-					["time"] = 1486078948,
-					["from"] = "AlexM#21650",
-					["msg"] = "notte beddu",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [177]
-				{
-					["type"] = 1,
-					["time"] = 1486078952,
-					["from"] = "Alitfaier",
-					["msg"] = "notte",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [178]
-				{
-					["type"] = 1,
-					["time"] = 1486078972,
-					["from"] = "AlexM#21650",
-					["msg"] = "anche se son curioso di sentire le motivazioni di erucarcas",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [179]
-				{
-					["type"] = 1,
-					["time"] = 1486079002,
-					["from"] = "Alitfaier",
-					["msg"] = "anche io ma tanto kate non le dirà mai",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [180]
-				{
-					["type"] = 1,
-					["time"] = 1486079014,
-					["from"] = "AlexM#21650",
-					["msg"] = "x me si lamenta dei drop",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [181]
-				{
-					["type"] = 1,
-					["time"] = 1486079020,
-					["from"] = "AlexM#21650",
-					["msg"] = "è vestito dimerda",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [182]
-				{
-					["type"] = 1,
-					["time"] = 1486079031,
-					["from"] = "AlexM#21650",
-					["msg"] = "e magari sperava di droppare di piu",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [183]
-				{
-					["type"] = 1,
-					["time"] = 1486079054,
-					["from"] = "Alitfaier",
-					["msg"] = "no vuole fare RL",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [184]
-				{
-					["type"] = 1,
-					["time"] = 1486079063,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma cher skerzi?",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [185]
-				{
-					["type"] = 1,
-					["time"] = 1486079067,
-					["from"] = "Alitfaier",
-					["msg"] = "no",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [186]
-				{
-					["type"] = 1,
-					["time"] = 1486079069,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma che è scemo",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [187]
-				{
-					["type"] = 1,
-					["time"] = 1486079075,
-					["from"] = "AlexM#21650",
-					["msg"] = "delle 2 ime",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [188]
-				{
-					["type"] = 1,
-					["time"] = 1486079081,
-					["from"] = "AlexM#21650",
-					["msg"] = "almeno capisce",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [189]
-				{
-					["type"] = 1,
-					["time"] = 1486079099,
-					["from"] = "AlexM#21650",
-					["msg"] = "e cazzia piu di fenris",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [190]
-				{
-					["type"] = 1,
-					["time"] = 1486079111,
-					["from"] = "Alitfaier",
-					["msg"] = "e ma ime non lo fa rl per quello",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [191]
-				{
-					["type"] = 1,
-					["time"] = 1486079121,
-					["from"] = "AlexM#21650",
-					["msg"] = "xo fenris è bravo, nn mi sta extra simpa ma è bravo, solo che nn cazzia mai",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [192]
-				{
-					["type"] = 1,
-					["time"] = 1486079177,
-					["from"] = "AlexM#21650",
-					["msg"] = "stasera ho visto cose che avrei cazziato gente a a nomi in iogni lingua",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [193]
-				{
-					["type"] = 1,
-					["time"] = 1486079190,
-					["from"] = "AlexM#21650",
-					["msg"] = "funny ha aunmentato dps ma giocva di merda",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [194]
-				{
-					["type"] = 1,
-					["time"] = 1486079200,
-					["from"] = "AlexM#21650",
-					["msg"] = "l ho appena cazziato",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [195]
-				{
-					["type"] = 1,
-					["time"] = 1486079215,
-					["from"] = "AlexM#21650",
-					["msg"] = "nn ha la minima visione d insieme",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [196]
-				{
-					["type"] = 1,
-					["time"] = 1486079224,
-					["from"] = "AlexM#21650",
-					["msg"] = "fa dps e nulla di piu",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [197]
-				{
-					["type"] = 1,
-					["time"] = 1486079230,
-					["from"] = "Alitfaier",
-					["msg"] = "vai a letto",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [198]
-				{
-					["type"] = 1,
-					["time"] = 1486079235,
-					["from"] = "Alitfaier",
-					["msg"] = "me le dici domani dai",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [199]
-				{
-					["type"] = 1,
-					["time"] = 1486079261,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma di ha funny che ha fatto un buyon dps",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [200]
-				{
-					["type"] = 1,
-					["time"] = 1486144268,
-					["from"] = "AlexM#21650",
-					["msg"] = "cheggiornata dimmerda",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [201]
-				{
-					["type"] = 1,
-					["time"] = 1486144309,
-					["from"] = "AlexM#21650",
-					["msg"] = "ti ricordi vero che faccio il corso x oss?",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [202]
-				{
-					["type"] = 1,
-					["time"] = 1486144388,
-					["from"] = "Alitfaier",
-					["msg"] = "sono  Lorenzo",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [203]
-				{
-					["type"] = 1,
-					["time"] = 1486144399,
-					["from"] = "AlexM#21650",
-					["msg"] = "ahahah.. :) ",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [204]
-				{
-					["type"] = 1,
-					["time"] = 1486144403,
-					["from"] = "AlexM#21650",
-					["msg"] = "ciao lorenzo",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [205]
-				{
-					["type"] = 1,
-					["time"] = 1486144410,
+					["time"] = 1486996176,
 					["from"] = "Alitfaier",
 					["msg"] = "ciao",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [206]
+					["convo"] = "Nerisemita",
+				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1486144426,
-					["from"] = "AlexM#21650",
-					["msg"] = "scusa se son stato maleducato, credevo fossi die",
+					["time"] = 1486996194,
+					["from"] = "Nerisemita",
+					["msg"] = "Ciao",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [207]
+					["convo"] = "Nerisemita",
+				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1486144464,
+					["time"] = 1486996197,
 					["from"] = "Alitfaier",
-					["msg"] = "non fa niente",
+					["msg"] = "ma come mai hai questo nome un po' strano?",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [208]
+					["convo"] = "Nerisemita",
+				}, -- [3]
 				{
 					["type"] = 1,
-					["time"] = 1486144478,
+					["time"] = 1486996274,
+					["from"] = "Nerisemita",
+					["msg"] = "Non c'è un motivo preciso in realtà",
+					["inbound"] = true,
+					["convo"] = "Nerisemita",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1486996303,
 					["from"] = "Alitfaier",
-					["msg"] = ":]",
+					["msg"] = "ok",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [209]
+					["convo"] = "Nerisemita",
+				}, -- [5]
+				["info"] = {
+				},
+			},
+			["Shamanorama#2836"] = {
 				{
 					["type"] = 1,
-					["time"] = 1486411590,
-					["from"] = "AlexM#21650",
-					["msg"] = "allora stasera almeno",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [210]
-				{
-					["type"] = 1,
-					["time"] = 1486411604,
-					["from"] = "AlexM#21650",
-					["msg"] = "mmm stasera la raid... n benissimo",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [211]
-				{
-					["type"] = 1,
-					["time"] = 1486411609,
-					["from"] = "AlexM#21650",
-					["msg"] = "lo scrivo?",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [212]
-				{
-					["type"] = 1,
-					["time"] = 1486411616,
-					["from"] = "AlexM#21650",
-					["msg"] = "eheh",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [213]
-				{
-					["type"] = 1,
-					["time"] = 1486411625,
+					["time"] = 1487979150,
 					["from"] = "Alitfaier",
-					["msg"] = "fai come vuoi",
+					["msg"] = "stai attento a parlare con rob che è uno che riporta tutto a kate",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [214]
+					["convo"] = "Shamanorama#2836",
+				}, -- [1]
+				["info"] = {
+				},
+			},
+			["Arbaletale#2545"] = {
 				{
 					["type"] = 1,
-					["time"] = 1486411631,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma scherzo die",
+					["time"] = 1487526406,
+					["from"] = "Arbaletale#2545",
+					["msg"] = "ciao cvi sei?",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [215]
+					["convo"] = "Arbaletale#2545",
+				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1486411677,
-					["from"] = "AlexM#21650",
-					["msg"] = "che combini in sti giorni che nn logghi mai?",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [216]
-				{
-					["type"] = 1,
-					["time"] = 1486411685,
-					["from"] = "AlexM#21650",
-					["msg"] = "stai facendo la gilda?",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [217]
-				{
-					["type"] = 1,
-					["time"] = 1486411719,
+					["time"] = 1487526426,
 					["from"] = "Alitfaier",
-					["msg"] = "no no ho loggato poco",
+					["msg"] = "si ciao",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [218]
+					["convo"] = "Arbaletale#2545",
+				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1486411724,
-					["from"] = "AlexM#21650",
-					["msg"] = "ahh kk",
+					["time"] = 1487526440,
+					["from"] = "Arbaletale#2545",
+					["msg"] = "ciao se sei libero tra 5 minuti possiamo farci una chiaccherata",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [219]
+					["convo"] = "Arbaletale#2545",
+				}, -- [3]
 				{
 					["type"] = 1,
-					["time"] = 1486411734,
+					["time"] = 1487526446,
+					["from"] = "Arbaletale#2545",
+					["msg"] = "il tempo che arrivi il gm e rl",
+					["inbound"] = true,
+					["convo"] = "Arbaletale#2545",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1487526472,
 					["from"] = "Alitfaier",
-					["msg"] = "abbiamo 1 solo pc in casa e nel week lo usa ilaria",
+					["msg"] = "e ti dico subito che gli altri tre miei amici sembra che vogliano andare in un'altra gilda...",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [220]
+					["convo"] = "Arbaletale#2545",
+				}, -- [5]
 				{
 					["type"] = 1,
-					["time"] = 1486411739,
+					["time"] = 1487526482,
+					["from"] = "Arbaletale#2545",
+					["msg"] = "ok cosa vuo ifare?",
+					["inbound"] = true,
+					["convo"] = "Arbaletale#2545",
+				}, -- [6]
+				{
+					["type"] = 1,
+					["time"] = 1487526488,
 					["from"] = "Alitfaier",
-					["msg"] = "visto che è suo",
+					["msg"] = "e mi dispiace, ti farò sapere più avanti.",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [221]
+					["convo"] = "Arbaletale#2545",
+				}, -- [7]
 				{
 					["type"] = 1,
-					["time"] = 1486411755,
-					["from"] = "AlexM#21650",
-					["msg"] = "capito",
+					["time"] = 1487526500,
+					["from"] = "Arbaletale#2545",
+					["msg"] = "ok",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [222]
+					["convo"] = "Arbaletale#2545",
+				}, -- [8]
+				["info"] = {
+				},
+			},
+			["Funnydeath"] = {
 				{
 					["type"] = 1,
-					["time"] = 1486411898,
-					["from"] = "AlexM#21650",
-					["msg"] = "30 minuti circa",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [223]
-				{
-					["type"] = 1,
-					["time"] = 1486417469,
+					["time"] = 1486993813,
 					["from"] = "Alitfaier",
-					["msg"] = "o ma donzachiappa non ne prende uno porco cane..",
+					["msg"] = "funny vinei su ts dai",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [224]
+					["convo"] = "Funnydeath",
+				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1486419637,
+					["time"] = 1487026934,
 					["from"] = "Alitfaier",
-					["msg"] = "scusa ma come si fa a morire qua per colpa del tank...",
+					["msg"] = "gg per il dps ",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [225]
+					["convo"] = "Funnydeath",
+				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1486419646,
+					["time"] = 1487026946,
+					["from"] = "Funnydeath",
+					["msg"] = "grazie :D",
+					["inbound"] = true,
+					["convo"] = "Funnydeath",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1487194517,
 					["from"] = "Alitfaier",
-					["msg"] = "è una cosa inguardabile",
+					["msg"] = "mi son divertito di + a passare il pome  a giocare a tabboz... che raidare conq uesti",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [226]
+					["convo"] = "Funnydeath",
+				}, -- [4]
 				{
 					["type"] = 1,
-					["time"] = 1486419686,
-					["from"] = "AlexM#21650",
-					["msg"] = "guarda sinceramente nn ho parlole, donza nn ne fa una giusta, lucr fa troppi pasticci",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [227]
-				{
-					["type"] = 1,
-					["time"] = 1486419699,
-					["from"] = "AlexM#21650",
-					["msg"] = "2 volte x i tank siam morti",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [228]
-				{
-					["type"] = 1,
-					["time"] = 1486419705,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma anche di piu",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [229]
-				{
-					["type"] = 1,
-					["time"] = 1486419765,
-					["from"] = "AlexM#21650",
-					["msg"] = "e anche se superiamo ste fasi il dps nn basta,donza è un peso morto e siamo over di healer",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [230]
-				{
-					["type"] = 1,
-					["time"] = 1486419791,
-					["from"] = "AlexM#21650",
-					["msg"] = "9 dps 4 healer",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [231]
-				{
-					["type"] = 1,
-					["time"] = 1486419807,
-					["from"] = "AlexM#21650",
-					["msg"] = "a no 11 vabbe",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [232]
-				{
-					["type"] = 1,
-					["time"] = 1486419817,
-					["from"] = "AlexM#21650",
-					["msg"] = "manca il dh",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [233]
-				{
-					["type"] = 1,
-					["time"] = 1486419822,
-					["from"] = "AlexM#21650",
-					["msg"] = "4 12",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [234]
-				{
-					["type"] = 1,
-					["time"] = 1486419963,
+					["time"] = 1487882202,
 					["from"] = "Alitfaier",
-					["msg"] = "guarda caso non ha capito perchè...",
+					["msg"] = "sta stronza non mi fa venire in raid.",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [235]
+					["convo"] = "Funnydeath",
+				}, -- [5]
 				{
 					["type"] = 1,
-					["time"] = 1486419964,
-					["from"] = "AlexM#21650",
-					["msg"] = "<Deadly Boss Mods> Xèal is busy fighting against Heroic - Krosus (61%, 3/17 people alive)",
+					["time"] = 1487882232,
+					["from"] = "Funnydeath",
+					["msg"] = "davvero??",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [236]
+					["convo"] = "Funnydeath",
+				}, -- [6]
 				{
 					["type"] = 1,
-					["time"] = 1486419966,
-					["from"] = "AlexM#21650",
-					["msg"] = "<DBM> Xèal has wiped on Heroic - Krosus at 61%",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [237]
-				{
-					["type"] = 1,
-					["time"] = 1486419975,
+					["time"] = 1487882241,
 					["from"] = "Alitfaier",
-					["msg"] = "ma che due palle...",
+					["msg"] = "e non vedi che non mi ha gruppato?",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [238]
+					["convo"] = "Funnydeath",
+				}, -- [7]
 				{
 					["type"] = 1,
-					["time"] = 1486422868,
-					["from"] = "AlexM#21650",
-					["msg"] = "tutti errori dei tank",
+					["time"] = 1487882262,
+					["from"] = "Funnydeath",
+					["msg"] = "Dio mio ...ho visto, sta cretina ha davvero rotto",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [239]
+					["convo"] = "Funnydeath",
+				}, -- [8]
 				{
 					["type"] = 1,
-					["time"] = 1486422871,
-					["from"] = "AlexM#21650",
-					["msg"] = "tutti",
+					["time"] = 1487882458,
+					["from"] = "Funnydeath",
+					["msg"] = "pazzesco",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [240]
+					["convo"] = "Funnydeath",
+				}, -- [9]
+				["info"] = {
+				},
+			},
+			["Prieppo"] = {
 				{
 					["type"] = 1,
-					["time"] = 1486423438,
-					["from"] = "AlexM#21650",
-					["msg"] = "sti cazzi die",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [241]
-				{
-					["type"] = 1,
-					["time"] = 1486423442,
-					["from"] = "AlexM#21650",
-					["msg"] = "sti cazzi",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [242]
-				{
-					["type"] = 1,
-					["time"] = 1486423452,
-					["from"] = "AlexM#21650",
-					["msg"] = "i tank stas han fatto pena",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [243]
-				{
-					["type"] = 1,
-					["time"] = 1486423458,
-					["from"] = "Alitfaier",
-					["msg"] = "parecchio",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [244]
-				{
-					["type"] = 1,
-					["time"] = 1486423466,
-					["from"] = "AlexM#21650",
-					["msg"] = "2/4 dei wipe causa loro",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [245]
-				{
-					["type"] = 1,
-					["time"] = 1486423471,
-					["from"] = "AlexM#21650",
-					["msg"] = "3/4",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [246]
-				{
-					["type"] = 1,
-					["time"] = 1486423513,
-					["from"] = "AlexM#21650",
-					["msg"] = "o morivan in modi stupidi, o facevan prender qella mazzata a tutti che ci oneshottava, o lu nn caopiva.. si certo...",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [247]
-				{
-					["type"] = 1,
-					["time"] = 1486423523,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma cristo",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [248]
-				{
-					["type"] = 1,
-					["time"] = 1486423547,
-					["from"] = "AlexM#21650",
-					["msg"] = "lucrezia nn mi sta antipatica, ma è un danno enorme come tank",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [249]
-				{
-					["type"] = 1,
-					["time"] = 1486423569,
-					["from"] = "AlexM#21650",
-					["msg"] = "e raila ha una discreta visione di gioco x una donna, ma gioca male",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [250]
-				{
-					["type"] = 1,
-					["time"] = 1486423575,
-					["from"] = "AlexM#21650",
-					["msg"] = "si impappuina",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [251]
-				{
-					["type"] = 1,
-					["time"] = 1486423590,
-					["from"] = "AlexM#21650",
-					["msg"] = "appena c è da muovere il culo scazza",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [252]
-				{
-					["type"] = 1,
-					["time"] = 1486423600,
-					["from"] = "AlexM#21650",
-					["msg"] = "donza è negato",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [253]
-				{
-					["type"] = 1,
-					["time"] = 1486423616,
-					["from"] = "AlexM#21650",
-					["msg"] = "ci son dei problemi in sto raid, ma gravi",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [254]
-				{
-					["type"] = 1,
-					["time"] = 1486423617,
-					["from"] = "Alitfaier",
-					["msg"] = "donza è inguardabile, ma lascierà la gilda. No problem",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [255]
-				{
-					["type"] = 1,
-					["time"] = 1486423632,
-					["from"] = "AlexM#21650",
-					["msg"] = "e molti son nella direzione",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [256]
-				{
-					["type"] = 1,
-					["time"] = 1486423640,
-					["from"] = "Alitfaier",
-					["msg"] = "il problema è uno solo... portare anche chi non è in grado a fare progress",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [257]
-				{
-					["type"] = 1,
-					["time"] = 1486423659,
-					["from"] = "Alitfaier",
+					["time"] = 1488059216,
+					["from"] = "Prieppo",
 					["msg"] = "chi?",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [258]
-				{
-					["type"] = 1,
-					["time"] = 1486423665,
-					["from"] = "AlexM#21650",
-					["msg"] = "ovvio, quello è il piu grosso",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [259]
+					["convo"] = "Prieppo",
+				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1486423685,
+					["time"] = 1488059290,
 					["from"] = "Alitfaier",
-					["msg"] = "no ho parlato un po con tutti, e non c'è nessuno che è di quella idea.",
+					["msg"] = "il dh",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [260]
+					["convo"] = "Prieppo",
+				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1486423712,
-					["from"] = "AlexM#21650",
-					["msg"] = "intendo ke nn è solo qello il problema, è anche che i tank devon saper giocare bene, i tank nn posson far scazzi stupidi ogni 2 minuti",
+					["time"] = 1488059362,
+					["from"] = "Prieppo",
+					["msg"] = "sono io una schifezza",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [261]
+					["convo"] = "Prieppo",
+				}, -- [3]
+				["info"] = {
+				},
+			},
+			["Filottete"] = {
 				{
 					["type"] = 1,
-					["time"] = 1486423717,
-					["from"] = "AlexM#21650",
-					["msg"] = "healer pure",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [262]
-				{
-					["type"] = 1,
-					["time"] = 1486423717,
+					["time"] = 1487895461,
 					["from"] = "Alitfaier",
-					["msg"] = "è solo che molti vedono male lucrezia  edonza in raid",
+					["msg"] = "buona serata",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [263]
+					["convo"] = "Filottete",
+				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1486423734,
-					["from"] = "AlexM#21650",
-					["msg"] = "appunto, ma io pure kate",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [264]
-				{
-					["type"] = 1,
-					["time"] = 1486423743,
-					["from"] = "AlexM#21650",
-					["msg"] = "scazza troppo",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [265]
-				{
-					["type"] = 1,
-					["time"] = 1486423758,
-					["from"] = "AlexM#21650",
-					["msg"] = "magari cura, capisce e spiega",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [266]
-				{
-					["type"] = 1,
-					["time"] = 1486423769,
-					["from"] = "AlexM#21650",
-					["msg"] = "ha discreta visione del raid",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [267]
-				{
-					["type"] = 1,
-					["time"] = 1486423777,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma scazza di brutto",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [268]
-				{
-					["type"] = 1,
-					["time"] = 1486423779,
+					["time"] = 1488065113,
 					["from"] = "Alitfaier",
-					["msg"] = "kate scazza quando deve fare il di più",
+					["msg"] = "ciao",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [269]
+					["convo"] = "Filottete",
+				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1486423789,
+					["time"] = 1488065127,
+					["from"] = "Filottete",
+					["msg"] = "ciao",
+					["inbound"] = true,
+					["convo"] = "Filottete",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1488065130,
 					["from"] = "Alitfaier",
-					["msg"] = "li non riesce..",
+					["msg"] = "come promesso, ti ho aspettato per darti la risposta",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [270]
+					["convo"] = "Filottete",
+				}, -- [4]
 				{
 					["type"] = 1,
-					["time"] = 1486423799,
+					["time"] = 1488065144,
+					["from"] = "Filottete",
+					["msg"] = "si",
+					["inbound"] = true,
+					["convo"] = "Filottete",
+				}, -- [5]
+				{
+					["type"] = 1,
+					["time"] = 1488065147,
+					["from"] = "Filottete",
+					["msg"] = "mi scuso",
+					["inbound"] = true,
+					["convo"] = "Filottete",
+				}, -- [6]
+				{
+					["type"] = 1,
+					["time"] = 1488065153,
+					["from"] = "Filottete",
+					["msg"] = "per il probabile ritardo",
+					["inbound"] = true,
+					["convo"] = "Filottete",
+				}, -- [7]
+				{
+					["type"] = 1,
+					["time"] = 1488065155,
 					["from"] = "Alitfaier",
-					["msg"] = "se deve fare il suo va bene...",
+					["msg"] = "ma no ci mancherebbe",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [271]
+					["convo"] = "Filottete",
+				}, -- [8]
 				{
 					["type"] = 1,
-					["time"] = 1486423816,
+					["time"] = 1488065161,
+					["from"] = "Filottete",
+					["msg"] = "ho avuto un uscita non programmata",
+					["inbound"] = true,
+					["convo"] = "Filottete",
+				}, -- [9]
+				{
+					["type"] = 1,
+					["time"] = 1488065161,
 					["from"] = "Alitfaier",
-					["msg"] = "si questa giocava dudu resto in arena?",
+					["msg"] = "è sabato",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [272]
+					["convo"] = "Filottete",
+				}, -- [10]
 				{
 					["type"] = 1,
-					["time"] = 1486423831,
-					["from"] = "AlexM#21650",
-					["msg"] = "llol",
+					["time"] = 1488065185,
+					["from"] = "Filottete",
+					["msg"] = "cmq dimmi tutto",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [273]
+					["convo"] = "Filottete",
+				}, -- [11]
 				{
 					["type"] = 1,
-					["time"] = 1486423831,
+					["time"] = 1488065206,
 					["from"] = "Alitfaier",
-					["msg"] = "non ci credo nemmeno se la vedo.",
+					["msg"] = "e mi dispiace ma... ",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [274]
+					["convo"] = "Filottete",
+				}, -- [12]
 				{
 					["type"] = 1,
-					["time"] = 1486423854,
+					["time"] = 1488065251,
 					["from"] = "Alitfaier",
-					["msg"] = "son sicuro che da tank la stupro...",
+					["msg"] = "con il gruppo con cui sono mi trovo bene e sono ritornato sui miei passi, e preferisco dare importanza all'amicizia piuttosto che al gioco.",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [275]
+					["convo"] = "Filottete",
+				}, -- [13]
 				{
 					["type"] = 1,
-					["time"] = 1486423855,
-					["from"] = "AlexM#21650",
-					["msg"] = "lucrezia dovrebbe farsi un monkin",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [276]
-				{
-					["type"] = 1,
-					["time"] = 1486423879,
-					["from"] = "AlexM#21650",
-					["msg"] = "  te credo",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [277]
-				{
-					["type"] = 1,
-					["time"] = 1486423901,
-					["from"] = "AlexM#21650",
-					["msg"] = "poi cazzo se manca tempest e nailika si fa dura",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [278]
-				{
-					["type"] = 1,
-					["time"] = 1486423912,
-					["from"] = "AlexM#21650",
-					["msg"] = "il gruppom stas nn era Completo",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [279]
-				{
-					["type"] = 1,
-					["time"] = 1486423936,
-					["from"] = "AlexM#21650",
-					["msg"] = "serve un gruppo di gente fissa cristo",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [280]
-				{
-					["type"] = 1,
-					["time"] = 1486423947,
-					["from"] = "AlexM#21650",
-					["msg"] = "e metter fuorui chi nn sa giocare",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [281]
-				{
-					["type"] = 1,
-					["time"] = 1486423967,
-					["from"] = "AlexM#21650",
-					["msg"] = "almeno funny nn è piu un peso morto",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [282]
-				{
-					["type"] = 1,
-					["time"] = 1486423998,
+					["time"] = 1488065272,
 					["from"] = "Alitfaier",
-					["msg"] = "no davvero quello è un problema in meno",
+					["msg"] = "in ogni caso non con tutto il gruppo ma con alcuni.",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [283]
+					["convo"] = "Filottete",
+				}, -- [14]
 				{
 					["type"] = 1,
-					["time"] = 1486424001,
-					["from"] = "AlexM#21650",
-					["msg"] = "nn sa giocare, nn fa una sega tranne che dps a manetta, nn gioca maaai cd difensivi e se ne fotte dei danni, ma almeno fa dps",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [284]
-				{
-					["type"] = 1,
-					["time"] = 1486424024,
-					["from"] = "AlexM#21650",
-					["msg"] = "lo so xke ne parlo cn lui spesso :)",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [285]
-				{
-					["type"] = 1,
-					["time"] = 1486424038,
+					["time"] = 1488065295,
 					["from"] = "Alitfaier",
-					["msg"] = "praticamente hai detto che è il peggior dps della storia",
+					["msg"] = "non ti nego che se avevate posto per il tank saremmo venuti tutti e 5 li da voi. ",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [286]
+					["convo"] = "Filottete",
+				}, -- [15]
 				{
 					["type"] = 1,
-					["time"] = 1486424051,
-					["from"] = "AlexM#21650",
-					["msg"] = "ahah, no è solo un player che",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [287]
-				{
-					["type"] = 1,
-					["time"] = 1486424072,
+					["time"] = 1488065337,
 					["from"] = "Alitfaier",
-					["msg"] = "ma sì... funny si è bruciato a forza di birrini...",
+					["msg"] = "ma come mi hai detto e ti ringrazio epr la correttezza, non avevate posto epr un tank.",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [288]
+					["convo"] = "Filottete",
+				}, -- [16]
 				{
 					["type"] = 1,
-					["time"] = 1486424075,
-					["from"] = "AlexM#21650",
-					["msg"] = "si impegna poco, gli piace far balotta in raid, si presenta ubriaco e clicca",
+					["time"] = 1488065362,
+					["from"] = "Filottete",
+					["msg"] = "si capisco.",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [289]
+					["convo"] = "Filottete",
+				}, -- [17]
 				{
 					["type"] = 1,
-					["time"] = 1486424090,
+					["time"] = 1488065367,
+					["from"] = "Filottete",
+					["msg"] = "mi sembra giusto",
+					["inbound"] = true,
+					["convo"] = "Filottete",
+				}, -- [18]
+				{
+					["type"] = 1,
+					["time"] = 1488065382,
+					["from"] = "Filottete",
+					["msg"] = "che si voglia giocare la classe e il ruolo che si preferisce",
+					["inbound"] = true,
+					["convo"] = "Filottete",
+				}, -- [19]
+				{
+					["type"] = 1,
+					["time"] = 1488065388,
 					["from"] = "Alitfaier",
-					["msg"] = " appunto",
+					["msg"] = "ti saluto e non si samai.",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [290]
+					["convo"] = "Filottete",
+				}, -- [20]
 				{
 					["type"] = 1,
-					["time"] = 1486424092,
-					["from"] = "AlexM#21650",
-					["msg"] = "ovvio se si impegnasse sarebbe bravino",
+					["time"] = 1488065429,
+					["from"] = "Filottete",
+					["msg"] = "al piu tienimi tra gli amici",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [291]
+					["convo"] = "Filottete",
+				}, -- [21]
 				{
 					["type"] = 1,
-					["time"] = 1486424107,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma cristo, sbocca nella pausa pipi",
+					["time"] = 1488065449,
+					["from"] = "Filottete",
+					["msg"] = "finche cerchiamo membri da piazzare fissi in myth",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [292]
+					["convo"] = "Filottete",
+				}, -- [22]
 				{
 					["type"] = 1,
-					["time"] = 1486424114,
-					["from"] = "AlexM#21650",
-					["msg"] = "io pisciolol",
+					["time"] = 1488065472,
+					["from"] = "Filottete",
+					["msg"] = "terremo ascolto a piu richieste possibili",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [293]
+					["convo"] = "Filottete",
+				}, -- [23]
 				{
 					["type"] = 1,
-					["time"] = 1486424118,
+					["time"] = 1488065501,
 					["from"] = "Alitfaier",
-					["msg"] = "dio cristo... come cazzo fate a bere così tanto ancora a 35 anni..",
+					["msg"] = "ok",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [294]
+					["convo"] = "Filottete",
+				}, -- [24]
 				{
 					["type"] = 1,
-					["time"] = 1486424119,
-					["from"] = "AlexM#21650",
-					["msg"] = "lui sbocca",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [295]
-				{
-					["type"] = 1,
-					["time"] = 1486424131,
-					["from"] = "AlexM#21650",
-					["msg"] = "ahahah io nn bevo tanto",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [296]
-				{
-					["type"] = 1,
-					["time"] = 1486424137,
+					["time"] = 1488065506,
 					["from"] = "Alitfaier",
-					["msg"] = "ba...",
+					["msg"] = "ti saluto",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [297]
+					["convo"] = "Filottete",
+				}, -- [25]
 				{
 					["type"] = 1,
-					["time"] = 1486424143,
+					["time"] = 1488065512,
+					["from"] = "Filottete",
+					["msg"] = "anche io",
+					["inbound"] = true,
+					["convo"] = "Filottete",
+				}, -- [26]
+				{
+					["type"] = 1,
+					["time"] = 1488065519,
+					["from"] = "Filottete",
+					["msg"] = "ti auguro un buon gioco",
+					["inbound"] = true,
+					["convo"] = "Filottete",
+				}, -- [27]
+				{
+					["type"] = 1,
+					["time"] = 1488065525,
+					["from"] = "Filottete",
+					["msg"] = "e un buon proseguimento di serata",
+					["inbound"] = true,
+					["convo"] = "Filottete",
+				}, -- [28]
+				["info"] = {
+				},
+			},
+			["Ahya"] = {
+				{
+					["type"] = 1,
+					["time"] = 1487516381,
 					["from"] = "Alitfaier",
-					["msg"] = "io non so come fate...",
+					["msg"] = "sai cosa potresti fare? tirare su l'hunter e fare dps, con un ranged li non può dirti nulla kate..",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [298]
+					["convo"] = "Ahya",
+				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1486424150,
-					["from"] = "AlexM#21650",
-					["msg"] = "lui piu di me, io circa 2 3 sere a settimana e solo di sera",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [299]
-				{
-					["type"] = 1,
-					["time"] = 1486424164,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma si, è che vivviam da soli",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [300]
-				{
-					["type"] = 1,
-					["time"] = 1486424168,
+					["time"] = 1487516451,
 					["from"] = "Alitfaier",
-					["msg"] = "lu ha tracce di sangue nelle vene...",
+					["msg"] = "e poi ho notato una cosa di nano... che secondo me usa la rotazione su due tasti...",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [301]
+					["convo"] = "Ahya",
+				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1486424174,
-					["from"] = "AlexM#21650",
-					["msg"] = "tu c hai la famiglia",
+					["time"] = 1487516871,
+					["from"] = "Ahya",
+					["msg"] = "voglio tankare",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [302]
+					["convo"] = "Ahya",
+				}, -- [3]
 				{
 					["type"] = 1,
-					["time"] = 1486424199,
+					["time"] = 1487516891,
+					["from"] = "Ahya",
+					["msg"] = "e sinceramente non mi piace quel raid troppe persone mi stanno sul cazzo",
+					["inbound"] = true,
+					["convo"] = "Ahya",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1487516960,
 					["from"] = "Alitfaier",
-					["msg"] = "ma io anche quando abitavo da solo, non bevevo.",
+					["msg"] = "le persone che ti stanno sul cazzo ci sono ovunque, non avrai mai una gilda senza gente antipatica e simpatica...",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [303]
+					["convo"] = "Ahya",
+				}, -- [5]
 				{
 					["type"] = 1,
-					["time"] = 1486424211,
-					["from"] = "AlexM#21650",
-					["msg"] = "anzi devo pensare a metterne su una, solo che cruisto, sto a fare il corso x oss",
+					["time"] = 1487516972,
+					["from"] = "Ahya",
+					["msg"] = "loso",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [304]
+					["convo"] = "Ahya",
+				}, -- [6]
 				{
 					["type"] = 1,
-					["time"] = 1486424212,
-					["from"] = "AlexM#21650",
-					["msg"] = "e",
+					["time"] = 1487516990,
+					["from"] = "Ahya",
+					["msg"] = "si ma voglio tankare ",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [305]
+					["convo"] = "Ahya",
+				}, -- [7]
 				{
 					["type"] = 1,
-					["time"] = 1486424225,
+					["time"] = 1487517036,
 					["from"] = "Alitfaier",
-					["msg"] = "se uscivo con gli amici e si andava in enoteca una bottiglia di vino me la facevo...",
+					["msg"] = "il fatto e che tu vuoi una gilda come la vuoi tu, tiriamo su una gilda nostra e gg",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [306]
+					["convo"] = "Ahya",
+				}, -- [8]
 				{
 					["type"] = 1,
-					["time"] = 1486424232,
-					["from"] = "AlexM#21650",
-					["msg"] = "mi sto intortando una tipa che è la ragazza piu bella del mondo",
+					["time"] = 1487517077,
+					["from"] = "Ahya",
+					["msg"] = "voglio tankare",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [307]
+					["convo"] = "Ahya",
+				}, -- [9]
 				{
 					["type"] = 1,
-					["time"] = 1486424234,
+					["time"] = 1487517166,
 					["from"] = "Alitfaier",
-					["msg"] = "ma 1 massimo 2 volte al mese",
+					["msg"] = "e si, partiamo con te e me che tankiamo",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [308]
+					["convo"] = "Ahya",
+				}, -- [10]
 				{
 					["type"] = 1,
-					["time"] = 1486424238,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma cazzo ha 20 anni",
+					["time"] = 1487517209,
+					["from"] = "Ahya",
+					["msg"] = "si e chi cura?",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [309]
+					["convo"] = "Ahya",
+				}, -- [11]
 				{
 					["type"] = 1,
-					["time"] = 1486424252,
+					["time"] = 1487517349,
 					["from"] = "Alitfaier",
-					["msg"] = "e allora?",
+					["msg"] = "li troviamo",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [310]
+					["convo"] = "Ahya",
+				}, -- [12]
 				{
 					["type"] = 1,
-					["time"] = 1486424257,
+					["time"] = 1487517362,
 					["from"] = "Alitfaier",
-					["msg"] = "è maggiorenne",
+					["msg"] = "to detto ",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [311]
+					["convo"] = "Ahya",
+				}, -- [13]
 				{
 					["type"] = 1,
-					["time"] = 1486424263,
+					["time"] = 1487517373,
 					["from"] = "Alitfaier",
-					["msg"] = "sei a posto.",
+					["msg"] = "iniziamo a preparare la gilda ora per prossima exp",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [312]
+					["convo"] = "Ahya",
+				}, -- [14]
 				{
 					["type"] = 1,
-					["time"] = 1486424268,
-					["from"] = "AlexM#21650",
-					["msg"] = "si.. xo cribbio",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [313]
-				{
-					["type"] = 1,
-					["time"] = 1486424274,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma se la vedi",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [314]
-				{
-					["type"] = 1,
-					["time"] = 1486424278,
+					["time"] = 1487517385,
 					["from"] = "Alitfaier",
-					["msg"] = "ma vaaaa non farti problemi",
+					["msg"] = "ci mettimao due alt e spammiamo e reclutiamo in massa..",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [315]
+					["convo"] = "Ahya",
+				}, -- [15]
 				{
 					["type"] = 1,
-					["time"] = 1486424294,
+					["time"] = 1487517392,
 					["from"] = "Alitfaier",
-					["msg"] = "se gli metti l'uccello in mano non lo porta alla madre",
+					["msg"] = "con l'addon apposta",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [316]
+					["convo"] = "Ahya",
+				}, -- [16]
 				{
 					["type"] = 1,
-					["time"] = 1486424297,
-					["from"] = "AlexM#21650",
-					["msg"] = "alta 1,80 rossa magra bel viso e ne vuole",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [317]
-				{
-					["type"] = 1,
-					["time"] = 1486424301,
+					["time"] = 1487517394,
 					["from"] = "Alitfaier",
-					["msg"] = "sa usarlo fidati.",
+					["msg"] = "sgi",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [318]
+					["convo"] = "Ahya",
+				}, -- [17]
 				{
 					["type"] = 1,
-					["time"] = 1486424309,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma sai volevo sistemarmi",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [319]
-				{
-					["type"] = 1,
-					["time"] = 1486424316,
-					["from"] = "AlexM#21650",
-					["msg"] = "vabbe, si vedra",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [320]
-				{
-					["type"] = 1,
-					["time"] = 1486424327,
-					["from"] = "AlexM#21650",
-					["msg"] = "kmq il cosro da oss è peso",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [321]
-				{
-					["type"] = 1,
-					["time"] = 1486424339,
-					["from"] = "AlexM#21650",
-					["msg"] = "stiam facendo le stomie",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [322]
-				{
-					["type"] = 1,
-					["time"] = 1486424340,
+					["time"] = 1487517527,
 					["from"] = "Alitfaier",
-					["msg"] = "e ora si, sono pesi",
+					["msg"] = "xeal e funny hanno saputo che hai leftato...",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [323]
+					["convo"] = "Ahya",
+				}, -- [18]
 				{
 					["type"] = 1,
-					["time"] = 1486424356,
-					["from"] = "AlexM#21650",
-					["msg"] = "parkinson e pulizie del culo",
+					["time"] = 1487517541,
+					["from"] = "Ahya",
+					["msg"] = "è?",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [324]
+					["convo"] = "Ahya",
+				}, -- [19]
 				{
 					["type"] = 1,
-					["time"] = 1486424360,
-					["from"] = "AlexM#21650",
+					["time"] = 1487517541,
+					["from"] = "Alitfaier",
+					["msg"] = "e mi hanno chiesto come mai... che gli dico?",
+					["inbound"] = false,
+					["convo"] = "Ahya",
+				}, -- [20]
+				{
+					["type"] = 1,
+					["time"] = 1487517569,
+					["from"] = "Ahya",
+					["msg"] = "la verita volevo tankare li non e possibile sono andato",
+					["inbound"] = true,
+					["convo"] = "Ahya",
+				}, -- [21]
+				{
+					["type"] = 1,
+					["time"] = 1487517613,
+					["from"] = "Alitfaier",
+					["msg"] = "ok",
+					["inbound"] = false,
+					["convo"] = "Ahya",
+				}, -- [22]
+				{
+					["type"] = 1,
+					["time"] = 1487517619,
+					["from"] = "Alitfaier",
+					["msg"] = "rispondo",
+					["inbound"] = false,
+					["convo"] = "Ahya",
+				}, -- [23]
+				{
+					["type"] = 1,
+					["time"] = 1487517701,
+					["from"] = "Alitfaier",
+					["msg"] = "xeal ha detto che vuol parlare con kate",
+					["inbound"] = false,
+					["convo"] = "Ahya",
+				}, -- [24]
+				{
+					["type"] = 1,
+					["time"] = 1487517754,
+					["from"] = "Ahya",
+					["msg"] = "per?",
+					["inbound"] = true,
+					["convo"] = "Ahya",
+				}, -- [25]
+				{
+					["type"] = 1,
+					["time"] = 1487517965,
+					["from"] = "Ahya",
+					["msg"] = "non mi interessa problemi loro io non ci sono e ciao hahahahaha",
+					["inbound"] = true,
+					["convo"] = "Ahya",
+				}, -- [26]
+				{
+					["type"] = 1,
+					["time"] = 1487517986,
+					["from"] = "Alitfaier",
+					["msg"] = "vuole capire perchè fa tankare la \"mongola\" e perdere te, invece del contrario.",
+					["inbound"] = false,
+					["convo"] = "Ahya",
+				}, -- [27]
+				{
+					["type"] = 1,
+					["time"] = 1487518024,
+					["from"] = "Alitfaier",
+					["msg"] = "parole sue.",
+					["inbound"] = false,
+					["convo"] = "Ahya",
+				}, -- [28]
+				{
+					["type"] = 1,
+					["time"] = 1487518094,
+					["from"] = "Ahya",
+					["msg"] = "non e online xeal",
+					["inbound"] = true,
+					["convo"] = "Ahya",
+				}, -- [29]
+				{
+					["type"] = 1,
+					["time"] = 1487518709,
+					["from"] = "Alitfaier",
+					["msg"] = "che diro fai?",
+					["inbound"] = false,
+					["convo"] = "Ahya",
+				}, -- [30]
+				{
+					["type"] = 1,
+					["time"] = 1487519037,
+					["from"] = "Ahya",
+					["msg"] = "?",
+					["inbound"] = true,
+					["convo"] = "Ahya",
+				}, -- [31]
+				["info"] = {
+				},
+			},
+			["kate#2817"] = {
+				{
+					["type"] = 1,
+					["time"] = 1487882256,
+					["from"] = "Alitfaier",
+					["msg"] = "ma non hai intenzione di grupparmi questa sera?",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1487882592,
+					["from"] = "kate#2817",
+					["msg"] = "allora non avevo visto il tuo wisp ",
+					["inbound"] = true,
+					["convo"] = "kate#2817",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1487882636,
+					["from"] = "Alitfaier",
+					["msg"] = "si va bene, ma lo sappiamo entrambi che era tua intenzione lasciarmi fuori dal raid.",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1487882660,
+					["from"] = "Alitfaier",
+					["msg"] = "e kikkarmi dalla gilda, perchè ti sto sul cazzo quindi, abbimao risolto!",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1487882669,
+					["from"] = "kate#2817",
+					["msg"] = "si va bene, e vero che non l ho visto ",
+					["inbound"] = true,
+					["convo"] = "kate#2817",
+				}, -- [5]
+				{
+					["type"] = 1,
+					["time"] = 1487882747,
+					["from"] = "kate#2817",
+					["msg"] = "si non ti porterei in raid dopo quel comportamento davanti a tutti ",
+					["inbound"] = true,
+					["convo"] = "kate#2817",
+				}, -- [6]
+				{
+					["type"] = 1,
+					["time"] = 1487882774,
+					["from"] = "Alitfaier",
+					["msg"] = "ho lefato il raid come hanno fatto anche altri... ma non sono stati messi in croce",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [7]
+				{
+					["type"] = 1,
+					["time"] = 1487882776,
+					["from"] = "kate#2817",
+					["msg"] = "senza che ti scusi come non ho portato altri quando si sono comportati male ",
+					["inbound"] = true,
+					["convo"] = "kate#2817",
+				}, -- [8]
+				{
+					["type"] = 1,
+					["time"] = 1487882795,
+					["from"] = "Alitfaier",
+					["msg"] = "a si? e tu non ti comporti mai male?",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [9]
+				{
+					["type"] = 1,
+					["time"] = 1487882800,
+					["from"] = "kate#2817",
+					["msg"] = "l unico che ha leftato il raid era luigi ed e successo il disastro ",
+					["inbound"] = true,
+					["convo"] = "kate#2817",
+				}, -- [10]
+				{
+					["type"] = 1,
+					["time"] = 1487882811,
+					["from"] = "kate#2817",
+					["msg"] = "io rispondo a chi si comporta male a me ",
+					["inbound"] = true,
+					["convo"] = "kate#2817",
+				}, -- [11]
+				{
+					["type"] = 1,
+					["time"] = 1487882822,
+					["from"] = "Alitfaier",
+					["msg"] = "no.... sei scappata",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [12]
+				{
+					["type"] = 1,
+					["time"] = 1487882847,
+					["from"] = "Alitfaier",
+					["msg"] = "mi hai urlato contro per mezz'ora, poi ti ho detto qualcosa che ti ha fatto incazzare e sei scappata",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [13]
+				{
+					["type"] = 1,
+					["time"] = 1487882861,
+					["from"] = "kate#2817",
+					["msg"] = "mi hai detto qualcosa che mi ha fatto incazzare?",
+					["inbound"] = true,
+					["convo"] = "kate#2817",
+				}, -- [14]
+				{
+					["type"] = 1,
+					["time"] = 1487882882,
+					["from"] = "Alitfaier",
+					["msg"] = "si che hai fatto il pianto quando ha leftato luigi.",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [15]
+				{
+					["type"] = 1,
+					["time"] = 1487882886,
+					["from"] = "kate#2817",
+					["msg"] = "stai scherzando? chi ha datto il diritto di parlare per fatti personali miei ",
+					["inbound"] = true,
+					["convo"] = "kate#2817",
+				}, -- [16]
+				{
+					["type"] = 1,
+					["time"] = 1487882905,
+					["from"] = "Alitfaier",
+					["msg"] = "uf... io intendevo che sei stata male ",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [17]
+				{
+					["type"] = 1,
+					["time"] = 1487882916,
+					["from"] = "Alitfaier",
+					["msg"] = "non che hai pianto una valle di lacrime",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [18]
+				{
+					["type"] = 1,
+					["time"] = 1487882922,
+					["from"] = "kate#2817",
+					["msg"] = "che sono tra me e luigi",
+					["inbound"] = true,
+					["convo"] = "kate#2817",
+				}, -- [19]
+				{
+					["type"] = 1,
+					["time"] = 1487882941,
+					["from"] = "Alitfaier",
+					["msg"] = "e poi, non ci vedo niente di sconvolgente in uno che piange, anche io piango, quando sono nervoso",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [20]
+				{
+					["type"] = 1,
+					["time"] = 1487882955,
+					["from"] = "kate#2817",
+					["msg"] = "non sono fatti di altri da comentare die ",
+					["inbound"] = true,
+					["convo"] = "kate#2817",
+				}, -- [21]
+				{
+					["type"] = 1,
+					["time"] = 1487882971,
+					["from"] = "kate#2817",
+					["msg"] = "se non e male non dovevi sfotterlo magari ",
+					["inbound"] = true,
+					["convo"] = "kate#2817",
+				}, -- [22]
+				{
+					["type"] = 1,
+					["time"] = 1487882984,
+					["from"] = "Alitfaier",
+					["msg"] = "non stavo sfottendo lui",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [23]
+				{
+					["type"] = 1,
+					["time"] = 1487882989,
+					["from"] = "kate#2817",
+					["msg"] = "se volevo veramente kikkarti eri gia fuori ",
+					["inbound"] = true,
+					["convo"] = "kate#2817",
+				}, -- [24]
+				{
+					["type"] = 1,
+					["time"] = 1487882991,
+					["from"] = "Alitfaier",
+					["msg"] = "la mia era una precisazione.",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [25]
+				{
+					["type"] = 1,
+					["time"] = 1487882998,
+					["from"] = "kate#2817",
+					["msg"] = "non serviva ",
+					["inbound"] = true,
+					["convo"] = "kate#2817",
+				}, -- [26]
+				{
+					["type"] = 1,
+					["time"] = 1487883009,
+					["from"] = "kate#2817",
+					["msg"] = "sono fatti nostri cosa facciamo io e lui ",
+					["inbound"] = true,
+					["convo"] = "kate#2817",
+				}, -- [27]
+				{
+					["type"] = 1,
+					["time"] = 1487883046,
+					["from"] = "Alitfaier",
+					["msg"] = "kate, l'ho capito che sei presa sentimentalmente per luigi, e non ti ho mai preso per il culo per questo.",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [28]
+				{
+					["type"] = 1,
+					["time"] = 1487883061,
+					["from"] = "kate#2817",
+					["msg"] = "ma che presa , settimana prossima sono a casa sua ",
+					["inbound"] = true,
+					["convo"] = "kate#2817",
+				}, -- [29]
+				{
+					["type"] = 1,
+					["time"] = 1487883064,
+					["from"] = "Alitfaier",
+					["msg"] = "e me ne sono ben guardato dal dirlo o fare battute",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [30]
+				{
+					["type"] = 1,
+					["time"] = 1487883065,
+					["from"] = "kate#2817",
+					["msg"] = "<Deadly Boss Mods> Raila is busy fighting against Normal - Grand Magistrix Elisande (94% (Stage 1), 18/18 people alive)",
+					["inbound"] = true,
+					["convo"] = "kate#2817",
+				}, -- [31]
+				{
+					["type"] = 1,
+					["time"] = 1487883070,
+					["from"] = "kate#2817",
+					["msg"] = "e preso anche lui ",
+					["inbound"] = true,
+					["convo"] = "kate#2817",
+				}, -- [32]
+				{
+					["type"] = 1,
+					["time"] = 1487883077,
+					["from"] = "Alitfaier",
+					["msg"] = "lo so...",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [33]
+				{
+					["type"] = 1,
+					["time"] = 1487883127,
+					["from"] = "Alitfaier",
+					["msg"] = "e non ho mai detto nulla... e guarda che ho insistito parecchio su luigi a farlo tornare in gilda, perchè avevo intuito tutta la situazione.",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [34]
+				{
+					["type"] = 1,
+					["time"] = 1487883152,
+					["from"] = "Alitfaier",
+					["msg"] = "ma in ogni caso me ne sono stato, zitto e non ho detto nniente a nessuno",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [35]
+				{
+					["type"] = 1,
+					["time"] = 1487883165,
+					["from"] = "Alitfaier",
+					["msg"] = "mai fatto battute del cazzo di questo tipo",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [36]
+				{
+					["type"] = 1,
+					["time"] = 1487883175,
+					["from"] = "kate#2817",
+					["msg"] = "<DBM> Raila has wiped on Normal - Grand Magistrix Elisande at 50% (Stage 1)",
+					["inbound"] = true,
+					["convo"] = "kate#2817",
+				}, -- [37]
+				{
+					["type"] = 1,
+					["time"] = 1487883200,
+					["from"] = "Alitfaier",
+					["msg"] = "ma io oggi intendevo che ci sei rimasta male quando luigi è uscito dalla gilda... ed è un dato di fatto!",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [38]
+				{
+					["type"] = 1,
+					["time"] = 1487883821,
+					["from"] = "kate#2817",
+					["msg"] = "devo curare ma nel fratempo  provero di scrivere nelle pausa",
+					["inbound"] = true,
+					["convo"] = "kate#2817",
+				}, -- [39]
+				{
+					["type"] = 1,
+					["time"] = 1487893619,
+					["from"] = "kate#2817",
+					["msg"] = "Comunque sono molto stanca, ho esami domani e devo riposarmi e non cela faccio di rimanere sveglia fino alla mattina, quindi se vogliamo parlare e chiarire le cose, domani magari su ts, dopo  mezzogiorno. Buona notte ",
+					["inbound"] = true,
+					["convo"] = "kate#2817",
+				}, -- [40]
+				{
+					["type"] = 1,
+					["time"] = 1487893653,
+					["from"] = "Alitfaier",
+					["msg"] = "ma io non stavo aspettando",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [41]
+				{
+					["type"] = 1,
+					["time"] = 1487893673,
+					["from"] = "Alitfaier",
+					["msg"] = "e cmq non mi hai detto nulla di questa cosa.",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [42]
+				{
+					["type"] = 1,
+					["time"] = 1487893679,
+					["from"] = "Alitfaier",
+					["msg"] = "di parlare su ts",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [43]
+				{
+					["type"] = 1,
+					["time"] = 1487893693,
+					["from"] = "Alitfaier",
+					["msg"] = "e in ogni caso buonanotte",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [44]
+				{
+					["type"] = 1,
+					["time"] = 1487893728,
+					["from"] = "kate#2817",
+					["msg"] = "ti ho detto che ti scrivero e poi ho detto a luigi che sto curando non posso scrivere e se state su ts di dirtelo",
+					["inbound"] = true,
+					["convo"] = "kate#2817",
+				}, -- [45]
+				{
+					["type"] = 1,
+					["time"] = 1487893778,
+					["from"] = "Alitfaier",
+					["msg"] = "si va bene, luigi parlava di domani domani.",
+					["inbound"] = false,
+					["convo"] = "kate#2817",
+				}, -- [46]
+				["info"] = {
+				},
+			},
+			["Ime"] = {
+				{
+					["type"] = 1,
+					["time"] = 1487103776,
+					["from"] = "Alitfaier",
+					["msg"] = "ciao",
+					["inbound"] = false,
+					["convo"] = "Ime",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1487103783,
+					["from"] = "Alitfaier",
+					["msg"] = "anche tu pugghi questa sera?",
+					["inbound"] = false,
+					["convo"] = "Ime",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1487868493,
+					["from"] = "Alitfaier",
+					["msg"] = "stai aspettando che logga e mi kikka per fare lo screen?",
+					["inbound"] = false,
+					["convo"] = "Ime",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1487868511,
+					["from"] = "Alitfaier",
+					["msg"] = "bastardo...",
+					["inbound"] = false,
+					["convo"] = "Ime",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1487868522,
+					["from"] = "Alitfaier",
+					["msg"] = "lo stampi e lo incolli al muro..",
+					["inbound"] = false,
+					["convo"] = "Ime",
+				}, -- [5]
+				{
+					["type"] = 1,
+					["time"] = 1487868541,
+					["from"] = "Alitfaier",
+					["msg"] = "no ma va... non ci faccio una malattia nemmeno io",
+					["inbound"] = false,
+					["convo"] = "Ime",
+				}, -- [6]
+				["info"] = {
+				},
+			},
+			["Frekix"] = {
+				{
+					["type"] = 1,
+					["time"] = 1486941364,
+					["from"] = "Alitfaier",
+					["msg"] = "questa sera una 14...",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1486941368,
+					["from"] = "Alitfaier",
+					["msg"] = "un parto",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1486941385,
+					["from"] = "Frekix",
+					["msg"] = "finita in tempo??",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1486941412,
+					["from"] = "Alitfaier",
+					["msg"] = "no se... impossibile... era la prima 14.. e non sapevamo bene come farla",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1486941431,
+					["from"] = "Alitfaier",
+					["msg"] = "diciamo che 14 15 vanno fatte un po' diversamente.",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [5]
+				{
+					["type"] = 1,
+					["time"] = 1487105116,
+					["from"] = "Alitfaier",
+					["msg"] = "invita",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [6]
+				{
+					["type"] = 1,
+					["time"] = 1487515969,
+					["from"] = "Alitfaier",
+					["msg"] = "hai ancor abisogno epr corte?",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [7]
+				{
+					["type"] = 1,
+					["time"] = 1487516191,
+					["from"] = "Alitfaier",
+					["msg"] = "ci sei?",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [8]
+				{
+					["type"] = 1,
+					["time"] = 1487516217,
+					["from"] = "Frekix",
+					["msg"] = "si scusa",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [9]
+				{
+					["type"] = 1,
+					["time"] = 1487516220,
+					["from"] = "Frekix",
+					["msg"] = "dimmi ^^",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [10]
+				{
+					["type"] = 1,
+					["time"] = 1487516225,
+					["from"] = "Alitfaier",
+					["msg"] = "cercavi per corte",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [11]
+				{
+					["type"] = 1,
+					["time"] = 1487516232,
+					["from"] = "Frekix",
+					["msg"] = "ah sisi ^^",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [12]
+				{
+					["type"] = 1,
+					["time"] = 1487516256,
+					["from"] = "Alitfaier",
+					["msg"] = "un attimo che forse ho un gruppo per elisande hc",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [13]
+				{
+					["type"] = 1,
+					["time"] = 1487516318,
+					["from"] = "Alitfaier",
+					["msg"] = "niente non mi prende",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [14]
+				{
+					["type"] = 1,
+					["time"] = 1487516324,
+					["from"] = "Alitfaier",
+					["msg"] = "vai invita",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [15]
+				{
+					["type"] = 1,
+					["time"] = 1487516799,
+					["from"] = "Frekix",
+					["msg"] = "un consiglio per gestire al meglio i modificatori?",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [16]
+				{
+					["type"] = 1,
+					["time"] = 1487516832,
+					["from"] = "Alitfaier",
+					["msg"] = "i modificatori?",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [17]
+				{
+					["type"] = 1,
+					["time"] = 1487516847,
+					["from"] = "Frekix",
+					["msg"] = "rabbia e eruzione?",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [18]
+				{
+					["type"] = 1,
+					["time"] = 1487516871,
+					["from"] = "Alitfaier",
+					["msg"] = "rabbia te devono curare e tu non puoi farci nulla",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [19]
+				{
+					["type"] = 1,
+					["time"] = 1487516901,
+					["from"] = "Alitfaier",
+					["msg"] = "al masismo puoi usare i cd di dps quando vanno in rabbia",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [20]
+				{
+					["type"] = 1,
+					["time"] = 1487516915,
+					["from"] = "Alitfaier",
+					["msg"] = "così sei in enrage e prendi quei 10% di danni inmeno",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [21]
+				{
+					["type"] = 1,
+					["time"] = 1487516963,
+					["from"] = "Frekix",
+					["msg"] = "uhm ok perchè mi sembra che uno mi aveva deto che non dovevo pullare il gruppo di mob succesivo se quello precedente è ancora vivo",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [22]
+				{
+					["type"] = 1,
+					["time"] = 1487516985,
+					["from"] = "Alitfaier",
+					["msg"] = "e si anche",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [23]
+				{
+					["type"] = 1,
+					["time"] = 1487517000,
+					["from"] = "Alitfaier",
+					["msg"] = "perchè ogni mob che muore potenzia quello successivo",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [24]
+				{
+					["type"] = 1,
+					["time"] = 1487517053,
+					["from"] = "Frekix",
+					["msg"] = "eh ecco, quindi pullo un gruppo alla volta diciamo? o se no quando rimangono tipo uno o due mob dal gruppo prevedente",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [25]
+				{
+					["type"] = 1,
+					["time"] = 1487517071,
+					["from"] = "Alitfaier",
+					["msg"] = "no no devi killare completamente il pull",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [26]
+				{
+					["type"] = 1,
+					["time"] = 1487517103,
+					["from"] = "Frekix",
+					["msg"] = "ah ok perfetto! e per quanto riguarda eruzione?",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [27]
+				{
+					["type"] = 1,
+					["time"] = 1487517104,
+					["from"] = "Alitfaier",
+					["msg"] = "perchè l'ultimo che rimane ha le stac di tutti quelli morti e se pulli con quello vivo passa le sue stac a quelli che hai preso e continuano a passare",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [28]
+				{
+					["type"] = 1,
+					["time"] = 1487517113,
+					["from"] = "Alitfaier",
+					["msg"] = "alla fine ti trovi un supermob",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [29]
+				{
+					["type"] = 1,
+					["time"] = 1487517122,
+					["from"] = "Frekix",
+					["msg"] = "ahah ok capito ^^",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [30]
+				{
+					["type"] = 1,
+					["time"] = 1487517128,
+					["from"] = "Alitfaier",
+					["msg"] = "eruzione devi stare attento e spostarti",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [31]
+				{
+					["type"] = 1,
+					["time"] = 1487517151,
+					["from"] = "Alitfaier",
+					["msg"] = "se lo pigli ti porta a metà vita a te... a me mi squaglia",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [32]
+				{
+					["type"] = 1,
+					["time"] = 1487517186,
+					["from"] = "Frekix",
+					["msg"] = "ah ottimo xD in pratica esce un vulcano tutte le volte che killi un mob?",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [33]
+				{
+					["type"] = 1,
+					["time"] = 1487517197,
+					["from"] = "Alitfaier",
+					["msg"] = "no",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [34]
+				{
+					["type"] = 1,
+					["time"] = 1487517215,
+					["from"] = "Alitfaier",
+					["msg"] = "escono due vulcani, e più mob hai più aumenta la frequenza",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [35]
+				{
+					["type"] = 1,
+					["time"] = 1487517245,
+					["from"] = "Alitfaier",
+					["msg"] = "cmq rabbia aumenta il danno al 30% di vita del mob e basta",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [36]
+				{
+					["type"] = 1,
+					["time"] = 1487517254,
+					["from"] = "Alitfaier",
+					["msg"] = "quello che passa lo stack è il rinforzo",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [37]
+				{
+					["type"] = 1,
+					["time"] = 1487517255,
+					["from"] = "Frekix",
+					["msg"] = "sisi quello lo so",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [38]
+				{
+					["type"] = 1,
+					["time"] = 1487517270,
+					["from"] = "Frekix",
+					["msg"] = "ma i due vulcani ogni quanto spawnano?",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [39]
+				{
+					["type"] = 1,
+					["time"] = 1487517274,
+					["from"] = "Alitfaier",
+					["msg"] = "quindi alla fine puoi pullare anche tre pull basta che li reggi",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [40]
+				{
+					["type"] = 1,
+					["time"] = 1487517283,
+					["from"] = "Alitfaier",
+					["msg"] = "non lo so",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [41]
+				{
+					["type"] = 1,
+					["time"] = 1487517289,
+					["from"] = "Alitfaier",
+					["msg"] = "è a caso",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [42]
+				{
+					["type"] = 1,
+					["time"] = 1487517298,
+					["from"] = "Frekix",
+					["msg"] = "ah ok spawnano a cazzo!",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [43]
+				{
+					["type"] = 1,
+					["time"] = 1487517303,
+					["from"] = "Alitfaier",
+					["msg"] = "ma la frequenza è più alta in base ai mob pullati",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [44]
+				{
+					["type"] = 1,
+					["time"] = 1487517319,
+					["from"] = "Alitfaier",
+					["msg"] = "e cmq con vulcano conviene che prendi un ranged in parti sempre",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [45]
+				{
+					["type"] = 1,
+					["time"] = 1487517325,
+					["from"] = "Frekix",
+					["msg"] = "merda che palle quando la gente lascia cosi",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [46]
+				{
+					["type"] = 1,
+					["time"] = 1487517331,
+					["from"] = "Alitfaier",
+					["msg"] = "senò fa sempre un vulcano all'healeer e uno ai mele...",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [47]
+				{
+					["type"] = 1,
+					["time"] = 1487517342,
+					["from"] = "Alitfaier",
+					["msg"] = "e l'healere se è un po' sega è sempre morto",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [48]
+				{
+					["type"] = 1,
+					["time"] = 1487517393,
+					["from"] = "Frekix",
+					["msg"] = "ok l'ho scritto in descrizione",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [49]
+				{
+					["type"] = 1,
+					["time"] = 1487519418,
+					["from"] = "Frekix",
+					["msg"] = "perchè mi ha degradato la chiave???",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [50]
+				{
+					["type"] = 1,
+					["time"] = 1487519468,
+					["from"] = "Alitfaier",
+					["msg"] = "linka",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [51]
+				{
+					["type"] = 1,
+					["time"] = 1487519475,
+					["from"] = "Frekix",
+					["msg"] = " |cffa335ee|Hitem:138019::::::::110:73:6160384:::1466:8:6:3:1:::|h[Chiave del Potere]|h|r",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [52]
+				{
+					["type"] = 1,
+					["time"] = 1487519483,
+					["from"] = "Alitfaier",
+					["msg"] = "+1",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [53]
+				{
+					["type"] = 1,
+					["time"] = 1487519485,
+					["from"] = "Alitfaier",
+					["msg"] = "era 7",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [54]
+				{
+					["type"] = 1,
+					["time"] = 1487519489,
+					["from"] = "Frekix",
+					["msg"] = "si ma era +9",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [55]
+				{
+					["type"] = 1,
+					["time"] = 1487519505,
+					["from"] = "Alitfaier",
+					["msg"] = "ma che dici era 7",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [56]
+				{
+					["type"] = 1,
+					["time"] = 1487519507,
+					["from"] = "Frekix",
+					["msg"] = "durante la run era apparso \"esaurita\"",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [57]
+				{
+					["type"] = 1,
+					["time"] = 1487519518,
+					["from"] = "Frekix",
+					["msg"] = "dico che sono sicuro che era piu 9",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [58]
+				{
+					["type"] = 1,
+					["time"] = 1487519518,
+					["from"] = "Alitfaier",
+					["msg"] = "era 7 ",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [59]
+				{
+					["type"] = 1,
+					["time"] = 1487519526,
+					["from"] = "Alitfaier",
+					["msg"] = "gotta go fast mi dice che era 7",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [60]
+				{
+					["type"] = 1,
+					["time"] = 1487519542,
+					["from"] = "Alitfaier",
+					["msg"] = "ora devo andare a dopo",
+					["inbound"] = false,
+					["convo"] = "Frekix",
+				}, -- [61]
+				{
+					["type"] = 1,
+					["time"] = 1487519555,
+					["from"] = "Frekix",
+					["msg"] = "ok grz ",
+					["inbound"] = true,
+					["convo"] = "Frekix",
+				}, -- [62]
+				["info"] = {
+				},
+			},
+			["Sweetdeath#2810"] = {
+				{
+					["type"] = 1,
+					["time"] = 1487096146,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "ciao :)",
+					["inbound"] = true,
+					["convo"] = "Sweetdeath#2810",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1487096151,
+					["from"] = "Alitfaier",
+					["msg"] = "ciao",
+					["inbound"] = false,
+					["convo"] = "Sweetdeath#2810",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1487109184,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "bon destinazione baretto......",
+					["inbound"] = true,
+					["convo"] = "Sweetdeath#2810",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1487109191,
+					["from"] = "Alitfaier",
 					["msg"] = "lol",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [325]
-				{
-					["type"] = 1,
-					["time"] = 1486424423,
-					["from"] = "Alitfaier",
-					["msg"] = "si sembra che dovete fare chissà cosa e alla fine è bidè vestirli e parcheggiarli fino a mezzogiorno da qualche parte",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [326]
+					["convo"] = "Sweetdeath#2810",
+				}, -- [4]
 				{
 					["type"] = 1,
-					["time"] = 1486424441,
+					["time"] = 1487109384,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "bella diego :) poi domani ti racconterò le chronicles of baretto :P",
+					["inbound"] = true,
+					["convo"] = "Sweetdeath#2810",
+				}, -- [5]
+				{
+					["type"] = 1,
+					["time"] = 1487109389,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "notte",
+					["inbound"] = true,
+					["convo"] = "Sweetdeath#2810",
+				}, -- [6]
+				{
+					["type"] = 1,
+					["time"] = 1487109393,
 					["from"] = "Alitfaier",
-					["msg"] = "poi cambio pannolone alle 10",
+					["msg"] = "ok notte",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [327]
+					["convo"] = "Sweetdeath#2810",
+				}, -- [7]
 				{
 					["type"] = 1,
-					["time"] = 1486424446,
+					["time"] = 1487167936,
 					["from"] = "Alitfaier",
-					["msg"] = "pranzo ",
+					["msg"] = "sono su discord se vuoi",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [328]
+					["convo"] = "Sweetdeath#2810",
+				}, -- [8]
 				{
 					["type"] = 1,
-					["time"] = 1486424450,
+					["time"] = 1487167964,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "ok rivo :)",
+					["inbound"] = true,
+					["convo"] = "Sweetdeath#2810",
+				}, -- [9]
+				{
+					["type"] = 1,
+					["time"] = 1487195000,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "lol vero",
+					["inbound"] = true,
+					["convo"] = "Sweetdeath#2810",
+				}, -- [10]
+				{
+					["type"] = 1,
+					["time"] = 1487267452,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "bella diego :)",
+					["inbound"] = true,
+					["convo"] = "Sweetdeath#2810",
+				}, -- [11]
+				{
+					["type"] = 1,
+					["time"] = 1487267464,
 					["from"] = "Alitfaier",
-					["msg"] = "rimetti a nanna",
+					["msg"] = "ciao",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [329]
+					["convo"] = "Sweetdeath#2810",
+				}, -- [12]
 				{
 					["type"] = 1,
-					["time"] = 1486424458,
+					["time"] = 1487269609,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "ma in ptr ho visto che ci sono già i primi boss di tomb of sargeras... nn uscirà un pò troppo presto?",
+					["inbound"] = true,
+					["convo"] = "Sweetdeath#2810",
+				}, -- [13]
+				{
+					["type"] = 1,
+					["time"] = 1487269636,
 					["from"] = "Alitfaier",
-					["msg"] = "alle 3 si rialzano ",
+					["msg"] = "sembra che vogliano fare una exp all'anno",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [330]
+					["convo"] = "Sweetdeath#2810",
+				}, -- [14]
 				{
 					["type"] = 1,
-					["time"] = 1486424461,
-					["from"] = "Alitfaier",
-					["msg"] = "merenda",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [331]
-				{
-					["type"] = 1,
-					["time"] = 1486424466,
-					["from"] = "AlexM#21650",
-					["msg"] = "ahah.. cerchero di vederla cosi",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [332]
-				{
-					["type"] = 1,
-					["time"] = 1486424466,
-					["from"] = "Alitfaier",
-					["msg"] = "rimetti a letto",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [333]
-				{
-					["type"] = 1,
-					["time"] = 1486424473,
-					["from"] = "Alitfaier",
-					["msg"] = "e bona",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [334]
-				{
-					["type"] = 1,
-					["time"] = 1486424478,
-					["from"] = "Alitfaier",
-					["msg"] = "e si ma è così",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [335]
-				{
-					["type"] = 1,
-					["time"] = 1486424483,
-					["from"] = "Alitfaier",
-					["msg"] = "con i vecchi...",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [336]
-				{
-					["type"] = 1,
-					["time"] = 1486424493,
-					["from"] = "Alitfaier",
-					["msg"] = "se invece vai a fare altro allora camba",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [337]
-				{
-					["type"] = 1,
-					["time"] = 1486424517,
-					["from"] = "Alitfaier",
-					["msg"] = "cmq ho controllato, il masismo dello stipendio lo prendi ora come ora, a lavorare al sert",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [338]
-				{
-					["type"] = 1,
-					["time"] = 1486424524,
-					["from"] = "Alitfaier",
-					["msg"] = "ma è pericoloso",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [339]
-				{
-					["type"] = 1,
-					["time"] = 1486424531,
-					["from"] = "AlexM#21650",
-					["msg"] = "te ti mat",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [340]
-				{
-					["type"] = 1,
-					["time"] = 1486424541,
-					["from"] = "AlexM#21650",
-					["msg"] = "si fottano i cazzi di tossici",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [341]
-				{
-					["type"] = 1,
-					["time"] = 1486424557,
-					["from"] = "Alitfaier",
-					["msg"] = "oppure nei centri er malati mentali ma li, rischi di prendere botte pesanti",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [342]
-				{
-					["type"] = 1,
-					["time"] = 1486424574,
-					["from"] = "Alitfaier",
-					["msg"] = "anche se i vecchi menano forte alcuni.",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [343]
-				{
-					["type"] = 1,
-					["time"] = 1486424579,
-					["from"] = "AlexM#21650",
-					["msg"] = "faccio sto lavoro x far qalcosa di buono, nn ci vado in mezzo ai tossici, ne ho avuti di amici",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [344]
-				{
-					["type"] = 1,
-					["time"] = 1486424603,
-					["from"] = "AlexM#21650",
-					["msg"] = "nn ne voglio sapere di quella gente, ma coi disabili o centri psichiatrici c andrei",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [345]
-				{
-					["type"] = 1,
-					["time"] = 1486424619,
-					["from"] = "Alitfaier",
-					["msg"] = "si anche io all'inizio avevo quei presupposti",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [346]
-				{
-					["type"] = 1,
-					["time"] = 1486424637,
-					["from"] = "AlexM#21650",
-					["msg"] = "io nn ho pregiudizi, i miei sono post giudizi",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [347]
-				{
-					["type"] = 1,
-					["time"] = 1486424637,
-					["from"] = "Alitfaier",
-					["msg"] = "fare qualcosa per gli altri... poi a forza di essere trattato di merda dagli altri... ho smesso.",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [348]
-				{
-					["type"] = 1,
-					["time"] = 1486424661,
-					["from"] = "Alitfaier",
-					["msg"] = "con i tossici non ci andrei nemmeno io",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [349]
-				{
-					["type"] = 1,
-					["time"] = 1486424668,
-					["from"] = "AlexM#21650",
-					["msg"] = "di persone tossiche ne ho conosciute",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [350]
-				{
-					["type"] = 1,
-					["time"] = 1486424677,
-					["from"] = "Alitfaier",
-					["msg"] = "io li metterei in un buco e via di cemento.",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [351]
-				{
-					["type"] = 1,
-					["time"] = 1486424696,
-					["from"] = "AlexM#21650",
-					["msg"] = "e davvero nn mi piace star in mezo a loro, non dico sia colpa loro, ma la gente cambia",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [352]
-				{
-					["type"] = 1,
-					["time"] = 1486424704,
-					["from"] = "Alitfaier",
-					["msg"] = "avija colonne per fare ponti...",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [353]
-				{
-					["type"] = 1,
-					["time"] = 1486424710,
-					["from"] = "AlexM#21650",
-					["msg"] = "e cn loro nn c è speranza",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [354]
-				{
-					["type"] = 1,
-					["time"] = 1486424727,
-					["from"] = "Alitfaier",
-					["msg"] = "i tossici non cambiano",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [355]
-				{
-					["type"] = 1,
-					["time"] = 1486424731,
-					["from"] = "AlexM#21650",
-					["msg"] = "si si lo so, anch io ho idee drastiche a riguardo",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [356]
-				{
-					["type"] = 1,
-					["time"] = 1486424744,
-					["from"] = "Alitfaier",
-					["msg"] = "sono una spesa sanitaria non indifferente",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [357]
-				{
-					["type"] = 1,
-					["time"] = 1486424752,
-					["from"] = "AlexM#21650",
-					["msg"] = "d altra parter viviamo in uno stato di bonisti",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [358]
-				{
-					["type"] = 1,
-					["time"] = 1486424776,
-					["from"] = "AlexM#21650",
-					["msg"] = "poi il disagio e lo schifo che portano",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [359]
-				{
-					["type"] = 1,
-					["time"] = 1486424778,
-					["from"] = "Alitfaier",
-					["msg"] = "si verso i tossici... ma io che son quasi cieco mi devo attaccare al cazzo",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [360]
-				{
-					["type"] = 1,
-					["time"] = 1486424795,
-					["from"] = "AlexM#21650",
-					["msg"] = "cazzo c entra",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [361]
-				{
-					["type"] = 1,
-					["time"] = 1486424809,
-					["from"] = "Alitfaier",
-					["msg"] = "che hai tossici gli danno l'invalidità",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [362]
-				{
-					["type"] = 1,
-					["time"] = 1486424816,
-					["from"] = "AlexM#21650",
-					["msg"] = "io ho avuto il furgone dei tossici che cambuian sirighe sotto casa x 20 anni",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [363]
-				{
-					["type"] = 1,
-					["time"] = 1486424830,
-					["from"] = "AlexM#21650",
-					["msg"] = "me ne fotto della spesa delle siringhe",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [364]
-				{
-					["type"] = 1,
-					["time"] = 1486424833,
-					["from"] = "Alitfaier",
-					["msg"] = "con pensione, per una cosa che se la sono cercata per me he non me la sono cercata  devo morire di fame",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [365]
-				{
-					["type"] = 1,
-					["time"] = 1486424857,
-					["from"] = "Alitfaier",
-					["msg"] = "hai tossici gli passano il metadone per drogarsi a me non passano nemmeno le goccie...",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [366]
-				{
-					["type"] = 1,
-					["time"] = 1486424867,
-					["from"] = "Alitfaier",
-					["msg"] = "per la pulizia della cornea",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [367]
-				{
-					["type"] = 1,
-					["time"] = 1486424879,
-					["from"] = "Alitfaier",
-					["msg"] = "e non me la sono cercata",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [368]
-				{
-					["type"] = 1,
-					["time"] = 1486424890,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma sai che vuol dire vedere ogni giorno la fila davanti casa tua di gente malata di malattie varie davanti la scuola che arrivabnio zoppicando x infezioni alle gambe",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [369]
-				{
-					["type"] = 1,
-					["time"] = 1486424914,
-					["from"] = "AlexM#21650",
-					["msg"] = "si mi ha accennato funny",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [370]
-				{
-					["type"] = 1,
-					["time"] = 1486424927,
-					["from"] = "AlexM#21650",
-					["msg"] = "sotto casa kmq ce li ho lol",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [371]
-				{
-					["type"] = 1,
-					["time"] = 1486424935,
-					["from"] = "Alitfaier",
-					["msg"] = "mi hanno anche tolto la patente..",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [372]
-				{
-					["type"] = 1,
-					["time"] = 1486424941,
-					["from"] = "AlexM#21650",
-					["msg"] = "azz è vero",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [373]
-				{
-					["type"] = 1,
-					["time"] = 1486424942,
-					["from"] = "Alitfaier",
-					["msg"] = "ha un tossico la lasciano...",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [374]
-				{
-					["type"] = 1,
-					["time"] = 1486424946,
-					["from"] = "AlexM#21650",
-					["msg"] = "me l hai detto",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [375]
-				{
-					["type"] = 1,
-					["time"] = 1486424952,
-					["from"] = "Alitfaier",
-					["msg"] = "poi guida drogato e ammazza gente...",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [376]
-				{
-					["type"] = 1,
-					["time"] = 1486424974,
-					["from"] = "AlexM#21650",
-					["msg"] = "eh si, pure col metadone posson guidare",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [377]
-				{
-					["type"] = 1,
-					["time"] = 1486424993,
-					["from"] = "AlexM#21650",
-					["msg"] = "kmq io son 5 anni che nn ho la patente",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [378]
-				{
-					["type"] = 1,
-					["time"] = 1486424997,
-					["from"] = "Alitfaier",
-					["msg"] = "vabè vado a nanna",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [379]
-				{
-					["type"] = 1,
-					["time"] = 1486501058,
-					["from"] = "AlexM#21650",
-					["msg"] = "ufffff",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [380]
-				{
-					["type"] = 1,
-					["time"] = 1486501067,
-					["from"] = "AlexM#21650",
-					["msg"] = "c eravamo quasi",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [381]
-				{
-					["type"] = 1,
-					["time"] = 1486501086,
-					["from"] = "AlexM#21650",
-					["msg"] = "è scandaloso",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [382]
-				{
-					["type"] = 1,
-					["time"] = 1486501096,
-					["from"] = "Alitfaier",
-					["msg"] = "mai dire gatto, finchè non è dentro al sacco",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [383]
-				{
-					["type"] = 1,
-					["time"] = 1486501115,
-					["from"] = "AlexM#21650",
-					["msg"] = "4 try da 20 sec, wipe dopo l heroismi ogni volta",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [384]
-				{
-					["type"] = 1,
-					["time"] = 1486501127,
-					["from"] = "AlexM#21650",
-					["msg"] = "siamo alla follia qua",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [385]
-				{
-					["type"] = 1,
-					["time"] = 1486501144,
-					["from"] = "AlexM#21650",
-					["msg"] = "qua si degenera oltre i cofini del concepibile",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [386]
-				{
-					["type"] = 1,
-					["time"] = 1486501147,
-					["from"] = "Alitfaier",
-					["msg"] = "nooooo la follia, l'abbiamo già trapassata...",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [387]
-				{
-					["type"] = 1,
-					["time"] = 1486501167,
-					["from"] = "AlexM#21650",
-					["msg"] = "le gilde stra social non fanno cosi",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [388]
-				{
-					["type"] = 1,
-					["time"] = 1486501172,
-					["from"] = "Alitfaier",
-					["msg"] = "ma per me anche quei confini li abbiamo passati da tempo",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [389]
-				{
-					["type"] = 1,
-					["time"] = 1486501191,
-					["from"] = "AlexM#21650",
-					["msg"] = "mi sa anche a me",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [390]
-				{
-					["type"] = 1,
-					["time"] = 1486502984,
-					["from"] = "AlexM#21650",
-					["msg"] = "facciam progressi ma troppo pochi",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [391]
-				{
-					["type"] = 1,
-					["time"] = 1486502995,
-					["from"] = "AlexM#21650",
-					["msg"] = "e mancan sempre piu i dps",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [392]
-				{
-					["type"] = 1,
-					["time"] = 1486503003,
-					["from"] = "AlexM#21650",
-					["msg"] = "nailika e ancvhe areaviel",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [393]
-				{
-					["type"] = 1,
-					["time"] = 1486503022,
-					["from"] = "AlexM#21650",
-					["msg"] = "se domani nn ci presentiam io e te chiudono",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [394]
-				{
-					["type"] = 1,
-					["time"] = 1486503041,
-					["from"] = "Alitfaier",
-					["msg"] = "stricchè?",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [395]
-				{
-					["type"] = 1,
-					["time"] = 1486503044,
-					["from"] = "AlexM#21650",
-					["msg"] = "kmq asiia gioca molto bene",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [396]
-				{
-					["type"] = 1,
-					["time"] = 1486503050,
-					["from"] = "AlexM#21650",
-					["msg"] = "al di la del dps",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [397]
-				{
-					["type"] = 1,
-					["time"] = 1486503773,
-					["from"] = "AlexM#21650",
-					["msg"] = "siam kmq sotto di dps",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [398]
-				{
-					["type"] = 1,
-					["time"] = 1486503797,
-					["from"] = "AlexM#21650",
-					["msg"] = "in tutti i modi anche tutto perfetto nn ci arriviamo",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [399]
-				{
-					["type"] = 1,
-					["time"] = 1486503853,
-					["from"] = "AlexM#21650",
-					["msg"] = "questo gboss è gara di dps",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [400]
-				{
-					["type"] = 1,
-					["time"] = 1486503880,
-					["from"] = "AlexM#21650",
-					["msg"] = "e 2 3 9",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [401]
-				{
-					["type"] = 1,
-					["time"] = 1486503885,
-					["from"] = "AlexM#21650",
-					["msg"] = "2 4 12",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [402]
-				{
-					["type"] = 1,
-					["time"] = 1486503890,
-					["from"] = "AlexM#21650",
-					["msg"] = "nomn 2 4 9",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [403]
-				{
-					["type"] = 1,
-					["time"] = 1486503893,
-					["from"] = "Alitfaier",
-					["msg"] = "io farei con 1 healer",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [404]
-				{
-					["type"] = 1,
-					["time"] = 1486503989,
-					["from"] = "AlexM#21650",
-					["msg"] = "sto boss sarebbe meglio 2 3 10, o 2 3 11 senza errori, ma ",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [405]
-				{
-					["type"] = 1,
-					["time"] = 1486503997,
-					["from"] = "AlexM#21650",
-					["msg"] = "loro di ste cose se ne fregano",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [406]
-				{
-					["type"] = 1,
-					["time"] = 1486504004,
-					["from"] = "AlexM#21650",
-					["msg"] = "fanno il grupp0o a cazzo",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [407]
-				{
-					["type"] = 1,
-					["time"] = 1486510227,
-					["from"] = "Alitfaier",
-					["msg"] = "cmq siamo a 11 wipe causati da lucrezia",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [408]
-				{
-					["type"] = 1,
-					["time"] = 1486510238,
-					["from"] = "AlexM#21650",
-					["msg"] = "loool",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [409]
-				{
-					["type"] = 1,
-					["time"] = 1486510246,
-					["from"] = "AlexM#21650",
-					["msg"] = "x me di piu",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [410]
-				{
-					["type"] = 1,
-					["time"] = 1486510437,
-					["from"] = "Alitfaier",
-					["msg"] = "scasina troppo con i cd lucrezia ",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [411]
-				{
-					["type"] = 1,
-					["time"] = 1486510455,
-					["from"] = "Alitfaier",
-					["msg"] = "a volte li sovrappone",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [412]
-				{
-					["type"] = 1,
-					["time"] = 1486510551,
-					["from"] = "Alitfaier",
-					["msg"] = "a me in normal non serve NULLA almeno che non sia almeno 900",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [413]
-				{
-					["type"] = 1,
-					["time"] = 1486510558,
-					["from"] = "AlexM#21650",
-					["msg"] = "lo so",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [414]
-				{
-					["type"] = 1,
-					["time"] = 1486510566,
-					["from"] = "Alitfaier",
-					["msg"] = "e che ci andiamo a fare?",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [415]
-				{
-					["type"] = 1,
-					["time"] = 1486510584,
-					["from"] = "AlexM#21650",
-					["msg"] = "son d accordo ma a sto punto è giusto almeno 1 volta cleararlo",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [416]
-				{
-					["type"] = 1,
-					["time"] = 1486510596,
-					["from"] = "AlexM#21650",
-					["msg"] = "lo capsico anche se nn sarei daccordo",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [417]
-				{
-					["type"] = 1,
-					["time"] = 1486510615,
-					["from"] = "Alitfaier",
-					["msg"] = "che due coglioni",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [418]
-				{
-					["type"] = 1,
-					["time"] = 1486510626,
-					["from"] = "Alitfaier",
-					["msg"] = "già devo sopportare raila",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [419]
-				{
-					["type"] = 1,
-					["time"] = 1486510635,
-					["from"] = "AlexM#21650",
-					["msg"] = "lo so",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [420]
-				{
-					["type"] = 1,
-					["time"] = 1486510638,
-					["from"] = "AlexM#21650",
-					["msg"] = "la sento",
+					["time"] = 1487269663,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "che esagerati..... uno nn sele gode a meno che nn sta sempre loggoto ovvio",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [421]
-				{
-					["type"] = 1,
-					["time"] = 1486510641,
-					["from"] = "Alitfaier",
-					["msg"] = "poi lucrezia e pure il fatto che sono in normal",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [422]
-				{
-					["type"] = 1,
-					["time"] = 1486510652,
-					["from"] = "AlexM#21650",
-					["msg"] = "a parte che a te rompe sempre i coglioni a inizio serata",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [423]
-				{
-					["type"] = 1,
-					["time"] = 1486510665,
-					["from"] = "AlexM#21650",
-					["msg"] = "me ne sono accorto",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [424]
-				{
-					["type"] = 1,
-					["time"] = 1486510678,
-					["from"] = "AlexM#21650",
-					["msg"] = "che ti spacca le palle",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [425]
-				{
-					["type"] = 1,
-					["time"] = 1486510683,
-					["from"] = "AlexM#21650",
-					["msg"] = "sempre",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [426]
-				{
-					["type"] = 1,
-					["time"] = 1486510691,
-					["from"] = "Alitfaier",
-					["msg"] = "si per nessun motivo poi",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [427]
-				{
-					["type"] = 1,
-					["time"] = 1486510691,
-					["from"] = "AlexM#21650",
-					["msg"] = "i primi 2 try",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [428]
-				{
-					["type"] = 1,
-					["time"] = 1486510698,
-					["from"] = "AlexM#21650",
-					["msg"] = "biooooo",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [429]
-				{
-					["type"] = 1,
-					["time"] = 1486510705,
-					["from"] = "AlexM#21650",
-					["msg"] = "kmq x hc si fa",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [430]
-				{
-					["type"] = 1,
-					["time"] = 1486510720,
-					["from"] = "Alitfaier",
-					["msg"] = "le uniche due volte che sono morto mi ha rotto le palle e ha pure sbuffato",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [431]
-				{
-					["type"] = 1,
-					["time"] = 1486510726,
-					["from"] = "AlexM#21650",
-					["msg"] = "ci siamo sia cn krosus che cn aluriel",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [432]
-				{
-					["type"] = 1,
-					["time"] = 1486510736,
-					["from"] = "Alitfaier",
-					["msg"] = "quando muore lei, mai dire nulla",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [433]
-				{
-					["type"] = 1,
-					["time"] = 1486510737,
-					["from"] = "AlexM#21650",
-					["msg"] = "manca 1 week di try",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [434]
-				{
-					["type"] = 1,
-					["time"] = 1486510753,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma die... io intervengo sempre , mi vedi",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [435]
-				{
-					["type"] = 1,
-					["time"] = 1486510759,
-					["from"] = "Alitfaier",
-					["msg"] = "manca che lucrezia deve smettere di venire in progress",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [436]
-				{
-					["type"] = 1,
-					["time"] = 1486510762,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma cazzo nn so che dire",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [437]
-				{
-					["type"] = 1,
-					["time"] = 1486510766,
-					["from"] = "AlexM#21650",
-					["msg"] = "lo so",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [438]
-				{
-					["type"] = 1,
-					["time"] = 1486510788,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma come si fa a dirlo, manco io cn la mia faccia tosta e molesta ci riesco",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [439]
-				{
-					["type"] = 1,
-					["time"] = 1486510794,
-					["from"] = "Alitfaier",
-					["msg"] = "alla fine donzachiappa c'è una sera a settimana e me lo posso sopportare",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [440]
-				{
-					["type"] = 1,
-					["time"] = 1486510803,
-					["from"] = "AlexM#21650",
-					["msg"] = "ehhhhhhhh",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [441]
-				{
-					["type"] = 1,
-					["time"] = 1486510807,
-					["from"] = "AlexM#21650",
-					["msg"] = "molto meuiio",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [442]
-				{
-					["type"] = 1,
-					["time"] = 1486510819,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma lu è simpatica, ma ci fa wippare tutti",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [443]
-				{
-					["type"] = 1,
-					["time"] = 1486510826,
-					["from"] = "AlexM#21650",
-					["msg"] = "tropppe volte",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [444]
-				{
-					["type"] = 1,
-					["time"] = 1486510836,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma chiamamola da monkin",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [445]
-				{
-					["type"] = 1,
-					["time"] = 1486510840,
-					["from"] = "AlexM#21650",
-					["msg"] = "cristo",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [446]
-				{
-					["type"] = 1,
-					["time"] = 1486510847,
-					["from"] = "AlexM#21650",
-					["msg"] = "e poi xke son buono",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [447]
-				{
-					["type"] = 1,
-					["time"] = 1486510862,
-					["from"] = "AlexM#21650",
-					["msg"] = "a cata da raid leader avrei kikkato 4 persone stasera",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [448]
-				{
-					["type"] = 1,
-					["time"] = 1486510867,
-					["from"] = "Alitfaier",
-					["msg"] = "io non la chiamerei punto e basta",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [449]
+					["convo"] = "Sweetdeath#2810",
+				}, -- [15]
 				{
 					["type"] = 1,
-					["time"] = 1486510872,
-					["from"] = "AlexM#21650",
-					["msg"] = "te nn immagino neanche",
+					["time"] = 1487288628,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "notte diego :)",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [450]
+					["convo"] = "Sweetdeath#2810",
+				}, -- [16]
 				{
 					["type"] = 1,
-					["time"] = 1486510889,
+					["time"] = 1487288638,
 					["from"] = "Alitfaier",
 					["msg"] = "notte",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [451]
+					["convo"] = "Sweetdeath#2810",
+				}, -- [17]
 				{
 					["type"] = 1,
-					["time"] = 1486572829,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma se faccio un raid in hc mi bindo o cn voi posso venire lostesso?",
+					["time"] = 1487523692,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "bella diego, ho letto di jacinda... pazzesco",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [452]
+					["convo"] = "Sweetdeath#2810",
+				}, -- [18]
 				{
 					["type"] = 1,
-					["time"] = 1486572835,
-					["from"] = "AlexM#21650",
-					["msg"] = "seppur senza drop",
-					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [453]
-				{
-					["type"] = 1,
-					["time"] = 1486572846,
+					["time"] = 1487523707,
 					["from"] = "Alitfaier",
-					["msg"] = "s puoi venire ma droppa meno poi",
+					["msg"] = "davvero",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [454]
+					["convo"] = "Sweetdeath#2810",
+				}, -- [19]
 				{
 					["type"] = 1,
-					["time"] = 1486572860,
-					["from"] = "AlexM#21650",
-					["msg"] = "ki droppa meno?",
+					["time"] = 1487523769,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "sta davvero andando tutto a culo......",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [455]
+					["convo"] = "Sweetdeath#2810",
+				}, -- [20]
 				{
 					["type"] = 1,
-					["time"] = 1486572865,
-					["from"] = "AlexM#21650",
-					["msg"] = "il boss?",
+					["time"] = 1487623224,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "ma xeal?",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [456]
+					["convo"] = "Sweetdeath#2810",
+				}, -- [21]
 				{
 					["type"] = 1,
-					["time"] = 1486572872,
+					["time"] = 1487623252,
 					["from"] = "Alitfaier",
-					["msg"] = "e certo",
+					["msg"] = "a bo",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [457]
+					["convo"] = "Sweetdeath#2810",
+				}, -- [22]
 				{
 					["type"] = 1,
-					["time"] = 1486572904,
-					["from"] = "AlexM#21650",
-					["msg"] = "non da gli stessi drop ma io nn posso prenderli? droppa proprio meno?",
+					["time"] = 1487635556,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "notte diego :)",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [458]
+					["convo"] = "Sweetdeath#2810",
+				}, -- [23]
 				{
 					["type"] = 1,
-					["time"] = 1486572911,
+					["time"] = 1487635561,
 					["from"] = "Alitfaier",
-					["msg"] = "perchè il drop adesso è minimo 2 per 10 poi ogni persona in più non bindata aumenta del 20% la chance di un'altro drop",
+					["msg"] = "notte",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [459]
+					["convo"] = "Sweetdeath#2810",
+				}, -- [24]
 				{
 					["type"] = 1,
-					["time"] = 1486572926,
-					["from"] = "AlexM#21650",
-					["msg"] = "cheppalle",
+					["time"] = 1487724453,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "notte diego a domani",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [460]
+					["convo"] = "Sweetdeath#2810",
+				}, -- [25]
 				{
 					["type"] = 1,
-					["time"] = 1486572935,
-					["from"] = "AlexM#21650",
-					["msg"] = "anche x normal quindi",
+					["time"] = 1487893360,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "notte Diego a domani",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [461]
+					["convo"] = "Sweetdeath#2810",
+				}, -- [26]
 				{
 					["type"] = 1,
-					["time"] = 1486572941,
+					["time"] = 1488033693,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "bella diego",
+					["inbound"] = true,
+					["convo"] = "Sweetdeath#2810",
+				}, -- [27]
+				{
+					["type"] = 1,
+					["time"] = 1488033698,
 					["from"] = "Alitfaier",
+					["msg"] = "ciao",
+					["inbound"] = false,
+					["convo"] = "Sweetdeath#2810",
+				}, -- [28]
+				{
+					["type"] = 1,
+					["time"] = 1488128890,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "bella diego",
+					["inbound"] = true,
+					["convo"] = "Sweetdeath#2810",
+				}, -- [29]
+				{
+					["type"] = 1,
+					["time"] = 1488130779,
+					["from"] = "Alitfaier",
+					["msg"] = "ciao funny",
+					["inbound"] = false,
+					["convo"] = "Sweetdeath#2810",
+				}, -- [30]
+				{
+					["type"] = 1,
+					["time"] = 1488130821,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "bella die :)",
+					["inbound"] = true,
+					["convo"] = "Sweetdeath#2810",
+				}, -- [31]
+				["info"] = {
+				},
+			},
+			["Samurosun"] = {
+				{
+					["type"] = 1,
+					["time"] = 1487425636,
+					["from"] = "Samurosun",
+					["msg"] = "qua nn si fa avanti nessuno",
+					["inbound"] = true,
+					["convo"] = "Samurosun",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1487425651,
+					["from"] = "Alitfaier",
+					["msg"] = "chiedi a scar se tanka",
+					["inbound"] = false,
+					["convo"] = "Samurosun",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1487425655,
+					["from"] = "Alitfaier",
+					["msg"] = "oscar",
+					["inbound"] = false,
+					["convo"] = "Samurosun",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1487425671,
+					["from"] = "Samurosun",
+					["msg"] = "mmm, non è gran vestito e ieri mi moriva easy",
+					["inbound"] = true,
+					["convo"] = "Samurosun",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1487425681,
+					["from"] = "Samurosun",
+					["msg"] = "non mi va di bruciare la chiave",
+					["inbound"] = true,
+					["convo"] = "Samurosun",
+				}, -- [5]
+				{
+					["type"] = 1,
+					["time"] = 1487425691,
+					["from"] = "Samurosun",
+					["msg"] = "mi sa che kikko anche il mago",
+					["inbound"] = true,
+					["convo"] = "Samurosun",
+				}, -- [6]
+				{
+					["type"] = 1,
+					["time"] = 1487425695,
+					["from"] = "Samurosun",
+					["msg"] = "era segnato 900",
+					["inbound"] = true,
+					["convo"] = "Samurosun",
+				}, -- [7]
+				{
+					["type"] = 1,
+					["time"] = 1487425704,
+					["from"] = "Samurosun",
+					["msg"] = "dal si e no è 880",
+					["inbound"] = true,
+					["convo"] = "Samurosun",
+				}, -- [8]
+				{
+					["type"] = 1,
+					["time"] = 1487425709,
+					["from"] = "Alitfaier",
+					["msg"] = "l'importante non è fare la tua chiave ma fare una chiave",
+					["inbound"] = false,
+					["convo"] = "Samurosun",
+				}, -- [9]
+				{
+					["type"] = 1,
+					["time"] = 1487425726,
+					["from"] = "Samurosun",
+					["msg"] = "la chiave è mia infatti lol",
+					["inbound"] = true,
+					["convo"] = "Samurosun",
+				}, -- [10]
+				{
+					["type"] = 1,
+					["time"] = 1487425742,
+					["from"] = "Alitfaier",
+					["msg"] = "bo io la mia non l afaccio mai",
+					["inbound"] = false,
+					["convo"] = "Samurosun",
+				}, -- [11]
+				{
+					["type"] = 1,
+					["time"] = 1487425752,
+					["from"] = "Samurosun",
+					["msg"] = "lol",
+					["inbound"] = true,
+					["convo"] = "Samurosun",
+				}, -- [12]
+				{
+					["type"] = 1,
+					["time"] = 1487425800,
+					["from"] = "Samurosun",
+					["msg"] = "ecco bon",
+					["inbound"] = true,
+					["convo"] = "Samurosun",
+				}, -- [13]
+				{
+					["type"] = 1,
+					["time"] = 1487425805,
+					["from"] = "Samurosun",
+					["msg"] = "ha leavato",
+					["inbound"] = true,
+					["convo"] = "Samurosun",
+				}, -- [14]
+				{
+					["type"] = 1,
+					["time"] = 1487425814,
+					["from"] = "Samurosun",
+					["msg"] = "senti loggo il dk",
+					["inbound"] = true,
+					["convo"] = "Samurosun",
+				}, -- [15]
+				{
+					["type"] = 1,
+					["time"] = 1487425819,
+					["from"] = "Alitfaier",
+					["msg"] = "ok",
+					["inbound"] = false,
+					["convo"] = "Samurosun",
+				}, -- [16]
+				{
+					["type"] = 1,
+					["time"] = 1487425821,
+					["from"] = "Samurosun",
+					["msg"] = "ci riproverò in altro momento",
+					["inbound"] = true,
+					["convo"] = "Samurosun",
+				}, -- [17]
+				["info"] = {
+				},
+			},
+			["Nanomaligno"] = {
+				{
+					["type"] = 1,
+					["time"] = 1487537615,
+					["from"] = "Nanomaligno",
+					["msg"] = "neanche qui nn ho nulla in posta",
+					["inbound"] = true,
+					["convo"] = "Nanomaligno",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1487537628,
+					["from"] = "Alitfaier",
+					["msg"] = "bo vabè amen",
+					["inbound"] = false,
+					["convo"] = "Nanomaligno",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1487537643,
+					["from"] = "Nanomaligno",
+					["msg"] = "ma achi l'hai spedita la roba",
+					["inbound"] = true,
+					["convo"] = "Nanomaligno",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1487537657,
+					["from"] = "Alitfaier",
+					["msg"] = "ho scritto nano e poi ha autocompletato",
+					["inbound"] = false,
+					["convo"] = "Nanomaligno",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1487537664,
+					["from"] = "Nanomaligno",
+					["msg"] = "lol",
+					["inbound"] = true,
+					["convo"] = "Nanomaligno",
+				}, -- [5]
+				{
+					["type"] = 1,
+					["time"] = 1487537664,
+					["from"] = "Alitfaier",
+					["msg"] = "controllo sul mio bancher",
+					["inbound"] = false,
+					["convo"] = "Nanomaligno",
+				}, -- [6]
+				["info"] = {
+				},
+			},
+			["Lùcrèzia"] = {
+				{
+					["type"] = 1,
+					["time"] = 1487018087,
+					["from"] = "Lùcrèzia",
+					["msg"] = "se hai una di quelle macchine per tirare la pasta è perfetta :D ",
+					["inbound"] = true,
+					["convo"] = "Lùcrèzia",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1487018124,
+					["from"] = "Alitfaier",
+					["msg"] = "si stavo pensando di usare quella... oppure faccio un po' di prove a mano ho visto un paio di video come fanno",
+					["inbound"] = false,
+					["convo"] = "Lùcrèzia",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1487018145,
+					["from"] = "Alitfaier",
+					["msg"] = "ma immagino che ci voglia un po' ad imparare bene",
+					["inbound"] = false,
+					["convo"] = "Lùcrèzia",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1487018213,
+					["from"] = "Lùcrèzia",
+					["msg"] = "non è così tremenda :D dove lavoro io d'estate la facciamo sempre, è solo un po' lunga, ma il risultato è spettacolare",
+					["inbound"] = true,
+					["convo"] = "Lùcrèzia",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1487018224,
+					["from"] = "Lùcrèzia",
+					["msg"] = "è la mia preferita quella focaccia",
+					["inbound"] = true,
+					["convo"] = "Lùcrèzia",
+				}, -- [5]
+				{
+					["type"] = 1,
+					["time"] = 1487018258,
+					["from"] = "Alitfaier",
+					["msg"] = "hehe quando vengo in liguria quella e la farinata, d'obbligo",
+					["inbound"] = false,
+					["convo"] = "Lùcrèzia",
+				}, -- [6]
+				{
+					["type"] = 1,
+					["time"] = 1487018276,
+					["from"] = "Lùcrèzia",
+					["msg"] = "la farinata è compito mio ahahah",
+					["inbound"] = true,
+					["convo"] = "Lùcrèzia",
+				}, -- [7]
+				{
+					["type"] = 1,
+					["time"] = 1487018301,
+					["from"] = "Lùcrèzia",
+					["msg"] = "come la mangi  tu? semplice o coi cipollotti? :D",
+					["inbound"] = true,
+					["convo"] = "Lùcrèzia",
+				}, -- [8]
+				{
+					["type"] = 1,
+					["time"] = 1487018345,
+					["from"] = "Alitfaier",
+					["msg"] = "in genere ne facico tre, una semplice una con prosciutto cotto e una con cipollotti",
+					["inbound"] = false,
+					["convo"] = "Lùcrèzia",
+				}, -- [9]
+				{
+					["type"] = 1,
+					["time"] = 1487018365,
+					["from"] = "Alitfaier",
+					["msg"] = "poi ho visto che c'è chi la fa con la pancetta",
+					["inbound"] = false,
+					["convo"] = "Lùcrèzia",
+				}, -- [10]
+				{
+					["type"] = 1,
+					["time"] = 1487018374,
+					["from"] = "Alitfaier",
+					["msg"] = "spinaci",
+					["inbound"] = false,
+					["convo"] = "Lùcrèzia",
+				}, -- [11]
+				{
+					["type"] = 1,
+					["time"] = 1487018381,
+					["from"] = "Alitfaier",
+					["msg"] = "ma non ho mai provato",
+					["inbound"] = false,
+					["convo"] = "Lùcrèzia",
+				}, -- [12]
+				{
+					["type"] = 1,
+					["time"] = 1487018396,
+					["from"] = "Alitfaier",
+					["msg"] = "se devo fare qualcosa con gli spianci mi faccio l'erbazzone reggiano..",
+					["inbound"] = false,
+					["convo"] = "Lùcrèzia",
+				}, -- [13]
+				{
+					["type"] = 1,
+					["time"] = 1487018410,
+					["from"] = "Alitfaier",
+					["msg"] = "TOP.",
+					["inbound"] = false,
+					["convo"] = "Lùcrèzia",
+				}, -- [14]
+				{
+					["type"] = 1,
+					["time"] = 1487018412,
+					["from"] = "Lùcrèzia",
+					["msg"] = "ho imparato pure io a farlo lol",
+					["inbound"] = true,
+					["convo"] = "Lùcrèzia",
+				}, -- [15]
+				{
+					["type"] = 1,
+					["time"] = 1487018454,
+					["from"] = "Lùcrèzia",
+					["msg"] = "ma qui abbiamo la torta riso e bietole che spacca :D o anche porri e patate",
+					["inbound"] = true,
+					["convo"] = "Lùcrèzia",
+				}, -- [16]
+				{
+					["type"] = 1,
+					["time"] = 1487018471,
+					["from"] = "Alitfaier",
+					["msg"] = "che buone",
+					["inbound"] = false,
+					["convo"] = "Lùcrèzia",
+				}, -- [17]
+				{
+					["type"] = 1,
+					["time"] = 1487018510,
+					["from"] = "Alitfaier",
+					["msg"] = "il problema è che non sono dietetiche come ricette...",
+					["inbound"] = false,
+					["convo"] = "Lùcrèzia",
+				}, -- [18]
+				{
+					["type"] = 1,
+					["time"] = 1487018521,
+					["from"] = "Lùcrèzia",
+					["msg"] = "no lol",
+					["inbound"] = true,
+					["convo"] = "Lùcrèzia",
+				}, -- [19]
+				{
+					["type"] = 1,
+					["time"] = 1487286021,
+					["from"] = "Lùcrèzia",
+					["msg"] = "quello è chiaro :D ma quello tradizionale da trattoria di via pre prevede addirittura il protocollo :D",
+					["inbound"] = true,
+					["convo"] = "Lùcrèzia",
+				}, -- [20]
+				["info"] = {
+				},
+			},
+			["Asiia"] = {
+				{
+					["type"] = 1,
+					["time"] = 1487189393,
+					["from"] = "Asiia",
+					["msg"] = "droppato qualcosa dalla cassa ?",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1487189416,
+					["from"] = "Alitfaier",
+					["msg"] = "si ma finchè non prendo un'altro pezzo set non posso usarlo",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1487189431,
+					["from"] = "Alitfaier",
+					["msg"] = "e la chiave sale del valore 10",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1487189431,
+					["from"] = "Asiia",
+					["msg"] = "asd",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1487189437,
+					["from"] = "Asiia",
+					["msg"] = "corvo nero ",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [5]
+				{
+					["type"] = 1,
+					["time"] = 1487189443,
+					["from"] = "Alitfaier",
+					["msg"] = "buono",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [6]
+				{
+					["type"] = 1,
+					["time"] = 1487189451,
+					["from"] = "Asiia",
+					["msg"] = "e  |cffa335ee|Hitem:134532:5324:130219::::::110:64::35:4:3535:1808:1547:3337:::|h[Band of Fused Coral]|h|r",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [7]
+				{
+					["type"] = 1,
+					["time"] = 1487189457,
+					["from"] = "Asiia",
+					["msg"] = ":)",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [8]
+				{
+					["type"] = 1,
+					["time"] = 1487189557,
+					["from"] = "Alitfaier",
+					["msg"] = "bello",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [9]
+				{
+					["type"] = 1,
+					["time"] = 1487190398,
+					["from"] = "Alitfaier",
+					["msg"] = "cmq è proprio brutta la bolla così marcata..",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [10]
+				{
+					["type"] = 1,
+					["time"] = 1487190416,
+					["from"] = "Alitfaier",
+					["msg"] = "era più bella leggera e fine, e meno fastidiosa",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [11]
+				{
+					["type"] = 1,
+					["time"] = 1487190436,
+					["from"] = "Asiia",
+					["msg"] = "sembriamo bouble bouble",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [12]
+				{
+					["type"] = 1,
+					["time"] = 1487190441,
+					["from"] = "Asiia",
+					["msg"] = "visto che siamo in normal",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [13]
+				{
+					["type"] = 1,
+					["time"] = 1487190445,
+					["from"] = "Asiia",
+					["msg"] = "mi provo arcane",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [14]
+				{
+					["type"] = 1,
+					["time"] = 1487190453,
+					["from"] = "Asiia",
+					["msg"] = "tanto lo facciamo ad occhi chiusi",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [15]
+				{
+					["type"] = 1,
+					["time"] = 1487190475,
+					["from"] = "Alitfaier",
+					["msg"] = "con lucrezia tank mai dare nulla per scontato.",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [16]
+				{
+					["type"] = 1,
+					["time"] = 1487190493,
+					["from"] = "Asiia",
+					["msg"] = "un po di suspance",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [17]
+				{
+					["type"] = 1,
+					["time"] = 1487191149,
+					["from"] = "Asiia",
+					["msg"] = "ho fatto cagare con arcane lol",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [18]
+				{
+					["type"] = 1,
+					["time"] = 1487191714,
+					["from"] = "Asiia",
+					["msg"] = "devo allenarmi nelle altre spec dio bono",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [19]
+				{
+					["type"] = 1,
+					["time"] = 1487535426,
+					["from"] = "Alitfaier",
+					["msg"] = "per caso, hai mai fatto l'hack del 3ds?",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [20]
+				{
+					["type"] = 1,
+					["time"] = 1487535426,
+					["from"] = "Asiia",
+					["msg"] = "<Deadly Boss Mods> Asiia is busy fighting against Mythic - Opera Hall: Beautiful Beast (2% (Stage 1) (3/4 Bosses Defeated), 5/5 people alive)",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [21]
+				{
+					["type"] = 1,
+					["time"] = 1487535458,
+					["from"] = "Asiia",
+					["msg"] = "<DBM> Asiia has defeated Mythic - Opera Hall: Beautiful Beast!",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [22]
+				{
+					["type"] = 1,
+					["time"] = 1487535471,
+					["from"] = "Asiia",
+					["msg"] = "nu",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [23]
+				{
+					["type"] = 1,
+					["time"] = 1487536747,
+					["from"] = "Alitfaier",
+					["msg"] = "quanto ti manca?",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [24]
+				{
+					["type"] = 1,
+					["time"] = 1487536747,
+					["from"] = "Asiia",
+					["msg"] = "<Deadly Boss Mods> Asiia is busy fighting against Mythic - Nightbane (51% (Stage 1), 5/5 people alive)",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [25]
+				{
+					["type"] = 1,
+					["time"] = 1487536873,
+					["from"] = "Asiia",
+					["msg"] = "<DBM> Asiia has defeated Mythic - Nightbane!",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [26]
+				{
+					["type"] = 1,
+					["time"] = 1487537217,
+					["from"] = "Asiia",
+					["msg"] = "finalmente fatto Nightbane",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [27]
+				{
+					["type"] = 1,
+					["time"] = 1487537226,
+					["from"] = "Alitfaier",
+					["msg"] = "bravo",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [28]
+				{
+					["type"] = 1,
+					["time"] = 1487537229,
+					["from"] = "Asiia",
+					["msg"] = "droppato un cazzo ma amen",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [29]
+				{
+					["type"] = 1,
+					["time"] = 1487538391,
+					["from"] = "Alitfaier",
+					["msg"] = "ndiamoa  fare la chiave?",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [30]
+				{
+					["type"] = 1,
+					["time"] = 1487538474,
+					["from"] = "Asiia",
+					["msg"] = "sono in LFR per i buff che danno int",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [31]
+				{
+					["type"] = 1,
+					["time"] = 1487538481,
+					["from"] = "Asiia",
+					["msg"] = "che devo ancora farli",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [32]
+				{
+					["type"] = 1,
+					["time"] = 1487538483,
+					["from"] = "Alitfaier",
+					["msg"] = "le rune?",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [33]
+				{
+					["type"] = 1,
+					["time"] = 1487538486,
+					["from"] = "Asiia",
 					["msg"] = "si",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [462]
-				{
-					["type"] = 1,
-					["time"] = 1486572954,
-					["from"] = "AlexM#21650",
-					["msg"] = "io che volevo farmi i drop in hc in pug",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [463]
+					["convo"] = "Asiia",
+				}, -- [34]
 				{
 					["type"] = 1,
-					["time"] = 1486572955,
+					["time"] = 1487538509,
 					["from"] = "Alitfaier",
-					["msg"] = "per di più se uno è bindato non droppa titanforgiato",
+					["msg"] = "si ma è inutile che usi le rune quando c'è chi non usa le prepozze..",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [464]
+					["convo"] = "Asiia",
+				}, -- [35]
 				{
 					["type"] = 1,
-					["time"] = 1486572959,
-					["from"] = "AlexM#21650",
-					["msg"] = "che 2 maroni",
+					["time"] = 1487538523,
+					["from"] = "Asiia",
+					["msg"] = "in mitica le posso usare :)",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [465]
+					["convo"] = "Asiia",
+				}, -- [36]
 				{
 					["type"] = 1,
-					["time"] = 1486572974,
-					["from"] = "Alitfaier",
-					["msg"] = "si risolverebbe con il persona loot",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [466]
-				{
-					["type"] = 1,
-					["time"] = 1486572995,
-					["from"] = "AlexM#21650",
-					["msg"] = "era meglio se non lo sapevo",
+					["time"] = 1487539092,
+					["from"] = "Asiia",
+					["msg"] = "finisco sti 2 boss poi vi raggiungo se vogliamo andare",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [467]
+					["convo"] = "Asiia",
+				}, -- [37]
 				{
 					["type"] = 1,
-					["time"] = 1486573004,
-					["from"] = "AlexM#21650",
-					["msg"] = "lo preferirei mille volte",
+					["time"] = 1487539098,
+					["from"] = "Asiia",
+					["msg"] = "le farò domani sera in caso",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [468]
+					["convo"] = "Asiia",
+				}, -- [38]
 				{
 					["type"] = 1,
-					["time"] = 1486573013,
+					["time"] = 1487539184,
 					["from"] = "Alitfaier",
-					["msg"] = "il personal loot, cambia guarda solo quanti si è",
+					["msg"] = "mi metto tank e ti facico entrare fast",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [469]
+					["convo"] = "Asiia",
+				}, -- [39]
 				{
 					["type"] = 1,
-					["time"] = 1486573046,
-					["from"] = "Alitfaier",
-					["msg"] = "si è in 20 droppa 6 pezzi e li da a chi non è bindato",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [470]
-				{
-					["type"] = 1,
-					["time"] = 1486573057,
-					["from"] = "Alitfaier",
-					["msg"] = "il pl droppa più pezzi ",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [471]
-				{
-					["type"] = 1,
-					["time"] = 1486573071,
-					["from"] = "AlexM#21650",
-					["msg"] = "ma dai",
+					["time"] = 1487539389,
+					["from"] = "Asiia",
+					["msg"] = "last e vi raggiungo",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [472]
+					["convo"] = "Asiia",
+				}, -- [40]
 				{
 					["type"] = 1,
-					["time"] = 1486573085,
-					["from"] = "Alitfaier",
-					["msg"] = "sono minimo da 10 sono 3 e poi sempre 20% change aumentata",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [473]
-				{
-					["type"] = 1,
-					["time"] = 1486573095,
-					["from"] = "Alitfaier",
-					["msg"] = "a 20 sono 6 pezzi +1 bonus",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [474]
-				{
-					["type"] = 1,
-					["time"] = 1486573098,
-					["from"] = "AlexM#21650",
-					["msg"] = "e noi teniamo stammerda di sistema, preferiso il pl, e poi scambiarli se nn ci servono",
+					["time"] = 1487540002,
+					["from"] = "Asiia",
+					["msg"] = "fai gruppo ce so",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [475]
+					["convo"] = "Asiia",
+				}, -- [41]
 				{
 					["type"] = 1,
-					["time"] = 1486573111,
+					["time"] = 1487622388,
 					["from"] = "Alitfaier",
-					["msg"] = "in 30 sono 9 più 3 bonus",
+					["msg"] = "ho fatot una 15 sanotte...",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [476]
+					["convo"] = "Asiia",
+				}, -- [42]
 				{
 					["type"] = 1,
-					["time"] = 1486573135,
-					["from"] = "AlexM#21650",
-					["msg"] = "cioe droppano qla met delle persone qasi",
+					["time"] = 1487622407,
+					["from"] = "Asiia",
+					["msg"] = "bravos",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [477]
+					["convo"] = "Asiia",
+				}, -- [43]
 				{
 					["type"] = 1,
-					["time"] = 1486573145,
+					["time"] = 1487622415,
 					["from"] = "Alitfaier",
-					["msg"] = "li puoi scambare solo se è più basso di quello che hai equipped",
+					["msg"] = "non l'abbiamo finita",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [478]
+					["convo"] = "Asiia",
+				}, -- [44]
 				{
 					["type"] = 1,
-					["time"] = 1486573159,
-					["from"] = "AlexM#21650",
-					["msg"] = "sisi qello lo ricordo",
+					["time"] = 1487622425,
+					["from"] = "Alitfaier",
+					["msg"] = "l'ultimo boss non moriva poco dps",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [45]
+				{
+					["type"] = 1,
+					["time"] = 1487625625,
+					["from"] = "Alitfaier",
+					["msg"] = "sei frost o arcano qua?",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [46]
+				{
+					["type"] = 1,
+					["time"] = 1487625636,
+					["from"] = "Asiia",
+					["msg"] = "frost stasera",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [479]
+					["convo"] = "Asiia",
+				}, -- [47]
 				{
 					["type"] = 1,
-					["time"] = 1486573240,
-					["from"] = "Alitfaier",
-					["msg"] = "con il pl se sie è in 30 1 e sempre titanforgiato",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [480]
-				{
-					["type"] = 1,
-					["time"] = 1486573404,
-					["from"] = "Alitfaier",
-					["msg"] = "e il 90% delle volte è un pezzo shardato",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [481]
-				{
-					["type"] = 1,
-					["time"] = 1486573421,
-					["from"] = "Alitfaier",
-					["msg"] = "con il pl ne shardi molti di più",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [482]
-				{
-					["type"] = 1,
-					["time"] = 1486573429,
-					["from"] = "Alitfaier",
-					["msg"] = "e vero che droppa molto ma shardi molto",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [483]
-				{
-					["type"] = 1,
-					["time"] = 1486573434,
-					["from"] = "Alitfaier",
-					["msg"] = "si + del ml",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [484]
-				{
-					["type"] = 1,
-					["time"] = 1486589449,
-					["from"] = "AlexM#21650",
-					["msg"] = "non è come dici ter.. se il master looter nn esiste evidemntemente cambia qualcosa",
+					["time"] = 1487625644,
+					["from"] = "Asiia",
+					["msg"] = "arcano single target non sono ancora pronto",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [485]
+					["convo"] = "Asiia",
+				}, -- [48]
 				{
 					["type"] = 1,
-					["time"] = 1486589489,
-					["from"] = "Alitfaier",
-					["msg"] = "ma cosa stai dicendo",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [486]
-				{
-					["type"] = 1,
-					["time"] = 1486589503,
-					["from"] = "Alitfaier",
-					["msg"] = "io oggi parlavo la defferenza tra master loot e personal loot",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [487]
-				{
-					["type"] = 1,
-					["time"] = 1486589510,
-					["from"] = "Alitfaier",
-					["msg"] = "mai parlato di group loot",
-					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [488]
-				{
-					["type"] = 1,
-					["time"] = 1486589513,
-					["from"] = "AlexM#21650",
-					["msg"] = "nessun boss ha mai dato fino a ogii 5 dropo, manco in 20",
+					["time"] = 1487625648,
+					["from"] = "Asiia",
+					["msg"] = "mi mancano relic",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [489]
+					["convo"] = "Asiia",
+				}, -- [49]
 				{
 					["type"] = 1,
-					["time"] = 1486589552,
-					["from"] = "AlexM#21650",
-					["msg"] = "secondo me se il master looter nn esiste cambia la cosa, mai abbiam beccato 5 drop",
+					["time"] = 1487625666,
+					["from"] = "Asiia",
+					["msg"] = "ma perdo un sacco di dps per andare alla fine del ponte",
 					["inbound"] = true,
-					["convo"] = "AlexM#21650",
-				}, -- [490]
+					["convo"] = "Asiia",
+				}, -- [50]
 				{
 					["type"] = 1,
-					["time"] = 1486589554,
+					["time"] = 1487625674,
+					["from"] = "Asiia",
+					["msg"] = "dio caro",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [51]
+				{
+					["type"] = 1,
+					["time"] = 1487625683,
+					["from"] = "Asiia",
+					["msg"] = "basta che non escano add il dps lo faranno altri",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [52]
+				{
+					["type"] = 1,
+					["time"] = 1487625727,
+					["from"] = "Asiia",
+					["msg"] = "sto giro si poteva fare",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [53]
+				{
+					["type"] = 1,
+					["time"] = 1487625747,
 					["from"] = "Alitfaier",
-					["msg"] = "siamo in 20 in ml escono 4 loot +1 bonus",
+					["msg"] = "secondo me sbagliamo qualcosa..",
 					["inbound"] = false,
-					["convo"] = "AlexM#21650",
-				}, -- [491]
+					["convo"] = "Asiia",
+				}, -- [54]
+				{
+					["type"] = 1,
+					["time"] = 1487630661,
+					["from"] = "Asiia",
+					["msg"] = "provo dps aoe",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [55]
+				{
+					["type"] = 1,
+					["time"] = 1487630675,
+					["from"] = "Asiia",
+					["msg"] = "che tanto qui i problemi sono sugli add",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [56]
+				{
+					["type"] = 1,
+					["time"] = 1487630803,
+					["from"] = "Alitfaier",
+					["msg"] = "questo è aoe come boss",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [57]
+				{
+					["type"] = 1,
+					["time"] = 1487630812,
+					["from"] = "Asiia",
+					["msg"] = "yes, vediamo",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [58]
+				{
+					["type"] = 1,
+					["time"] = 1487630867,
+					["from"] = "Alitfaier",
+					["msg"] = "su wowprogress si mettono arcane",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [59]
+				{
+					["type"] = 1,
+					["time"] = 1487630874,
+					["from"] = "Asiia",
+					["msg"] = "da questo si",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [60]
+				{
+					["type"] = 1,
+					["time"] = 1487630877,
+					["from"] = "Asiia",
+					["msg"] = "gli add li bruci",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [61]
+				{
+					["type"] = 1,
+					["time"] = 1487630901,
+					["from"] = "Asiia",
+					["msg"] = "ieri ho fatto nightbane a canna, senza fermarsi, con solo arcane ho finito con 1,2M di dps medio",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [62]
+				{
+					["type"] = 1,
+					["time"] = 1487630907,
+					["from"] = "Asiia",
+					["msg"] = "avevamo un signor tank però",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [63]
+				{
+					["type"] = 1,
+					["time"] = 1487630912,
+					["from"] = "Asiia",
+					["msg"] = "mai agrato",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [64]
+				{
+					["type"] = 1,
+					["time"] = 1487630918,
+					["from"] = "Asiia",
+					["msg"] = "qui prima fatto 2 aoe morto lol",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [65]
+				{
+					["type"] = 1,
+					["time"] = 1487630924,
+					["from"] = "Asiia",
+					["msg"] = "mi fa paura quello",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [66]
+				{
+					["type"] = 1,
+					["time"] = 1487630924,
+					["from"] = "Alitfaier",
+					["msg"] = "lol",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [67]
+				{
+					["type"] = 1,
+					["time"] = 1487631936,
+					["from"] = "Asiia",
+					["msg"] = "in questo giro mi son tenuto tutto sugli add arcane",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [68]
+				{
+					["type"] = 1,
+					["time"] = 1487631952,
+					["from"] = "Asiia",
+					["msg"] = "bruciati, meno dps sul boss ma conta meno qui",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [69]
+				{
+					["type"] = 1,
+					["time"] = 1487631974,
+					["from"] = "Alitfaier",
+					["msg"] = "si infatti",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [70]
+				{
+					["type"] = 1,
+					["time"] = 1487794711,
+					["from"] = "Asiia",
+					["msg"] = "quale chiave ?",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [71]
+				{
+					["type"] = 1,
+					["time"] = 1487794723,
+					["from"] = "Alitfaier",
+					["msg"] = "forte corvo nero",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [72]
+				{
+					["type"] = 1,
+					["time"] = 1487794736,
+					["from"] = "Asiia",
+					["msg"] = "corte delle stalle",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [73]
+				{
+					["type"] = 1,
+					["time"] = 1487794813,
+					["from"] = "Asiia",
+					["msg"] = "droppato qualcosa di interessante ?",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [74]
+				{
+					["type"] = 1,
+					["time"] = 1487794914,
+					["from"] = "Alitfaier",
+					["msg"] = " |cffa335ee|Hitem:134141::::::::110:72::35:3:3534:1552:3337:::|h[Calzari Rocciosi]|h|r",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [75]
+				{
+					["type"] = 1,
+					["time"] = 1487808007,
+					["from"] = "Alitfaier",
+					["msg"] = "mage fire da ticondrius 570k di dps",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [76]
+				{
+					["type"] = 1,
+					["time"] = 1487808022,
+					["from"] = "Alitfaier",
+					["msg"] = "ma il monk 1 in dps 800k",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [77]
+				{
+					["type"] = 1,
+					["time"] = 1487808032,
+					["from"] = "Alitfaier",
+					["msg"] = "892 d item level ",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [78]
+				{
+					["type"] = 1,
+					["time"] = 1487808033,
+					["from"] = "Asiia",
+					["msg"] = "sono arrivato a 600 da arcane circa",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [79]
+				{
+					["type"] = 1,
+					["time"] = 1487808042,
+					["from"] = "Alitfaier",
+					["msg"] = "il mage p 895",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [80]
+				{
+					["type"] = 1,
+					["time"] = 1487808047,
+					["from"] = "Alitfaier",
+					["msg"] = "fire",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [81]
+				{
+					["type"] = 1,
+					["time"] = 1487808053,
+					["from"] = "Asiia",
+					["msg"] = "889",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [82]
+				{
+					["type"] = 1,
+					["time"] = 1487808056,
+					["from"] = "Alitfaier",
+					["msg"] = "il war ... io na merda...",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [83]
+				{
+					["type"] = 1,
+					["time"] = 1487808072,
+					["from"] = "Asiia",
+					["msg"] = "e sono pure senza relix giuste",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [84]
+				{
+					["type"] = 1,
+					["time"] = 1487808088,
+					["from"] = "Alitfaier",
+					["msg"] = "si si ma questi sono superlativi",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [85]
+				{
+					["type"] = 1,
+					["time"] = 1487808095,
+					["from"] = "Alitfaier",
+					["msg"] = "cioè inguardabili...",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [86]
+				{
+					["type"] = 1,
+					["time"] = 1487808108,
+					["from"] = "Alitfaier",
+					["msg"] = "c'è il caso che usino cheat per l'haste",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [87]
+				{
+					["type"] = 1,
+					["time"] = 1487808112,
+					["from"] = "Asiia",
+					["msg"] = "ah ecco lol",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [88]
+				{
+					["type"] = 1,
+					["time"] = 1487808123,
+					["from"] = "Alitfaier",
+					["msg"] = "è altamente probabile",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [89]
+				{
+					["type"] = 1,
+					["time"] = 1488064212,
+					["from"] = "Alitfaier",
+					["msg"] = "SONO TORNATO A TERRORIZZARE LA GILDA HAHAHAHHHAAAHAHAA!",
+					["inbound"] = false,
+					["convo"] = "Asiia",
+				}, -- [90]
+				{
+					["type"] = 1,
+					["time"] = 1488064212,
+					["from"] = "Asiia",
+					["msg"] = "<Deadly Boss Mods> Asiia is busy fighting against Mythic+ - Ymiron (1%, 5/5 people alive)",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [91]
+				{
+					["type"] = 1,
+					["time"] = 1488064213,
+					["from"] = "Asiia",
+					["msg"] = "<DBM> Asiia has defeated Mythic+ - Ymiron!",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [92]
+				{
+					["type"] = 1,
+					["time"] = 1488064227,
+					["from"] = "Asiia",
+					["msg"] = "a volte ritornano - il film",
+					["inbound"] = true,
+					["convo"] = "Asiia",
+				}, -- [93]
+				["info"] = {
+				},
+			},
+			["lannister#2773"] = {
+				{
+					["type"] = 1,
+					["time"] = 1488038479,
+					["from"] = "Alitfaier",
+					["msg"] = "miii chi si rivede...",
+					["inbound"] = false,
+					["convo"] = "lannister#2773",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1488038488,
+					["from"] = "lannister#2773",
+					["msg"] = "ciao die",
+					["inbound"] = true,
+					["convo"] = "lannister#2773",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1488038505,
+					["from"] = "lannister#2773",
+					["msg"] = "sono di fretta ti scrivo appena ritorno",
+					["inbound"] = true,
+					["convo"] = "lannister#2773",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1488046114,
+					["from"] = "lannister#2773",
+					["msg"] = "ciao die tutto bene?",
+					["inbound"] = true,
+					["convo"] = "lannister#2773",
+				}, -- [4]
 				["info"] = {
 				},
 			},
 			["Fenriswolf"] = {
 				{
 					["type"] = 1,
-					["time"] = 1485812557,
+					["time"] = 1487201551,
 					["from"] = "Alitfaier",
-					["msg"] = "c'è poco dps sugli add di ghiaccio",
+					["msg"] = "elisande in hc cambia qualcosa?",
 					["inbound"] = false,
 					["convo"] = "Fenriswolf",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1485812568,
-					["from"] = "Alitfaier",
-					["msg"] = "devono morire prima della fase dopo",
-					["inbound"] = false,
+					["time"] = 1487201596,
+					["from"] = "Fenriswolf",
+					["msg"] = "ha delle abilità in più",
+					["inbound"] = true,
 					["convo"] = "Fenriswolf",
 				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1485981325,
-					["from"] = "Alitfaier",
-					["msg"] = "ma questa sera non sono in raid?",
-					["inbound"] = false,
+					["time"] = 1487201601,
+					["from"] = "Fenriswolf",
+					["msg"] = "se non ricordo male",
+					["inbound"] = true,
 					["convo"] = "Fenriswolf",
 				}, -- [3]
 				{
 					["type"] = 1,
-					["time"] = 1485981374,
-					["from"] = "Fenriswolf",
-					["msg"] = "se ti sei iscritto credo ci sei,spetta un secondo",
-					["inbound"] = true,
+					["time"] = 1487201613,
+					["from"] = "Alitfaier",
+					["msg"] = "kk graize",
+					["inbound"] = false,
 					["convo"] = "Fenriswolf",
 				}, -- [4]
 				{
 					["type"] = 1,
-					["time"] = 1485981430,
+					["time"] = 1487286788,
 					["from"] = "Alitfaier",
-					["msg"] = "non sono riuscito... ho avuto una visita e sono stato via tutto il giorno, poi prima me ne sono dimenticato... che ho preparato al cena e insomma... non è stata una bella giornata.",
+					["msg"] = "la prepozze... se usano tutti le prepozze muore alla seconda",
 					["inbound"] = false,
 					["convo"] = "Fenriswolf",
 				}, -- [5]
 				{
 					["type"] = 1,
-					["time"] = 1485981445,
+					["time"] = 1487286794,
 					["from"] = "Alitfaier",
-					["msg"] = "cmq se mi vuoi invitare ci sono.",
+					["msg"] = "pedana",
 					["inbound"] = false,
 					["convo"] = "Fenriswolf",
 				}, -- [6]
 				{
 					["type"] = 1,
-					["time"] = 1485981450,
-					["from"] = "Fenriswolf",
-					["msg"] = "allora riaspetta un seconda",
-					["inbound"] = true,
+					["time"] = 1487286820,
+					["from"] = "Alitfaier",
+					["msg"] = "o cmq poco dopo la rottura della seconda",
+					["inbound"] = false,
 					["convo"] = "Fenriswolf",
 				}, -- [7]
 				{
 					["type"] = 1,
-					["time"] = 1486072705,
+					["time"] = 1487623777,
 					["from"] = "Alitfaier",
-					["msg"] = "cmq a titolo informativo... al primo giro di torte.. è meglio farle prendere agli healer e ranged... per il motivo, che il primissimo giro è quello del burst di dps..",
+					["msg"] = "cmq una puntualizzazione... quando rompe il primo ponte deve essere al 50% il boss",
 					["inbound"] = false,
 					["convo"] = "Fenriswolf",
 				}, -- [8]
 				{
 					["type"] = 1,
-					["time"] = 1486072726,
+					["time"] = 1487623796,
 					["from"] = "Alitfaier",
-					["msg"] = "se fai così si ottimizza molto molto molto di più",
+					["msg"] = "bisogna killarlo entro 4 minuti",
 					["inbound"] = false,
 					["convo"] = "Fenriswolf",
 				}, -- [9]
 				{
 					["type"] = 1,
-					["time"] = 1486072815,
+					["time"] = 1487623852,
 					["from"] = "Fenriswolf",
-					["msg"] = "ok",
+					["msg"] = "ora come ora siamo tra i 4:30 e i 5",
 					["inbound"] = true,
 					["convo"] = "Fenriswolf",
 				}, -- [10]
 				{
 					["type"] = 1,
-					["time"] = 1486072822,
-					["from"] = "Fenriswolf",
-					["msg"] = "ha senso",
-					["inbound"] = true,
+					["time"] = 1487624092,
+					["from"] = "Alitfaier",
+					["msg"] = "non è per fare il saputello ma su wow progess non c'e nessuno che è andato oltre i 4.10",
+					["inbound"] = false,
 					["convo"] = "Fenriswolf",
 				}, -- [11]
 				{
 					["type"] = 1,
-					["time"] = 1486073306,
+					["time"] = 1487624109,
 					["from"] = "Alitfaier",
-					["msg"] = "facciamo l'inc con il mob dell'haste",
+					["msg"] = "ciò deduco che se more..",
 					["inbound"] = false,
 					["convo"] = "Fenriswolf",
 				}, -- [12]
 				{
 					["type"] = 1,
-					["time"] = 1486423513,
+					["time"] = 1487624127,
 					["from"] = "Alitfaier",
-					["msg"] = "stasera a parte i soliti pali in culo, la maggior parte degli errori erano dei 2 tank.... a qusto boss non riesci a seguire tutto.",
+					["msg"] = "altrimenti ci sarebbero kill oltre le 4 minuti e mezzo",
 					["inbound"] = false,
 					["convo"] = "Fenriswolf",
 				}, -- [13]
 				{
 					["type"] = 1,
-					["time"] = 1486423527,
-					["from"] = "Alitfaier",
-					["msg"] = "devi stare molto concentrato per non sbalgiare",
-					["inbound"] = false,
+					["time"] = 1487624131,
+					["from"] = "Fenriswolf",
+					["msg"] = "vedremo,per ora il problema sembra già arrivarci stasera",
+					["inbound"] = true,
 					["convo"] = "Fenriswolf",
 				}, -- [14]
 				{
 					["type"] = 1,
-					["time"] = 1486423534,
-					["from"] = "Fenriswolf",
-					["msg"] = "eh si",
-					["inbound"] = true,
+					["time"] = 1487624139,
+					["from"] = "Alitfaier",
+					["msg"] = "si apparrte",
+					["inbound"] = false,
 					["convo"] = "Fenriswolf",
 				}, -- [15]
 				{
 					["type"] = 1,
-					["time"] = 1486499338,
+					["time"] = 1487882115,
 					["from"] = "Alitfaier",
-					["msg"] = "cosa si fa questa sera?",
+					["msg"] = "ma questa sera non mi gruppate?",
 					["inbound"] = false,
 					["convo"] = "Fenriswolf",
 				}, -- [16]
 				{
 					["type"] = 1,
-					["time"] = 1486499348,
+					["time"] = 1487882142,
 					["from"] = "Fenriswolf",
-					["msg"] = "la stessa roba di ieri",
+					["msg"] = "son appena arrivato e non son ancora in gruppo neanche iop",
 					["inbound"] = true,
 					["convo"] = "Fenriswolf",
 				}, -- [17]
 				{
 					["type"] = 1,
-					["time"] = 1486499389,
+					["time"] = 1487882148,
 					["from"] = "Fenriswolf",
-					["msg"] = "sperando vada meglio",
+					["msg"] = "chiedi a kate",
 					["inbound"] = true,
 					["convo"] = "Fenriswolf",
 				}, -- [18]
-				{
-					["type"] = 1,
-					["time"] = 1486499407,
-					["from"] = "Alitfaier",
-					["msg"] = "era per sapere che talenti mettere",
-					["inbound"] = false,
-					["convo"] = "Fenriswolf",
-				}, -- [19]
-				{
-					["type"] = 1,
-					["time"] = 1486499428,
-					["from"] = "Alitfaier",
-					["msg"] = "ma questa sera c'è poca potenza di fuoco...",
-					["inbound"] = false,
-					["convo"] = "Fenriswolf",
-				}, -- [20]
-				{
-					["type"] = 1,
-					["time"] = 1486499490,
-					["from"] = "Fenriswolf",
-					["msg"] = "dovrebbe arrivare un altro ranged",
-					["inbound"] = true,
-					["convo"] = "Fenriswolf",
-				}, -- [21]
-				{
-					["type"] = 1,
-					["time"] = 1486499507,
-					["from"] = "Fenriswolf",
-					["msg"] = "meglio di ieri quindi",
-					["inbound"] = true,
-					["convo"] = "Fenriswolf",
-				}, -- [22]
-				{
-					["type"] = 1,
-					["time"] = 1486499510,
-					["from"] = "Alitfaier",
-					["msg"] = "sarebbe meglio che kate si mettesse a fare recruit",
-					["inbound"] = false,
-					["convo"] = "Fenriswolf",
-				}, -- [23]
-				{
-					["type"] = 1,
-					["time"] = 1486499518,
-					["from"] = "Alitfaier",
-					["msg"] = "porco zio",
-					["inbound"] = false,
-					["convo"] = "Fenriswolf",
-				}, -- [24]
-				{
-					["type"] = 1,
-					["time"] = 1486499836,
-					["from"] = "Fenriswolf",
-					["msg"] = "purtroppo recruitano tutti ranged",
-					["inbound"] = true,
-					["convo"] = "Fenriswolf",
-				}, -- [25]
-				{
-					["type"] = 1,
-					["time"] = 1486499841,
-					["from"] = "Fenriswolf",
-					["msg"] = "e non ce ne sono",
-					["inbound"] = true,
-					["convo"] = "Fenriswolf",
-				}, -- [26]
-				{
-					["type"] = 1,
-					["time"] = 1486499857,
-					["from"] = "Alitfaier",
-					["msg"] = "si daccordo, ma se non spammi... mai li troverai",
-					["inbound"] = false,
-					["convo"] = "Fenriswolf",
-				}, -- [27]
-				{
-					["type"] = 1,
-					["time"] = 1486501798,
-					["from"] = "Alitfaier",
-					["msg"] = "ma non è un problema di dps",
-					["inbound"] = false,
-					["convo"] = "Fenriswolf",
-				}, -- [28]
-				{
-					["type"] = 1,
-					["time"] = 1486501806,
-					["from"] = "Alitfaier",
-					["msg"] = "non capisco eprchè fare ste pare...",
-					["inbound"] = false,
-					["convo"] = "Fenriswolf",
-				}, -- [29]
-				{
-					["type"] = 1,
-					["time"] = 1486501973,
-					["from"] = "Alitfaier",
-					["msg"] = "secondo me, se devi togliere healer allora lo fai con 1 healer ",
-					["inbound"] = false,
-					["convo"] = "Fenriswolf",
-				}, -- [30]
-				{
-					["type"] = 1,
-					["time"] = 1486501980,
-					["from"] = "Fenriswolf",
-					["msg"] = "asd",
-					["inbound"] = true,
-					["convo"] = "Fenriswolf",
-				}, -- [31]
-				{
-					["type"] = 1,
-					["time"] = 1486501985,
-					["from"] = "Alitfaier",
-					["msg"] = "dura un solo ponte",
-					["inbound"] = false,
-					["convo"] = "Fenriswolf",
-				}, -- [32]
-				{
-					["type"] = 1,
-					["time"] = 1486503282,
-					["from"] = "Alitfaier",
-					["msg"] = "raila ha fatto 1% di dps",
-					["inbound"] = false,
-					["convo"] = "Fenriswolf",
-				}, -- [33]
-				{
-					["type"] = 1,
-					["time"] = 1486503291,
-					["from"] = "Alitfaier",
-					["msg"] = "non cambia un cazzo",
-					["inbound"] = false,
-					["convo"] = "Fenriswolf",
-				}, -- [34]
-				{
-					["type"] = 1,
-					["time"] = 1486503295,
-					["from"] = "Fenriswolf",
-					["msg"] = "shhh",
-					["inbound"] = true,
-					["convo"] = "Fenriswolf",
-				}, -- [35]
-				{
-					["type"] = 1,
-					["time"] = 1486506441,
-					["from"] = "Alitfaier",
-					["msg"] = "shamano non fa nemmeno 100k",
-					["inbound"] = false,
-					["convo"] = "Fenriswolf",
-				}, -- [36]
-				{
-					["type"] = 1,
-					["time"] = 1486506451,
-					["from"] = "Fenriswolf",
-					["msg"] = "è morto",
-					["inbound"] = true,
-					["convo"] = "Fenriswolf",
-				}, -- [37]
-				{
-					["type"] = 1,
-					["time"] = 1486506461,
-					["from"] = "Alitfaier",
-					["msg"] = "praticamente non riesce a togliere nemmeno la vita in più del suo sloth",
-					["inbound"] = false,
-					["convo"] = "Fenriswolf",
-				}, -- [38]
-				{
-					["type"] = 1,
-					["time"] = 1486506479,
-					["from"] = "Fenriswolf",
-					["msg"] = "vediamo 'sto try come va",
-					["inbound"] = true,
-					["convo"] = "Fenriswolf",
-				}, -- [39]
-				{
-					["type"] = 1,
-					["time"] = 1486506483,
-					["from"] = "Fenriswolf",
-					["msg"] = "poi vedo",
-					["inbound"] = true,
-					["convo"] = "Fenriswolf",
-				}, -- [40]
-				{
-					["type"] = 1,
-					["time"] = 1486506507,
-					["from"] = "Alitfaier",
-					["msg"] = "e ti capisco ma in progress non puoi far girare uno con una off che non gioca mai",
-					["inbound"] = false,
-					["convo"] = "Fenriswolf",
-				}, -- [41]
-				{
-					["type"] = 1,
-					["time"] = 1486510256,
-					["from"] = "Alitfaier",
-					["msg"] = "ma nella fase brutta di mezzo che è quella dove prendete più danni",
-					["inbound"] = false,
-					["convo"] = "Fenriswolf",
-				}, -- [42]
-				{
-					["type"] = 1,
-					["time"] = 1486510265,
-					["from"] = "Alitfaier",
-					["msg"] = "usate una pozza di potere?",
-					["inbound"] = false,
-					["convo"] = "Fenriswolf",
-				}, -- [43]
-				{
-					["type"] = 1,
-					["time"] = 1486510790,
-					["from"] = "Fenriswolf",
-					["msg"] = "per le pozze...c'hai ragione pure tu ma ero senza",
-					["inbound"] = true,
-					["convo"] = "Fenriswolf",
-				}, -- [44]
-				{
-					["type"] = 1,
-					["time"] = 1486510801,
-					["from"] = "Fenriswolf",
-					["msg"] = "adesso me le faccio rifare -.-",
-					["inbound"] = true,
-					["convo"] = "Fenriswolf",
-				}, -- [45]
-				{
-					["type"] = 1,
-					["time"] = 1486510812,
-					["from"] = "Alitfaier",
-					["msg"] = "e di anche alla nabba di usarle...",
-					["inbound"] = false,
-					["convo"] = "Fenriswolf",
-				}, -- [46]
-				{
-					["type"] = 1,
-					["time"] = 1486510818,
-					["from"] = "Fenriswolf",
-					["msg"] = "asd",
-					["inbound"] = true,
-					["convo"] = "Fenriswolf",
-				}, -- [47]
-				{
-					["type"] = 1,
-					["time"] = 1486510830,
-					["from"] = "Fenriswolf",
-					["msg"] = "è che da tank la usi solo al pull",
-					["inbound"] = true,
-					["convo"] = "Fenriswolf",
-				}, -- [48]
-				{
-					["type"] = 1,
-					["time"] = 1486510838,
-					["from"] = "Alitfaier",
-					["msg"] = "non si può vedere che sovrappone i cd di difesa...",
-					["inbound"] = false,
-					["convo"] = "Fenriswolf",
-				}, -- [49]
-				{
-					["type"] = 1,
-					["time"] = 1486510841,
-					["from"] = "Fenriswolf",
-					["msg"] = "che poi metti caso remoto te ne serva una delle altre",
-					["inbound"] = true,
-					["convo"] = "Fenriswolf",
-				}, -- [50]
-				{
-					["type"] = 1,
-					["time"] = 1486510885,
-					["from"] = "Alitfaier",
-					["msg"] = "notte",
-					["inbound"] = false,
-					["convo"] = "Fenriswolf",
-				}, -- [51]
 				["info"] = {
 				},
 			},
@@ -15895,420 +13860,252 @@ WIM3_History = {
 			["Luigi#2210"] = {
 				{
 					["type"] = 1,
-					["time"] = 1485979972,
+					["time"] = 1487017372,
 					["from"] = "Pingola",
-					["msg"] = "ciao",
+					["msg"] = "si ma... io non so, ora hanno tolto il biglietto singolo ridotto per disabili..",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1485979986,
+					["time"] = 1487017386,
 					["from"] = "Luigi#2210",
-					["msg"] = "we",
+					["msg"] = "lol",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1485980009,
+					["time"] = 1487017434,
 					["from"] = "Pingola",
-					["msg"] = "giornataccia...",
+					["msg"] = "in treno ora se vuoi lo sconto da disabile devi prendere o un biglietto andata e ritorno o l'abbonamento",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [3]
 				{
 					["type"] = 1,
-					["time"] = 1485980017,
+					["time"] = 1487017443,
 					["from"] = "Pingola",
-					["msg"] = "mi hanno tolto la patente",
+					["msg"] = "il biglietto singolo non fanno più losconto",
 					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [4]
 				{
 					["type"] = 1,
-					["time"] = 1485980071,
-					["from"] = "Luigi#2210",
-					["msg"] = "non benissimo",
-					["inbound"] = true,
+					["time"] = 1487601345,
+					["from"] = "Pingola",
+					["msg"] = "sei in pausa?",
+					["inbound"] = false,
 					["convo"] = "Luigi#2210",
 				}, -- [5]
 				{
 					["type"] = 1,
-					["time"] = 1485980095,
+					["time"] = 1487858231,
 					["from"] = "Luigi#2210",
-					["msg"] = "gran rottura senza",
+					["msg"] = "we ts?",
 					["inbound"] = true,
 					["convo"] = "Luigi#2210",
 				}, -- [6]
-				{
-					["type"] = 1,
-					["time"] = 1485980201,
-					["from"] = "Pingola",
-					["msg"] = "per ora è sospesa per 6 mesi... ",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [7]
-				{
-					["type"] = 1,
-					["time"] = 1485980215,
-					["from"] = "Pingola",
-					["msg"] = "e mi ha detto se migliora la situazione torna e ne riparliamo",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [8]
-				{
-					["type"] = 1,
-					["time"] = 1485980242,
-					["from"] = "Pingola",
-					["msg"] = "adesso vado da n ottico mi faccio fare un paio di occhiali per guidare",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [9]
-				{
-					["type"] = 1,
-					["time"] = 1485980276,
-					["from"] = "Luigi#2210",
-					["msg"] = "e dai gia qualcosa",
-					["inbound"] = true,
-					["convo"] = "Luigi#2210",
-				}, -- [10]
-				{
-					["type"] = 1,
-					["time"] = 1485980281,
-					["from"] = "Pingola",
-					["msg"] = "altrimenti senza patente anche per cercare lavoro a milano non è facile",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [11]
-				{
-					["type"] = 1,
-					["time"] = 1485980302,
-					["from"] = "Luigi#2210",
-					["msg"] = "e no",
-					["inbound"] = true,
-					["convo"] = "Luigi#2210",
-				}, -- [12]
-				{
-					["type"] = 1,
-					["time"] = 1485980397,
-					["from"] = "Pingola",
-					["msg"] = "ma quando crafti la flask ne esce una ?",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [13]
-				{
-					["type"] = 1,
-					["time"] = 1485980402,
-					["from"] = "Pingola",
-					["msg"] = "ogni craft?",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [14]
-				{
-					["type"] = 1,
-					["time"] = 1486130514,
-					["from"] = "Luigi#2210",
-					["msg"] = "we",
-					["inbound"] = true,
-					["convo"] = "Luigi#2210",
-				}, -- [15]
-				{
-					["type"] = 1,
-					["time"] = 1486130522,
-					["from"] = "Pingola",
-					["msg"] = "ciao",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [16]
-				{
-					["type"] = 1,
-					["time"] = 1486409977,
-					["from"] = "Pingola",
-					["msg"] = "kate l'hai tra gli amici di fb?",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [17]
-				{
-					["type"] = 1,
-					["time"] = 1486410203,
-					["from"] = "Pingola",
-					["msg"] = "allora per domani sera ho contattato katrina",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [18]
-				{
-					["type"] = 1,
-					["time"] = 1486410219,
-					["from"] = "Luigi#2210",
-					["msg"] = "E CHI è?",
-					["inbound"] = true,
-					["convo"] = "Luigi#2210",
-				}, -- [19]
-				{
-					["type"] = 1,
-					["time"] = 1486410223,
-					["from"] = "Pingola",
-					["msg"] = "gli ho detto che vieni anche tu a fare l'hc ",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [20]
-				{
-					["type"] = 1,
-					["time"] = 1486410230,
-					["from"] = "Pingola",
-					["msg"] = "partono all'1",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [21]
-				{
-					["type"] = 1,
-					["time"] = 1486410238,
-					["from"] = "Luigi#2210",
-					["msg"] = "problema",
-					["inbound"] = true,
-					["convo"] = "Luigi#2210",
-				}, -- [22]
-				{
-					["type"] = 1,
-					["time"] = 1486410238,
-					["from"] = "Pingola",
-					["msg"] = "e gli ho detto che sei tank ok?",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [23]
-				{
-					["type"] = 1,
-					["time"] = 1486410247,
-					["from"] = "Luigi#2210",
-					["msg"] = "non riesco domani",
-					["inbound"] = true,
-					["convo"] = "Luigi#2210",
-				}, -- [24]
-				{
-					["type"] = 1,
-					["time"] = 1486410259,
-					["from"] = "Luigi#2210",
-					["msg"] = "perche ho un lavoro da fare il giorno dopo",
-					["inbound"] = true,
-					["convo"] = "Luigi#2210",
-				}, -- [25]
-				{
-					["type"] = 1,
-					["time"] = 1486410268,
-					["from"] = "Luigi#2210",
-					["msg"] = "e mi devo alzare presto",
-					["inbound"] = true,
-					["convo"] = "Luigi#2210",
-				}, -- [26]
-				{
-					["type"] = 1,
-					["time"] = 1486410283,
-					["from"] = "Pingola",
-					["msg"] = "in un'ora e mezza si fa tutto ",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [27]
-				{
-					["type"] = 1,
-					["time"] = 1486410310,
-					["from"] = "Pingola",
-					["msg"] = "però non ci fanno fare gli ultimi due ancora..",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [28]
-				{
-					["type"] = 1,
-					["time"] = 1486410319,
-					["from"] = "Pingola",
-					["msg"] = "quelli li tengono in gilda",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [29]
-				{
-					["type"] = 1,
-					["time"] = 1486410334,
-					["from"] = "Pingola",
-					["msg"] = "allora prenoto per sett prossima",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [30]
-				{
-					["type"] = 1,
-					["time"] = 1486410348,
-					["from"] = "Luigi#2210",
-					["msg"] = "si non dovrei avere impegni set prox",
-					["inbound"] = true,
-					["convo"] = "Luigi#2210",
-				}, -- [31]
-				{
-					["type"] = 1,
-					["time"] = 1486410378,
-					["from"] = "Pingola",
-					["msg"] = "ok dopo appena logga gli parlo... ci provo, visto che è olandese la tipa",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [32]
-				{
-					["type"] = 1,
-					["time"] = 1486410415,
-					["from"] = "Luigi#2210",
-					["msg"] = "olandese",
-					["inbound"] = true,
-					["convo"] = "Luigi#2210",
-				}, -- [33]
-				{
-					["type"] = 1,
-					["time"] = 1486410423,
-					["from"] = "Luigi#2210",
-					["msg"] = "sai olandese?",
-					["inbound"] = true,
-					["convo"] = "Luigi#2210",
-				}, -- [34]
-				{
-					["type"] = 1,
-					["time"] = 1486410426,
-					["from"] = "Luigi#2210",
-					["msg"] = "e figa?",
-					["inbound"] = true,
-					["convo"] = "Luigi#2210",
-				}, -- [35]
-				{
-					["type"] = 1,
-					["time"] = 1486410442,
-					["from"] = "Pingola",
-					["msg"] = "no ci parlo in inglese",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [36]
-				{
-					["type"] = 1,
-					["time"] = 1486410452,
-					["from"] = "Pingola",
-					["msg"] = "con google traslatr su discord",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [37]
-				{
-					["type"] = 1,
-					["time"] = 1486410454,
-					["from"] = "Luigi#2210",
-					["msg"] = "dai pensavo in russo",
-					["inbound"] = true,
-					["convo"] = "Luigi#2210",
-				}, -- [38]
-				{
-					["type"] = 1,
-					["time"] = 1486410478,
-					["from"] = "Pingola",
-					["msg"] = "aa be fa poca differenza.... tanto userei translator ugualmente",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [39]
-				{
-					["type"] = 1,
-					["time"] = 1486410502,
-					["from"] = "Pingola",
-					["msg"] = "che sia figa, non saprei a un bel viso, ed è rossa.",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [40]
-				{
-					["type"] = 1,
-					["time"] = 1486410526,
-					["from"] = "Pingola",
-					["msg"] = "si vede solo quello nei video",
-					["inbound"] = false,
-					["convo"] = "Luigi#2210",
-				}, -- [41]
 				["info"] = {
 				},
 			},
 			["Sweetdeath#2810"] = {
 				{
 					["type"] = 1,
-					["time"] = 1485878404,
-					["from"] = "Pingola",
-					["msg"] = "ciao fruttolo",
-					["inbound"] = false,
+					["time"] = 1487017212,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "bella diego",
+					["inbound"] = true,
 					["convo"] = "Sweetdeath#2810",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1485878424,
-					["from"] = "Sweetdeath#2810",
-					["msg"] = "bella :D",
-					["inbound"] = true,
+					["time"] = 1487017218,
+					["from"] = "Pingola",
+					["msg"] = "ciao",
+					["inbound"] = false,
 					["convo"] = "Sweetdeath#2810",
 				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1485980071,
+					["time"] = 1487017218,
 					["from"] = "Sweetdeath#2810",
-					["msg"] = "bella Diego :)",
+					["msg"] = "<Deadly Boss Mods> Funnydeath e' occupato contro Normale - Gul'dan (99% (Fase 1), 8/9 player vivi)",
 					["inbound"] = true,
 					["convo"] = "Sweetdeath#2810",
 				}, -- [3]
 				{
 					["type"] = 1,
-					["time"] = 1485980080,
-					["from"] = "Pingola",
-					["msg"] = "ciao funny",
-					["inbound"] = false,
+					["time"] = 1487017241,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "<DBM> Funnydeath e' stato ucciso da Normale - Gul'dan a 99% (Fase 1)",
+					["inbound"] = true,
 					["convo"] = "Sweetdeath#2810",
 				}, -- [4]
 				{
 					["type"] = 1,
-					["time"] = 1485980112,
+					["time"] = 1487601520,
 					["from"] = "Sweetdeath#2810",
-					["msg"] = "tutto bene? :)",
+					["msg"] = "bella die",
 					["inbound"] = true,
 					["convo"] = "Sweetdeath#2810",
 				}, -- [5]
 				{
 					["type"] = 1,
-					["time"] = 1485980116,
+					["time"] = 1487601533,
 					["from"] = "Pingola",
-					["msg"] = "si is",
+					["msg"] = "ciao",
 					["inbound"] = false,
 					["convo"] = "Sweetdeath#2810",
 				}, -- [6]
 				{
 					["type"] = 1,
-					["time"] = 1486583579,
+					["time"] = 1487601738,
 					["from"] = "Pingola",
-					["msg"] = " |Hitem:7961::::::::2:70::::::|h[Lama Fantasma]|h",
+					["msg"] = "stanotte ho fatto una 15 e il tank ha leftato all'ultimo boss",
 					["inbound"] = false,
 					["convo"] = "Sweetdeath#2810",
 				}, -- [7]
 				{
 					["type"] = 1,
-					["time"] = 1486583598,
+					["time"] = 1487601747,
 					["from"] = "Pingola",
-					["msg"] = " |Hitem:25112::::::-17:521076752:2:70::::::|h[Vil Squartatore della Forza]|h",
+					["msg"] = "l'abbiamo provato 4-5 volte...",
 					["inbound"] = false,
 					["convo"] = "Sweetdeath#2810",
 				}, -- [8]
+				{
+					["type"] = 1,
+					["time"] = 1487601747,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "noooooo",
+					["inbound"] = true,
+					["convo"] = "Sweetdeath#2810",
+				}, -- [9]
+				{
+					["type"] = 1,
+					["time"] = 1487601753,
+					["from"] = "Pingola",
+					["msg"] = "ma mancava il dps per farlo",
+					["inbound"] = false,
+					["convo"] = "Sweetdeath#2810",
+				}, -- [10]
+				{
+					["type"] = 1,
+					["time"] = 1487601760,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "che pacco :/",
+					["inbound"] = true,
+					["convo"] = "Sweetdeath#2810",
+				}, -- [11]
+				{
+					["type"] = 1,
+					["time"] = 1487859436,
+					["from"] = "Sweetdeath#2810",
+					["msg"] = "bella die",
+					["inbound"] = true,
+					["convo"] = "Sweetdeath#2810",
+				}, -- [12]
 				["info"] = {
 				},
 			},
-			["Shamanorama#2836"] = {
+			["AlexM#21650"] = {
 				{
 					["type"] = 1,
-					["time"] = 1485893671,
-					["from"] = "Pingola",
-					["msg"] = "te li do io aspetta",
-					["inbound"] = false,
-					["convo"] = "Shamanorama#2836",
+					["time"] = 1488116315,
+					["from"] = "AlexM#21650",
+					["msg"] = "oggi hai da fare?",
+					["inbound"] = true,
+					["convo"] = "AlexM#21650",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1485893689,
+					["time"] = 1488116322,
 					["from"] = "Pingola",
-					["msg"] = "si si",
+					["msg"] = "no",
 					["inbound"] = false,
-					["convo"] = "Shamanorama#2836",
+					["convo"] = "AlexM#21650",
 				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1488116337,
+					["from"] = "AlexM#21650",
+					["msg"] = "dopo famo la mia +10 e vediamo se la potenziamo?",
+					["inbound"] = true,
+					["convo"] = "AlexM#21650",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1488116343,
+					["from"] = "Pingola",
+					["msg"] = "ok",
+					["inbound"] = false,
+					["convo"] = "AlexM#21650",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1488116488,
+					["from"] = "AlexM#21650",
+					["msg"] = "logghi alit e riattivoamo chiave di samoursun",
+					["inbound"] = true,
+					["convo"] = "AlexM#21650",
+				}, -- [5]
+				{
+					["type"] = 1,
+					["time"] = 1488116491,
+					["from"] = "AlexM#21650",
+					["msg"] = "?",
+					["inbound"] = true,
+					["convo"] = "AlexM#21650",
+				}, -- [6]
+				{
+					["type"] = 1,
+					["time"] = 1488116497,
+					["from"] = "AlexM#21650",
+					["msg"] = "manca 1 dps",
+					["inbound"] = true,
+					["convo"] = "AlexM#21650",
+				}, -- [7]
+				{
+					["type"] = 1,
+					["time"] = 1488116542,
+					["from"] = "AlexM#21650",
+					["msg"] = "o nn ti va?",
+					["inbound"] = true,
+					["convo"] = "AlexM#21650",
+				}, -- [8]
+				{
+					["type"] = 1,
+					["time"] = 1488116571,
+					["from"] = "Pingola",
+					["msg"] = "noooo.... io non faccio chiavi depleted",
+					["inbound"] = false,
+					["convo"] = "AlexM#21650",
+				}, -- [9]
+				{
+					["type"] = 1,
+					["time"] = 1488116580,
+					["from"] = "Pingola",
+					["msg"] = "non ha senso",
+					["inbound"] = false,
+					["convo"] = "AlexM#21650",
+				}, -- [10]
+				{
+					["type"] = 1,
+					["time"] = 1488116590,
+					["from"] = "AlexM#21650",
+					["msg"] = "ok, dopo ti chiamo x mia 10",
+					["inbound"] = true,
+					["convo"] = "AlexM#21650",
+				}, -- [11]
+				{
+					["type"] = 1,
+					["time"] = 1488116597,
+					["from"] = "Pingola",
+					["msg"] = "ok",
+					["inbound"] = false,
+					["convo"] = "AlexM#21650",
+				}, -- [12]
 				["info"] = {
 				},
 			},

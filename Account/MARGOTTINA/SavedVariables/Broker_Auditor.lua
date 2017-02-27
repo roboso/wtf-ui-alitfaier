@@ -28,16 +28,16 @@ BrokerAuditorDB = {
 		["Blaska - Nemesis"] = "Blaska - Nemesis",
 		["Alitfaier - Pozzo dell'Eternità"] = "Alitfaier - Pozzo dell'Eternità",
 		["Pingola - Hakkar"] = "Pingola - Hakkar",
-		["Olkijyh - Nemesis"] = "Olkijyh - Nemesis",
 		["Pøstepay - Crushridge"] = "Pøstepay - Crushridge",
+		["Olkijyh - Nemesis"] = "Olkijyh - Nemesis",
 		["Pàndorella - Pozzo dell'Eternità"] = "Pàndorella - Pozzo dell'Eternità",
-		["Alitfaier - Nemesis"] = "Alitfaier - Nemesis",
+		["Sul - Crushridge"] = "Sul - Crushridge",
 		["Zanzino - Nemesis"] = "Zanzino - Nemesis",
 		["Løllø - Pozzo dell'Eternità"] = "Løllø - Pozzo dell'Eternità",
-		["Sul - Crushridge"] = "Sul - Crushridge",
-		["Kjjkglmlòumt - Pozzo dell'Eternità"] = "Kjjkglmlòumt - Pozzo dell'Eternità",
-		["Trottorello - Crushridge"] = "Trottorello - Crushridge",
+		["Alitfaier - Nemesis"] = "Alitfaier - Nemesis",
 		["Bpgfhltylj - Pozzo dell'Eternità"] = "Bpgfhltylj - Pozzo dell'Eternità",
+		["Trottorello - Crushridge"] = "Trottorello - Crushridge",
+		["Kjjkglmlòumt - Pozzo dell'Eternità"] = "Kjjkglmlòumt - Pozzo dell'Eternità",
 		["Mnuhlo - Nemesis"] = "Mnuhlo - Nemesis",
 		["Paoul - Pozzo dell'Eternità"] = "Paoul - Pozzo dell'Eternità",
 		["Pingola - Nemesis"] = "Pingola - Nemesis",
@@ -94,25 +94,25 @@ BrokerAuditorDB = {
 		},
 		["Pingola - Hakkar"] = {
 		},
-		["Olkijyh - Nemesis"] = {
-		},
 		["Pøstepay - Crushridge"] = {
+		},
+		["Olkijyh - Nemesis"] = {
 		},
 		["Pàndorella - Pozzo dell'Eternità"] = {
 		},
-		["Alitfaier - Nemesis"] = {
+		["Sul - Crushridge"] = {
 		},
 		["Zanzino - Nemesis"] = {
 		},
 		["Løllø - Pozzo dell'Eternità"] = {
 		},
-		["Sul - Crushridge"] = {
+		["Alitfaier - Nemesis"] = {
 		},
-		["Kjjkglmlòumt - Pozzo dell'Eternità"] = {
+		["Bpgfhltylj - Pozzo dell'Eternità"] = {
 		},
 		["Trottorello - Crushridge"] = {
 		},
-		["Bpgfhltylj - Pozzo dell'Eternità"] = {
+		["Kjjkglmlòumt - Pozzo dell'Eternità"] = {
 		},
 		["Mnuhlo - Nemesis"] = {
 		},

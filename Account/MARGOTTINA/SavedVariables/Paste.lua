@@ -1,22 +1,17 @@
 
 PasteDB = {
 	["profileKeys"] = {
-		["Pirolo - Nemesis"] = "Pirolo - Nemesis",
-		["Pàndorella - Nemesis"] = "Pàndorella - Nemesis",
-		["Alitfaier - Pozzo dell'Eternità"] = "Alitfaier - Pozzo dell'Eternità",
-		["Pingola - Nemesis"] = "Pingola - Nemesis",
-		["Pingola - Pozzo dell'Eternità"] = "Pingola - Pozzo dell'Eternità",
-		["Alitfaier - Nemesis"] = "Alitfaier - Nemesis",
 		["Àsià - Nemesis"] = "Àsià - Nemesis",
+		["Alitfaier - Pozzo dell'Eternità"] = "Alitfaier - Pozzo dell'Eternità",
+		["Pirolo - Nemesis"] = "Pirolo - Nemesis",
+		["Alitfaier - Nemesis"] = "Alitfaier - Nemesis",
+		["Pingola - Nemesis"] = "Pingola - Nemesis",
+		["Kex - Pozzo dell'Eternità"] = "Kex - Pozzo dell'Eternità",
+		["Pingola - Pozzo dell'Eternità"] = "Pingola - Pozzo dell'Eternità",
+		["Pàndorella - Nemesis"] = "Pàndorella - Nemesis",
 	},
 	["profiles"] = {
-		["Pirolo - Nemesis"] = {
-			["loaded"] = true,
-			["minimap"] = {
-				["minimapPos"] = 335.389127027376,
-			},
-		},
-		["Pàndorella - Nemesis"] = {
+		["Àsià - Nemesis"] = {
 			["loaded"] = true,
 		},
 		["Alitfaier - Pozzo dell'Eternità"] = {
@@ -29,11 +24,11 @@ PasteDB = {
 			["pos"] = {
 			},
 		},
-		["Pingola - Nemesis"] = {
+		["Pirolo - Nemesis"] = {
 			["loaded"] = true,
-		},
-		["Pingola - Pozzo dell'Eternità"] = {
-			["loaded"] = true,
+			["minimap"] = {
+				["minimapPos"] = 335.389127027376,
+			},
 		},
 		["Alitfaier - Nemesis"] = {
 			["whispertarget"] = "",
@@ -45,7 +40,16 @@ PasteDB = {
 				["minimapPos"] = 118.865176335478,
 			},
 		},
-		["Àsià - Nemesis"] = {
+		["Pingola - Nemesis"] = {
+			["loaded"] = true,
+		},
+		["Kex - Pozzo dell'Eternità"] = {
+			["loaded"] = true,
+		},
+		["Pingola - Pozzo dell'Eternità"] = {
+			["loaded"] = true,
+		},
+		["Pàndorella - Nemesis"] = {
 			["loaded"] = true,
 		},
 	},

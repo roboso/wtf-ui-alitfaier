@@ -4,10 +4,10 @@ GottaGoFastDB = {
 		["Pirolo - Nemesis"] = "Default",
 		["Ilåria - Pozzo dell'Eternità"] = "Default",
 		["Pàndorella - Nemesis"] = "Default",
-		["Blaska - Nemesis"] = "Default",
+		["Alitfaier - Pozzo dell'Eternità"] = "Default",
 		["Pingola - Pozzo dell'Eternità"] = "Default",
 		["Kex - Pozzo dell'Eternità"] = "Default",
-		["Alitfaier - Pozzo dell'Eternità"] = "Default",
+		["Blaska - Nemesis"] = "Default",
 		["Àsià - Nemesis"] = "Default",
 	},
 	["profiles"] = {

@@ -7,6 +7,6 @@ PawnOptions = {
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
-	["LastClass"] = "MAGE",
+	["LastClass"] = "HUNTER",
 	["LastAdded"] = 1,
 }

@@ -8,7 +8,7 @@ GoldSave = {
 	["Alitfaier_Pozzo dell'Eternità::Alliance"] = {
 		["show"] = true,
 		["name"] = "Alitfaier",
-		["gold"] = 2784300938,
+		["gold"] = 2823296039,
 	},
 	["Postepay_Pozzo dell'Eternità::Horde"] = {
 		["show"] = true,
@@ -43,11 +43,11 @@ GoldSave = {
 	["Pingola_Pozzo dell'Eternità::Alliance"] = {
 		["show"] = true,
 		["name"] = "Pingola",
-		["gold"] = 10689476004,
+		["gold"] = 11086465755,
 	},
 	["Kex_Pozzo dell'Eternità::Alliance"] = {
 		["show"] = true,
 		["name"] = "Kex",
-		["gold"] = 11741469,
+		["gold"] = 13553442,
 	},
 }

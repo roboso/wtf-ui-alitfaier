@@ -2,14 +2,14 @@ Version: 1
 Frame: TitanPanelRepairButton
 FrameLevel: 2
 Anchor: TOPLEFT
-X: 456
+X: 457
 Y: -3
 W: 160
 H: 16
 Frame: TitanPanelBagButton
 FrameLevel: 2
 Anchor: TOPLEFT
-X: 344
+X: 345
 Y: -3
 W: 92
 H: 16

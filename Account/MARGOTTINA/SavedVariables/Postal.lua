@@ -52,7 +52,7 @@ Postal3DB = {
 				"Ilarià|Nemesis|Horde|2|SHAMAN", -- [9]
 				"Ilåria|Pozzo dell'Eternità|Horde|86|PALADIN", -- [10]
 				"Jlgy|Nemesis|Neutral|1|MAGE", -- [11]
-				"Kex|Pozzo dell'Eternità|Alliance|100|DEMONHUNTER", -- [12]
+				"Kex|Pozzo dell'Eternità|Alliance|101|DEMONHUNTER", -- [12]
 				"Kjjkglmlòumt|Pozzo dell'Eternità|Alliance|2|MONK", -- [13]
 				"Knyrtohjiito|Pozzo dell'Eternità|Alliance|1|HUNTER", -- [14]
 				"Lorenza|Nemesis|Alliance|55|DEATHKNIGHT", -- [15]
@@ -255,26 +255,11 @@ Postal3DB = {
 		["Alitfaier - Pozzo dell'Eternità"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Pingola|Pozzo dell'Eternità|Alliance", -- [1]
-					"Jacinda|Pozzo dell'Eternità|Alliance", -- [2]
-					"Enchàntrix|Pozzo dell'Eternità|Alliance", -- [3]
-					"Shamavision-Pozzodell'Eternità|Pozzo dell'Eternità|Alliance", -- [4]
-					"Raila|Pozzo dell'Eternità|Alliance", -- [5]
-					"Luxendarc|Pozzo dell'Eternità|Alliance", -- [6]
-					"Tanakthor|Pozzo dell'Eternità|Alliance", -- [7]
-					"Altheea-Pozzodell'Eternità|Pozzo dell'Eternità|Alliance", -- [8]
-					"Modnesio|Pozzo dell'Eternità|Alliance", -- [9]
-					"Modnesio-Pozzodell'Eternità|Pozzo dell'Eternità|Alliance", -- [10]
-					"Actarys|Pozzo dell'Eternità|Alliance", -- [11]
-					"Jokersoul|Pozzo dell'Eternità|Alliance", -- [12]
-					"Janberto|Pozzo dell'Eternità|Alliance", -- [13]
-					"Italianano-Pozzodell'Eternità|Pozzo dell'Eternità|Alliance", -- [14]
-					"Àzzurrà|Pozzo dell'Eternità|Alliance", -- [15]
-					"Marsart|Pozzo dell'Eternità|Alliance", -- [16]
-					"Ettèlèn-Pozzodell'Eternità|Pozzo dell'Eternità|Alliance", -- [17]
-					"Mattelfä-Pozzodell'Eternità|Pozzo dell'Eternità|Alliance", -- [18]
-					"Gundalini-Pozzodell'Eternità|Pozzo dell'Eternità|Alliance", -- [19]
-					"Tanakthor-Pozzodell'Eternità|Pozzo dell'Eternità|Alliance", -- [20]
+					"Jacinda|Pozzo dell'Eternità|Alliance", -- [1]
+					"Enchàntrix-Pozzodell'Eternità|Pozzo dell'Eternità|Alliance", -- [2]
+					"Pingola|Pozzo dell'Eternità|Alliance", -- [3]
+					"Nanoshooter-Pozzodell'Eternità|Pozzo dell'Eternità|Alliance", -- [4]
+					"Xèal|Pozzo dell'Eternità|Alliance", -- [5]
 				},
 			},
 		},

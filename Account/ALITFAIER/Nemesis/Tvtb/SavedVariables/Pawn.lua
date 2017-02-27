@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0111,
+	["LastVersion"] = 2.0114,
 	["LastPlayerFullName"] = "Tvtb-Nemesis",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,

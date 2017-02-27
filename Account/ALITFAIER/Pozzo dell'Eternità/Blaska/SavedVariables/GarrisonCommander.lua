@@ -23,6 +23,16 @@ dbGACperChar = {
 						["result"] = 100,
 						["success"] = true,
 					},
+					[1487944444] = {
+						["result"] = 100,
+						["success"] = true,
+					},
+				},
+				[1163] = {
+					[1487420406] = {
+						["result"] = 100,
+						["success"] = true,
+					},
 				},
 			},
 		},

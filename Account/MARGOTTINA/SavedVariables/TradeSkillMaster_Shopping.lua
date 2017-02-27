@@ -52,13 +52,13 @@ TradeSkillMaster_ShoppingDB = {
 	["g@ @savedSearches"] = {
 		{
 			["searchMode"] = "normal",
-			["lastSearch"] = 1486855997,
+			["lastSearch"] = 1487514960,
 			["name"] = "Tonico degli Eserciti Innumerevoli/exact",
 			["filter"] = "Tonico degli Eserciti Innumerevoli/exact",
 		}, -- [1]
 		{
 			["searchMode"] = "normal",
-			["lastSearch"] = 1486855971,
+			["lastSearch"] = 1487514908,
 			["name"] = "Pozione della Vecchia Guerra/exact",
 			["filter"] = "Pozione della Vecchia Guerra/exact",
 		}, -- [2]

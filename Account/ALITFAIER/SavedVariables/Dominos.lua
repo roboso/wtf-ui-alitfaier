@@ -43,7 +43,7 @@ DominosDB = {
 					["Blaska - Pozzo dell'Eternità"] = {
 						["actionSets"] = {
 							"spell|189110|spell", -- [1]
-							"spell|203782|spell", -- [2]
+							nil, -- [2]
 							"spell|228477|spell", -- [3]
 							"spell|178740|spell", -- [4]
 							"spell|183752|spell", -- [5]
@@ -66,12 +66,10 @@ DominosDB = {
 							[36] = "summonmount|547",
 							[171] = "spell|0|spell",
 							[175] = "spell|0|spell",
-							[61] = "spell|204596|spell",
-							[66] = "spell|196555|spell",
-							[176] = "spell|0|spell",
+							[178] = "spell|0|spell",
 							[160] = "spell|0|spell",
 							[164] = "spell|0|spell",
-							[69] = "spell|207684|spell",
+							[65] = "spell|207407|spell",
 							[172] = "spell|0|spell",
 							[46] = "summonmount|280",
 							[47] = "spell|131347|spell",
@@ -82,10 +80,10 @@ DominosDB = {
 							[169] = "spell|220525|spell",
 							[173] = "spell|0|spell",
 							[177] = "spell|0|spell",
-							[67] = "spell|218256|spell",
-							[65] = "spell|207407|spell",
+							[66] = "spell|196555|spell",
+							[176] = "spell|0|spell",
 							[158] = "spell|0|spell",
-							[178] = "spell|0|spell",
+							[61] = "spell|204596|spell",
 						},
 					},
 				},
@@ -100,13 +98,26 @@ DominosDB = {
 							"spell|204157|spell", -- [6]
 							"spell|187827|spell", -- [7]
 							"spell|203720|spell", -- [8]
-							[11] = "spell|188501|spell",
-							[13] = "macro|8",
-							[15] = "spell|204596|spell",
-							[10] = "spell|202719|spell",
-							[12] = "companion|200175|MOUNT",
-							[16] = "spell|204021|spell",
-							[17] = "spell|185245|spell",
+							nil, -- [9]
+							"spell|202719|spell", -- [10]
+							"spell|188501|spell", -- [11]
+							"companion|200175|MOUNT", -- [12]
+							"macro|8", -- [13]
+							nil, -- [14]
+							"spell|204596|spell", -- [15]
+							"spell|204021|spell", -- [16]
+							"spell|185245|spell", -- [17]
+							"spell|207407|spell", -- [18]
+							[176] = "spell|0|spell",
+							[169] = "spell|217377|spell",
+							[177] = "spell|0|spell",
+							[170] = "spell|0|spell",
+							[178] = "spell|0|spell",
+							[171] = "spell|0|spell",
+							[172] = "spell|0|spell",
+							[173] = "spell|0|spell",
+							[174] = "spell|0|spell",
+							[175] = "spell|0|spell",
 						},
 					},
 					["Jerri - Nemesis"] = {
@@ -187,32 +198,32 @@ DominosDB = {
 					},
 					["Tvtb - Nemesis"] = {
 						["actionSets"] = {
-							"spell|205181|spell", -- [1]
+							"spell|172|spell", -- [1]
 							"spell|980|spell", -- [2]
-							"spell|30108|spell", -- [3]
-							"spell|48018|spell", -- [4]
+							"spell|17877|spell", -- [3]
+							"spell|29722|spell", -- [4]
 							"spell|1454|spell", -- [5]
-							"spell|27243|spell", -- [6]
+							"spell|5740|spell", -- [6]
 							"spell|5782|spell", -- [7]
 							"spell|697|spell", -- [8]
-							"spell|80240|spell", -- [9]
+							"spell|1454|spell", -- [9]
 							"spell|20707|spell", -- [10]
 							"spell|6201|spell", -- [11]
-							"spell|689|spell", -- [12]
-							nil, -- [13]
+							"spell|17877|spell", -- [12]
+							"spell|234153|spell", -- [13]
 							nil, -- [14]
 							nil, -- [15]
 							"spell|126|spell", -- [16]
-							"spell|193440|spell", -- [17]
+							"spell|688|spell", -- [17]
 							"spell|5697|spell", -- [18]
 							"summonmount|83", -- [19]
 							"summonmount|449", -- [20]
 							"summonmount|762", -- [21]
-							"spell|193396|spell", -- [22]
+							nil, -- [22]
 							"spell|710|spell", -- [23]
 							"spell|1098|spell", -- [24]
-							"spell|104773|spell", -- [25]
-							"spell|104316|spell", -- [26]
+							"spell|126|spell", -- [25]
+							nil, -- [26]
 							"summonmount|630", -- [27]
 							"item|128318", -- [28]
 							"spell|1122|spell", -- [29]
@@ -222,19 +233,19 @@ DominosDB = {
 							"summonmount|522", -- [33]
 							"spell|119898|spell", -- [34]
 							"spell|18540|spell", -- [35]
-							[61] = "spell|196104|spell",
-							[176] = "spell|0|spell",
+							[63] = "spell|63106|spell",
 							[169] = "spell|191181|spell",
 							[177] = "spell|0|spell",
 							[170] = "spell|0|spell",
 							[178] = "spell|0|spell",
 							[171] = "spell|0|spell",
-							[62] = "spell|196098|spell",
+							[71] = "companion|32292|MOUNT",
+							[62] = "spell|6789|spell",
 							[173] = "spell|0|spell",
-							[72] = "summonmount|547",
 							[174] = "spell|0|spell",
-							[175] = "spell|0|spell",
 							[172] = "spell|0|spell",
+							[175] = "spell|0|spell",
+							[176] = "spell|0|spell",
 						},
 					},
 					["Tvttb - Pozzo dell'Eternità"] = {
@@ -378,6 +389,24 @@ DominosDB = {
 							[84] = "spell|58984|spell",
 						},
 					},
+					["Gigibello - Pozzo dell'Eternità"] = {
+						["actionSets"] = {
+							"spell|85948|spell", -- [1]
+							"spell|55090|spell", -- [2]
+							"spell|77575|spell", -- [3]
+							"spell|47541|spell", -- [4]
+							"spell|49998|spell", -- [5]
+							"spell|49576|spell", -- [6]
+							"spell|46584|spell", -- [7]
+							"spell|53428|spell", -- [8]
+							[11] = "spell|20589|spell",
+							[73] = "spell|6603|spell",
+							[84] = "item|117",
+							[109] = "spell|6603|spell",
+							[97] = "spell|6603|spell",
+							[85] = "spell|6603|spell",
+						},
+					},
 					["Baxino - Pozzo dell'Eternità"] = {
 						["actionSets"] = {
 							"item|6948", -- [1]
@@ -441,80 +470,67 @@ DominosDB = {
 				["Druida"] = {
 					["Àzzurrà - Pozzo dell'Eternità"] = {
 						["actionSets"] = {
-							"spell|194153|spell", -- [1]
-							"spell|190984|spell", -- [2]
+							"spell|88423|spell", -- [1]
+							"spell|102342|spell", -- [2]
 							"spell|740|spell", -- [3]
 							"spell|208253|spell", -- [4]
 							"spell|164862|spell", -- [5]
 							nil, -- [6]
 							"item|113509", -- [7]
-							"spell|22812|spell", -- [8]
+							"spell|102359|spell", -- [8]
 							"item|133557", -- [9]
 							"item|133575", -- [10]
 							"summonmount|753", -- [11]
 							"item|141605", -- [12]
-							"spell|78674|spell", -- [13]
+							"spell|33891|spell", -- [13]
 							"spell|102351|spell", -- [14]
-							"spell|191034|spell", -- [15]
-							"spell|202347|spell", -- [16]
+							"spell|197721|spell", -- [15]
+							"spell|145205|spell", -- [16]
 							nil, -- [17]
 							nil, -- [18]
-							"spell|108238|spell", -- [19]
+							"spell|106832|spell", -- [19]
 							nil, -- [20]
-							"item|109155", -- [21]
+							"spell|106839|spell", -- [21]
 							"item|109221", -- [22]
-							"item|109222", -- [23]
+							"spell|5185|spell", -- [23]
 							"item|143681", -- [24]
 							"spell|202767|spell", -- [25]
-							"spell|93402|spell", -- [26]
-							"spell|190984|spell", -- [27]
-							"spell|102359|spell", -- [28]
+							"spell|108238|spell", -- [26]
+							"spell|29166|spell", -- [27]
+							"spell|132469|spell", -- [28]
 							"spell|61336|spell", -- [29]
 							"spell|212040|spell", -- [30]
-							"spell|102359|spell", -- [31]
-							[38] = "spell|18562|spell",
-							[62] = "spell|8936|spell",
-							[39] = "item|37011",
-							[47] = "spell|164862|spell",
+							"spell|132469|spell", -- [31]
+							[162] = "spell|0|spell",
+							[166] = "spell|0|spell",
+							[170] = "spell|0|spell",
+							[174] = "spell|0|spell",
+							[178] = "spell|0|spell",
+							[34] = "item|109221",
+							[35] = "summonmount|280",
+							[36] = "item|118711",
+							[37] = "spell|48438|spell",
+							[38] = "spell|87840|spell",
+							[39] = "spell|33763|spell",
 							[40] = "spell|106839|spell",
+							[163] = "spell|0|spell",
+							[42] = "spell|22812|spell",
+							[164] = "spell|0|spell",
+							[160] = "spell|181773|spell",
+							[172] = "spell|0|spell",
+							[176] = "spell|0|spell",
+							[47] = "spell|164862|spell",
+							[48] = "summonmount|522",
 							[157] = "spell|181842|spell",
+							[161] = "spell|181775|spell",
+							[165] = "spell|0|spell",
+							[169] = "spell|202709|spell",
+							[173] = "spell|0|spell",
+							[177] = "spell|0|spell",
+							[175] = "spell|0|spell",
+							[171] = "spell|0|spell",
 							[158] = "spell|181767|spell",
 							[159] = "spell|181779|spell",
-							[160] = "spell|181773|spell",
-							[161] = "spell|181775|spell",
-							[66] = "item|139175",
-							[162] = "spell|0|spell",
-							[163] = "spell|0|spell",
-							[34] = "item|109076",
-							[42] = "spell|22812|spell",
-							[50] = "item|6948",
-							[165] = "spell|0|spell",
-							[166] = "spell|0|spell",
-							[67] = "spell|1850|spell",
-							[71] = "item|116268",
-							[35] = "item|109222",
-							[43] = "summonmount|449",
-							[101] = "item|124638",
-							[169] = "spell|202477|spell",
-							[172] = "spell|0|spell",
-							[170] = "spell|0|spell",
-							[102] = "spell|48438|spell",
-							[171] = "spell|0|spell",
-							[36] = "item|118711",
-							[44] = "spell|1850|spell",
-							[61] = "spell|774|spell",
-							[173] = "spell|0|spell",
-							[72] = "item|120257",
-							[174] = "spell|0|spell",
-							[104] = "item|6948",
-							[175] = "spell|0|spell",
-							[37] = "spell|48438|spell",
-							[176] = "spell|0|spell",
-							[105] = "item|110560",
-							[177] = "spell|0|spell",
-							[45] = "spell|774|spell",
-							[178] = "spell|0|spell",
-							[164] = "spell|0|spell",
 						},
 					},
 					["Ketie - Pozzo dell'Eternità"] = {
@@ -559,43 +575,43 @@ DominosDB = {
 					},
 					["Enchàntrix - Pozzo dell'Eternità"] = {
 						["actionSets"] = {
-							"spell|133|spell", -- [1]
+							"spell|116|spell", -- [1]
 							"spell|108853|spell", -- [2]
 							"spell|5143|spell", -- [3]
-							"spell|2948|spell", -- [4]
+							"spell|1449|spell", -- [4]
 							"spell|190356|spell", -- [5]
-							"spell|2120|spell", -- [6]
+							"spell|120|spell", -- [6]
 							"spell|44614|spell", -- [7]
 							"spell|157980|spell", -- [8]
-							"spell|113724|spell", -- [9]
-							"spell|31661|spell", -- [10]
-							"spell|190319|spell", -- [11]
-							"spell|205022|spell", -- [12]
+							"spell|80353|spell", -- [9]
+							"spell|12051|spell", -- [10]
+							"spell|12042|spell", -- [11]
+							"spell|31687|spell", -- [12]
 							"flyout|8", -- [13]
-							"spell|198929|spell", -- [14]
+							"spell|12472|spell", -- [14]
 							"spell|55342|spell", -- [15]
 							"spell|45438|spell", -- [16]
 							"spell|2139|spell", -- [17]
 							"spell|235450|spell", -- [18]
 							"spell|130|spell", -- [19]
 							"spell|224968|spell", -- [20]
-							"spell|153626|spell", -- [21]
-							"spell|116011|spell", -- [22]
+							"spell|110959|spell", -- [21]
+							"spell|55342|spell", -- [22]
 							"spell|30449|spell", -- [23]
 							"spell|130|spell", -- [24]
 							"spell|31252|spell", -- [25]
 							"spell|131474|spell", -- [26]
 							"spell|114923|spell", -- [27]
-							"spell|44457|spell", -- [28]
-							"item|80610", -- [29]
-							"summonmount|509", -- [30]
+							"companion|103195|MOUNT", -- [28]
+							"item|113509", -- [29]
+							"companion|138426|MOUNT", -- [30]
 							"companion|134359|MOUNT", -- [31]
 							"summonmount|319", -- [32]
 							"companion|6648|MOUNT", -- [33]
 							"companion|142073|MOUNT", -- [34]
 							"spell|212653|spell", -- [35]
 							"spell|130|spell", -- [36]
-							"item|37011", -- [37]
+							"spell|199786|spell", -- [37]
 							"spell|235219|spell", -- [38]
 							"spell|212801|spell", -- [39]
 							"item|6948", -- [40]
@@ -603,33 +619,25 @@ DominosDB = {
 							"spell|205021|spell", -- [42]
 							"summonmount|449", -- [43]
 							"companion|23222|MOUNT", -- [44]
-							"item|6948", -- [45]
+							"spell|205025|spell", -- [45]
 							"spell|110959|spell", -- [46]
 							"summonmount|449", -- [47]
 							"spell|80353|spell", -- [48]
-							[162] = "spell|0|spell",
-							[166] = "spell|0|spell",
-							[170] = "spell|0|spell",
-							[174] = "spell|0|spell",
-							[62] = "spell|55342|spell",
-							[63] = "spell|205032|spell",
-							[159] = "spell|0|spell",
-							[163] = "spell|0|spell",
-							[171] = "spell|0|spell",
-							[175] = "spell|0|spell",
-							[160] = "spell|0|spell",
-							[164] = "spell|0|spell",
-							[172] = "spell|0|spell",
-							[176] = "spell|0|spell",
-							[157] = "spell|230263|spell",
-							[161] = "spell|230405|spell",
-							[165] = "spell|0|spell",
-							[169] = "spell|202477|spell",
-							[173] = "spell|0|spell",
-							[177] = "spell|0|spell",
-							[178] = "spell|0|spell",
-							[158] = "spell|0|spell",
 							[61] = "spell|44457|spell",
+							[63] = "spell|199786|spell",
+							[162] = "spell|188362|spell",
+							[157] = "spell|187892|spell",
+							[163] = "spell|0|spell",
+							[165] = "spell|0|spell",
+							[164] = "spell|0|spell",
+							[62] = "spell|214634|spell",
+							[64] = "spell|55342|spell",
+							[158] = "spell|0|spell",
+							[166] = "spell|0|spell",
+							[159] = "spell|0|spell",
+							[65] = "spell|205021|spell",
+							[160] = "spell|0|spell",
+							[161] = "spell|0|spell",
 						},
 					},
 				},
@@ -682,28 +690,35 @@ DominosDB = {
 					["Àiralì - Nemesis"] = {
 						["actionSets"] = {
 							"spell|115313|spell", -- [1]
-							"spell|121253|spell", -- [2]
+							"spell|123986|spell", -- [2]
 							"spell|116841|spell", -- [3]
-							"spell|119582|spell", -- [4]
-							"spell|115308|spell", -- [5]
-							[83] = "spell|101546|spell",
-							[87] = "spell|101643|spell",
+							"spell|122278|spell", -- [4]
+							"spell|198664|spell", -- [5]
+							nil, -- [6]
+							nil, -- [7]
+							"spell|115008|spell", -- [8]
+							[87] = "spell|107428|spell",
 							[61] = "spell|116847|spell",
-							[62] = "item|37011",
+							[62] = "spell|214326|spell",
 							[63] = "spell|191837|spell",
+							[35] = "spell|115315|spell",
+							[36] = "spell|115008|spell",
 							[37] = "spell|58984|spell",
 							[38] = "spell|115203|spell",
 							[78] = "spell|116680|spell",
 							[82] = "spell|107428|spell",
 							[43] = "spell|122278|spell",
+							[88] = "spell|126892|spell",
 							[48] = "summonmount|547",
-							[50] = "spell|115178|spell",
+							[25] = "spell|115176|spell",
+							[50] = "spell|126895|spell",
+							[51] = "spell|126892|spell",
 							[84] = "summonmount|551",
-							[40] = "spell|198898|spell",
-							[77] = "spell|119996|spell",
-							[79] = "spell|100784|spell",
+							[40] = "spell|115315|spell",
+							[77] = "spell|116670|spell",
+							[79] = "spell|205523|spell",
 							[74] = "spell|115072|spell",
-							[105] = "spell|116680|spell",
+							[11] = "spell|115176|spell",
 						},
 					},
 					["Nicoleà - Pozzo dell'Eternità"] = {
@@ -716,13 +731,16 @@ DominosDB = {
 					},
 				},
 				["Strega"] = {
-					["Blasca - Pozzo dell'Eternità"] = {
+					["Signorina - Pozzo dell'Eternità"] = {
 						["actionSets"] = {
-							"spell|689|spell", -- [1]
-							"spell|172|spell", -- [2]
-							[11] = "flyout|10",
-							[10] = "spell|20577|spell",
-							[9] = "spell|7744|spell",
+							"spell|8936|spell", -- [1]
+							[71] = "companion|32292|MOUNT",
+							[73] = "spell|1822|spell",
+							[75] = "spell|22568|spell",
+							[77] = "spell|1850|spell",
+							[74] = "spell|5221|spell",
+							[76] = "spell|1079|spell",
+							[84] = "spell|5215|spell",
 						},
 					},
 					["Bellissim - Pozzo dell'Eternità"] = {
@@ -730,6 +748,15 @@ DominosDB = {
 							"spell|689|spell", -- [1]
 							[11] = "flyout|10",
 							[10] = "spell|20594|spell",
+						},
+					},
+					["Blasca - Pozzo dell'Eternità"] = {
+						["actionSets"] = {
+							"spell|689|spell", -- [1]
+							"spell|172|spell", -- [2]
+							[11] = "flyout|10",
+							[10] = "spell|20577|spell",
+							[9] = "spell|7744|spell",
 						},
 					},
 				},
@@ -813,11 +840,12 @@ DominosDB = {
 		["Àzzu - Pozzo dell'Eternità"] = "Sciamana",
 		["Bellissim - Pozzo dell'Eternità"] = "Strega",
 		["Margot - Pozzo dell'Eternità"] = "Monaca",
-		["Kadgharessa - Pozzo dell'Eternità"] = "Maga",
 		["Nicoleà - Pozzo dell'Eternità"] = "Monaca",
+		["Kadgharessa - Pozzo dell'Eternità"] = "Maga",
 		["Thun - Nemesis"] = "Sacerdotessa",
-		["Àzzurrà - Pozzo dell'Eternità"] = "Druida",
 		["Muccàè - Pozzo dell'Eternità"] = "Druida",
+		["Àzzurrà - Pozzo dell'Eternità"] = "Druida",
+		["Gigibello - Pozzo dell'Eternità"] = "Cavaliere della Morte",
 		["Maffin - Pozzo dell'Eternità"] = "Cacciatore",
 		["Lupaà - Pozzo dell'Eternità"] = "Cavaliere della Morte",
 		["Baxino - Pozzo dell'Eternità"] = "Cavaliere della Morte",
@@ -1581,8 +1609,8 @@ DominosDB = {
 					["showInPetBattleUI"] = false,
 				},
 				["cast"] = {
-					["y"] = 30,
-					["x"] = 0,
+					["showInPetBattleUI"] = false,
+					["font"] = "Friz Quadrata TT",
 					["point"] = "CENTER",
 					["display"] = {
 						["time"] = true,
@@ -1590,8 +1618,8 @@ DominosDB = {
 						["icon"] = false,
 					},
 					["showInOverrideUI"] = false,
-					["font"] = "Friz Quadrata TT",
-					["showInPetBattleUI"] = false,
+					["y"] = 30,
+					["x"] = 0,
 				},
 				["roll"] = {
 					["showInPetBattleUI"] = true,
@@ -1615,9 +1643,9 @@ DominosDB = {
 					["showInPetBattleUI"] = false,
 				},
 				["encounter"] = {
-					["y"] = -139,
-					["showInOverrideUI"] = true,
 					["showInPetBattleUI"] = true,
+					["showInOverrideUI"] = true,
+					["y"] = -139,
 				},
 				["alerts"] = {
 					["showInPetBattleUI"] = true,
@@ -1790,25 +1818,25 @@ DominosDB = {
 				}, -- [10]
 				["artifact"] = {
 					["showInPetBattleUI"] = false,
-					["point"] = "TOP",
 					["columns"] = 20,
-					["numButtons"] = 20,
-					["y"] = -208,
-					["lockMode"] = true,
-					["padH"] = 2,
-					["font"] = "Friz Quadrata TT",
+					["point"] = "TOP",
+					["alwaysShowText"] = true,
 					["padW"] = 2,
-					["x"] = 43,
-					["showInOverrideUI"] = false,
-					["spacing"] = 1,
+					["lockMode"] = true,
 					["display"] = {
 						["value"] = true,
 						["bonus"] = true,
 						["max"] = true,
 						["label"] = true,
 					},
+					["x"] = 43,
+					["y"] = -208,
+					["font"] = "Friz Quadrata TT",
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["padH"] = 2,
 					["mode"] = "artifact",
-					["alwaysShowText"] = true,
+					["numButtons"] = 20,
 					["texture"] = "blizzard",
 				},
 				["exp"] = {
@@ -1894,10 +1922,10 @@ DominosDB = {
 					["showInPetBattleUI"] = false,
 				},
 				["encounter"] = {
-					["showInPetBattleUI"] = true,
-					["showInOverrideUI"] = true,
 					["y"] = -108,
+					["showInOverrideUI"] = true,
 					["anchor"] = "10TC",
+					["showInPetBattleUI"] = true,
 				},
 				["alerts"] = {
 					["showInPetBattleUI"] = true,
@@ -2069,23 +2097,23 @@ DominosDB = {
 					["showInPetBattleUI"] = false,
 					["padH"] = 2,
 					["columns"] = 20,
-					["numButtons"] = 20,
+					["alwaysShowText"] = true,
 					["padW"] = 2,
 					["lockMode"] = true,
-					["anchor"] = "expTL",
-					["font"] = "Friz Quadrata TT",
-					["y"] = 291,
-					["x"] = 26,
-					["showInOverrideUI"] = false,
-					["spacing"] = 1,
 					["display"] = {
 						["value"] = true,
 						["bonus"] = true,
 						["max"] = true,
 						["label"] = true,
 					},
+					["x"] = 26,
+					["y"] = 291,
+					["font"] = "Friz Quadrata TT",
+					["showInOverrideUI"] = false,
+					["spacing"] = 1,
+					["anchor"] = "expTL",
 					["mode"] = "artifact",
-					["alwaysShowText"] = true,
+					["numButtons"] = 20,
 					["texture"] = "blizzard",
 				},
 				["exp"] = {
@@ -2096,9 +2124,9 @@ DominosDB = {
 					["lockMode"] = true,
 					["font"] = "Friz Quadrata TT",
 					["padH"] = 2,
-					["padW"] = 2,
-					["x"] = 26,
 					["y"] = 275,
+					["x"] = 26,
+					["padW"] = 2,
 					["spacing"] = 1,
 					["display"] = {
 						["value"] = true,
@@ -3254,8 +3282,8 @@ DominosDB = {
 						["border"] = true,
 					},
 					["showInOverrideUI"] = false,
-					["showInPetBattleUI"] = false,
 					["font"] = "Friz Quadrata TT",
+					["showInPetBattleUI"] = false,
 				},
 				["roll"] = {
 					["showInPetBattleUI"] = true,
@@ -3610,6 +3638,13 @@ DominosDB = {
 							["page3"] = 2,
 							["page6"] = 5,
 						},
+						["HUNTER"] = {
+							["page2"] = 1,
+							["page5"] = 4,
+							["page4"] = 3,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
 					},
 					["numButtons"] = 12,
 				}, -- [1]
@@ -3625,6 +3660,8 @@ DominosDB = {
 					["pages"] = {
 						["MAGE"] = {
 						},
+						["HUNTER"] = {
+						},
 					},
 				}, -- [2]
 				{
@@ -3638,6 +3675,8 @@ DominosDB = {
 					["numButtons"] = 12,
 					["pages"] = {
 						["MAGE"] = {
+						},
+						["HUNTER"] = {
 						},
 					},
 				}, -- [3]
@@ -3653,6 +3692,8 @@ DominosDB = {
 					["pages"] = {
 						["MAGE"] = {
 						},
+						["HUNTER"] = {
+						},
 					},
 				}, -- [4]
 				{
@@ -3666,6 +3707,8 @@ DominosDB = {
 					["anchor"] = "4TR",
 					["pages"] = {
 						["MAGE"] = {
+						},
+						["HUNTER"] = {
 						},
 					},
 					["numButtons"] = 12,
@@ -3683,6 +3726,8 @@ DominosDB = {
 					["pages"] = {
 						["MAGE"] = {
 						},
+						["HUNTER"] = {
+						},
 					},
 					["numButtons"] = 12,
 					["y"] = 200,
@@ -3698,6 +3743,8 @@ DominosDB = {
 					["anchor"] = "6TR",
 					["pages"] = {
 						["MAGE"] = {
+						},
+						["HUNTER"] = {
 						},
 					},
 					["numButtons"] = 12,
@@ -3716,6 +3763,8 @@ DominosDB = {
 					["pages"] = {
 						["MAGE"] = {
 						},
+						["HUNTER"] = {
+						},
 					},
 				}, -- [8]
 				{
@@ -3729,6 +3778,8 @@ DominosDB = {
 					["numButtons"] = 12,
 					["pages"] = {
 						["MAGE"] = {
+						},
+						["HUNTER"] = {
 						},
 					},
 					["y"] = -258,
@@ -3745,6 +3796,8 @@ DominosDB = {
 					["numButtons"] = 12,
 					["pages"] = {
 						["MAGE"] = {
+						},
+						["HUNTER"] = {
 						},
 					},
 				}, -- [10]
@@ -3777,7 +3830,7 @@ DominosDB = {
 					["lockMode"] = false,
 					["padW"] = 2,
 					["spacing"] = 1,
-					["mode"] = "xp",
+					["mode"] = "reputation",
 					["numButtons"] = 20,
 					["texture"] = "blizzard",
 					["showInPetBattleUI"] = false,
@@ -4347,8 +4400,8 @@ DominosDB = {
 					["showInPetBattleUI"] = false,
 				},
 				["cast"] = {
-					["showInPetBattleUI"] = false,
-					["font"] = "Friz Quadrata TT",
+					["y"] = 30,
+					["x"] = 0,
 					["point"] = "CENTER",
 					["display"] = {
 						["icon"] = false,
@@ -4356,8 +4409,8 @@ DominosDB = {
 						["border"] = true,
 					},
 					["showInOverrideUI"] = false,
-					["x"] = 0,
-					["y"] = 30,
+					["font"] = "Friz Quadrata TT",
+					["showInPetBattleUI"] = false,
 				},
 				["roll"] = {
 					["showInPetBattleUI"] = true,
@@ -4413,6 +4466,17 @@ DominosDB = {
 							["page3"] = 2,
 							["page6"] = 5,
 						},
+						["DRUID"] = {
+							["bear"] = 8,
+							["tree"] = 7,
+							["page2"] = 1,
+							["cat"] = 6,
+							["page5"] = 4,
+							["page4"] = 3,
+							["moonkin"] = 9,
+							["page3"] = 2,
+							["page6"] = 5,
+						},
 					},
 					["numButtons"] = 12,
 				}, -- [1]
@@ -4427,6 +4491,8 @@ DominosDB = {
 					["y"] = 40,
 					["pages"] = {
 						["WARLOCK"] = {
+						},
+						["DRUID"] = {
 						},
 					},
 					["numButtons"] = 12,
@@ -4443,6 +4509,8 @@ DominosDB = {
 					["pages"] = {
 						["WARLOCK"] = {
 						},
+						["DRUID"] = {
+						},
 					},
 					["numButtons"] = 12,
 				}, -- [3]
@@ -4457,6 +4525,8 @@ DominosDB = {
 					["y"] = 120,
 					["pages"] = {
 						["WARLOCK"] = {
+						},
+						["DRUID"] = {
 						},
 					},
 					["numButtons"] = 12,
@@ -4473,6 +4543,8 @@ DominosDB = {
 					["pages"] = {
 						["WARLOCK"] = {
 						},
+						["DRUID"] = {
+						},
 					},
 					["numButtons"] = 12,
 				}, -- [5]
@@ -4487,6 +4559,8 @@ DominosDB = {
 					["y"] = 200,
 					["pages"] = {
 						["WARLOCK"] = {
+						},
+						["DRUID"] = {
 						},
 					},
 					["numButtons"] = 12,
@@ -4503,6 +4577,8 @@ DominosDB = {
 					["pages"] = {
 						["WARLOCK"] = {
 						},
+						["DRUID"] = {
+						},
 					},
 					["numButtons"] = 12,
 				}, -- [7]
@@ -4517,6 +4593,8 @@ DominosDB = {
 					["y"] = 280,
 					["pages"] = {
 						["WARLOCK"] = {
+						},
+						["DRUID"] = {
 						},
 					},
 					["numButtons"] = 12,
@@ -4533,6 +4611,8 @@ DominosDB = {
 					["pages"] = {
 						["WARLOCK"] = {
 						},
+						["DRUID"] = {
+						},
 					},
 					["numButtons"] = 12,
 				}, -- [9]
@@ -4547,6 +4627,8 @@ DominosDB = {
 					["y"] = 360,
 					["pages"] = {
 						["WARLOCK"] = {
+						},
+						["DRUID"] = {
 						},
 					},
 					["numButtons"] = 12,
@@ -4621,8 +4703,8 @@ DominosDB = {
 					["showInPetBattleUI"] = false,
 				},
 				["cast"] = {
-					["y"] = 30,
-					["x"] = 0,
+					["showInPetBattleUI"] = false,
+					["font"] = "Friz Quadrata TT",
 					["point"] = "CENTER",
 					["display"] = {
 						["icon"] = false,
@@ -4630,10 +4712,23 @@ DominosDB = {
 						["border"] = true,
 					},
 					["showInOverrideUI"] = false,
-					["showInPetBattleUI"] = false,
-					["font"] = "Friz Quadrata TT",
+					["y"] = 30,
+					["x"] = 0,
 				},
 				["roll"] = {
+					["showInPetBattleUI"] = true,
+					["point"] = "LEFT",
+					["spacing"] = 2,
+					["showInOverrideUI"] = true,
+					["columns"] = 1,
+				},
+				["class"] = {
+					["showInPetBattleUI"] = false,
+					["showInOverrideUI"] = false,
+					["point"] = "CENTER",
+					["spacing"] = 2,
+				},
+				["alerts"] = {
 					["showInPetBattleUI"] = true,
 					["point"] = "LEFT",
 					["spacing"] = 2,
@@ -5088,20 +5183,20 @@ DominosDB = {
 				}, -- [10]
 				["artifact"] = {
 					["showInPetBattleUI"] = false,
-					["columns"] = 20,
 					["point"] = "TOP",
+					["columns"] = 20,
 					["alwaysShowText"] = true,
-					["showInOverrideUI"] = false,
 					["lockMode"] = true,
+					["showInOverrideUI"] = false,
 					["display"] = {
 						["value"] = true,
 						["bonus"] = true,
 						["max"] = true,
 						["label"] = true,
 					},
-					["y"] = -263,
-					["font"] = "Friz Quadrata TT",
 					["padW"] = 2,
+					["font"] = "Friz Quadrata TT",
+					["y"] = -263,
 					["spacing"] = 1,
 					["padH"] = 2,
 					["mode"] = "artifact",
@@ -5112,23 +5207,23 @@ DominosDB = {
 					["showInPetBattleUI"] = false,
 					["lockMode"] = true,
 					["point"] = "TOP",
-					["numButtons"] = 20,
-					["anchor"] = "artifactBL",
-					["showInOverrideUI"] = false,
+					["alwaysShowText"] = true,
 					["display"] = {
 						["value"] = true,
 						["bonus"] = true,
 						["max"] = true,
 						["label"] = true,
 					},
+					["showInOverrideUI"] = false,
+					["padH"] = 2,
 					["y"] = -279,
 					["padW"] = 2,
 					["font"] = "Friz Quadrata TT",
 					["columns"] = 20,
 					["spacing"] = 1,
-					["padH"] = 2,
-					["mode"] = "xp",
-					["alwaysShowText"] = true,
+					["anchor"] = "artifactBL",
+					["mode"] = "reputation",
+					["numButtons"] = 20,
 					["texture"] = "blizzard",
 				},
 				["encounter"] = {

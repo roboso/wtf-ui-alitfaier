@@ -51,17 +51,17 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 			["realm"] = "Nemesis",
 		}, -- [2]
 		{
-			["orderResources"] = 27128,
-			["weeklyResetTime"] = 1487141999,
+			["orderResources"] = 42350,
+			["weeklyResetTime"] = 1488351599,
 			["missions"] = {
 				{
-					["description"] = "Le Rovine di Falanaar sono un luogo pericoloso, specialmente per chi ha paura degli aracnidi. Riduci il loro numero.",
+					["description"] = "I demoni di Faronaar hanno esteso la loro influenza nelle profondità di Azsuna, corrompendo ogni cosa. Trova ed elimina ogni traccia della Legione.",
 					["cost"] = 250,
 					["isZoneSupport"] = false,
-					["locPrefix"] = "GarrMissionLocation-Suramar",
+					["locPrefix"] = "GarrMissionLocation-Azsuna",
 					["followers"] = {
-						"Ragnvald Dragenìa", -- [1]
-						"Hodir", -- [2]
+						"Re Ymiron", -- [1]
+						"Signora dello Scudo Valkyra", -- [2]
 						"Signora dello Scudo Valkyra", -- [3]
 					},
 					["inProgress"] = true,
@@ -74,84 +74,22 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 						}, -- [1]
 					},
 					["hasBonusEffect"] = true,
-					["missionEndTime"] = 1486887075,
+					["missionEndTime"] = 1488141865,
 					["isMaxLevel"] = true,
-					["name"] = "Troppe zampe",
+					["name"] = "Influenza demoniaca",
 					["canStart"] = false,
 					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["successChance"] = 200,
+					["successChance"] = 100,
 					["followerTypeID"] = 4,
 					["offeredGarrMissionTextureID"] = 0,
-					["durationSeconds"] = 34560,
+					["durationSeconds"] = 17280,
 					["rewardsList"] = {
 						"|cffffffffRicompensa in oro|r", -- [1]
 					},
 					["rewards"] = {
 						{
 							["title"] = "Ricompensa in oro",
-							["quantity"] = 3041000,
-							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-							["currencyID"] = 0,
-						}, -- [1]
-					},
-					["isBuilding"] = false,
-					["offerTimeRemaining"] = "0 s",
-					["iLevel"] = 835,
-					["timeLeft"] = "0 s",
-					["costCurrencyTypesID"] = 1220,
-					["mapPosY"] = 0.497737884521484,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["duration"] = "9 |4ora:ore; 36 min",
-					["timeLeftSeconds"] = 0,
-					["completed"] = false,
-					["basecost"] = 250,
-					["missionID"] = 1561,
-					["numFollowers"] = 3,
-					["requiredSuccessChance"] = 0,
-					["level"] = 110,
-					["areaID"] = 7637,
-					["isComplete"] = true,
-					["location"] = "Suramar",
-					["isRare"] = false,
-					["mapPosX"] = 0.550527691841126,
-					["requiredChampionCount"] = 1,
-				}, -- [1]
-				{
-					["description"] = "Non sono solo i sentieri di Alto Monte a preoccupare. Alcune delle più grandi minacce attendono di colpire le loro vittime ignare.",
-					["cost"] = 500,
-					["isZoneSupport"] = false,
-					["locPrefix"] = "GarrMissionLocation-Highmountain",
-					["followers"] = {
-						"Re Ymiron", -- [1]
-						"Hymdall", -- [2]
-						"Aspiranti Valarjar", -- [3]
-					},
-					["inProgress"] = true,
-					["overmaxRewards"] = {
-						{
-							["title"] = "Ricompensa in oro",
-							["quantity"] = 15000000,
-							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
-							["currencyID"] = 0,
-						}, -- [1]
-					},
-					["hasBonusEffect"] = true,
-					["missionEndTime"] = 1486885350,
-					["isMaxLevel"] = true,
-					["name"] = "Non abbassare la guardia",
-					["canStart"] = false,
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["successChance"] = 110,
-					["followerTypeID"] = 4,
-					["offeredGarrMissionTextureID"] = 0,
-					["durationSeconds"] = 32832,
-					["rewardsList"] = {
-						"|cffffffffRicompensa in oro|r", -- [1]
-					},
-					["rewards"] = {
-						{
-							["title"] = "Ricompensa in oro",
-							["quantity"] = 6450800,
+							["quantity"] = 6239800,
 							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
 							["currencyID"] = 0,
 						}, -- [1]
@@ -161,21 +99,81 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 					["iLevel"] = 850,
 					["timeLeft"] = "0 s",
 					["costCurrencyTypesID"] = 1220,
-					["mapPosY"] = 0.282805263996124,
+					["mapPosY"] = 0.518099069595337,
 					["type"] = "7.0 Class Hall - Generic Missions",
-					["duration"] = "9 |4ora:ore; 7 min",
+					["duration"] = "4 |4ora:ore; 48 min",
 					["timeLeftSeconds"] = 0,
 					["completed"] = false,
 					["basecost"] = 250,
-					["missionID"] = 1568,
+					["missionID"] = 1566,
+					["numFollowers"] = 3,
+					["requiredSuccessChance"] = 0,
+					["level"] = 110,
+					["areaID"] = 7334,
+					["isComplete"] = true,
+					["location"] = "Azsuna",
+					["isRare"] = false,
+					["mapPosX"] = 0.390648663043976,
+					["requiredChampionCount"] = 1,
+				}, -- [1]
+				{
+					["description"] = "I Tauren di Alto Monte hanno richiesto il nostro aiuto per proteggere i loro confini dai Totem Vile. In cambio, i loro ritualisti ci fornirebbero delle potenti pozioni.",
+					["cost"] = 250,
+					["isZoneSupport"] = false,
+					["locPrefix"] = "GarrMissionLocation-Highmountain",
+					["followers"] = {
+						"Ragnvald Dragenìa", -- [1]
+						"Hymdall", -- [2]
+						"Signora dello Scudo Valkyra", -- [3]
+					},
+					["inProgress"] = true,
+					["overmaxRewards"] = {
+						{
+							["title"] = "Ricompensa in oro",
+							["quantity"] = 1433200,
+							["icon"] = "Interface\\Icons\\inv_misc_coin_01",
+							["currencyID"] = 0,
+						}, -- [1]
+					},
+					["hasBonusEffect"] = true,
+					["missionEndTime"] = 1488157421,
+					["isMaxLevel"] = true,
+					["name"] = "Il vigore della montagna",
+					["canStart"] = false,
+					["typeAtlas"] = "ClassHall-BonusIcon-Desaturated",
+					["successChance"] = 200,
+					["followerTypeID"] = 4,
+					["offeredGarrMissionTextureID"] = 0,
+					["durationSeconds"] = 32832,
+					["rewardsList"] = {
+						"|T1118739:20:20:-2:0|t|cff0070ddRuna del Potenziamento Profanato|r", -- [1]
+					},
+					["rewards"] = {
+						{
+							["itemID"] = 140587,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["isBuilding"] = false,
+					["offerTimeRemaining"] = "0 s",
+					["iLevel"] = 760,
+					["timeLeft"] = "1 |4ora:ore; 34 min",
+					["costCurrencyTypesID"] = 1220,
+					["mapPosY"] = 0.244343802332878,
+					["type"] = "7.0 Class Hall - Special Reward Missions",
+					["duration"] = "9 |4ora:ore; 7 min",
+					["timeLeftSeconds"] = 5663,
+					["completed"] = false,
+					["basecost"] = 250,
+					["missionID"] = 1384,
 					["numFollowers"] = 3,
 					["requiredSuccessChance"] = 0,
 					["level"] = 110,
 					["areaID"] = 7503,
-					["isComplete"] = true,
+					["isComplete"] = false,
 					["location"] = "Alto Monte",
 					["isRare"] = false,
-					["mapPosX"] = 0.444947391748428,
+					["mapPosX"] = 0.478129535913467,
 					["requiredChampionCount"] = 1,
 				}, -- [2]
 			},
@@ -192,7 +190,7 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 					["limit"] = 3,
 					["description"] = "Le più forti Signore dello Scudo vengono scelte dalle Valkyra per servire Eyir, una guardiana dei Titani. Qualora morisse valorosamente, una Signora dello Scudo Valkyra potrebbe essere scelta per diventare una delle leggendarie Val'kyr.",
 					["name"] = "Signora dello Scudo Valkyra",
-					["count"] = 1,
+					["count"] = 3,
 					["icon"] = 1401874,
 					["classSpec"] = 100,
 				}, -- [2]
@@ -200,20 +198,16 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 			["class"] = "WARRIOR",
 			["orders"] = {
 				{
-					["troopCount"] = 1,
-					["total"] = 2,
-					["name"] = "Signora dello Scudo Valkyra",
-					["ready"] = 2,
-					["capacity"] = 3,
-					["duration"] = 0,
-					["nextSeconds"] = -1486894456,
-					["texture"] = 1401874,
-				}, -- [1]
-				{
 					["capacity"] = 4,
 					["troopCount"] = 4,
 					["name"] = "Aspiranti Valarjar",
 					["texture"] = 1401869,
+				}, -- [1]
+				{
+					["capacity"] = 3,
+					["troopCount"] = 3,
+					["name"] = "Signora dello Scudo Valkyra",
+					["texture"] = 1401874,
 				}, -- [2]
 				{
 					["capacity"] = 2,
@@ -226,10 +220,10 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 					["texture"] = 134939,
 				}, -- [4]
 			},
-			["updateTime"] = 1486894456,
+			["updateTime"] = 1488151758,
 			["name"] = "Alitfaier-Pozzo dell'Eternità",
 			["seals"] = {
-				["sealOfBrokenFate"] = 2,
+				["sealOfBrokenFate"] = 3,
 			},
 			["advancement"] = {
 				["numTalents"] = 6,
@@ -242,10 +236,32 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 				[134939] = true,
 				["missions"] = true,
 			},
-			["sealOfBrokenFate"] = 6,
+			["sealOfBrokenFate"] = 4,
 			["order"] = 3,
 			["realm"] = "Pozzo dell'Eternità",
 		}, -- [3]
+		{
+			["orderResources"] = 529,
+			["weeklyResetTime"] = 1487746799,
+			["missions"] = {
+			},
+			["troops"] = {
+			},
+			["class"] = "DEMONHUNTER",
+			["orders"] = {
+			},
+			["updateTime"] = 1487535285,
+			["seals"] = {
+			},
+			["name"] = "Kex-Pozzo dell'Eternità",
+			["advancement"] = {
+			},
+			["monitor"] = {
+			},
+			["sealOfBrokenFate"] = 0,
+			["order"] = 4,
+			["realm"] = "Pozzo dell'Eternità",
+		}, -- [4]
 		{
 			["orderResources"] = 0,
 			["missions"] = {
@@ -255,7 +271,7 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 			["class"] = "PALADIN",
 			["orders"] = {
 			},
-			["order"] = 4,
+			["order"] = 5,
 			["name"] = "Pingola-Pozzo dell'Eternità",
 			["seals"] = {
 			},
@@ -265,7 +281,7 @@ CLASSORDERHALLSCOMPLETE_SAVEDVARIABLES = {
 			["monitor"] = {
 			},
 			["realm"] = "Pozzo dell'Eternità",
-		}, -- [4]
+		}, -- [5]
 	},
 	["alertAnyArtifactResearchNotes"] = true,
 	["dragPosition"] = {

@@ -233,7 +233,7 @@ BigWigs_Plugins: enabled
 Broker_Garrison: disabled
 AceGUI-3.0-SharedMediaWidgets: disabled
 LibPeriodicTable-3.1: disabled
-Skada: enabled
+Skada: disabled
 TradeSkillMaster_AuctionDB: disabled
 Titan: enabled
 BigWigs_Highmaul: disabled

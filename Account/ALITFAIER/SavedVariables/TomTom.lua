@@ -9,18 +9,19 @@ TomTomDB = {
 		["Reginettaè - Pozzo dell'Eternità"] = "Default",
 		["Margot - Pozzo dell'Eternità"] = "Default",
 		["Kadgharessa - Pozzo dell'Eternità"] = "Default",
-		["Àzzurrà - Pozzo dell'Eternità"] = "Default",
 		["Maffin - Pozzo dell'Eternità"] = "Default",
+		["Àzzurrà - Pozzo dell'Eternità"] = "Default",
+		["Gigibello - Pozzo dell'Eternità"] = "Default",
 		["Enchàntrix - Pozzo dell'Eternità"] = "Default",
 		["Lupaà - Pozzo dell'Eternità"] = "Default",
 		["Signorina - Pozzo dell'Eternità"] = "Default",
 		["Disgusti - Pozzo dell'Eternità"] = "Default",
-		["Ghiacciaia - Pozzo dell'Eternità"] = "Default",
+		["Muccàè - Pozzo dell'Eternità"] = "Default",
 		["Chex - Nemesis"] = "Default",
 		["Blaska - Pozzo dell'Eternità"] = "Default",
 		["Baxino - Pozzo dell'Eternità"] = "Default",
-		["Muccàè - Pozzo dell'Eternità"] = "Default",
 		["Yiliam - Pozzo dell'Eternità"] = "Default",
+		["Ghiacciaia - Pozzo dell'Eternità"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -38,18 +39,19 @@ TomTomWaypointsMF = {
 		["Reginettaè - Pozzo dell'Eternità"] = "Reginettaè - Pozzo dell'Eternità",
 		["Margot - Pozzo dell'Eternità"] = "Margot - Pozzo dell'Eternità",
 		["Kadgharessa - Pozzo dell'Eternità"] = "Kadgharessa - Pozzo dell'Eternità",
-		["Àzzurrà - Pozzo dell'Eternità"] = "Àzzurrà - Pozzo dell'Eternità",
 		["Maffin - Pozzo dell'Eternità"] = "Maffin - Pozzo dell'Eternità",
+		["Àzzurrà - Pozzo dell'Eternità"] = "Àzzurrà - Pozzo dell'Eternità",
+		["Gigibello - Pozzo dell'Eternità"] = "Gigibello - Pozzo dell'Eternità",
 		["Enchàntrix - Pozzo dell'Eternità"] = "Enchàntrix - Pozzo dell'Eternità",
 		["Lupaà - Pozzo dell'Eternità"] = "Lupaà - Pozzo dell'Eternità",
 		["Signorina - Pozzo dell'Eternità"] = "Signorina - Pozzo dell'Eternità",
 		["Disgusti - Pozzo dell'Eternità"] = "Disgusti - Pozzo dell'Eternità",
-		["Ghiacciaia - Pozzo dell'Eternità"] = "Ghiacciaia - Pozzo dell'Eternità",
+		["Muccàè - Pozzo dell'Eternità"] = "Muccàè - Pozzo dell'Eternità",
 		["Chex - Nemesis"] = "Chex - Nemesis",
 		["Blaska - Pozzo dell'Eternità"] = "Blaska - Pozzo dell'Eternità",
 		["Baxino - Pozzo dell'Eternità"] = "Baxino - Pozzo dell'Eternità",
-		["Muccàè - Pozzo dell'Eternità"] = "Muccàè - Pozzo dell'Eternità",
 		["Yiliam - Pozzo dell'Eternità"] = "Yiliam - Pozzo dell'Eternità",
+		["Ghiacciaia - Pozzo dell'Eternità"] = "Ghiacciaia - Pozzo dell'Eternità",
 	},
 	["profiles"] = {
 		["Ketie - Pozzo dell'Eternità"] = {
@@ -68,9 +70,11 @@ TomTomWaypointsMF = {
 		},
 		["Kadgharessa - Pozzo dell'Eternità"] = {
 		},
+		["Maffin - Pozzo dell'Eternità"] = {
+		},
 		["Àzzurrà - Pozzo dell'Eternità"] = {
 		},
-		["Maffin - Pozzo dell'Eternità"] = {
+		["Gigibello - Pozzo dell'Eternità"] = {
 		},
 		["Enchàntrix - Pozzo dell'Eternità"] = {
 			[1024] = {
@@ -82,10 +86,18 @@ TomTomWaypointsMF = {
 					["arrivaldistance"] = 15,
 					["callbacks"] = {
 						["distance"] = {
-						},
-						["minimap"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
 						},
 						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
 					["persistent"] = true,
@@ -105,10 +117,18 @@ TomTomWaypointsMF = {
 					["arrivaldistance"] = 15,
 					["callbacks"] = {
 						["distance"] = {
-						},
-						["minimap"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
 						},
 						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
 					["persistent"] = true,
@@ -130,10 +150,18 @@ TomTomWaypointsMF = {
 					["arrivaldistance"] = 15,
 					["callbacks"] = {
 						["distance"] = {
-						},
-						["minimap"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
 						},
 						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
 					["persistent"] = true,
@@ -153,10 +181,18 @@ TomTomWaypointsMF = {
 					["arrivaldistance"] = 15,
 					["callbacks"] = {
 						["distance"] = {
-						},
-						["minimap"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
 						},
 						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
 					["persistent"] = true,
@@ -176,7 +212,7 @@ TomTomWaypointsMF = {
 		},
 		["Disgusti - Pozzo dell'Eternità"] = {
 		},
-		["Ghiacciaia - Pozzo dell'Eternità"] = {
+		["Muccàè - Pozzo dell'Eternità"] = {
 		},
 		["Chex - Nemesis"] = {
 		},
@@ -184,9 +220,9 @@ TomTomWaypointsMF = {
 		},
 		["Baxino - Pozzo dell'Eternità"] = {
 		},
-		["Muccàè - Pozzo dell'Eternità"] = {
-		},
 		["Yiliam - Pozzo dell'Eternità"] = {
+		},
+		["Ghiacciaia - Pozzo dell'Eternità"] = {
 		},
 	},
 }

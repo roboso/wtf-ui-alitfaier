@@ -379,7 +379,7 @@ ActionBarSaverDB = {
 		},
 		["PRIEST"] = {
 		},
-		["ROGUE"] = {
+		["PALADIN"] = {
 		},
 		["WARLOCK"] = {
 		},
@@ -391,7 +391,7 @@ ActionBarSaverDB = {
 		},
 		["MONK"] = {
 		},
-		["PALADIN"] = {
+		["ROGUE"] = {
 		},
 	},
 	["spellSubs"] = {

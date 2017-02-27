@@ -1,10 +1,17 @@
 
 Details_StreamerDB = {
 	["characters"] = {
-		["Àzzurrà - Pozzo dell'Eternità"] = "Enchàntrix - Pozzo dell'Eternità",
-		["Blaska - Pozzo dell'Eternità"] = "Enchàntrix - Pozzo dell'Eternità",
-		["Enchàntrix - Pozzo dell'Eternità"] = "Enchàntrix - Pozzo dell'Eternità",
 		["Kadgharessa - Pozzo dell'Eternità"] = "Enchàntrix - Pozzo dell'Eternità",
+		["Silvanoss - Nemesis"] = "Enchàntrix - Pozzo dell'Eternità",
+		["Gigibello - Pozzo dell'Eternità"] = "Enchàntrix - Pozzo dell'Eternità",
+		["Tvtb - Nemesis"] = "Enchàntrix - Pozzo dell'Eternità",
+		["Signorina - Pozzo dell'Eternità"] = "Enchàntrix - Pozzo dell'Eternità",
+		["Enchàntrix - Pozzo dell'Eternità"] = "Enchàntrix - Pozzo dell'Eternità",
+		["Àiralì - Nemesis"] = "Enchàntrix - Pozzo dell'Eternità",
+		["Àzzurrà - Pozzo dell'Eternità"] = "Enchàntrix - Pozzo dell'Eternità",
+		["Ilàrià - Nemesis"] = "Enchàntrix - Pozzo dell'Eternità",
+		["Baxino - Pozzo dell'Eternità"] = "Enchàntrix - Pozzo dell'Eternità",
+		["Blaska - Pozzo dell'Eternità"] = "Enchàntrix - Pozzo dell'Eternità",
 	},
 	["profiles"] = {
 		["Enchàntrix - Pozzo dell'Eternità"] = {
@@ -32,12 +39,12 @@ Details_StreamerDB = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Details Serenity",
-			["scale"] = 1,
-			["point"] = "CENTER",
-			["y"] = -4.577636718750e-005,
+			["arrow_anchor_y"] = 0,
+			["main_frame_locked"] = false,
+			["author"] = "Details! Team",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["author"] = "Details! Team",
+			["use_spark"] = true,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -45,9 +52,14 @@ Details_StreamerDB = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["row_height"] = 20,
+			["y"] = -4.577636718750e-005,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -55,22 +67,17 @@ Details_StreamerDB = {
 				["font_shadow"] = true,
 				["y"] = 6.1035156250e-005,
 				["x"] = -6.1035156250e-005,
+				["attribute_type"] = 1,
 				["update_speed"] = 0.05,
 				["size"] = 32,
-				["attribute_type"] = 1,
 			},
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
-			["arrow_anchor_y"] = 0,
-			["use_spark"] = true,
-			["main_frame_locked"] = false,
 			["font_size"] = 10,
+			["main_frame_strata"] = "LOW",
+			["point"] = "CENTER",
+			["row_height"] = 20,
+			["scale"] = 1,
 		},
 	},
 }

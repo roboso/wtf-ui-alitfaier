@@ -27,14 +27,14 @@ Prat3DB = {
 				["Default"] = {
 					["colors"] = {
 						["luxettenebra"] = {
-							["b"] = 0.752941250801086,
-							["g"] = 0.752941250801086,
 							["r"] = 1,
+							["g"] = 0.752941250801086,
+							["b"] = 0.752941250801086,
 						},
 						["oqchannel"] = {
-							["r"] = 1,
-							["g"] = 0.752941250801086,
 							["b"] = 0.752941250801086,
+							["g"] = 0.752941250801086,
+							["r"] = 1,
 						},
 					},
 				},
@@ -63,7 +63,7 @@ Prat3DB = {
 		},
 		["Prat_Scroll"] = {
 		},
-		["Prat_ChannelNames"] = {
+		["Prat_Bubbles"] = {
 		},
 		["Prat_Paragraph"] = {
 		},
@@ -77,7 +77,7 @@ Prat3DB = {
 		},
 		["Prat_ChannelSticky"] = {
 		},
-		["Prat_ChatLog"] = {
+		["Prat_Timestamps"] = {
 		},
 		["Prat_History"] = {
 		},
@@ -85,7 +85,7 @@ Prat3DB = {
 		},
 		["Prat_CopyChat"] = {
 		},
-		["Prat_Timestamps"] = {
+		["Prat_ChatLog"] = {
 		},
 		["Prat_Search"] = {
 		},
@@ -93,7 +93,7 @@ Prat3DB = {
 		},
 		["Prat_ServerNames"] = {
 		},
-		["Prat_Bubbles"] = {
+		["Prat_ChannelNames"] = {
 		},
 	},
 	["profileKeys"] = {
@@ -122,29 +122,29 @@ Prat3DB = {
 		["Mnuhlo - Nemesis"] = "Default",
 		["Kex - Pozzo dell'Eternità"] = "Default",
 		["Pingola - Nemesis"] = "Default",
-		["Phjyiyuihnyt - Pozzo dell'Eternità"] = "Default",
-		["Paoul - Pozzo dell'Eternità"] = "Default",
+		["Olkijyh - Nemesis"] = "Default",
+		["Ilarià - Nemesis"] = "Default",
 		["Jlgy - Nemesis"] = "Default",
-		["Pingola - Pozzo dell'Eternità"] = "Default",
-		["Postepay - Pozzo dell'Eternità"] = "Default",
+		["Kjjkglmlòumt - Pozzo dell'Eternità"] = "Default",
 		["Pirolo - Nemesis"] = "Default",
 		["Løllø - Pozzo dell'Eternità"] = "Default",
-		["Kjjkglmlòumt - Pozzo dell'Eternità"] = "Default",
-		["Ilarià - Nemesis"] = "Default",
-		["Olkijyh - Nemesis"] = "Default",
+		["Postepay - Pozzo dell'Eternità"] = "Default",
+		["Pingola - Pozzo dell'Eternità"] = "Default",
+		["Paoul - Pozzo dell'Eternità"] = "Default",
+		["Phjyiyuihnyt - Pozzo dell'Eternità"] = "Default",
 		["Lusi - Nemesis"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["modules"] = {
-				["Alias"] = 2,
+				["ChatLog"] = 2,
 				["AltNames"] = 2,
 				["Sounds"] = 2,
 				["Paragraph"] = 2,
 				["KeyBindings"] = 2,
 				["PopupMessage"] = 2,
 				["OriginalButtons"] = 2,
-				["ChatLog"] = 2,
+				["Alias"] = 2,
 			},
 		},
 	},

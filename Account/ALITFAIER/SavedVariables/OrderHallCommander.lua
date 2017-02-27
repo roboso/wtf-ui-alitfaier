@@ -7,13 +7,16 @@ dbOHC = {
 		["Àzzurrà - Pozzo dell'Eternità"] = {
 			["firstun"] = false,
 		},
+		["Silvanoss - Nemesis"] = {
+			["firstun"] = false,
+		},
 		["Ilàrià - Nemesis"] = {
 			["firstun"] = false,
 		},
-		["Enchàntrix - Pozzo dell'Eternità"] = {
+		["Àiralì - Nemesis"] = {
 			["firstun"] = false,
 		},
-		["Àiralì - Nemesis"] = {
+		["Enchàntrix - Pozzo dell'Eternità"] = {
 			["firstun"] = false,
 		},
 	},
@@ -24,9 +27,10 @@ dbOHC = {
 	["profileKeys"] = {
 		["Blaska - Pozzo dell'Eternità"] = "Default",
 		["Àzzurrà - Pozzo dell'Eternità"] = "Default",
+		["Silvanoss - Nemesis"] = "Default",
 		["Ilàrià - Nemesis"] = "Default",
-		["Enchàntrix - Pozzo dell'Eternità"] = "Default",
 		["Àiralì - Nemesis"] = "Default",
+		["Enchàntrix - Pozzo dell'Eternità"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -42,7 +46,7 @@ dbOHC = {
 				["SPARE"] = false,
 				["USEALLY"] = false,
 			},
-			["showmenu"] = true,
+			["showmenu"] = false,
 		},
 	},
 }

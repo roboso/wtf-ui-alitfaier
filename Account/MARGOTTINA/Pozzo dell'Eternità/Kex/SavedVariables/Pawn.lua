@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0108,
+	["LastVersion"] = 2.0114,
 	["LastPlayerFullName"] = "Kex-Pozzo dell'Eternità",
 	["AutoSelectScales"] = true,
 	["UpgradeTracking"] = false,

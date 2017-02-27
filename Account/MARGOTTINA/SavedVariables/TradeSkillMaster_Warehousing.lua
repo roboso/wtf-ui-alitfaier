@@ -9,6 +9,7 @@ TradeSkillMaster_WarehousingDB = {
 			"Blaska - Nemesis", -- [1]
 			"Àsià - Nemesis", -- [2]
 			"Pingola - Pozzo dell'Eternità", -- [3]
+			"Kex - Pozzo dell'Eternità", -- [4]
 		},
 		["realm"] = {
 			"Nemesis", -- [1]
@@ -26,8 +27,9 @@ TradeSkillMaster_WarehousingDB = {
 	},
 	["_version"] = 1,
 	["_currentProfile"] = {
-		["Blaska - Nemesis"] = "Default",
 		["Pingola - Pozzo dell'Eternità"] = "Default",
+		["Kex - Pozzo dell'Eternità"] = "Default",
 		["Àsià - Nemesis"] = "Default",
+		["Blaska - Nemesis"] = "Default",
 	},
 }

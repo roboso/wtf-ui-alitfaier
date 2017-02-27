@@ -21,21 +21,21 @@ TomTomDB = {
 		["Zanzino - Nemesis"] = "Default",
 		["Alitfaier - Nemesis"] = "Default",
 		["Kex - Pozzo dell'Eternità"] = "Default",
-		["Alitfaier - Argent Dawn"] = "Default",
+		["Pingola - Pozzo dell'Eternità"] = "Default",
 		["Bpgfhltylj - Pozzo dell'Eternità"] = "Default",
 		["Mnuhlo - Nemesis"] = "Default",
-		["Kjjkglmlòumt - Pozzo dell'Eternità"] = "Default",
-		["Pingola - Nemesis"] = "Default",
-		["Braveherat - Hakkar"] = "Default",
-		["Luxlotteria - Nemesis"] = "Default",
-		["Jlgy - Nemesis"] = "Default",
-		["Løllø - Pozzo dell'Eternità"] = "Default",
-		["Olkijyh - Nemesis"] = "Default",
-		["Pirolo - Nemesis"] = "Default",
-		["Postepay - Pozzo dell'Eternità"] = "Default",
-		["Paoul - Pozzo dell'Eternità"] = "Default",
 		["Phjyiyuihnyt - Pozzo dell'Eternità"] = "Default",
-		["Pingola - Pozzo dell'Eternità"] = "Default",
+		["Pingola - Nemesis"] = "Default",
+		["Paoul - Pozzo dell'Eternità"] = "Default",
+		["Postepay - Pozzo dell'Eternità"] = "Default",
+		["Jlgy - Nemesis"] = "Default",
+		["Pirolo - Nemesis"] = "Default",
+		["Olkijyh - Nemesis"] = "Default",
+		["Løllø - Pozzo dell'Eternità"] = "Default",
+		["Luxlotteria - Nemesis"] = "Default",
+		["Braveherat - Hakkar"] = "Default",
+		["Kjjkglmlòumt - Pozzo dell'Eternità"] = "Default",
+		["Alitfaier - Argent Dawn"] = "Default",
 		["Lusi - Nemesis"] = "Default",
 	},
 	["profiles"] = {
@@ -82,16 +82,16 @@ TomTomWaypointsMF = {
 		["Mnuhlo - Nemesis"] = "Mnuhlo - Nemesis",
 		["Lorenza - Nemesis"] = "Lorenza - Nemesis",
 		["Pingola - Nemesis"] = "Pingola - Nemesis",
-		["Pingola - Pozzo dell'Eternità"] = "Pingola - Pozzo dell'Eternità",
-		["Pøstepay - Crushridge"] = "Pøstepay - Crushridge",
+		["Paoul - Pozzo dell'Eternità"] = "Paoul - Pozzo dell'Eternità",
+		["Kjjkglmlòumt - Pozzo dell'Eternità"] = "Kjjkglmlòumt - Pozzo dell'Eternità",
 		["Jlgy - Nemesis"] = "Jlgy - Nemesis",
-		["Olkijyh - Nemesis"] = "Olkijyh - Nemesis",
-		["Mnnbvm - Dragonmaw"] = "Mnnbvm - Dragonmaw",
+		["Luxlotteria - Nemesis"] = "Luxlotteria - Nemesis",
 		["Løllø - Pozzo dell'Eternità"] = "Løllø - Pozzo dell'Eternità",
 		["Pirolo - Nemesis"] = "Pirolo - Nemesis",
-		["Luxlotteria - Nemesis"] = "Luxlotteria - Nemesis",
-		["Kjjkglmlòumt - Pozzo dell'Eternità"] = "Kjjkglmlòumt - Pozzo dell'Eternità",
-		["Paoul - Pozzo dell'Eternità"] = "Paoul - Pozzo dell'Eternità",
+		["Mnnbvm - Dragonmaw"] = "Mnnbvm - Dragonmaw",
+		["Olkijyh - Nemesis"] = "Olkijyh - Nemesis",
+		["Pøstepay - Crushridge"] = "Pøstepay - Crushridge",
+		["Pingola - Pozzo dell'Eternità"] = "Pingola - Pozzo dell'Eternità",
 		["Lusi - Nemesis"] = "Lusi - Nemesis",
 	},
 	["profiles"] = {
@@ -139,25 +139,25 @@ TomTomWaypointsMF = {
 		},
 		["Pingola - Nemesis"] = {
 		},
-		["Pingola - Pozzo dell'Eternità"] = {
+		["Paoul - Pozzo dell'Eternità"] = {
 		},
-		["Pøstepay - Crushridge"] = {
+		["Kjjkglmlòumt - Pozzo dell'Eternità"] = {
 		},
 		["Jlgy - Nemesis"] = {
 		},
-		["Olkijyh - Nemesis"] = {
-		},
-		["Mnnbvm - Dragonmaw"] = {
+		["Luxlotteria - Nemesis"] = {
 		},
 		["Løllø - Pozzo dell'Eternità"] = {
 		},
 		["Pirolo - Nemesis"] = {
 		},
-		["Luxlotteria - Nemesis"] = {
+		["Mnnbvm - Dragonmaw"] = {
 		},
-		["Kjjkglmlòumt - Pozzo dell'Eternità"] = {
+		["Olkijyh - Nemesis"] = {
 		},
-		["Paoul - Pozzo dell'Eternità"] = {
+		["Pøstepay - Crushridge"] = {
+		},
+		["Pingola - Pozzo dell'Eternità"] = {
 		},
 		["Lusi - Nemesis"] = {
 		},

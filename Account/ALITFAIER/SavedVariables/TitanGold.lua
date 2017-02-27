@@ -18,12 +18,12 @@ GoldSave = {
 	["Blaska_Pozzo dell'Eternità::Alliance"] = {
 		["show"] = true,
 		["name"] = "Blaska",
-		["gold"] = 37258755,
+		["gold"] = 38562019,
 	},
 	["Enchàntrix_Pozzo dell'Eternità::Alliance"] = {
 		["show"] = true,
 		["name"] = "Enchàntrix",
-		["gold"] = 510511476,
+		["gold"] = 570392280,
 	},
 	["Àzzu_Pozzo dell'Eternità::Alliance"] = {
 		["show"] = true,
@@ -60,15 +60,15 @@ GoldSave = {
 		["name"] = "Blasca",
 		["gold"] = 187,
 	},
-	["Kadgharessa_Pozzo dell'Eternità::Alliance"] = {
-		["show"] = true,
-		["name"] = "Kadgharessa",
-		["gold"] = 50,
-	},
 	["Disgusti_Pozzo dell'Eternità::Alliance"] = {
 		["show"] = true,
 		["name"] = "Disgusti",
 		["gold"] = 15,
+	},
+	["Gigibello_Pozzo dell'Eternità::Alliance"] = {
+		["show"] = true,
+		["name"] = "Gigibello",
+		["gold"] = 2000,
 	},
 	["Ghiacciaia_Pozzo dell'Eternità::Alliance"] = {
 		["show"] = true,
@@ -80,6 +80,11 @@ GoldSave = {
 		["name"] = "Lupoè",
 		["gold"] = 9525,
 	},
+	["Baxino_Pozzo dell'Eternità::Alliance"] = {
+		["show"] = true,
+		["name"] = "Baxino",
+		["gold"] = 48647545,
+	},
 	["Kallarp_Pozzo dell'Eternità::Alliance"] = {
 		["show"] = true,
 		["name"] = "Kallarp",
@@ -88,17 +93,17 @@ GoldSave = {
 	["Àzzurrà_Pozzo dell'Eternità::Alliance"] = {
 		["show"] = true,
 		["name"] = "Àzzurrà",
-		["gold"] = 808258485,
-	},
-	["Baxino_Pozzo dell'Eternità::Alliance"] = {
-		["show"] = true,
-		["name"] = "Baxino",
-		["gold"] = 49086447,
+		["gold"] = 811705143,
 	},
 	["Ketie_Pozzo dell'Eternità::Alliance"] = {
 		["show"] = true,
 		["name"] = "Ketie",
 		["gold"] = 16955,
+	},
+	["Kadgharessa_Pozzo dell'Eternità::Alliance"] = {
+		["show"] = true,
+		["name"] = "Kadgharessa",
+		["gold"] = 1,
 	},
 	["Margot_Pozzo dell'Eternità::Alliance"] = {
 		["show"] = true,
@@ -108,6 +113,6 @@ GoldSave = {
 	["Signorina_Pozzo dell'Eternità::Alliance"] = {
 		["show"] = true,
 		["name"] = "Signorina",
-		["gold"] = 408000,
+		["gold"] = 100000,
 	},
 }

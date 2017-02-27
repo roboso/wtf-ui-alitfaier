@@ -45,7 +45,8 @@ VER 3 0000000000000013 "last+regen" "SPELL_HOLY_ASHESTOASHES"
 /use 55694
 END
 VER 3 0000000000000017 "m10 achi" "INV_MISC_NOTE_05"
-/fa 11162 26/01/17
+/fa 11162 10/02/17
+/fa 11195 10/02/17
 END
 VER 3 000000000000000F "macro" "Spell_Holy_Crusade"
 /clic [btn:1]MTSB1 LeftButton;[btn:2]MTSB1 RightButton;[btn:3]MTSB1 MiddleButton;[btn:4]MTSB1 Button4;[btn:5]MTSB1 Button5
@@ -70,12 +71,12 @@ VER 3 000000000000000A "shamano grosso" "ABILITY_GOUGE"
 #/cast provocazione
 END
 VER 3 000000000000000B "shamano magro" "ABILITY_WARRIOR_WEAPONMASTERY"
-/cast Furia del Berserker
 /cast bagno di sangue
 /cast avatar
 /cast Grido di Battaglia
 /use Pozione della Forza Draenoriana
 /use 14
+/use 13
 END
 VER 3 0000000000000012 "spam gilda" "134300"
 /g Ciao a tutti!!! La gilda ha anche un gruppo di WhatsApp  e Telegram. Lo usiamo per tenerci sempre in contatto, molte comunicazioni passano di li. Grazie.  chi interessa entrare nel gruppo di WS o di telegram della gilda mi contatti in wisp..

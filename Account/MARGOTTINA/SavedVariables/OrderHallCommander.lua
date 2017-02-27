@@ -5,12 +5,12 @@ dbOHC = {
 			["firstun"] = false,
 		},
 	},
+	["profileKeys"] = {
+		["Alitfaier - Pozzo dell'Eternità"] = "Default",
+	},
 	["global"] = {
 		["warn01_seen"] = 3,
 		["firstrun"] = false,
-	},
-	["profileKeys"] = {
-		["Alitfaier - Pozzo dell'Eternità"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

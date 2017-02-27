@@ -16,14 +16,14 @@ Quartz3DB = {
 				},
 			},
 		},
+		["EnemyCasts"] = {
+		},
 		["Player"] = {
 			["profiles"] = {
 				["Default"] = {
 					["x"] = 835.00001313035,
 				},
 			},
-		},
-		["EnemyCasts"] = {
 		},
 		["GCD"] = {
 		},
@@ -41,9 +41,9 @@ Quartz3DB = {
 				},
 			},
 		},
-		["Mirror"] = {
-		},
 		["Range"] = {
+		},
+		["Mirror"] = {
 		},
 		["Latency"] = {
 		},
@@ -52,29 +52,29 @@ Quartz3DB = {
 		["Ilåria - Pozzo dell'Eternità"] = "Default",
 		["Pàndorella - Nemesis"] = "Default",
 		["Alitfaier - Pozzo dell'Eternità"] = "Default",
-		["Postepay - Pozzo dell'Eternità"] = "Default",
 		["Luxlotteria - Nemesis"] = "Default",
+		["Postepay - Pozzo dell'Eternità"] = "Default",
 		["Àsià - Nemesis"] = "Default",
-		["Kex - Pozzo dell'Eternità"] = "Default",
 		["Lorenzino - Hakkar"] = "Default",
+		["Zanzino - Nemesis"] = "Default",
 		["Mnnbvm - Dragonmaw"] = "Default",
 		["Alitfaier - Nemesis"] = "Default",
-		["Lorenza - Nemesis"] = "Default",
-		["Olkijyh - Nemesis"] = "Default",
-		["Brittani - Pozzo dell'Eternità"] = "Default",
+		["Pingola - Pozzo dell'Eternità"] = "Default",
 		["Bellissimoà - Pozzo dell'Eternità"] = "Default",
-		["Jlgy - Nemesis"] = "Default",
+		["Brittani - Pozzo dell'Eternità"] = "Default",
+		["Mnuhlo - Nemesis"] = "Default",
+		["Ilarià - Nemesis"] = "Default",
 		["Pingola - Nemesis"] = "Default",
 		["Shèreen - Hakkar"] = "Default",
-		["Pirolo - Nemesis"] = "Default",
-		["Ilarià - Nemesis"] = "Default",
+		["Randstad - Hakkar"] = "Default",
+		["Jlgy - Nemesis"] = "Default",
 		["Bancaferro - Nemesis"] = "Default",
 		["Løllø - Pozzo dell'Eternità"] = "Default",
-		["Randstad - Hakkar"] = "Default",
+		["Pirolo - Nemesis"] = "Default",
 		["Pàndorella - Pozzo dell'Eternità"] = "Default",
-		["Mnuhlo - Nemesis"] = "Default",
-		["Pingola - Pozzo dell'Eternità"] = "Default",
-		["Zanzino - Nemesis"] = "Default",
+		["Olkijyh - Nemesis"] = "Default",
+		["Lorenza - Nemesis"] = "Default",
+		["Kex - Pozzo dell'Eternità"] = "Default",
 		["Lusi - Nemesis"] = "Default",
 	},
 	["profiles"] = {

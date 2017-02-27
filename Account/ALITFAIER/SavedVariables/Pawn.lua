@@ -99,9 +99,6 @@ PawnCommon = {
 				["Ghiacciaia-Pozzo dell'Eternità"] = {
 					["Visible"] = true,
 				},
-				["Kadgharessa-Pozzo dell'Eternità"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "3fc7eb",
 			["ClassID"] = 8,
@@ -132,7 +129,7 @@ PawnCommon = {
 		["\"MrRobot\":WARLOCK3"] = {
 			["IconTexturePath"] = "Interface\\Icons\\Spell_Shadow_RainOfFire",
 			["PerCharacterOptions"] = {
-				["Signorina-Pozzo dell'Eternità"] = {
+				["Tvtb-Nemesis"] = {
 					["Visible"] = true,
 				},
 			},
@@ -165,6 +162,9 @@ PawnCommon = {
 		["\"MrRobot\":MONK1"] = {
 			["IconTexturePath"] = "Interface\\Icons\\spell_monk_brewmaster_spec",
 			["PerCharacterOptions"] = {
+				["Àiralì-Nemesis"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "00ff96",
 			["ClassID"] = 10,
@@ -195,9 +195,6 @@ PawnCommon = {
 		["\"MrRobot\":DRUID4"] = {
 			["IconTexturePath"] = "Interface\\Icons\\Spell_Nature_HealingTouch",
 			["PerCharacterOptions"] = {
-				["Àzzurrà-Pozzo dell'Eternità"] = {
-					["Visible"] = true,
-				},
 				["Ketie-Pozzo dell'Eternità"] = {
 					["Visible"] = true,
 				},
@@ -247,6 +244,9 @@ PawnCommon = {
 			["IconTexturePath"] = "Interface\\Icons\\Spell_Nature_StarFall",
 			["PerCharacterOptions"] = {
 				["Muccàè-Pozzo dell'Eternità"] = {
+					["Visible"] = true,
+				},
+				["Àzzurrà-Pozzo dell'Eternità"] = {
 					["Visible"] = true,
 				},
 			},
@@ -312,9 +312,6 @@ PawnCommon = {
 		["\"MrRobot\":WARLOCK2"] = {
 			["IconTexturePath"] = "Interface\\Icons\\Spell_Shadow_Metamorphosis",
 			["PerCharacterOptions"] = {
-				["Tvtb-Nemesis"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "8788ee",
 			["ClassID"] = 9,
@@ -345,13 +342,13 @@ PawnCommon = {
 		["\"MrRobot\":DEMONHUNTER2"] = {
 			["IconTexturePath"] = "Interface\\Icons\\ability_demonhunter_spectank",
 			["PerCharacterOptions"] = {
-				["Silvanoss-Nemesis"] = {
+				["Jerri-Nemesis"] = {
 					["Visible"] = true,
 				},
 				["Blaska-Pozzo dell'Eternità"] = {
 					["Visible"] = true,
 				},
-				["Jerri-Nemesis"] = {
+				["Silvanoss-Nemesis"] = {
 					["Visible"] = true,
 				},
 			},
@@ -369,6 +366,9 @@ PawnCommon = {
 		["\"MrRobot\":DRUID2"] = {
 			["IconTexturePath"] = "Interface\\Icons\\Ability_Druid_CatForm",
 			["PerCharacterOptions"] = {
+				["Signorina-Pozzo dell'Eternità"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "ff7d0a",
 			["ClassID"] = 11,
@@ -403,6 +403,9 @@ PawnCommon = {
 			["IconTexturePath"] = "INTERFACE\\ICONS\\ability_hunter_bestialdiscipline",
 			["PerCharacterOptions"] = {
 				["Maffin-Pozzo dell'Eternità"] = {
+					["Visible"] = true,
+				},
+				["Kadgharessa-Pozzo dell'Eternità"] = {
 					["Visible"] = true,
 				},
 			},
@@ -471,9 +474,6 @@ PawnCommon = {
 		["\"MrRobot\":MONK2"] = {
 			["IconTexturePath"] = "Interface\\Icons\\spell_monk_mistweaver_spec",
 			["PerCharacterOptions"] = {
-				["Àiralì-Nemesis"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "00ff96",
 			["ClassID"] = 10,
@@ -504,10 +504,13 @@ PawnCommon = {
 		["\"MrRobot\":DEATHKNIGHT3"] = {
 			["IconTexturePath"] = "Interface\\Icons\\Spell_Deathknight_UnholyPresence",
 			["PerCharacterOptions"] = {
-				["Lupaà-Pozzo dell'Eternità"] = {
+				["Reginettaè-Pozzo dell'Eternità"] = {
 					["Visible"] = true,
 				},
-				["Reginettaè-Pozzo dell'Eternità"] = {
+				["Gigibello-Pozzo dell'Eternità"] = {
+					["Visible"] = true,
+				},
+				["Lupaà-Pozzo dell'Eternità"] = {
 					["Visible"] = true,
 				},
 				["Lupoè-Pozzo dell'Eternità"] = {
